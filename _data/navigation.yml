@@ -6,3 +6,8 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: KCS Family
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink

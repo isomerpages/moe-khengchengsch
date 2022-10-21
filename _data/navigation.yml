@@ -19,3 +19,5 @@ links:
         url: /permalink
       - title: Primary 6 Teachers
         url: /permalink
+  - title: test
+    collection: example-folder

@@ -2,12 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: /contact-us/
-  - title: KCS FAMILY
-    url: /example-page/
   - title: Example Folder
     collection: example-folder
   - title: KCS Family
     url: /permalink
     sublinks:
+      - title: Primary 1 Teachers
+        url: /permalink
       - title: Submenu Title
         url: /permalink

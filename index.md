@@ -2,7 +2,7 @@
 layout: homepage
 title: KHENG CHENG SCHOOL
 description: A Dynamic Community of Compassionate Leaders and Critical Thinkers.
-image: /images/isomer-logo.svg
+image: /images/KhengChengSchoolLogo.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -29,3 +29,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+

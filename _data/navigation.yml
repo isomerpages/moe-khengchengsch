@@ -2,8 +2,6 @@ logo: /images/KhengChengSchoolLogo.png
 links:
   - title: Home
     url: /contact-us/
-  - title: Example Folder
-    collection: example-folder
   - title: KCS Family
     url: /permalink
     sublinks:
@@ -19,5 +17,5 @@ links:
         url: /permalink
       - title: Primary 6 Teachers
         url: /permalink
-  - title: test
+  - title: Departments
     collection: example-folder

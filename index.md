@@ -7,8 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: KHENG CHENG SCHOOL
       background: /images/Staff 2021.jpg
       button: Contact Us
       url: /contact-us/

@@ -20,7 +20,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-      background: /images/2021 staff.png
+      background: /images/Staff 2022.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle

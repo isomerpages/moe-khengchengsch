@@ -5,3 +5,5 @@ links:
   - title: KCS Family
     url: /permalink
     sublinks: []
+  - title: KCS Family
+    collection: kcs-family

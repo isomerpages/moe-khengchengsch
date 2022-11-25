@@ -4,18 +4,6 @@ links:
     url: /contact-us/
   - title: KCS Family
     url: /permalink
-    sublinks:
-      - title: Primary 1 Teachers
-        url: /permalink
-      - title: Primary 2 Teachers
-        url: /permalink
-      - title: Primary 3 Teachers
-        url: /permalink
-      - title: Primary 4 Teachers
-        url: /permalink
-      - title: Primary 5 Teachers
-        url: /permalink
-      - title: Primary 6 Teachers
-        url: /permalink
+    sublinks: []
   - title: Departments
     collection: example-folder

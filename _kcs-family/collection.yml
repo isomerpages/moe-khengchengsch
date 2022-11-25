@@ -1,0 +1,4 @@
+collections:
+  kcs-family:
+    output: true
+    order: []

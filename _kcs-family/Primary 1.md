@@ -3,4 +3,9 @@ title: Primary 1
 permalink: /kcs-family/permalink/
 description: ""
 ---
-Test
+
+
+|Class | Form Teacher | Email |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+

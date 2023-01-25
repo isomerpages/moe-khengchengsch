@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Chinese Language/Malay Language.md
       - Chinese Language/Mother Tongue.md
       - Chinese Language/.keep
       - Science.md

@@ -2,5 +2,5 @@ collections:
   kcs-family:
     output: true
     order:
-      - Primary 2.md
       - Primary 1.md
+      - Primary 2.md

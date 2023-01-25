@@ -1,7 +1,0 @@
-collections:
-  kcs-family:
-    output: true
-    order:
-      - Primary 1.md
-      - Primary 2.md
-      - Primary 3.md

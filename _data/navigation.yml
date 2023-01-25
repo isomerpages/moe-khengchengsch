@@ -6,4 +6,8 @@ links:
     collection: kcs-family
   - title: Departments
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Mathematics
+        url: /permalink

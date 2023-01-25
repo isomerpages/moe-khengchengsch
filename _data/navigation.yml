@@ -5,9 +5,4 @@ links:
   - title: KCS Family
     collection: kcs-family
   - title: Departments
-    url: /permalink
-    sublinks:
-      - title: English
-        url: /permalink
-      - title: Mathematics
-        url: /permalink
+    collection: departments

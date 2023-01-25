@@ -4,3 +4,6 @@ links:
     url: /contact-us/
   - title: KCS Family
     collection: kcs-family
+  - title: Departments
+    url: /permalink
+    sublinks: []

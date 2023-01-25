@@ -1,0 +1,7 @@
+---
+title: Chinese
+permalink: /departments/permalink/
+description: ""
+third_nav_title: Mother Tongue
+---
+

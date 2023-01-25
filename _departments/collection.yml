@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Chinese/.keep
-      - Mother Tongue.md
       - Mother Tongue/.keep
       - Science.md
       - English Language.md

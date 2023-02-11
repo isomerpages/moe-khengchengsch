@@ -2,6 +2,7 @@ collections:
   kcs-achievements:
     output: true
     order:
+      - Staff/Accolades.md
       - Staff/Staff Award.md
       - Staff/.keep
       - School Management Committee (SMC).md

@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Infocomm Technology/Cyber Wellness.md
-      - Infocomm Technology/.keep
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
@@ -11,3 +9,5 @@ collections:
       - Mother Tongue/Tamil Language.md
       - Mathematics.md
       - Science.md
+      - Infocomm Technology/.keep
+      - Infocomm Technology/Cyber Wellness.md

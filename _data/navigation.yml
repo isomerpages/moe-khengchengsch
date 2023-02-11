@@ -1,7 +1,7 @@
 logo: /images/KhengChengSchoolLogo.png
 links:
   - title: Home
-    url: /Home/
+    url: home
   - title: KCS Family
     collection: kcs-family
   - title: Departments

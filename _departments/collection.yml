@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Infocomm Technology (ICT)/.keep
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md

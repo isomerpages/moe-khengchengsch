@@ -20,11 +20,8 @@ sections:
         - title: Resources
           description: ""
           url: ""
+        - title: Connect with us
+          description: Key Highlight description
+          url: ""
       background: /images/Staff 2022.jpg
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---

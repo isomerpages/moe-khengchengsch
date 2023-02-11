@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - Infocomm Technology/Cyberwellness.md
+      - Infocomm Technology/Cyber Wellness.md
       - Infocomm Technology/.keep
       - English Language.md
       - Mother Tongue/.keep

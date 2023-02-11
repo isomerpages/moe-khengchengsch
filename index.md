@@ -21,7 +21,7 @@ sections:
           description: ""
           url: ""
         - title: Connect with us
-          description: Key Highlight description
+          description: ""
           url: ""
       background: /images/Staff 2022.jpg
 ---

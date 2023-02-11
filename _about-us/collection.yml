@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - KCS Achievements/School Management Committee (SMC).md
       - KCS Achievements/.keep
       - Consent for Photography and Videos.md
       - Contact Us.md

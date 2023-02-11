@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - KCS Achievements/.keep
       - Consent for Photography and Videos.md
       - Contact Us.md
       - Non Financial Information.md

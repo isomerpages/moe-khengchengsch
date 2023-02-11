@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Arts.md
       - Physical Education & Health Management.md
       - English Language.md
       - Mother Tongue/.keep

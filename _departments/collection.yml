@@ -2,12 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Student Management & Student Leadership.md
-      - Student Development.md
-      - Character & Citizenship Education (CCE).md
-      - Music.md
-      - Arts.md
-      - Physical Education & Health Management.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
@@ -17,3 +11,9 @@ collections:
       - Science.md
       - Infocomm Technology/.keep
       - Infocomm Technology/Cyber Wellness.md
+      - Physical Education & Health Management.md
+      - Arts.md
+      - Music.md
+      - Character & Citizenship Education (CCE).md
+      - Student Development.md
+      - Student Management & Student Leadership.md

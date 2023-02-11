@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Student Management & Student Leadership.md
       - Student Development.md
       - Character & Citizenship Education (CCE).md
       - Music.md

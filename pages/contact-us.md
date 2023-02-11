@@ -12,7 +12,7 @@ locations:
       - days: Mon - Fri
         time: 7.30am - 5.00pm
         description: Closed on Public Holidays.
-    maps_link: ""
+    maps_link: https://goo.gl/maps/jmgiLJxoC7RUfPyx6
     title: Kheng Cheng School
 contacts:
   - content:

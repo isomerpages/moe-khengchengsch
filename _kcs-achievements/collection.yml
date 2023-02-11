@@ -1,4 +1,5 @@
 collections:
   kcs-achievements:
     output: true
-    order: []
+    order:
+      - School Management Committee (SMC).md

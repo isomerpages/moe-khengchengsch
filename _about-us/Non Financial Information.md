@@ -7,17 +7,22 @@ Non-Financial Information
 =========================
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-mzf5{background-color:#5F9EA0;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-k9vs{background-color:#D3D3D3;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-k9vs{background-color:#6082B6;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-j4so{background-color:#5F9EA0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-r5gp{background-color:#D3D3D3;text-align:left;vertical-align:top}
+.tg .tg-r5gp{background-color:#6082B6;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
-
+.tg .tg-j4so{background-color:#5F9EA0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1wig{background-color:#6082B6;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0lax{background-color:#6082B6;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}	
+	
 </style>
 <table class="tg">
 <thead>

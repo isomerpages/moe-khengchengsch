@@ -20,7 +20,7 @@ School Management Committee (SMC)
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-17nh" rowspan="3"><img src="https://khengcheng.moe.edu.sg/wp-content/uploads/2021/09/Goh-Peng-Tong.jpg" alt="Goh Peng Tong" width="181" height="271"><br><br><img src="https://khengcheng.moe.edu.sg/wp-content/uploads/2021/09/medal.png" alt="Medal" width="124" height="291"></td>
+    <td class="tg-17nh" rowspan="3"><img src="/images/Goh-Peng-Tong-201x300.jpg" style="width:100%"><br><br><img src="/images/medal-128x300.png" style="width:100%"></td>
     <td class="tg-w89x"><span style="font-weight:bold">Mr Goh Peng Tong, BBM</span><br>Honorary Chairman, School Management Committee</td>
   </tr>
   <tr>

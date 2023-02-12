@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Uniform Groups/.keep
+      - Physical Sports/Basketball.md
       - Physical Sports/.keep
       - Performing and Visual Arts/.keep
       - Club & Societies/International Chess.md

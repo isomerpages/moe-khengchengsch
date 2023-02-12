@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Heritage/.keep
+      - Heritage & Achievements/.keep
       - School Logo & School Song.md
       - School Vision, Mission & Values.md
       - Principal's Message.md

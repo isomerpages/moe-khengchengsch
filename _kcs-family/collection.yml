@@ -2,7 +2,6 @@ collections:
   kcs-family:
     output: true
     order:
-      - Alumni.md
       - School Executive Comittee/.keep
       - Academic Staff/.keep
       - Academic Staff/Primary 6.md
@@ -14,4 +13,5 @@ collections:
       - Executive & Administrative/.keep
       - School Management Committee/.keep
       - Parents Support Group/.keep
+      - Alumni.md
       - Big Heart Student Care/.keep

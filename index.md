@@ -22,6 +22,6 @@ sections:
           url: ""
         - title: Connect with us
           description: ""
-          url: ""
+          url: /newsletter/
       background: /images/Staff 2022.jpg
 ---

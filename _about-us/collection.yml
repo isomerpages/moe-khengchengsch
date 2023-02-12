@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Heritage & Achievements/Heritage.md
       - Heritage & Achievements/.keep
       - School Logo & School Song.md
       - School Vision, Mission & Values.md

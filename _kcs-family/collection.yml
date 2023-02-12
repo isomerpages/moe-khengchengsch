@@ -2,10 +2,6 @@ collections:
   kcs-family:
     output: true
     order:
-      - Big Heart Student Care.md
-      - School Management Committee.md
-      - Parents Support Group (PSG).md
-      - Executive & Administrative Staff (EAS).md
       - School Executive Committee.md
       - Academic Staff/.keep
       - Academic Staff/Primary 6.md
@@ -14,4 +10,8 @@ collections:
       - Academic Staff/Primary 3.md
       - Academic Staff/Primary 2.md
       - Academic Staff/Primary 1.md
+      - Executive & Administrative Staff (EAS).md
+      - School Management Committee.md
+      - Parents Support Group (PSG).md
       - Alumni.md
+      - Big Heart Student Care.md

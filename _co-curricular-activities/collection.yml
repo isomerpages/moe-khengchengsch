@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Uniform Groups/.keep
+      - Physical Sports/Modular Sports.md
       - Physical Sports/Track & Field.md
       - Physical Sports/Basketball.md
       - Physical Sports/.keep

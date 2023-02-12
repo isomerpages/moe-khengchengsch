@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Heritage & Achievements/Heritage.md
-      - Heritage & Achievements/.keep
+      - KCS Achievements/Heritage.md
+      - KCS Achievements/.keep
       - School Logo & School Song.md
       - School Vision, Mission & Values.md
       - Principal's Message.md

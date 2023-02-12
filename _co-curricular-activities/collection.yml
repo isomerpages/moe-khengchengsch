@@ -2,10 +2,10 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Uniform Groups/Red Cross Link.md
-      - Uniform Groups/Girls Brigade.md
-      - Uniform Groups/Cub Scouts.md
       - Uniform Groups/.keep
+      - Uniform Groups/Cub Scouts.md
+      - Uniform Groups/Girls Brigade.md
+      - Uniform Groups/Red Cross Link.md
       - Physical Sports/.keep
       - Physical Sports/Basketball.md
       - Physical Sports/Modular Sports.md

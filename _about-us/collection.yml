@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Matters/Visitor Management.md
       - School Matters/.keep
       - KCS Achievements/Students.md
       - KCS Achievements/Staff.md

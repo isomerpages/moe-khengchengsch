@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - KCS Achievements/.keep
       - Consent for Photography and Videos.md
       - Non Financial Information.md

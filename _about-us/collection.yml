@@ -2,18 +2,18 @@ collections:
   about-us:
     output: true
     order:
-      - Suppliers.md
-      - Parents Gateway.md
+      - Principal's Message.md
+      - School Vision, Mission & Values.md
+      - School Logo & School Song.md
+      - School Matters/.keep
       - School Matters/Consent for Photography and Videos.md
       - School Matters/Non Financial Information.md
       - School Matters/School Rules.md
       - School Matters/School Hours & School Back Gate Opening Hours.md
       - School Matters/Visitor Management.md
-      - School Matters/.keep
+      - KCS Achievements/.keep
       - KCS Achievements/Students.md
       - KCS Achievements/Staff.md
       - KCS Achievements/School.md
-      - KCS Achievements/.keep
-      - School Logo & School Song.md
-      - School Vision, Mission & Values.md
-      - Principal's Message.md
+      - Parents Gateway.md
+      - Suppliers.md

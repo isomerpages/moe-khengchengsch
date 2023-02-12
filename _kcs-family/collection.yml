@@ -4,12 +4,12 @@ collections:
     order:
       - School Executive Committee.md
       - Academic Staff/.keep
-      - Academic Staff/Primary 6.md
-      - Academic Staff/Primary 5.md
-      - Academic Staff/Primary 4.md
-      - Academic Staff/Primary 3.md
-      - Academic Staff/Primary 2.md
       - Academic Staff/Primary 1.md
+      - Academic Staff/Primary 2.md
+      - Academic Staff/Primary 3.md
+      - Academic Staff/Primary 4.md
+      - Academic Staff/Primary 5.md
+      - Academic Staff/Primary 6.md
       - Executive & Administrative Staff (EAS).md
       - School Management Committee.md
       - Parents Support Group (PSG).md

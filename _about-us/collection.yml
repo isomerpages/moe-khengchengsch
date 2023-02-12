@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Matters/Consent for Photography and Videos.md
       - School Matters/Non Financial Information.md
       - School Matters/School Rules.md
       - School Matters/School Hours & School Back Gate Opening Hours.md

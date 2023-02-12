@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Kheng Cheng School
 locations:
   - address:
-      - 15 Lor 3 Toa Payoh
+      - 15 Lor 3 Toa Payoh<
       - Singapore 319580
       - ""
     operating_hours:
@@ -23,10 +23,7 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "Bus Stop 1:
-          235,                                                               Bus
-          Stop 2 & 3: 56, 73, 88, 105, 157, 159, 163,
-          231                                                     Nearest MRT
-          Station: Braddell"
+      - other: "Bus Stop 1: 235, <br>Bus Stop 2 & 3: 56, 73, 88, 105, 157, 159, 163, 231
+          <br>Nearest MRT Station: Braddell"
     title: Getting there
 ---

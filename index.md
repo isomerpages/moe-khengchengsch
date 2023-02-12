@@ -16,7 +16,7 @@ sections:
           url: ""
         - title: News
           description: ""
-          url: ""
+          url: News
         - title: Resources
           description: ""
           url: ""

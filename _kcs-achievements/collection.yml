@@ -2,4 +2,5 @@ collections:
   kcs-achievements:
     output: true
     order:
+      - Staff/.keep
       - School Management Committee (SMC).md

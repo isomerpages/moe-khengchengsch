@@ -1,0 +1,4 @@
+collections:
+  kcs-achievements:
+    output: true
+    order: []

@@ -59,4 +59,4 @@ third_nav_title: Academic Staff
     <td class="tg-a98g">Ms Sivamalar Kulasegaram<br>sivamalar_kulasegaram@moe.edu.sg<br><br>Mrs Ching Hwee Eng Claire<br>lim_hwee_eng@moe.edu.sg<br><br>Mdm Mardiana Binte Ismail<br>mardina_ismail@moe.edu.sg</td>
   </tr>
 </tbody>
-</table></div>
+</table>

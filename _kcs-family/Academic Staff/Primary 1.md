@@ -6,9 +6,9 @@ third_nav_title: Academic Staff
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:2;}
-.tg td{border-color:black;border-style:solid;border-width:3px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:4px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:3px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:4px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-iy26{background-color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;text-align:left;
   vertical-align:middle}

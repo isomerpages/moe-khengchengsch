@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Staff
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:3;}
 .tg td{border-color:black;border-style:solid;border-width:5px;font-family:Arial, sans-serif;font-size:16px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:5px;font-family:Arial, sans-serif;font-size:16px;

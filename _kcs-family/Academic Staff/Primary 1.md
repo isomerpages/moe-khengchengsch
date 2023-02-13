@@ -18,7 +18,7 @@ third_nav_title: Academic Staff
 .tg .tg-rk4g{background-color:#34cdf9;border-width:3px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
   text-align:left;vertical-align:middle}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
-<div class="tg-wrap"><table class="tg"><table border = 3px>
+<div class="tg-wrap"><table class="tg"><table border = "3">
 <thead>
   <tr>
     <th class="tg-uw46">Class</th>

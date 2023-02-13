@@ -23,7 +23,10 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: Bus Stop 1:<br>235<br>Bus Stop 2 & 3:<br>56, 73, 88, 105, 157, 159, 163,
-          231 <br>Nearest MRT Station:<br> Braddell
+      - other: "Bus Stop 1: 235<br>Bus Stop 2 & 3: 56, 73, 88, 105,
+          157<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&n\
+          bsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&\
+          nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp159, 163, 231 <br>Nearest
+          MRT Station: Braddell"
     title: Getting there
 ---

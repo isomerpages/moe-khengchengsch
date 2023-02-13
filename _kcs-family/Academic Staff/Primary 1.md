@@ -4,25 +4,11 @@ permalink: /permalink/
 description: ""
 third_nav_title: Academic Staff
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:5px;border-width:5px;}
-.tg td{border-color:black;border-style:solid;border-width:5px;font-family:Arial, sans-serif;font-size:16px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:5px;font-family:Arial, sans-serif;font-size:16px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uw46{background-color:#dae8fc;border-width:5px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
-  font-weight:bold;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
-  will-change:transform}
-.tg .tg-a98g{background-color:#34cdf9;border-width:5px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
-  text-align:left;vertical-align:top}
-.tg .tg-rk4g{background-color:#34cdf9;border-width:5px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
-  text-align:left;vertical-align:middle}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
-<div class="tg-wrap"><table class="tg"><table border="5">
+<div class="tg-wrap"><table class="tg"></table><b></b><table>
 <thead>
   <tr>
-   <b><th class="tg-uw46">Class</th>
-		 <th class="tg-uw46">Form Teachers</th></b>
+   <th class="tg-uw46">Class</th>
+		 <th class="tg-uw46">Form Teachers</th>
   </tr>
 </thead>
 <tbody>
@@ -59,4 +45,4 @@ third_nav_title: Academic Staff
     <td class="tg-a98g">Ms Sivamalar Kulasegaram<br>sivamalar_kulasegaram@moe.edu.sg<br><br>Mrs Ching Hwee Eng Claire<br>lim_hwee_eng@moe.edu.sg<br><br>Mdm Mardiana Binte Ismail<br>mardina_ismail@moe.edu.sg</td>
   </tr>
 </tbody>
-</table>
+</table></div>

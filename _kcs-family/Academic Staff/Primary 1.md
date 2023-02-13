@@ -10,12 +10,12 @@ third_nav_title: Academic Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:3px;font-family:Arial, sans-serif;font-size:16px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-uw46{border-width:3px;background-color:#dae8fc;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
+.tg .tg-uw46{border-color:black;border-style:solid;border-width:3px;background-color:#dae8fc;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
   font-weight:bold;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;vertical-align:top;
   will-change:transform}
-.tg .tg-a98g{background-color:#34cdf9;border-width:3px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
+.tg .tg-a98g{background-color:#34cdf9;border-color:black;border-style:solid;border-width:3px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
   text-align:left;vertical-align:top}
-.tg .tg-rk4g{background-color:#34cdf9;border-width:3px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
+.tg .tg-rk4g{background-color:#34cdf9;border-color:black;border-style:solid;border-width:3px;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:16px;
   text-align:left;vertical-align:middle}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap"><table class="tg"><table border = "3">

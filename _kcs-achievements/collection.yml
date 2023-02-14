@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School.md
+      - Student/Co Curriculum.md
       - Student/.keep
       - Staff/Staff.md
       - Staff/Accolades.md

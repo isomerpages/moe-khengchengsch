@@ -2,6 +2,7 @@ collections:
   kcs-achievements:
     output: true
     order:
+      - Student/.keep
       - Staff/Staff.md
       - Staff/Accolades.md
       - Staff/Staff Award.md

@@ -1,0 +1,4 @@
+collections:
+  parents-resource:
+    output: true
+    order: []

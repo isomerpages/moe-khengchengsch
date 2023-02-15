@@ -5,6 +5,9 @@ description: ""
 ---
 # **School Logo and Song**
 
+![](/images/Kheng-Cheng-School-Logo.jpg)
+
+
 **Blue   :**       Perpetuation of Values
 **White :**    Dignity, Purity and Diligence
 **Gold   :**      Honesty, Courage and Endurance

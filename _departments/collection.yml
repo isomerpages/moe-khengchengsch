@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - National Education & Social Studies (NESS).md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
@@ -13,6 +12,7 @@ collections:
       - Infocomm Technology/.keep
       - Infocomm Technology/Cyber Wellness.md
       - Physical Education & Health Management.md
+      - National Education & Social Studies (NESS).md
       - Arts.md
       - Music.md
       - Character & Citizenship Education (CCE).md

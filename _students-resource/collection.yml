@@ -1,0 +1,4 @@
+collections:
+  students-resource:
+    output: true
+    order: []

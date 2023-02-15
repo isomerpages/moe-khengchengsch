@@ -2,7 +2,6 @@ collections:
   kcs-family:
     output: true
     order:
-      - Allied Educators (AED).md
       - School Executive Committee.md
       - Academic Staff/.keep
       - Academic Staff/Primary 1.md
@@ -11,6 +10,7 @@ collections:
       - Academic Staff/Primary 4.md
       - Academic Staff/Primary 5.md
       - Academic Staff/Primary 6.md
+      - Allied Educators (AED).md
       - Executive & Administrative Staff (EAS).md
       - School Management Committee.md
       - Parents Support Group (PSG).md

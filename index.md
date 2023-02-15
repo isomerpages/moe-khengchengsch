@@ -19,7 +19,7 @@ sections:
           url: https://khengcheng.moe.edu.sg/news/
         - title: Resources
           description: ""
-          url: ""
+          url: /parentsresource/
         - title: Connect with us
           description: ""
           url: /newsletter/

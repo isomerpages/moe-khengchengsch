@@ -16,7 +16,7 @@ sections:
           url: /announcements/
         - title: News
           description: ""
-          url: https://khengcheng.moe.edu.sg/news/
+          url: /news/
         - title: Resources
           description: ""
           url: /parentsresource/

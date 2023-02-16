@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Information Technology/CyberWellness.md
-      - Information Technology/Information Technology.md
       - Information Technology/.keep
+      - Information Technology/Information Technology.md
+      - Information Technology/CyberWellness.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md

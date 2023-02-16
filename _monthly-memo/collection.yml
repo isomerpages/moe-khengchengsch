@@ -1,4 +1,5 @@
 collections:
   monthly-memo:
     output: true
-    order: []
+    order:
+      - Monthly Memo.md

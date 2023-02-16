@@ -11,9 +11,6 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/
         - title: News
           description: ""
           url: /news/

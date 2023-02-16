@@ -1,5 +1,0 @@
-collections:
-  parents-resource:
-    output: true
-    order:
-      - Parents Resource.md

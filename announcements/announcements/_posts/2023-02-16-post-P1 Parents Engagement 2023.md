@@ -6,9 +6,12 @@ layout: post
 description: ""
 image: /images/IMG_0328.jpg
 ---
+Dear Parents / Guardians,
 
-# Maths and Science Fiesta
+The slides of the sharing today, 3 January 2023 has been uploaded.  
+You can refer to this **[LINK](https://khengcheng.moe.edu.sg/wp-content/uploads/2023/01/P1-Parents-Engagement-Session-2023.pdf)**
 
-The Maths and Science Fiesta was carried out as part of our post exam activities. With the relaxation of SMM restrictions, our students could finally enjoy hands-on exhibitions to experience and apply STEM-related concepts in an authentic situation. The support from our PSG and Alumni members also brought the event to an increased level of engagement within our KCS Community.
+Thank you.
 
-![](/images/IMG_0328.jpg)
+Regards  
+Kheng Cheng School

@@ -3,7 +3,7 @@ url: https://khengcheng.moe.edu.sg
 favicon: /images/KhengChengSchoolLogo.png
 colors:
   primary-color: "#1c205e"
-  secondary-color: "#4372d6"
+  secondary-color: "#1c205e"
   media-colors:
     - title: media-color-one
       color: "#49759a"

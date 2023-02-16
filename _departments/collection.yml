@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Information Technology/CyberWellness.md
       - Information Technology/Information Technology.md
       - Information Technology/.keep
       - English Language.md

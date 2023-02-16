@@ -24,4 +24,7 @@ sections:
           description: ""
           url: /newsletter/
       background: /images/Staff 2022.jpg
+  - resources:
+      subtitle: Announcements
+      button: Resources Button Name
 ---

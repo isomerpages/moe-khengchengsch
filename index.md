@@ -26,6 +26,6 @@ sections:
       background: /images/Staff 2022.jpg
   - resources:
       subtitle: Latest Announcements
-      button: Announcements
+      button: More Announcements
       title: Announcements
 ---

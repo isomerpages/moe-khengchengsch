@@ -1,5 +1,5 @@
 collections:
-  monthly-memo:
+  memo:
     output: true
     order:
       - Newsletter.md

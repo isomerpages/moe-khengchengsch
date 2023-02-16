@@ -1,5 +1,4 @@
 collections:
   newsletter:
     output: true
-    order:
-      - Newsletter & Monthly.md
+    order: []

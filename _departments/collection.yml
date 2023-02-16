@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Information Technology/Information Technology.md
       - Information Technology/.keep
       - English Language.md
       - Mother Tongue/.keep

@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Infocomm Technology.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
@@ -10,6 +9,7 @@ collections:
       - Mother Tongue/Tamil Language.md
       - Mathematics.md
       - Science.md
+      - Infocomm Technology.md
       - Physical Education & Health Management.md
       - National Education & Social Studies (NESS).md
       - Arts.md

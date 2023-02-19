@@ -4,7 +4,7 @@ permalink: /AED/
 description: ""
 ---
 # Allied Educators
-
+       
 <table style="background:white;border-collapse:collapse;mso-table-layout-alt:
  fixed;border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:
@@ -69,7 +69,7 @@ description: ""
   paragraph;mso-element-anchor-horizontal:margin;mso-element-left:center;
   mso-element-top:18.2pt;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black">Mdm K Kalaichelvy<br>k_kalaichelvy@moe.edu.sg</a></span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:10.2pt"><td style="width:148.0pt;border:solid windowtext 1.5pt;border-top:
+  color:black">Mdm K Kalaichelvy<br>k_kalaichelvy@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:10.2pt"><td style="width:148.0pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt" width="197"><p style="margin-bottom:0in;line-height:normal;mso-element:
   frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:

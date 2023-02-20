@@ -4,7 +4,6 @@ permalink: /AED/
 description: ""
 ---
 # Allied Educators
-
 <table style="background:white;border-collapse:collapse;mso-table-layout-alt:
  fixed;border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:

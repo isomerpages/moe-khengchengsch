@@ -13,3 +13,7 @@ A **Dynamic** Community of **Compassionate Leaders** and **Critical Thinker
 ### Our Mission
 
 **Empowering** Every Child to **Lead and Impact the Community**, and be **Ready for the Future**
+
+
+
+<img src="/images/xxx.png" style="width:183px;height:240px;margin-right:15px;" align = "left">

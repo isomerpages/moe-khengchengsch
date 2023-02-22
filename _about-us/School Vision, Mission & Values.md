@@ -17,3 +17,5 @@ A **Dynamic** Community of **Compassionate Leaders** and **Critical Thinker
 
 
 <img src="/images/KCS-Values-Mascot_Kindness-768x996.png" style="width:183px;height:240px;margin-right:15px;" align = "left">
+
+**KINDNESS in HEART**

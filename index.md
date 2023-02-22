@@ -4,8 +4,7 @@ title: KHENG CHENG SCHOOL
 description: A Dynamic Community of Compassionate Leaders and Critical Thinkers.
 image: /images/KhengChengSchoolLogo.png
 permalink: /
-notification: "              Here is where notifications will be seen. If you
-  can see this means you are viewing our site correctly."
+notification: Welcome to Kheng Cheng School
 sections:
   - hero:
       title: KHENG CHENG SCHOOL

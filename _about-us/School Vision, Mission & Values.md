@@ -5,3 +5,9 @@ description: ""
 ---
 School Vision, Mission, Values
 ==============================
+
+### Our Vision
+
+
+
+### Our Mission

@@ -13,4 +13,5 @@ Enable every child to:
 * Develop thinking, reasoning, communication, application and metacognitive skills through a mathematical approach to problem solving
 * Develop positive attitudes (motivation, perseverance, confidence, appreciation) towards mathematics
 * Be a lifelong learner in mathematics
-* •            Be a lifelong learner in mathematics
+
+# Objectives

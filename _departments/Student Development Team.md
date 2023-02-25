@@ -3,7 +3,6 @@ title: Student Development Team
 permalink: /studentdevelopment/
 description: ""
 ---
-
 # Objectives
 Our Student Development Team oversees the holistic development of our students. We aim to develop students and enhance their learning experience in school through various programmes for students and strong partnership with stakeholders.
 
@@ -25,8 +24,6 @@ Apart from teachers and school counsellors, peers are the next best people to pr
 
 **3. Social Skills**
 Students are explicitly taught social skills during CCE lessons. We believe that by equipping students with social skills, they will be able to build healthy relationships and make responsible decisions. This will in turns helps students to build resilience, achieve better mental well-being, which leads to positive effects on their learning and overall holistic development.
-
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN; mso-bidi-language:TA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN; mso-bidi-language:TA;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
 **4. Oasis@KCS**
 This is our in-house after school programme for selected P5 and P6 students. At Oasis@KCS, students are given academic support, equipped with life skills and given opportunities to explore new areas of interest.

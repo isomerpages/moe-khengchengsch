@@ -10,3 +10,6 @@ description: ""
 <span style="font-size:16.0pt;font-family:Arial;color:black">Developing self-disciplined students and compassionate leaders who are equipped with skills and guided by values to bring forth changes and improvement within self and others..</span>
 
 # Objectives
+<span style="font-size:16.0pt;font-family:Arial;color:black">Discipline - To adopt a whole school approach for Restorative Discipline.<br> 
+Student Leadership – To provide opportunities for student leaders to apply their learned skills.
+</span>

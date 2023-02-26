@@ -127,11 +127,16 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
 <table>
 <tr>
 <th><img src = "/images/CCE/CCE/voice1.png" style="width:80%"></th
-<th><img src = "/images/CCE/CCE/voice2.png" style="width:80%"></th  
+<th><img src = "/images/CCE/CCE/voice2.png" style="width:80%"></th
 <th><img src = "/images/CCE/CCE/voice3.png" style="width:80%"></th
 <th><img src = "/images/CCE/CCE/voice4.png" style="width:80%"></th
 <th><img src = "/images/CCE/CCE/voice5.png" style="width:80%"></th
-
+<th><img src = "/images/CCE/CCE/voice6.png" style="width:80%"></th
+<th><img src = "/images/CCE/CCE/voice7.png" style="width:80%"></th
+<th><img src = "/images/CCE/CCE/voice8.png" style="width:80%"></th
+<th><img src = "/images/CCE/CCE/voice9.png" style="width:80%"></th
+<th><img src = "/images/CCE/CCE/voice10.png" style="width:80%"></th
+<th><img src = "/images/CCE/CCE/voice11.png" style="width:80%"></th
 
 </tr>
 </table>

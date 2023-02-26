@@ -175,6 +175,4 @@ Our KCS Visual Art microsite is a one-stop information platform for parents/guar
 • Contact Information of Art Teachers and Art &amp; Crafts Club Teachers
 
 Scan here to access&nbsp;**KCS Visual Art Microsite**
-
-<picture>  
-&nbsp;&nbsp;</picture>
+<img src = "/images/Aesthetics/Art/microsite.png">

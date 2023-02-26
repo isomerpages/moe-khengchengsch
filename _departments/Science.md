@@ -25,8 +25,14 @@ Students are given the opportunity to excel and enjoy learning Science through m
 
 YEZ! takes our students out of the classroom and into the Singapore Zoo. This outdoor learning experience gives our students the opportunity to observe animals and plants at close range to find out more about them. In addition, students will hone their collaborative skills as they work with their friends to complete a series of questions in a trail using hand-held tablets. Do look out for our students holding these devices at the Singapore Zoo!
 
+![](/images/Science/YEZ.jpg)
+
+**Visual Reasoning in Science (VRS)**
+“Not all will become a scientist, but a scientist can come from anyone.”
+
+This is the belief that drives VRS. VRS makes use of concept cartoons to help students improve their Science process skills and Science content, and challenge them to think critically. Studies have shown that children are able to build relations between knowledge and observations better when they can imagine themselves as the characters of a show. As such, VRS aims to help our students achieve their potential in Science through challenging yet accessible concept cartoons.
 
 
-Visual Reasoning in Science (VRS)
+
 Real World Science (RWS)
 Maths and Science Fiesta

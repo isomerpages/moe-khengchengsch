@@ -124,11 +124,12 @@ In line with the schools’ mission and vision, we hope that students will be ab
   color:black;mso-color-alt:windowtext">Asian Civilisations Museum</span></b><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><i><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black;mso-color-alt:windowtext">to understand the cultural and historical ties that have influence on the countries in Southeast Asia and explore how Singapore’s cultural heritage has evolved over time, influenced by the diverse mix of cultures.</span></i><b><span style="font-size:12.0pt;
   line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td></tr></tbody></table>
-	
-	![](/images/Social%20Studies/Picture%202_P4LJ.jpeg)
-	
-	![](/images/Social%20Studies/Picture%203_P4LJ.jpeg)
-	
-	![](/images/Social%20Studies/Picture%204_P5LJ.jpeg)
-	
-	![](/images/Social%20Studies/Picture%205_P5LJ.jpeg)
+
+![](/images/Social%20Studies/Picture%202_P4LJ.jpeg)
+
+![](/images/Social%20Studies/Picture%203_P4LJ.jpeg)
+
+![](/images/Social%20Studies/Picture%204_P5LJ.jpeg)
+
+![](/images/Social%20Studies/Picture%205_P5LJ.jpeg)
+

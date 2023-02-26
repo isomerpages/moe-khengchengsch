@@ -32,8 +32,29 @@ YEZ! takes our students out of the classroom and into the Singapore Zoo. This ou
 
 This is the belief that drives VRS. VRS makes use of concept cartoons to help students improve their Science process skills and Science content, and challenge them to think critically. Studies have shown that children are able to build relations between knowledge and observations better when they can imagine themselves as the characters of a show. As such, VRS aims to help our students achieve their potential in Science through challenging yet accessible concept cartoons.
 
+![](/images/Science/reasoning.jpg)
 
+**Real World Science (RWS)**
+With focus on Real World Science, our Upper Primary students work like scientists to solve the big questions involving real world phenomenon and observations. Science is everywhere, yet many struggle to explain the scientific phenomenon that happens around us.
 
+The RWS programme challenges our Upper Primary students to think critically and apply their problem-solving skills, and Science concepts and knowledge to explain phenomena. Through experimentation and research, students discover new findings to support their understanding of Science and how the world works. With the unknown and unpredictable future ahead of us, these analytical and problem-solving skills will ensure that our students are ready to meet the challenges of the future and contribute positively back to the society through innovation.
 
-Real World Science (RWS)
-Maths and Science Fiesta
+![](/images/Science/science.jpg)
+
+**Maths and Science Fiesta**
+
+A yearly affair, the fiesta continues to be the top favourite and highlight of every student. Birth from the voices of the students followed by the DiSciVery fair, this fiesta provides students with the hands-on opportunity to observe, experience and immerse in the world of Science and Mathematics.
+
+![](/images/Science/IMG_3325-1536x1024.jpg)
+
+![](/images/Science/IMG_3337-1536x1024.jpg)
+
+![](/images/Science/IMG_3345-1536x1024.jpg)
+
+![](/images/Science/IMG_3359-1536x1024.jpg)
+
+![](/images/Science/IMG_3380-1536x1024.jpg)
+
+![](/images/Science/IMG_3387-1536x1024.jpg)
+
+![](/images/Science/IMG_3391-1536x1024.jpg)

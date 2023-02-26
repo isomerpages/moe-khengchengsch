@@ -176,5 +176,5 @@ Our KCS Visual Art microsite is a one-stop information platform for parents/guar
 
 Scan here to access&nbsp;**KCS Visual Art Microsite**<br>
 <span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><b>URL:</b> http://bitly.ws/xNgS</span>
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><b>URL:</b> http://bitly.ws/xNgS
 <img src = "/images/Aesthetics/Art/microsite.png" style="width:30%">

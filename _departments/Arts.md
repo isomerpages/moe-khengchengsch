@@ -12,28 +12,29 @@ Empowering every child with the skills and knowledge to explore and experiment i
 # Approach
 The art curriculum seeks to teach our students to learn and appreciate Art through the 3E approach
 
-
 <table style="width:566.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
- mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="755" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:84.9pt;border:solid windowtext 1.5pt;
+ mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="755" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:102.9pt;border:solid windowtext 1.5pt;
   background:#A8D08D;mso-background-themecolor:accent6;mso-background-themetint:
-  153;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" width="113"><p style="margin-bottom:0in;text-align:center;
+  153;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" width="137"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3E Approach</span></b></p></td><td style="width:3.25in;border:solid windowtext 1.5pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3E Approach</span></b></p></td><td style="width:3.0in;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.5pt" valign="top" width="312"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  height:9.5pt" valign="top" width="288"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Students are given opportunities to</span></b></p></td><td style="width:247.5pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:.75pt .75pt .75pt .75pt;
   height:9.5pt" valign="top" width="330"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Students’ Art involvement in</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:50.55pt"><td style="width:84.9pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Students’ Art involvement in</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:50.55pt"><td style="width:102.9pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:50.55pt" width="113"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Experience</span></p></td><td style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:50.55pt" width="312"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:50.55pt" width="137"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Experience</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"><br>The Art Explorer</span></p></td><td style="width:3.0in;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;mso-border-top-alt:
+  solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;background:
+  #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:50.55pt" width="288"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   background:#EEEEEE">Participate in the arts as practitioners and audience.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:247.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
@@ -55,13 +56,15 @@ The art curriculum seeks to teach our students to learn and appreciate Art throu
   tab-stops:list .25in;background:#EEEEEE" class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Wingdings;
   mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings;color:black"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;"> </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Programme for Active Learning (PAL)</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td style="width:84.9pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td style="width:102.9pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.2pt" valign="top" width="113"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Enrich</span></p></td><td style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  height:9.2pt" valign="top" width="137"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Enrich<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">The Art Adventurer<b></b></span></p></td><td style="width:3.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="312"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Participate in art enrichment to deepen and broaden their knowledge in Visual Arts</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="288"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Participate in art enrichment to deepen and broaden their knowledge in Visual Arts</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:247.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
@@ -81,13 +84,15 @@ The art curriculum seeks to teach our students to learn and appreciate Art throu
   mso-bidi-font-size:12.0pt;font-family:Wingdings;mso-fareast-font-family:Wingdings;
   mso-bidi-font-family:Wingdings;color:black"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;"> </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Event-Related Art Activities</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:84.9pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:102.9pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="113"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Excel</span></p></td><td style="width:3.25in;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="137"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Excel</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"><br>The Art Trail Blazer</span></p></td><td style="width:3.0in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="312"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="288"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   background:#EEEEEE">Nurture their confidence and resilience through the rigour in honing their skills to exhibit and showcase their talent in art</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:247.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
@@ -118,3 +123,8 @@ The art curriculum seeks to teach our students to learn and appreciate Art throu
   mso-fareast-font-family:Wingdings;mso-bidi-font-family:Wingdings;color:black"><span style="mso-list:Ignore">§<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">P2 Colouring Competition</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr></tbody></table>
+	
+# 	Key Programme
+
+	
+	

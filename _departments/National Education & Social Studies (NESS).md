@@ -222,7 +222,7 @@ In line with the schools’ mission and vision, we hope that students will be ab
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="240"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Shalini</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Ms Shalini Venkiteswaran</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="271"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Members</span></p></td><td style="width:180.1pt;border-top:none;border-left:none;

@@ -44,3 +44,26 @@ Student Leadership – To provide opportunities for student leaders to apply the
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">Disciplinary consequences serve as a proxy for consequences of the poor choices made. It is not punishment, and will be meted out fairly, firmly and appropriately. Our school establishes rules and regulations for promoting good behaviour and ensuring a safe and conducive environment for the overall development of students. Parents / Guardians can refer to the Student Handbook for our set of school rules and regulations. The school maintains regular communication between parents and teachers as we believe that strong home-school partnership is essential in developing self-discipline and good character in our students.
 </span>
+	
+# Key Programmes
+<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Discipline Talks</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black"> Discipline talks are conducted on a termly basis. Students are reminded of the school rules in a timely manner and are advised to abide by them. Form teachers go through the school rules on the first day of school and through teachable moments in class. 
+</span>
+	
+<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Safety Talks</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><u>Road Safety Programme and Reminders</u><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Students are advised to practise the Kerb Drill when they cross the roads. Videos are screened to provide visuals for students to better understand how they can keep themselves safe on the oroads. The P5 students will be attending road safety training 
+organized by the Traffic Police this year. The objective of the training is to educate the students on good road safety habits in a simulated traffic environment and prepare every student to be conscious of road safety and 
+to shape the right behaviour. Parents will be informed of the details nearer to the dates.
+
+<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Safety Play Messages</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">The school designates play areas for students to use during their recesses and lunch breaks. This is to ensure appropriate and sufficient space for students to play safely. All students are encouraged to leave their classrooms and take a break on level one during these 
+breaks. Reminders on safe and responsible play are sent through morning announcements. We encourage students to share playing spaces and be alert to their surroundings. Students should not engage in 
+rough play and should not play if he/she is not well. If students notice injury, they are to report to a nearby teacher on duty. Some areas students should not play at are the corridors, at the staircases and in the canteen. Through level meetings with the assistant year heads and year heads, students are also reminded on how to play safely. 
+
+A simple slogan for our students to remember: 
+
+Safety is as simple as ABC. <b>A</b>lways <b>B</b>e <b>C</b>areful!
+
+
+

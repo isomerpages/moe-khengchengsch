@@ -58,3 +58,52 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
 ![](/images/Science/IMG_3387-1536x1024.jpg)
 
 ![](/images/Science/IMG_3391-1536x1024.jpg)
+
+# Organisation Chart
+ <table style="width:383.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
+ mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="511" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;
+  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
+  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" width="271"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Designation</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:180.1pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:9.5pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:19.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="271"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Head of Department / Science</span></p></td><td style="width:180.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="240"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Melvin Chang</span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:9.2pt" width="271"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Level Head Science</span></p></td><td style="width:180.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="240"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Ms Daphne Lee</span></p></td></tr><tr style="mso-yfti-irow:3;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="271"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Senior Teacher / Science</span></p></td><td style="width:180.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="240"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Ms Teo Yee Leng</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="271"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Members</span></p></td><td style="width:180.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="240"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mrs Jacqueline Anthony</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Ms Nilam Shafia<br>Mr Alvin Puah</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mrs Sharon Wong</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Roman Anthony<br>Mrs Elaine Leong</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Ms Jocelyn Tay</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Ms Tan Ying Rui<br>Mrs Gillian Teh</span></p></td></tr></tbody></table>

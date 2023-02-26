@@ -176,5 +176,4 @@ Our KCS Visual Art microsite is a one-stop information platform for parents/guar
 
 Scan here to access&nbsp;**KCS Visual Art Microsite**
 
-
-
+<img src="microsite.png">

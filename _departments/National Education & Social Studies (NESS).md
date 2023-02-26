@@ -21,7 +21,8 @@ To provide our students with the knowledge, skills, and values to:
 Social Studies curriculum, through the inquiry approach, seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live and demonstrate empathy in their relationships with others.
 ![](/images/Social%20Studies/Picture1_SS.jpg)
 
-**Objectives Syllabus Design**
+<span style="font-size:20.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><b>Objectives Syllabus Design</span></b>
+
 
 The syllabus is designed using a thematic approach, structured along the key themes1 of Identity, Culture and Heritage and People and Environment, is adopted to frame the Social Studies Primary (SSP) syllabus. It is organised into three broad clusters: 
 Cluster 1: Discovering Self and Immediate Environment
@@ -193,7 +194,7 @@ In line with the schools’ mission and vision, we hope that students will be ab
 
 <span style="font-size:20.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><b>Racial Harmony Day</b></span>
-![](/imges/Social%20Studies/Picture%2012_RHD.jpeg)
+
 ![](/images/Social%20Studies/Picture%2013_RHD.jpeg)
 
 <span style="font-size:20.0pt;font-family:&quot;Arial&quot;,sans-serif;

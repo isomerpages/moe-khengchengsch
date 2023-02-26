@@ -125,6 +125,3 @@ The art curriculum seeks to teach our students to learn and appreciate Art throu
   &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr></tbody></table>
 	
 # 	Key Programme
-
-	
-	

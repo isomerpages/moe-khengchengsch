@@ -299,4 +299,4 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Referrals</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black"><br>Teachers or parents can make a referral to the school counsellor.
 
-You may contact the school counsellor, Ms Anna Wong at 62552502 or email her at&nbsp;[wong\_pui\_yeang@moe.edu.sg](mailto:wong_pui_yeang@moe.edu.sg)</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+You may contact the school counsellor, Ms Anna Wong at 62552502 or email her at&nbsp;[wong\_pui\_yeang@moe.edu.sg](mailto:wong_pui_yeang@moe.edu.sg)</span>

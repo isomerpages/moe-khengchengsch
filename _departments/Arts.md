@@ -175,5 +175,5 @@ Our KCS Visual Art microsite is a one-stop information platform for parents/guar
 • Contact Information of Art Teachers and Art &amp; Crafts Club Teachers
 
 Scan here to access&nbsp;**KCS Visual Art Microsite**
-<img src = "/images/Aesthetics/Art/microsite.png"><span style="font-size:20.0pt;font-family:&quot;Arial&quot;,sans-serif;
+<img src = "/images/Aesthetics/Art/microsite.png" style="width:30%" ><span style="font-size:15.0pt;font-family:&quot;Arial&quot;,sans-serif;
 mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><b>URL: http://bitly.ws/xNgS</span></b>

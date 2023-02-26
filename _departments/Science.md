@@ -16,5 +16,17 @@ Empowering every child to be future-ready through the Practices of Science and t
 # Approach
 Students are given the opportunity to excel and enjoy learning Science through multi-faceted activities at different levels to infuse the spirit of scientific inquiry. The active learning process in Science Education takes place within and beyond the confines of the classrooms and textbooks. These platforms aim to captures students’ interests to be inspired Science learners. Students engage in inquiry-based learning using the 5E-Inquiry model (5E-Inquiry model), which has scientific inquiry at its core, to facilitate the construction and consolidation of Science concepts. Ultimately, students will be able to innovate and propose models and solutions for real world problems.
 
+![](/images/Science/Picture2.png)
+
+![](/images/Science/Picture3.png)
+
+# Key Programmes
+**Young Explorers @ the Zoo! (YEZ!)**
+
+YEZ! takes our students out of the classroom and into the Singapore Zoo. This outdoor learning experience gives our students the opportunity to observe animals and plants at close range to find out more about them. In addition, students will hone their collaborative skills as they work with their friends to complete a series of questions in a trail using hand-held tablets. Do look out for our students holding these devices at the Singapore Zoo!
 
 
+
+Visual Reasoning in Science (VRS)
+Real World Science (RWS)
+Maths and Science Fiesta

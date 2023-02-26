@@ -18,5 +18,6 @@ To provide our students with the knowledge, skills, and values to:
 # Social Studies Approach
 **Philosophy of Social Studies**
 
-Social Studies curriculum, through the inquiry approach, seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live and demonstrate empathy in their relationships with others
+Social Studies curriculum, through the inquiry approach, seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live and demonstrate empathy in their relationships with others.
+![](/images/Social%20Studies/Picture1_SS.jpg)
 

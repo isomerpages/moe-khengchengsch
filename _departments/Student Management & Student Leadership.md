@@ -55,6 +55,7 @@ Student Leadership – To provide opportunities for student leaders to apply the
 <span style="font-size:16.0pt;font-family:Arial;color:black">Students are advised to practise the Kerb Drill when they cross the roads. Videos are screened to provide visuals for students to better understand how they can keep themselves safe on the oroads. The P5 students will be attending road safety training 
 organized by the Traffic Police this year. The objective of the training is to educate the students on good road safety habits in a simulated traffic environment and prepare every student to be conscious of road safety and 
 to shape the right behaviour. Parents will be informed of the details nearer to the dates.
+<img src = "/images/Student Leadership/kerb.png" style="width:50%">
 
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Safety Play Messages</b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The school designates play areas for students to use during their recesses and lunch breaks. This is to ensure appropriate and sufficient space for students to play safely. All students are encouraged to leave their classrooms and take a break on level one during these 
@@ -65,5 +66,4 @@ A simple slogan for our students to remember:
 
 Safety is as simple as ABC. <b>A</b>lways <b>B</b>e <b>C</b>areful!
 
-
-
+<img src = "/images/Student Leadership/abc.png" style="width:50%">

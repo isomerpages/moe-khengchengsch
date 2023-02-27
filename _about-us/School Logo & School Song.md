@@ -8,9 +8,9 @@ description: ""
 <img src="/images/Kheng-Cheng-School-Logo.jpg" style="width:20%">
 
 
-**Blue   :**       Perpetuation of Values
-**White :**    Dignity, Purity and Diligence
-**Gold   :**      Honesty, Courage and Endurance
+<b>Blue   :</b>       Perpetuation of Values  
+<b>White :</b>      Dignity, Purity and Diligence  
+<b>Gold   :</b>      Honesty, Courage and Endurance
 
 The upper part of the crest has a dark blue background with the name of the school in white. This symbolises the commitment of KHENG CHENG SCHOOL to Singapore’s educational policy. The typeface is indicative of a school that is forward looking.
 

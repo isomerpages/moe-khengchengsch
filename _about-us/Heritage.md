@@ -20,3 +20,5 @@ Over the next few years, the school moved to 219 Moulmein Road in 1931 and then 
 In 1960s when the government built the first satellite town in Toa Payoh, the school Management Committee managed to raise funds to build a new building. Thus in August 1972, the new school building in Toa Payoh was officially opened by then Member of Parliament, Mr Eric Cheong. When the thirty year lease was up in Toa Payoh, MOE agreed to the construction of a new building built on the same site. The current school building at Lorong 3 Toa Payoh was officially opened on 19 November 2005 by the Minister for Education, Mr Tharman Shanmugaratnam.
 
 We give credit to the founder, Mdm Lim for being far-sighted. Though she only had a few years of education and was not wealthy, she firmly believed that the only road out of poverty was the avenue of education. She strongly believed that education could empower the people. Madam Lim gave her school the Teochew name, “Kheng Cheng” which means to “uplift the youths”. This name continues to inspire us till today.
+
+![](/images/KCS-Present.jpg)

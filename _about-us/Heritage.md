@@ -22,3 +22,5 @@ In 1960s when the government built the first satellite town in Toa Payoh, the sc
 We give credit to the founder, Mdm Lim for being far-sighted. Though she only had a few years of education and was not wealthy, she firmly believed that the only road out of poverty was the avenue of education. She strongly believed that education could empower the people. Madam Lim gave her school the Teochew name, “Kheng Cheng” which means to “uplift the youths”. This name continues to inspire us till today.
 
 ![](/images/KCS-Present.jpg)
+
+<img src="/images/KCS-Present-2.jpg" style="width:65%">

@@ -22,3 +22,13 @@ School Rules
   </tr>
 </thead>
 </table>
+
+
+
+<b>School Uniform</b>
+
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+*   White canvas shoes and white school socks that are clearly visible above the ankle are to be worn.
+*   Fingernails must be short, clean and unpainted.
+*   Name tags should be sewn onto uniforms as shown below.
+*   Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.

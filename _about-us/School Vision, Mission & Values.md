@@ -35,4 +35,11 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 *   We learn from our mistakes.
 
 
-<img src="/images/Courage.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
+<img src="/images/Diligence.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
+
+
+<b>DILIGENCE of HAND</b>
+
+*   We seek to learn.
+*   We plan and act on what we set out to do.
+*   We work hard and excel in what we do.

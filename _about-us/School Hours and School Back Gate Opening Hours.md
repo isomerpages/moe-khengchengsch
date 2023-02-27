@@ -166,3 +166,6 @@ School Hours and School Back Gate Opening Hours
   </tr>
 </tbody>
 </table>
+
+
+##### <b>Back Gate Opening Hours</b>

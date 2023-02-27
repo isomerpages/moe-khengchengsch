@@ -5,7 +5,7 @@ description: ""
 ---
 ## <center> School Logo and Song </center>
 
-![](/images/Kheng-Cheng-School-Logo.jpg)
+<img src="/images/Kheng-Cheng-School-Logo.jpg" style="width:20%">
 
 
 **Blue   :**       Perpetuation of Values

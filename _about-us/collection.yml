@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - School Matters/.keep
       - Principal's Message.md
       - School Vision, Mission, Values.md
       - School Logo and Song.md
       - Heritage.md
+      - School Matters/.keep
       - School Rules.md
       - School Hours and School Back Gate Opening Hours.md
       - Visitor Management.md

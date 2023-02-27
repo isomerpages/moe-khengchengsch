@@ -169,3 +169,41 @@ School Hours and School Back Gate Opening Hours
 
 
 ##### <b>Back Gate Opening Hours</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-k9vs{background-color:#EEE;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-p4ly{background-color:#42103C;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-niwn{background-color:#EEE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-p4ly"><span style="font-weight:bolder">Activities</span></th>
+    <th class="tg-p4ly"><span style="font-weight:bolder">Day</span></th>
+    <th class="tg-p4ly"><span style="font-weight:bolder">Time</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-k9vs"><span style="font-weight:bolder">Arrival</span></td>
+    <td class="tg-niwn">Monday – Friday</td>
+    <td class="tg-niwn">6.45am – 7.30am</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig" rowspan="2"><span style="font-weight:bolder">Dismissal</span></td>
+    <td class="tg-baqh">Monday – Thursday</td>
+    <td class="tg-baqh">1.15pm – 2.00pm</td>
+  </tr>
+  <tr>
+    <td class="tg-niwn">Friday</td>
+    <td class="tg-niwn">12.15pm – 1.00pm<br><br>3.00pm – 3.30pm</td>
+  </tr>
+</tbody>
+</table>

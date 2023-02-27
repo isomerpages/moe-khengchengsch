@@ -51,3 +51,14 @@ School Rules
 *   No ornaments or jewellery is allowed to be worn in school.
 *   Mobile phones and electronic gadgets that can be used for communication and recording purposes are not allowed in school.
 *   Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.
+
+
+### <u> Attendance </u>
+
+
+**All students must:**
+
+*   attend school regularly and be punctual for all school.
+*   submit a medical certificate and/or a letter from parents to the Form Teacher upon his/her return to school to explain absence.
+*   not leave school without official permission during school.
+*   seek permission from the Form/Subject Teacher to leave early in the event of illness or unexpected circumstances.

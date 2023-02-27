@@ -47,3 +47,14 @@ School Rules
 *   submit a medical certificate and/or a letter from parents to the Form Teacher upon his/her return to school to explain absence.
 *   not leave school without official permission during school.
 *   seek permission from the Form/Subject Teacher to leave early in the event of illness or unexpected circumstances.
+
+
+#### <u> Singing of National Anthem & Recitation of National Pledge </u>
+
+<b>All students:</b>
+
+*   who are Singapore citizens must sing the National Anthem and take the Pledge.
+*   will take the Pledge with the right fist placed over the heart.
+*   must be punctual for the ceremony daily.
+*   must stand at attention and face the flag when the National Anthem is being sung and the pledge recited.
+*   must observe the ceremony with solemnity and respect.

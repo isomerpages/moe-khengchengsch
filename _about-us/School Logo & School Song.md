@@ -3,6 +3,9 @@ title: School Logo & School Song
 permalink: /about-us/permalink/
 description: ""
 ---
+School Logo and Song
+====================
+
 ## <center> School Logo and Song </center>
 
 <img src="/images/Kheng-Cheng-School-Logo.jpg" style="width:20%">

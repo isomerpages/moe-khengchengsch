@@ -32,3 +32,6 @@ School Rules
 *   Fingernails must be short, clean and unpainted.
 *   Name tags should be sewn onto uniforms as shown below.
 *   Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.
+
+
+![](/images/Kheng-Cheng-School-uniform-rule.png)

@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Hours and School Back Gate Opening Hours.md
       - Principal's Message.md
       - School Vision, Mission, Values.md
       - School Logo and Song.md

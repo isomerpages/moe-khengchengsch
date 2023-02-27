@@ -94,3 +94,37 @@ School Hours and School Back Gate Opening Hours
   </tr>
 </tbody>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-k9vs{background-color:#EEE;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-p4ly{background-color:#42103C;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-niwn{background-color:#EEE;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-p4ly" colspan="2"><span style="font-weight:bolder">CCA (Primary 3 to Primary 6) </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-k9vs"><span style="font-weight:bolder">Day</span></td>
+    <td class="tg-niwn"><span style="color:#000">Friday</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:bolder">Time</span> </td>
+    <td class="tg-baqh"><span style="color:#000">1:00pm – 3:00pm </span></td>
+  </tr>
+</tbody>
+</table>
+
+
+##### <b>Front Gates Opening Hours (Gate T)</b>

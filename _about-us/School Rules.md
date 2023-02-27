@@ -73,3 +73,45 @@ School Rules
 *   are to practise Netiquette and display appropriate online behaviour.
 *   must be responsible for their personal possessions in school and are advised not to bring excessive cash or expensive branded items to school.
 *   are not allowed to have in their possession any weapon-like item which is used or intended to be used to cause harm to others.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr"><span style="font-weight:bolder">Offences</span></th>
+    <th class="tg-1wig"><span style="font-weight:bolder">Consequences</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r5gp">Tinted Hair / Long Hair / Inappropriate Hairstyle</td>
+    <td class="tg-r5gp" rowspan="6">For non-compliance of school rule(s), one or more of the following actions will be taken. In-school counselling will be offered to errant student(s).<br><br> <br>•      Home Involvement<br>•      Corrective Work Order<br>•      Detention<br>•      Contract of Good Behaviour<br>•      Verbal and Written Warning<br>•      Ineligibility for Awards<br>•      Entry into School Offences Module (SOM) Records<br>•      Restitution<br>•      Suspension<br>•      Corporal Punishment<br>•      Police Report</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Skipping Lessons / Playing Truant/ Wilful Absenteeism</td>
+  </tr>
+  <tr>
+    <td class="tg-r5gp">Use or Possession of Cigarettes / e-Cigarettes / Prohibited Tobacco Products</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Theft in School / Shoplifting</td>
+  </tr>
+  <tr>
+    <td class="tg-r5gp">Other Serious Offences:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gambling / Vandalism / Substance Abuse/ Fighting / Bullying / Cheating during Tests or Exams / Forging or Doctoring Documents<br><br>/ Possession of Pornographic Materials / Possession of Weapons or Weapon-like items / Defiance/ Disrespectful towards School Staff / Vulgarism<br>/ Inappropriate Behaviour or Offensive Language Online / Others</td>
+  </tr>
+</tbody>
+</table>

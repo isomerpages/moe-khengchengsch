@@ -17,7 +17,7 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 
 
 
-<img src="/images/KCS-Values-Mascot_Kindness-768x996.png" style="width:180px;height:220px;margin-right:15px;" align = "left">
+<img src="/images/KCS-Values-Mascot_Kindness-768x996.png" style="width:180px;height:220px;margin-right:45px;" align = "left">
 
 <b>KINDNESS in HEART</b>
 
@@ -26,7 +26,7 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 *   We love our community and environment.
 
 
-<img src="/images/Courage.png" style="width:180px;height:220px;margin-right:15px;" align = "left">
+<img src="/images/Courage.png" style="width:180px;height:220px;margin-right:45px;" align = "left">
 
 <b>SINCERITY of MIGHT</b>
 

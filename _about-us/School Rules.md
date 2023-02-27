@@ -35,3 +35,19 @@ School Rules
 
 
 ![](/images/Kheng-Cheng-School-uniform-rule.png)
+
+
+<b>Hair</b>
+
+*   Hair must be neat and hair/fringe must not touch the eyebrows or the collar.
+*   Girls with shoulder-length or long hair hanging below the blouse collar must be tied up.  
+    Long fringe must be clipped. Only white, blue or black hair accessories are allowed.
+*   Boys must be neat in appearance, clean-shaven and no facial hair is allowed. Punk or outlandish hairstyle is not allowed.
+*   Tinting and/or highlighting of hair is not allowed.
+
+<b>Accessories</b>
+
+*   Only small ear studs are allowed for girls.
+*   No ornaments or jewellery is allowed to be worn in school.
+*   Mobile phones and electronic gadgets that can be used for communication and recording purposes are not allowed in school.
+*   Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.

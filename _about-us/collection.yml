@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - School Vision, Mission, Values.md
       - School Logo and Song.md
@@ -28,3 +27,4 @@ collections:
       - School Matters/Canteen Pricing.md
       - School Matters/Suppliers.md
       - School Matters/School Hours & School Back Gate Opening Hours.md
+      - Contact Us.md

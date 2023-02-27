@@ -6,7 +6,7 @@ description: ""
 School Hours and School Back Gate Opening Hours
 ===============================================
 
-<b>School Hours & Dismissal Timings</b>
+##### <b>School Hours & Dismissal Timings</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,7 +64,7 @@ School Hours and School Back Gate Opening Hours
 </table>
 
 
-<b>Recess and Lunch Timings</b>
+##### <b>Recess and Lunch Timings</b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -10,6 +10,7 @@ School Vision, Mission, Values
 
 A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical Thinkers</b>
 
+
 ### Our Mission
 
 **Empowering** Every Child to **Lead and Impact the Community**, and be **Ready for the Future**

@@ -8,7 +8,7 @@ School Vision, Mission, Values
 
 ### Our Vision
 
-A **Dynamic** Community of **Compassionate Leaders** and **Critical Thinkers**
+A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical Thinkers</b>
 
 ### Our Mission
 

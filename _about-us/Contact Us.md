@@ -19,3 +19,13 @@ E : [kcs@moe.edu.sg](mailto:kcs@moe.edu.sg) <br>
 Bus Stop 1: 235 <br>
 Bus Stop 2 & 3: 56, 73, 88, 105, 157, 159, 163, 231 <br>
 Nearest MRT Station: Braddell
+
+
+<b>Parking in School</b>
+
+As announced by MOE earlier, we will be implementing a season parking scheme from 1 August 2018. As there are limited parking spaces in school, only staff and service providers who are season parking holders will be allowed to park in school. Parents who need to visit the school during school hours can park at nearby public car parks.
+
+Subject to the weather conditions and availability of car park lots, we do allow parents/guardians to drive into the school to pick up our students at the following timings:
+
+*   Monday to Thursday: 2.30pm to 6.00 pm
+*   Friday: 3.30pm to 6.00pm

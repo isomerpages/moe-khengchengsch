@@ -207,3 +207,6 @@ School Hours and School Back Gate Opening Hours
   </tr>
 </tbody>
 </table>
+
+
+##### <b>Parents/guardians are reminded to be punctual when picking up their children/ward at the school gates.</b>

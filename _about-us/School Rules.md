@@ -115,3 +115,7 @@ School Rules
   </tr>
 </tbody>
 </table>
+
+
+
+##### <b>Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.</b>

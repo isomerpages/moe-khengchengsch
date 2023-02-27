@@ -58,3 +58,18 @@ School Rules
 *   must be punctual for the ceremony daily.
 *   must stand at attention and face the flag when the National Anthem is being sung and the pledge recited.
 *   must observe the ceremony with solemnity and respect.
+
+#### <u> General Behaviour </u>
+
+<b>All students:</b>
+
+*   must uphold the good name of the school and exercise self-discipline both in and outside the school.
+*   are not allowed to enter the staff room and special rooms unless accompanied by a teacher.
+*   are to keep the school facilities clean and practise social responsibility.
+*   must queue up to buy food and drinks and all food and beverages are to be consumed in the canteen.
+*   should walk from point to point in an orderly manner.
+*   are to practise good manners and be courteous to one and all.
+*   should not stay in class during recess and lunch times unless accompanied by a teacher.
+*   are to practise Netiquette and display appropriate online behaviour.
+*   must be responsible for their personal possessions in school and are advised not to bring excessive cash or expensive branded items to school.
+*   are not allowed to have in their possession any weapon-like item which is used or intended to be used to cause harm to others.

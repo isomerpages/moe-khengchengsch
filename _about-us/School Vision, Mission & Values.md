@@ -13,7 +13,7 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 
 ### Our Mission
 
-**Empowering** Every Child to **Lead and Impact the Community**, and be **Ready for the Future**
+<b>Empowering</b> Every Child to <b>Lead and Impact the Community</b>, and be <b>Ready for the Future</b>
 
 
 

@@ -67,3 +67,9 @@ A simple slogan for our students to remember:
 Safety is as simple as ABC. <b>A</b>lways <b>B</b>e <b>C</b>areful!
 
 <img src = "/images/Student Leadership/abc.png" style="width:50%">
+	
+<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Promoting Punctuality</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">School hours start at 7.30 a.m. and we strongly encourage students to come early. Punctuality is a crucial life skill we want to imbue in our students. Parents would be informed of students’ late-coming through daily late-coming slips issued to students. For recalcitrant students, a Parent-Teacher Conference would be arranged for teachers to understand more and share strategies that the student can try out in order to be punctual. Our teachers take the students’ daily attendance, and late-coming will be noted as part of a student’s behavioural record. 
+
+
+

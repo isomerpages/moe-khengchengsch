@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Consent for Photography and Videos.md
       - Principal's Message.md
       - School Vision, Mission, Values.md
       - School Logo and Song.md
@@ -10,6 +9,11 @@ collections:
       - School Rules.md
       - School Hours and School Back Gate Opening Hours.md
       - Visitor Management.md
+      - KCS Achievements/.keep
+      - KCS Achievements/School.md
+      - KCS Achievements/Staff.md
+      - KCS Achievements/Students.md
+      - Consent for Photography and Videos.md
       - School Matters/.keep
       - School Matters/Visitor Management.md
       - School Matters/School Rules.md
@@ -23,7 +27,3 @@ collections:
       - School Matters/Canteen Pricing.md
       - School Matters/Suppliers.md
       - School Matters/School Hours & School Back Gate Opening Hours.md
-      - KCS Achievements/.keep
-      - KCS Achievements/School.md
-      - KCS Achievements/Staff.md
-      - KCS Achievements/Students.md

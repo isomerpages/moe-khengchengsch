@@ -62,3 +62,35 @@ School Hours and School Back Gate Opening Hours
   </tr>
 </tbody>
 </table>
+
+
+<b>Recess and Lunch Timings</b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-k3af{background-color:#450606;text-align:left;vertical-align:middle}
+.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><span style="font-weight:bold">Recess (Monday – Thursday)</span><br><br>1st Recess (P1, P3 &amp; P5): 9.30am – 10.00am<br>2nd Recess (P2, P4 &amp; P6): 10.00am – 10.30am</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-k3af"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold">Recess (Friday)</span><br><br>1st Recess (P2, P4 &amp; P6): 9.00am – 9.30am<br>2nd Recess (P1, P3 &amp; P5): 9.30am – 10.00am</td>
+  </tr>
+  <tr>
+    <td class="tg-r5gp"><span style="font-weight:bold">Lunch Break (Friday) for P3 to P6</span><br><br>1st Lunch (P4 &amp; P6):11.00am – 11.30am<br>2nd Lunch (P3 &amp; P5): 11.30am – 12.00pm</td>
+  </tr>
+</tbody>
+</table>

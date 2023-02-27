@@ -214,4 +214,4 @@ School Hours and School Back Gate Opening Hours
 
 
 
-Updated 28 December 2022
+<b>Updated 28 December 2022</b>

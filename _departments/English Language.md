@@ -19,7 +19,7 @@ description: ""
 	</li><li>Appreciative in / through Expression
 	</li><li>Resilient and Empathatic
 </li></span></ul>
-	<span style="font-size:16.0pt;font-family:Arial;color:black"><b>... Learners for life ...</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>... Learners for life ...</b><br>
 
 # Approach
 <span style="font-size:16.0pt;font-family:Arial;color:black">By:<br>

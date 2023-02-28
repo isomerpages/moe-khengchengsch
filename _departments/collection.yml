@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue.md
       - English Language.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue.md
       - ICT & Partnership/.keep
       - ICT & Partnership/Information Technology.md
       - ICT & Partnership/CyberWellness.md

@@ -46,7 +46,7 @@ Website: <a href = "https://www.popular.com.sg" target="_blank">https://www.popu
 <span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Teo / Mrs Teo</span><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Tel: 6758 5382 / 9795 3848</span><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Fax: 6753 7887<br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Address: Blk 102, Yishun Ave 5, #02-121, S760102</span><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Address: Blk 102, Yishun Ave 5, #02-121, S760102<br>
 
 # Yang Tze Kiang Tailor
 <span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Low<br>

@@ -3,7 +3,8 @@ title: Parents Support Group (PSG)
 permalink: /psg/
 description: ""
 ---
-# Parents Support Group
+Parents Support Group
+=====================
 # ***Philosophy***
 
 Kheng Cheng School believes in a strong Home-School-Community based partnership which can be achieved by strategic & sustainable partnerships with our various partners. As such, our objectives are to

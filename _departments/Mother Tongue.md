@@ -3,14 +3,32 @@ title: Mother Tongue
 permalink: /mothertongue/
 description: ""
 ---
+# Vision
 
+<span style="font-size:20.0pt;font-family:Arial;color:black"> Ignite the interest in and joy of learning Mother Tongue. </span>
 
+# Mission
+<span style="font-size:20.0pt;font-family:Arial;color:black">Develop pupils’ language competency and Integrate culture and social cohesion through MTL and CCE MTL programmes </span>
 
+# Objectives
+<ol>
+<span style="font-size:20.0pt;font-family:Arial;color:black">
+	<li>To enable students to interact well in the form of listening, speaking, reading and writing in Mother Tongue
+	<li>To enable students to transmit the culture and values of the community<br>
+ </span>
+	
+# Approach
+<span style="font-size:20.0pt;font-family:Arial;color:black">The Mother Tongue Department Implements holistic assessment for the students.  We cater to students’ different learning styles through Differentiated Instructions and modular approach. The students are exposed to culture and language activities. </span>
 
-
-
-
-
+# Key Programme
+<ol>
+<span style="font-size:20.0pt;font-family:Arial;color:black">	
+ <li>Language Fiesta
+	 <li>Inter-School Competitions
+	 <li> Cultural & Values Immersion Programme
+  <li> Structure Reading Programme
+<br>
+	
 # Organisation Chart
 <table style="width:444.9pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;

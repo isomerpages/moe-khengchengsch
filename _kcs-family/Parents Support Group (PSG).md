@@ -22,6 +22,7 @@ Kheng Cheng School believes in a strong Home-School-Community based partnership 
 
 Interested parents whose child/ children is/are currently studying in KCS can sign up by emailing us at [khengcheng.psg@gmail.com](mailto:khengcheng.psg@gmail.com)
 
+### **Photos of Events PSG supported**
 
 # Programme
 ***Learning Support Reading***

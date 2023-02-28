@@ -2,7 +2,6 @@ collections:
   kcs-family:
     output: true
     order:
-      - Administrative Staff.md
       - School Executive Committee.md
       - Academic Staff/.keep
       - Academic Staff/Academic Staff.md
@@ -13,6 +12,7 @@ collections:
       - Academic Staff/Primary 5.md
       - Academic Staff/Primary 6.md
       - Academic Staff/Other Teaching and Non Teaching Staff.md
+      - Administrative Staff.md
       - Allied Educators (AED).md
       - Executive & Administrative Staff (EAS).md
       - School Management Committee.md

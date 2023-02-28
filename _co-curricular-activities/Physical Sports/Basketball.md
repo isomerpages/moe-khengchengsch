@@ -77,7 +77,7 @@ Through teachable moments and game play to instill idea of teamwork, diligence, 
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="390"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Ms Grace Yap&lt;<br>grace_yap_li_ying@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:5;height:9.2pt"><td style="width:292.5pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Ms Grace Yap<br>grace_yap_li_ying@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:5;height:9.2pt"><td style="width:292.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="390"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:

@@ -3,7 +3,10 @@ title: School Executive Committee
 permalink: /schoolexecutivecommittee/
 description: ""
 ---
-# School Leaders
+School Executive Committee
+==========================
+
+### School Leaders
 <table style="width:287.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="383" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.55pt"><td style="width:152.4pt;border:solid windowtext 1.5pt;
@@ -38,7 +41,7 @@ description: ""
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt" width="180"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Mr Pun Kian Peng Jack<br>kcs@moe.edu.sg</span></p></td></tr></tbody></table>
 
-# School Executive Committee
+### School Executive Committee
 <table style="margin-left:-.15pt;background:white;border-collapse:collapse;
  mso-table-layout-alt:fixed;border:none;mso-border-alt:solid windowtext 1.5pt;
  mso-yfti-tbllook:1184;mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:

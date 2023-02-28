@@ -2,7 +2,6 @@ collections:
   kcs-family:
     output: true
     order:
-      - Academic Staff.md
       - School Executive Committee.md
       - Academic Staff/.keep
       - Academic Staff/Primary 1.md

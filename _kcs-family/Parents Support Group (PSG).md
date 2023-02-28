@@ -5,14 +5,14 @@ description: ""
 ---
 Parents Support Group
 =====================
-# ***Philosophy***
+### **Philosophy**
 
 Kheng Cheng School believes in a strong Home-School-Community based partnership which can be achieved by strategic & sustainable partnerships with our various partners. As such, our objectives are to
 
-1.  Strengthen partnerships with key stakeholders (PSG, SMC, Alumni)
-2.  Develop strategic and sustainable partnerships with external organisation
+1.  <i>Strengthen partnerships with key stakeholders (PSG, SMC, Alumni)</i>
+2.  <i>Develop strategic and sustainable partnerships with external organisation</i>
 
-# ***PSG EXCO***
+### **PSG EXCO**
 
 
 ![Psg Exco 2023](https://khengcheng.moe.edu.sg/wp-content/uploads/2022/04/PSG-Exco-2023-1024x576.jpeg)

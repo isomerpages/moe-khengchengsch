@@ -40,3 +40,9 @@ Website: <a href = "https://www.popular.com.sg" target="_blank">https://www.popu
 <span style="font-size:18.0pt;font-family:Arial;color:black"><b>Operates on every alternate week</b></span>	
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">For more information, do visit the Health Promotion Board website, http://www.hpb.gov.sg</span>
+	
+# Teo Boon Transport
+<span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Teo / Mrs Teo<br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Tel: 6758 5382 / 9795 3848<br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Fax: 6753 7887<br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Address: Blk 102, Yishun Ave 5, #02-121, S760102<br>

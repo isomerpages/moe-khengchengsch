@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Executive Committee.md
+      - Academic Staff/Academic Staff.md
       - Academic Staff/.keep
       - Academic Staff/Primary 1.md
       - Academic Staff/Primary 2.md

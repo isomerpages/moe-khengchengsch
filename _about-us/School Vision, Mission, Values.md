@@ -17,7 +17,7 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 
 
 
-<img src="/images/KCS-Values-Mascot_Kindness-768x996.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
+<img src="/images/Values/Kindness" style="width:180px;height:200px;margin-right:45px;" align = "left">
 
 <b>KINDNESS in HEART</b>
 
@@ -34,10 +34,10 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 *   We show consideration to others.
 *   We learn from our mistakes.
 
-<img src="/images/Diligence.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
+<img src="/images/Values/Sincerity.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
 
 
-<b>DILIGENCE of HAND</b>
+<b>SINCERITY of MIGHT</b>
 
 *   We seek to learn.
 *   We plan and act on what we set out to do.

@@ -13,9 +13,9 @@ This enables parents to better support their child in their education journey th
 [Travel Declaration](/files/Parents%20Gateway/Travel-Declaration-Update-Personal-Information.pdf)<br>
 [Parents Gateway FAQs](/files/Parents%20Gateway/Frequently-Asked-Questions-For-Parents.pdf)
 
-
-<a href="https://youtu.be/EKpiTM5axNA" target="_parent"></a>
-	
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/EKpiTM5axNA">
+</iframe>
 	
 	
 	

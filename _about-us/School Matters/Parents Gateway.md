@@ -23,9 +23,9 @@ src="https://www.youtube.com/embed/PCM5o8jAncc">
 	
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Registering for Parents Gateway</b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click on this 
-<a href="/images/Parents Gateway/PG.gif">
+<a href="/images/Parents Gateway/PG.gif"></span><br>
 	
 <span style="font-size:16.0pt;font-family:Arial;color:black">For queries and clarifications on Parents Gateway, please email us at kcs@moe.edu.sg .
 	
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>How to download the Parents Gateway App?</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click on this 
+<span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click on this

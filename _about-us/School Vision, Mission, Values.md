@@ -3,8 +3,6 @@ title: School Vision, Mission, Values
 permalink: /about-us/School-Vision-Mission-Values/
 description: ""
 ---
-
-
 School Vision, Mission, Values
 ==============================
 
@@ -35,6 +33,15 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 *   We speak the truth.
 *   We show consideration to others.
 *   We learn from our mistakes.
+
+<img src="/images/Diligence.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
+
+
+<b>DILIGENCE of HAND</b>
+
+*   We seek to learn.
+*   We plan and act on what we set out to do.
+*   We work hard and excel in what we do.
 
 
 <img src="/images/Diligence.png" style="width:180px;height:200px;margin-right:45px;" align = "left">

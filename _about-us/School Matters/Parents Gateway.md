@@ -15,9 +15,11 @@ This enables parents to better support their child in their education journey th
 
 <iframe width="600" height="400"
 src="https://www.youtube.com/embed/EKpiTM5axNA">
-</iframe>
+</iframe><br>
 	
 <iframe width="600" height="400"
 src="https://www.youtube.com/embed/PCM5o8jAncc">
 </iframe>
 	
+<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Registering for Parents Gateway</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click on this LINK

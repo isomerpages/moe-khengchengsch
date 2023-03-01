@@ -9,3 +9,6 @@ third_nav_title: School Matters
 This enables parents to better support their child in their education journey through closer interactions and communications with schools. Kheng Cheng School will start using Parents Gateway in Term 2 2019. We invite parents to download the Parents Gateway mobile application today.
 
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Below are some resources</b><br>
+[Information on Parents Gateway](/files/Parents%20Gateway/Information-for-new-Parents-Gateway.pdf)<br>
+[Travel Declaration](/files/Parents%20Gateway/Travel-Declaration-Update-Personal-Information.pdf)<br>
+[Parents Gateway FAQs](/files/Parents%20Gateway/Frequently-Asked-Questions-For-Parents.pdf)

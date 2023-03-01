@@ -46,4 +46,4 @@ third_nav_title: Performing and Visual Arts
   &quot;Times New Roman&quot;;color:black">Mdm Ong Poh Leng<br>ong_poh_leng@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:217.05pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt" width="289"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Amber Ye Xiao Xia<br>amber_ye_xiao_xia@moe.edu.sg</span></p></td></tr></tbody></table></span></span></span></span>
+  &quot;Times New Roman&quot;;color:black">Mdm Amber Ye Xiao Xia<br>amber_ye_xiao_xia@moe.edu.sg</span></p></td></tr></tbody></table>

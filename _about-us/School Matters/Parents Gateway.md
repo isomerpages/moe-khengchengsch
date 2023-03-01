@@ -22,4 +22,9 @@ src="https://www.youtube.com/embed/PCM5o8jAncc">
 </iframe>
 	
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Registering for Parents Gateway</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click on this LINK
+<span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click on this 
+/images/Parents%20Gateway/PG-Animated-Gif.gif
+
+
+
+

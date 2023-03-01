@@ -17,7 +17,7 @@ third_nav_title: School Matters
 	<li>10.30am to 12.00pm</li>
 	<li>2.00pm to 4.00pm</li>
 </ul>
-</span>
+
 	
 <span style="font-size:18.0pt;font-family:Arial;color:black"><b>Closed on Saturdays & Sundays</b></span>
 <span style="font-size:18.0pt;font-family:Arial;color:black"><br>
@@ -43,7 +43,7 @@ Website: <a href = "https://www.popular.com.sg" target="_blank">https://www.popu
 <span style="font-size:16.0pt;font-family:Arial;color:black">For more information, do visit the Health Promotion Board website, http://www.hpb.gov.sg
 	
 # Teo Boon Transport
-<span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Teo / Mrs Teo</span><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Teo / Mrs Teo<br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Tel: 6758 5382 / 9795 3848</span><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Fax: 6753 7887<br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Address: Blk 102, Yishun Ave 5, #02-121, S760102<br>

@@ -28,7 +28,16 @@ src="https://www.youtube.com/embed/PCM5o8jAncc">
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 For queries and clarifications on Parents Gateway, please email us at kcs@moe.edu.sg .</span>
 
+<img src = "/images/Parents Gateway/PG.jpg">
+
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>How to download the Parents Gateway App?</span><br></b>
-<span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click
-<a href="images/Parents Gateway/PG.gif"> HERE</a>
-	
+<span style="font-size:16.0pt;font-family:Arial;color:black">1. Open the Apple App Store or Google Playstore app on your mobile smart phones<br>
+2. Search for the ‘Parents Gateway’ mobile app or click on the link below on your mobile smart phone
+
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>IOS:</b><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708"> Download Parents Gateway App on Apple Appstore</a><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Android:</b><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG"> Download Parents Gateway App on Playstore</a>
+
+<img src = "/images/Parents Gateway/QR.jpg">
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">3. Download and install the app onto your phone<br>
+4. Make sure you enable ‘Allow Notifications’ to receive push notifications

@@ -17,7 +17,7 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 
 
 
-<img src="/images/Values/Kindness" style="width:180px;height:200px;margin-right:45px;" align = "left">
+<img src="/images/Values/Kindness.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
 
 <b>KINDNESS in HEART</b>
 
@@ -26,13 +26,13 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 *   We love our community and environment.
 
 
-<img src="/images/Courage.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
+<img src="/images/Values/Courage.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
 
-<b>SINCERITY of MIGHT</b>
+<b>COURAGE to STAND</b>
 
-*   We speak the truth.
-*   We show consideration to others.
-*   We learn from our mistakes.
+*   We do the right thing.
+*   We dare to try.
+*   We finish the race strong.
 
 <img src="/images/Values/Sincerity.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
 
@@ -40,11 +40,11 @@ A <b>Dynamic</b> Community of <b>Compassionate Leaders</b> and <b>Critical 
 <b>SINCERITY of MIGHT</b>
 
 *   We seek to learn.
-*   We plan and act on what we set out to do.
-*   We work hard and excel in what we do.
+*   We show consideration to others.
+*   We learn from our mistakes.
 
 
-<img src="/images/Diligence.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
+<img src="/images/Values/Diligence.png" style="width:180px;height:200px;margin-right:45px;" align = "left">
 
 
 <b>DILIGENCE of HAND</b>

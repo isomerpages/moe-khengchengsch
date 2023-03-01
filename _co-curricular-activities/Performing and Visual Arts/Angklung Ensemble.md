@@ -8,7 +8,7 @@ third_nav_title: Performing and Visual Arts
 <span style="font-size:16.0pt;font-family:Arial;color:black">An Active Appreciator and Innovator through Arts.
 
 # Mission
-<span style="font-size:16.0pt;font-family:Arial;color:black">Empowering every child with the skills and knowledge to explore and experiment in Art.
+<span style="font-size:16.0pt;font-family:Arial;color:black">Empowering every child with the skills and knowledge to explore and experiment in Arts.
 
 # Objectives &amp; Approach
 <span style="font-size:16.0pt;font-family:Arial;color:black">The Angklung curriculum seeks to teach our students to learn and appreciate Angklung through performing pieces that cater to current popular trends.

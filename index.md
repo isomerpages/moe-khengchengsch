@@ -20,7 +20,7 @@ sections:
         - title: Connect with us
           description: ""
           url: /newsletter/
-      background: /images/Staff 2022.jpg
+      background: /images/20190801_072504.jpg
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

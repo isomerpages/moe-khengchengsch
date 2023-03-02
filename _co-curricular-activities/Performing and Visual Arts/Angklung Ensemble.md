@@ -14,7 +14,7 @@ third_nav_title: Performing and Visual Arts
 <span style="font-size:16.0pt;font-family:Arial;color:black">The Angklung curriculum seeks to teach our students to learn and appreciate Angklung through performing pieces that cater to current popular trends.
 
 # Key Programmes
-<span style="font-size:16.0pt;font-family:Arial;color:black">Participate in SYF Central Judging.
+<span style="font-size:16.0pt;font-family:Arial;color:black">Participate in SYF Central Judging.<br>
 
 # Organisation Chart
 
@@ -47,3 +47,10 @@ third_nav_title: Performing and Visual Arts
   none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt" width="289"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Mdm Amber Ye Xiao Xia<br>amber_ye_xiao_xia@moe.edu.sg</span></p></td></tr></tbody></table>
+
+# Achievements
+<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Achievements since 2014</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">2014 – Certificate of Accomplishment<br>2016 – Certificate of Distinction<br>2018 – Certificate of Accomplishment<br>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">One of the KCS Angklung Ensemble highlights over the years was when the group was invited to perform at the Opening Ceremony of the Singapore Youth Festival in 2013, together with several Angklung Ensemble from secondary schools. It was indeed an honour for the young ensemble to be part of a grand performance as they performed for many distinguished guests. In addition to performances in school, the group has been invited occasionally to perform at various community and public events. They have played at the Republic Polytechnic, ACS Concert Hall, Marina Barrage, Ngee Ann City Civic Plaza, Gardens by the Bay, HDB Hub in Toa Payoh and many more. The Ensemble currently boasts a membership of 50 students from P3 to P6.<br><br>
+In 2017, the school has engaged a new conductor, Ms Syafiqah ‘Adha Sallehin, to lead the ensemble to a new chapter in its performance and competition ambitions. As a musician, composer and Performing Arts educator herself, Ms Syafiqah brings with her the passion and expertise which is unique to the developmental aspects of the students in the CCA. The group aims to achieve greater heights by consistently putting up quality performances, both internal and external, and by continuing to fly the Kheng Cheng flag high.

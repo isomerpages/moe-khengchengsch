@@ -21,17 +21,17 @@ School Rules
 	<li>Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.
 
 
-![](/images/Kheng-Cheng-School-uniform-rule.png)
+<img src="/images/Uniform/uniform.png" style="width:100%">
 
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>Hair</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 <ul>
 	<li>Hair must be neat and hair/fringe must not touch the eyebrows or the collar.
-*   Girls with shoulder-length or long hair hanging below the blouse collar must be tied up.  
-    Long fringe must be clipped. Only white, blue or black hair accessories are allowed.
-*   Boys must be neat in appearance, clean-shaven and no facial hair is allowed. Punk or outlandish hairstyle is not allowed.
-*   Tinting and/or highlighting of hair is not allowed.<br>
+	<li>Girls with shoulder-length or long hair hanging below the blouse collar must be tied up.  
+	<li>Long fringe must be clipped. Only white, blue or black hair accessories are allowed.
+	<li>Boys must be neat in appearance, clean-shaven and no facial hair is allowed. Punk or outlandish hairstyle is not allowed.
+	<li>Tinting and/or highlighting of hair is not allowed.<br>
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>Accessories</b>
 <ul>

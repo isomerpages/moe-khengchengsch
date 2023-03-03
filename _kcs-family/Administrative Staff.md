@@ -3,105 +3,122 @@ title: Administrative Staff
 permalink: /kcs-family/Administrative-Staff/
 description: ""
 ---
-Administrative Staff
-====================
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-x9sy{background-color:#F2CB7C;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-u1cn{background-color:#EEE;text-align:left;vertical-align:middle}
-.tg .tg-r5gp{background-color:#EEE;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-x9sy"><span style="font-weight:bolder">Name</span></th>
-    <th class="tg-x9sy"><span style="font-weight:bolder">Designation</span></th>
-    <th class="tg-x9sy"><span style="font-weight:bolder">Email Address</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-u1cn">Mr Reeve Sim</td>
-    <td class="tg-u1cn">Administration Manager</td>
-    <td class="tg-r5gp">reeve_sim@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mr K Surindranath</td>
-    <td class="tg-cly1">Administration Manager</td>
-    <td class="tg-0lax">surindranath_kaseenathan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Mr Karuppiah Ravindran</td>
-    <td class="tg-u1cn">Operations Manager</td>
-    <td class="tg-r5gp">karuppiah_ravindran@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mr Lim Teng Poh Joey</td>
-    <td class="tg-cly1">Operations Manager</td>
-    <td class="tg-0lax">lim_teng_poh@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Mr Jason Sim</td>
-    <td class="tg-u1cn">ICT Manager</td>
-    <td class="tg-r5gp">sim_teck_hee_jason@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mdm Koh Siew Huang</td>
-    <td class="tg-cly1">Corporate Support Officer</td>
-    <td class="tg-0lax">koh_siew_huang@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Mdm Tan Hwee Hwee Alice</td>
-    <td class="tg-u1cn">Corporate Support Officer</td>
-    <td class="tg-r5gp">tan_hwee_hwee_a@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Miss Goh Pei Ling</td>
-    <td class="tg-cly1">Corporate Support Officer</td>
-    <td class="tg-0lax">goh_pei_ling@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Miss Eunice Yip</td>
-    <td class="tg-u1cn">Corporate Support Officer</td>
-    <td class="tg-r5gp">yip_chai_qun_eunice@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Ms May Kow</td>
-    <td class="tg-cly1">Operations Support Officer</td>
-    <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Mr Ong Boon Hoe</td>
-    <td class="tg-u1cn">Operations Support Officer</td>
-    <td class="tg-u1cn"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mr Tan Kiew Teck</td>
-    <td class="tg-cly1">Operations Support Officer</td>
-    <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Mdm Woo Ah Yoke</td>
-    <td class="tg-u1cn">Operations Support Officer</td>
-    <td class="tg-u1cn"></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">Mr Kng Weijie</td>
-    <td class="tg-cly1">Desktop Engineer 1</td>
-    <td class="tg-cly1"></td>
-  </tr>
-  <tr>
-    <td class="tg-u1cn">Mr Agung</td>
-    <td class="tg-u1cn">Desktop Engineer 2</td>
-    <td class="tg-0lax"></td>
-  </tr>
-</tbody>
-</table>
+# Administrative Staff
+<table style="width:485.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
+ mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="647" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;
+  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
+  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" width="425"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Designation</span></b></p></td><td style="width:166.5pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:9.5pt" valign="top" width="222"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name</span></b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Administration Manager 1</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Reeve Sim<br>reeve_sim@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Administration Manager 2</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr K Surindranath<br>surindranth_kaseenathan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Operations Manager 1</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Karuppiah Ravidran<br>Karuppiah_ravindran@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Operations Manager 2</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Lim Teng Poh Joey<br>lim_teng_poh@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:5;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">ICT Manager</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Sim Teck Hee Jason<br>sim_teck_hee_jason#@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Corporate Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mdm Koh Siew Huang<br>Koh_siew_huang@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:7;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Corporate Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mdm Tan Hwee Hwee Alice<br>tan_hwee_hwee_a@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:8;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Corporate Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Miss Goh Pei Ling<br>goh_pei_ling@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:9;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Corporate Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Miss Eunice Yip<br>yip_chai_qun_eunice@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:10;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Operations Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Ms May Kow</span></p></td></tr><tr style="mso-yfti-irow:11;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Operations Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Ong Boon Hoe</span></p></td></tr><tr style="mso-yfti-irow:12;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Operations Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Tan Kiew Teck</span></p></td></tr><tr style="mso-yfti-irow:13;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Operations Support Officer</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mdm Woo Ah Yoke</span></p></td></tr><tr style="mso-yfti-irow:14;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Desktop Engineer 1</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Kng Weijie</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Desktop Engineer 2</span></p></td><td style="width:166.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="222"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mr Agung</span></p></td></tr></tbody></table>

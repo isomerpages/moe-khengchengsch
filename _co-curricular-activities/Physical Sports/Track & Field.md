@@ -12,7 +12,7 @@ third_nav_title: Physical Sports
 <ul><span style="font-size:16.0pt;font-family:Arial;color:black">Our Track &amp; Field Team aims to develop and support athletes in achieving their full potential through hard work, dedication, and a commitment to excellence. We strive to create a supportive and inclusive team environment that fosters personal growth, sportsmanship, and a passion for track and field.
 	
 # Objectives
-<span style="font-size:16.0pt;font-family:Arial;color:black">
+<span style="font-size:16.0pt;font-family:Arial;color:black" align="left">
 <ol>
 	<li>To provide a safe and supportive training environment for athletes of all skill levels.
 	</li><li>To develop the technical skills of our athletes through coaching and training programs that focus on proper technique, strength, and conditioning.

@@ -41,11 +41,8 @@ School Rules
 	<li>Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.<br>
 
 
-<span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Attendance </u></b>
-</span>
-
-
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students must:</b>
+<span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Attendance </u></b><br><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students must:</b><br><br>
 <ul>
 	<li>attend school regularly and be punctual for all school.
   <li>submit a medical certificate and/or a letter from parents to the Form Teacher upon his/her return to school to explain absence.

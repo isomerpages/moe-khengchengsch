@@ -3,10 +3,8 @@ title: Heritage
 permalink: /about-us/heritage/
 description: ""
 ---
-Heritage
-========
-
-### HISTORY OF KHENG CHENG SCHOOL SINCE 1927
+# Heritage
+# HISTORY OF KHENG CHENG SCHOOL SINCE 1927
 
 <img src="/images/Heritage/Mdm-Lim.jpg" style="width:200px;height:240px;margin-right:15px;" align = "left">
 

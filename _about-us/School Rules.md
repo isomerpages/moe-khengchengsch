@@ -10,48 +10,52 @@ School Rules
 
 
 
-<b>School Uniform</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>School Uniform</b>
 
-*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
-*   White canvas shoes and white school socks that are clearly visible above the ankle are to be worn.
-*   Fingernails must be short, clean and unpainted.
-*   Name tags should be sewn onto uniforms as shown below.
-*   Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+<ul>
+	<li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+	<li> White canvas shoes and white school socks that are clearly visible above the ankle are to be worn
+	<li>Fingernails must be short, clean and unpainted.
+	<li>Name tags should be sewn onto uniforms as shown below.
+	<li>Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.
 
 
 ![](/images/Kheng-Cheng-School-uniform-rule.png)
 
 
-<b>Hair</b>
-
-*   Hair must be neat and hair/fringe must not touch the eyebrows or the collar.
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Hair</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+<ul>
+	<li>Hair must be neat and hair/fringe must not touch the eyebrows or the collar.
 *   Girls with shoulder-length or long hair hanging below the blouse collar must be tied up.  
     Long fringe must be clipped. Only white, blue or black hair accessories are allowed.
 *   Boys must be neat in appearance, clean-shaven and no facial hair is allowed. Punk or outlandish hairstyle is not allowed.
-*   Tinting and/or highlighting of hair is not allowed.
+*   Tinting and/or highlighting of hair is not allowed.<br>
 
-<b>Accessories</b>
-
-*   Only small ear studs are allowed for girls.
-*   No ornaments or jewellery is allowed to be worn in school.
-*   Mobile phones and electronic gadgets that can be used for communication and recording purposes are not allowed in school.
-*   Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.
-
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Accessories</b>
+<ul>
+	<li>Only small ear studs are allowed for girls.
+	<li>No ornaments or jewellery is allowed to be worn in school.
+	<li>Mobile phones and electronic gadgets that can be used for communication and recording purposes are not allowed in school.
+	<li>Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.<br>
+</span>
 
 <span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Attendance </u></b>
+</span>
 
 
-<b>All students must:</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students must:</b>
+<ul>
+	<li>attend school regularly and be punctual for all school.
+  <li>submit a medical certificate and/or a letter from parents to the Form Teacher upon his/her return to school to explain absence.
+	<li>not leave school without official permission during school.
+	<li>seek permission from the Form/Subject Teacher to leave early in the event of illness or unexpected circumstances.<br><br>
 
-*   attend school regularly and be punctual for all school.
-*   submit a medical certificate and/or a letter from parents to the Form Teacher upon his/her return to school to explain absence.
-*   not leave school without official permission during school.
-*   seek permission from the Form/Subject Teacher to leave early in the event of illness or unexpected circumstances.
+<span style="font-size:16.0pt;font-family:Arial;color:black" align="left">
+<u> Singing of National Anthem & Recitation of National Pledge </u>
 
-
-#### <u> Singing of National Anthem & Recitation of National Pledge </u>
-
-<b>All students:</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students:</b>
 
 *   who are Singapore citizens must sing the National Anthem and take the Pledge.
 *   will take the Pledge with the right fist placed over the heart.
@@ -61,7 +65,7 @@ School Rules
 
 #### <u> General Behaviour </u>
 
-<b>All students:</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students:</b>
 
 *   must uphold the good name of the school and exercise self-discipline both in and outside the school.
 *   are not allowed to enter the staff room and special rooms unless accompanied by a teacher.

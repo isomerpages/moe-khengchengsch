@@ -8,7 +8,7 @@ Heritage
 
 ### HISTORY OF KHENG CHENG SCHOOL SINCE 1927
 
-<img src="/images/Mdm-Lim.jpg" style="width:200px;height:240px;margin-right:15px;" align = "left">
+<img src="/images/Heritage/Mdm-Lim.jpg" style="width:200px;height:240px;margin-right:15px;" align = "left">
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 The school’s history can be traced back to 1910 when Madam Lim Peng Tuan arrived and set up home in Shrewsbury Road, a rural area near Newton and Moulmein. In 1922, Madam Lim was approached by a scholar, Mr Tan Cheo Teng to set up a school. She agreed as she saw this to be an excellent opportunity to provide education for the neighbourhood children.
@@ -21,6 +21,6 @@ In 1960s when the government built the first satellite town in Toa Payoh, the sc
 
 We give credit to the founder, Mdm Lim for being far-sighted. Though she only had a few years of education and was not wealthy, she firmly believed that the only road out of poverty was the avenue of education. She strongly believed that education could empower the people. Madam Lim gave her school the Teochew name, “Kheng Cheng” which means to “uplift the youths”. This name continues to inspire us till today.
 
-![](/images/KCS-Present.jpg)
+![](/images/Heritage/KCS-Present.jpg)
 
-<img src="/images/KCS-Present-2.jpg" style="width:65%">
+<img src="/images/Heritage/KCS-Present-2.jpg" style="width:65%">

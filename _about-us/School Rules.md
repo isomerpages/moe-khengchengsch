@@ -6,7 +6,7 @@ description: ""
 School Rules
 ============
 
-#### <u> Appearance </u>
+<span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Appearance </u></b>
 
 
 
@@ -38,7 +38,7 @@ School Rules
 *   Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.
 
 
-#### <u> Attendance </u>
+<span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Attendance </u></b>
 
 
 <b>All students must:</b>

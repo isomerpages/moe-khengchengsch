@@ -39,7 +39,7 @@ School Rules
 	<li>No ornaments or jewellery is allowed to be worn in school.
 	<li>Mobile phones and electronic gadgets that can be used for communication and recording purposes are not allowed in school.
 	<li>Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.<br>
-</span>
+
 
 <span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Attendance </u></b>
 </span>

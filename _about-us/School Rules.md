@@ -21,7 +21,7 @@ School Rules
 	<li>Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.
 
 
-<img src="/images/Uniform/uniform.png" style="width:100%">
+<img src="/images/Uniform/uniform1.png" style="width:60%">
 
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>Hair</b>

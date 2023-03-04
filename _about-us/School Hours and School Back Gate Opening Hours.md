@@ -6,62 +6,89 @@ description: ""
 School Hours and School Back Gate Opening Hours
 ===============================================
 
-##### <b>School Hours & Dismissal Timings</b>
+##### <b>School Hours &amp; Dismissal Timings</b>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-p4ly{background-color:#42103C;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-p2di{background-color:#EEE;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-niwn{background-color:#EEE;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-p4ly" rowspan="2"><span style="font-weight:bolder">Level / Group</span></th>
-    <th class="tg-p4ly" colspan="3"><span style="font-weight:bolder">Days</span></th>
-  </tr>
-  <tr>
-    <th class="tg-p4ly"><span style="font-weight:bolder">Mon – Thurs</span></th>
-    <th class="tg-p4ly"><span style="font-weight:bolder">Fri</span></th>
-    <th class="tg-p4ly"><span style="font-weight:bolder">Remarks</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-amwm"><span style="font-weight:bolder">Primary 1 Students</span></td>
-    <td class="tg-baqh">7.30am – 1.30pm</td>
-    <td class="tg-baqh" rowspan="2">7.30am – 12.30pm</td>
-    <td class="tg-baqh" rowspan="6">All students are to report to the respective venues <span style="font-weight:bolder">by 7.25am daily</span>.<br><br>Flag raising ceremony is conducted at 7.30am and lessons will begin thereafter</td>
-  </tr>
-  <tr>
-    <td class="tg-p2di"><span style="font-weight:bolder">Primary 2 Students</span></td>
-    <td class="tg-niwn">7.30am – 1.30pm</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm"><span style="font-weight:bolder">Primary 3 Students</span></td>
-    <td class="tg-baqh">7.30am – 1.30pm</td>
-    <td class="tg-baqh" rowspan="4">7.30am – 3.00pm</td>
-  </tr>
-  <tr>
-    <td class="tg-p2di"><span style="font-weight:bolder">Primary 4 Students</span></td>
-    <td class="tg-niwn">7.30am – 1.30pm</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm"><span style="font-weight:bolder">Primary 5 Students</span></td>
-    <td class="tg-baqh">7.30am – 1.30pm</td>
-  </tr>
-  <tr>
-    <td class="tg-p2di"><span style="font-weight:bolder">Primary 6 Students</span></td>
-    <td class="tg-niwn">7.30am – 1.30pm</td>
-  </tr>
-</tbody>
-</table>
+<table style="width:570.9pt;margin-left:-.15pt;background:white;border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:1184;
+ mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="761" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:89.4pt;border:solid windowtext 2.25pt;
+  background:#FFE599;mso-background-themecolor:accent4;mso-background-themetint:
+  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" rowspan="2" width="119"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Level</span></b></p></td><td style="width:481.5pt;border:solid windowtext 2.25pt;
+  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
+  mso-background-themecolor:accent4;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:9.5pt" valign="top" colspan="3" width="642"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Days</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:9.5pt"><td style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#FFE599;mso-background-themecolor:accent4;mso-background-themetint:
+  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" width="186"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Monday - Thursday</span></b></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#FFE599;mso-background-themecolor:accent4;mso-background-themetint:
+  102;padding:.75pt .75pt .75pt .75pt;height:9.5pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Friday</span></b></p></td><td style="width:225.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#FFE599;mso-background-themecolor:accent4;mso-background-themetint:
+  102;padding:.75pt .75pt .75pt .75pt;height:9.5pt" valign="top" width="300"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Remarks</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:19.2pt"><td style="width:89.4pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="119"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Primary 1</span></p></td><td style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" rowspan="2" width="186"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">7.30am – 1.30pm</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" rowspan="2" width="156"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">7.30am – 12.30pm</span></p></td><td style="width:225.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" rowspan="6" width="300"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">All students are to report to the respective venues by 7.25am daily.</span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">&nbsp;</span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Flag raising ceremony is conducted at 7.30am and lessons will begin thereafter.</span></p></td></tr><tr style="mso-yfti-irow:3;height:29.4pt"><td style="width:89.4pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:29.4pt" width="119"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Primary 2</span></p></td></tr><tr style="mso-yfti-irow:4;height:29.4pt"><td style="width:89.4pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:29.4pt" width="119"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Primary 3</span></p></td><td style="width:139.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:29.4pt" rowspan="4" width="186"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">7.30am – 1.30pm</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:29.4pt" rowspan="4" width="156"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">7.30am – 3.00pm</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:29.4pt"><td style="width:89.4pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:29.4pt" width="119"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Primary 4</span></p></td></tr><tr style="mso-yfti-irow:6;height:29.4pt"><td style="width:89.4pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:29.4pt" width="119"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Primary 5</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:29.4pt"><td style="width:89.4pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:29.4pt" width="119"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Primary 6</span></p></td></tr></tbody></table>
 
 
 ##### <b>Recess and Lunch Timings</b>
@@ -111,7 +138,7 @@ School Hours and School Back Gate Opening Hours
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-p4ly" colspan="2"><span style="font-weight:bolder">CCA (Primary 3 to Primary 6) </span></th>
+    <th colspan="2" class="tg-p4ly"><span style="font-weight:bolder">CCA (Primary 3 to Primary 6) </span></th>
   </tr>
 </thead>
 <tbody>
@@ -156,7 +183,7 @@ School Hours and School Back Gate Opening Hours
     <td class="tg-niwn">6.45am – 7.30am</td>
   </tr>
   <tr>
-    <td class="tg-1wig" rowspan="2"><span style="font-weight:bolder">Dismissal</span></td>
+    <td rowspan="2" class="tg-1wig"><span style="font-weight:bolder">Dismissal</span></td>
     <td class="tg-baqh">Monday – Thursday</td>
     <td class="tg-baqh">1.15pm – 2.00pm</td>
   </tr>
@@ -197,7 +224,7 @@ School Hours and School Back Gate Opening Hours
     <td class="tg-niwn">6.45am – 7.30am</td>
   </tr>
   <tr>
-    <td class="tg-1wig" rowspan="2"><span style="font-weight:bolder">Dismissal</span></td>
+    <td rowspan="2" class="tg-1wig"><span style="font-weight:bolder">Dismissal</span></td>
     <td class="tg-baqh">Monday – Thursday</td>
     <td class="tg-baqh">1.15pm – 2.00pm</td>
   </tr>

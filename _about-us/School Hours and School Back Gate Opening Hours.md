@@ -87,9 +87,7 @@ description: ""
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Primary 6</span></p></td></tr></tbody></table>
 
-
-# Recess and Lunch Timings
-
+##### <b>Recess and Lunch Timings</b>
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="665" style="width:498.9pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:1184;
  mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.65pt"><td width="665" style="width:498.9pt;border:solid windowtext 2.25pt;background:
@@ -111,7 +109,7 @@ description: ""
   color:black;mso-color-alt:windowtext">1<sup>st </sup>Lunch (Primary 4 &amp; Primary 6): 11.00am – 11.30am<br>2<sup>nd</sup> Lunch (Primary 3 &amp; Primary 5): 11.30am – 12.00pm</span><span style="font-size:16.0pt;line-height:
   107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
 
-# CCA Timings
+##### <b>CCA Timings</b>
 <table style="width:498.9pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:1184;
  mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="665" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.65pt"><td style="width:498.9pt;border:solid windowtext 2.25pt;background:
@@ -124,10 +122,8 @@ description: ""
   color:black;mso-color-alt:windowtext">Fridays: 1.00pm – 3.00pm (For Primary 3 – Primary 6 only)</span><span style="font-size:16.0pt;line-height:107%;
   font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
 
+##### <b>Front Gates Opening Hours (Gate T)</b>
 
-
-
-# Front Gates Opening Hours (Gate T)
 <table style="width:426.9pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:1184;
  mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="569" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;background:
@@ -187,9 +183,7 @@ description: ""
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black;mso-color-alt:windowtext">3.00pm – 3.30pm</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
 
-
-# Back Gate Opening Hours
-
+##### <b>Back Gate Opening Hours</b>
 <table style="width:426.9pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:1184;
  mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="569" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;background:
@@ -250,8 +244,5 @@ description: ""
   color:black;mso-color-alt:windowtext">3.00pm – 3.30pm</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>Parents/guardians are reminded to be punctual when picking up their children/ward at the school gates.</b>
-
-
-
 
 <i><b>Correct as at 5 March 2023</b></i></span>

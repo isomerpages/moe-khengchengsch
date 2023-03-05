@@ -75,7 +75,11 @@ This school publication consists of three volumes of EL and MT literary works wr
 
 To motivate our P1 to P3 children to read fluently and expressively, the school engages the students in using the fun digital courseware, Moo-O. This collaborative platform allows the readers to be immersed in the story that they are reading, transforming them into the story characters. As part of cultivating a love for the language through innovative and engaging broadcasting technologies, our P4 and P5 students create content using NewsMaker for a variety of purposes. 
 
-
+<img src = "/images/English/Moo-O.png" style="width:100%"><br>
+<img src = "/images/English/Moo1.jpg" style="width:100%"><br>
+<img src = "/images/English/moo2.jpg" style="width:100%"><br>
+<img src = "/images/English/moo3.jpg" style="width:100%"><br>
+	
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>7.	Creative Writing Programme</b>
 
 Primary 5 students who show interest and aptitude in creative writing are selected to submit a portfolio of their writing to apply for a Creative Writing Programme conducted by MOE. This programme aims to help our budding writers hone their writing skills and nurture their love for the language. Selected students participate in a 3 day non-residential camp where they get to learn writing techniques taught by published writers. Students may also get an opportunity to showcase their writing in Mementoes, a compilation of poetry and prose shared during the course.

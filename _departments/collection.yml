@@ -4,7 +4,6 @@ collections:
     order:
       - Mathematics/.keep
       - English Language.md
-      - Mathematics.md
       - Science.md
       - Mother Tongue.md
       - ICT & Partnership/.keep

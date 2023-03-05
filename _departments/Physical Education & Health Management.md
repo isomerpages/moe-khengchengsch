@@ -166,4 +166,4 @@ Physical activity is the cornerstone of the KCS PE programme. The PE programme i
   color:black">&nbsp;</span><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Members</span></p></td><td style="width:200.25pt;border:solid windowtext 2.25pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt" width="267"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"><br>Mr Lee Qin Yi<br>Ms Grace Yap<br>Miss Yeo Li Ching<br>Mr Raymond Khoo<br>Mr Yung Keng Sing</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span>
+  color:black">Mr Lee Qin Yi<br>Ms Grace Yap<br>Miss Yeo Li Ching<br>Mr Raymond Khoo<br>Mr Yung Keng Sing</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span>

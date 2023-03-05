@@ -104,11 +104,13 @@ The 28th edition of the Annual World Children’s Picture Contest is a drawing c
 	
 ##### <b>KCS Art Display at Mediacorp Campus</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">	
-As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our P4 students, during the digital photography module.
+As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our P4 students, during the digital photography module.<br>
 
 We are extremely proud of the students!
+You may find the picture of the display below:<br><br>
+<img src="/images/Art/Artdisplay1.png" style="width:220px;height:200px;margin-right:50px;" align = "left"><img src="/images/Art/Artdisplay2.png" style="width:220px;height:200px;margin-right:50px;" align = "right"><br><br><br><br><br><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Here are some photographs of our student photographers in action!<br><br>
 
-You may find the pitcure of the display below:
-<img src="/images/Art/Artdisplay1.png" style="width:220px;height:200px;margin-right:50px;" align = "left"><img src="/images/Art/Artdisplay2.png" style="width:220px;height:200px;margin-right:50px;" align = "right"><br>
-	
-<span style="font-size:16.0pt;font-family:Arial;color:black">Here are some photographs of our student photographers in action!
+<img src="/images/Art/artaction1.jpg" style="width:220px;height:200px;margin-right:50px;" align = "left"><img src="/images/Art/artaction2.jpg" style="width:220px;height:200px;margin-right:50px;" align = "left">
+
+<img src="/images/Art/artaction3.jpg" style="width:220px;height:200px;margin-right:50px;" align = "left"><img src="/images/Art/artaction4.jpg" style="width:220px;height:200px;margin-right:50px;" align = "left">

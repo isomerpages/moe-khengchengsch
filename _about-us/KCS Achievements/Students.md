@@ -109,4 +109,6 @@ As part of our Art department’s belief to provide students with opportunities 
 We are extremely proud of the students!
 
 You may find the pitcure of the display below:
-<img src="/images/Art/Artdisplay1.png" style="width:220px;height:200px;margin-right:50px;" align = "left"><img src="/images/Art/Artdisplay2.png" style="width:220px;height:200px;margin-right:50px;" align = "right">
+<img src="/images/Art/Artdisplay1.png" style="width:220px;height:200px;margin-right:50px;" align = "left"><img src="/images/Art/Artdisplay2.png" style="width:220px;height:200px;margin-right:50px;" align = "right"><br>
+	
+<span style="font-size:16.0pt;font-family:Arial;color:black">Here are some photographs of our student photographers in action!

@@ -52,8 +52,8 @@ third_nav_title: KCS Achievements
   line-height:107%;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:.25in;box-sizing: border-box"><td style="width:107.55pt;border:solid windowtext 2.25pt;
   background:#9ED2F7;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:.25in;
   box-sizing: border-box" width="143"><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
-  &quot;Arial&quot;,sans-serif;color:black">&nbsp;<span style="mso-no-proof:yes"><img alt="Nilam" height="171" width="114"></span></span></p><p style="box-sizing: border-box"><span style="font-size:14.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img alt="Pingat Kepujian" height="148" width="96"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:436.95pt;border:solid windowtext 2.25pt;
+  &quot;Arial&quot;,sans-serif;color:black">&nbsp;<span style="mso-no-proof:yes"></span></span></p><p style="box-sizing: border-box"><span style="font-size:14.0pt;font-family:
+  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img src="images/Achievements/PingatKepujian.png" height="148" width="96"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:436.95pt;border:solid windowtext 2.25pt;
   background:#9ED2F7;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:.25in;
   box-sizing: border-box" width="583"><p class="MsoNormal"><strong style="box-sizing: border-box"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Ms Nilam Shafi’a Bte Khamis</span></strong><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
@@ -61,9 +61,9 @@ third_nav_title: KCS Achievements
   &quot;Arial&quot;,sans-serif;color:black">Congratulations to Miss Nilam for being awarded the Commendation Medal at the National Day Award 2022! The Commendation Medal is awarded to public officers who have distinguished themselves through commendable performance and conduct, or significant efficiency, competence and devotion to duty.</span></p></td></tr><tr style="mso-yfti-irow:2;height:.25in;box-sizing: border-box"><td style="width:107.55pt;border:solid windowtext 2.25pt;
   background:#9ED2F7;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:.25in;
   box-sizing: border-box" width="143"><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img alt="Winnie" height="175" width="144"></span><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"></span><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black"></span></p><p style="box-sizing: border-box"><span style="font-size:14.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img alt="Pingat Bakti Setia" height="139" width="71"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:436.95pt;border:solid windowtext 2.25pt;
+  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img src="images/Achievements/pingatbaktisetia.png" height="139" width="71"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:436.95pt;border:solid windowtext 2.25pt;
   background:#9ED2F7;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:.25in;
   box-sizing: border-box" width="583"><p class="MsoNormal"><strong style="box-sizing: border-box"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Ms Leong Wan Ying, Winnie&nbsp;</span></strong><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
@@ -71,9 +71,9 @@ third_nav_title: KCS Achievements
   &quot;Arial&quot;,sans-serif;color:black">Congratulations to Miss Winnie Leong for being awarded the Long Service Medal at the National Day Award 2022! The Long Service Medal is awarded to public service officers who are of irreproachable character and have completed at least 25 years of service in the public service.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:.25in;box-sizing: border-box"><td style="width:107.55pt;border:solid windowtext 2.25pt;
   background:#9ED2F7;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:.25in;
   box-sizing: border-box" width="143"><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img alt="Surin" height="139" width="146"></span><span style="font-size:
+  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"></span><span style="font-size:
   14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p><p style="box-sizing: border-box"><span style="font-size:14.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img alt="Pingat Bakti Setia" height="175" width="89"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:436.95pt;border:solid windowtext 2.25pt;
+  &quot;Arial&quot;,sans-serif;color:black;mso-no-proof:yes"><img src="images/Achievements/pingatbaktisetia.png" height="139" width="71"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:436.95pt;border:solid windowtext 2.25pt;
   background:#9ED2F7;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:.25in;
   box-sizing: border-box" width="583"><p class="MsoNormal"><strong style="box-sizing: border-box"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Mr Surindranath S/O Kaseenathan</span></strong><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;

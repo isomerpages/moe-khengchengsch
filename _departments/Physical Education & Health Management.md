@@ -67,7 +67,7 @@ Physical activity is the cornerstone of the KCS PE programme. The PE programme i
   3.75pt 3.75pt 3.75pt 3.75pt" width="109"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Goal 6</span></p></td><td style="width:594.4pt;border:solid windowtext 2.25pt;padding:
   3.75pt 3.75pt 3.75pt 3.75pt" width="793"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Enjoy and value the benefits of living a physically active and healthy life.</span></p></td></tr></tbody></table></span></li></ul></span></span></span></li></span></ul></span>
+  &quot;Times New Roman&quot;;color:black">Enjoy and value the benefits of living a physically active and healthy life.</span></p></td></tr></tbody></table></span></li></ul>
 
 # Key Programmes
 <table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="658" style="width:493.5pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;

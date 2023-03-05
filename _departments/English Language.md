@@ -91,7 +91,10 @@ Primary 5 students who show interest and aptitude in creative writing are select
 
  Tinkerspace is where students engage in hands-on activities in Science, Technology, Arts and Maths (S.T.E.A.M). We want our students to put on their tinkering hats and let their imagination run wild.     
 
+<img src = "/images/English/Tinkerspace1.jpeg" style="width:50%"><br>
 <img src = "/images/English/Tinkerspace2.jpeg" style="width:50%"><br>
+<img src = "/images/English/Tinkerspace3.jpeg" style="width:50%"><br>
+<img src = "/images/English/Tinkerspace4.jpeg" style="width:50%"><br>
 	
 # Organisation Chart
 

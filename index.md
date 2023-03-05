@@ -20,6 +20,7 @@ sections:
         - title: Connect with us
           description: ""
           url: /newsletter/
+      background: /images/Homepage/front.jpg
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

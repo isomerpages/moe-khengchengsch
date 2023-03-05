@@ -17,7 +17,6 @@ description: ""
 <img src = "/images/News/P4ArtMuseum/artmuseum7.jpg" style="width:30%"><br>
 <img src = "/images/News/P4ArtMuseum/artmuseum8.jpg" style="width:30%"><br>
 
-
 # Our Art SpaceCNY ANybao Artworks Display with Toa Payoh East CC (2023)
 <span style="font-size:16.0pt;font-family:Arial;color:black">We are pleased to share with you our students’ second collaboration with Toa Payoh East Community Centre (TPY East CC) for this year’s Chinese New Year event. Our Primary 2 to Primary 6 students made a total of 1000 angbao artworks for the volunteers from Toa Payoh East CC to decorate the community spaces at Toa Payoh East Zone 2 for this festive occasion.
 

@@ -101,3 +101,11 @@ The 28th edition of the Annual World Children’s Picture Contest is a drawing c
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="88"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr></tbody></table>
+	
+##### <b>KCS Art Display at Mediacorp Campus</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">	
+As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our P4 students, during the digital photography module.
+
+We are extremely proud of the students!
+
+You may find the pitcure of the display below:

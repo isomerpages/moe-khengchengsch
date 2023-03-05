@@ -3,11 +3,13 @@ title: News
 permalink: /news/
 description: ""
 ---
-# Chinese New Year Celebration
+# P4 Art Museum-based Learning (Family Education) 2023
 
-It has been a long three years since Kheng Cheng teachers and students sit together to enjoy the Lunar New Year in the hall! On the 20 January, the hall was first filled with melodious and uplifting musical medley by the Chinese Orchestra team. The lyrical or contemporary dance yet peppered with Chinese essence that caught all the attention. Angklung, the traditional Malay instruments, added to the harmonious accent of Kheng Cheng ambience. It was ecstatic to see the overwhelming response from the audience during the games session. Well-wishes video from the teachers added an auspicious atmosphere. The climax of celebration was the Lion Dance and Big Head Wawa dancing which captivated the students and elicited rapturous cheers. Happy New Year to us all!
+<span style="font-size:16.0pt;font-family:Arial;color:black">Museum-based Learning (MBL) has been implemented as one of the core learning experiences in the Primary Art Syllabus.
 
-![](/images/cny_1.jpg)
+<span style="font-size:16.0pt;font-family:Arial;color:black">This year, the visit to the museum was conducted on-site at National Gallery Singapore, where all Primary 4 students were engaged as artists and audiences to learn and appreciate local art and heritage as part of their visit experience to one of the local art museums. This MBL experience aims to promote character and citizenship values and dispositions through the school-based art curriculum by making meaningful learning connections between Art and Family Education which are also part of the Character and Citizenship Education (CCE) syllabus.
+
+
 
 # Our Art Space
 ![](/images/Slide2.png)

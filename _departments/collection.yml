@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Mathematics/Applied Learning Programme.md
-      - Mathematics/Mathematics.md
       - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Applied Learning Programme.md
       - English Language.md
       - Science.md
       - Mother Tongue.md

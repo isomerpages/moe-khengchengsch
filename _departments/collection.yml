@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Mathematics/Applied Learning Programme.md
-      - English Language.md
       - Science.md
       - Mother Tongue.md
       - ICT & Partnership/.keep

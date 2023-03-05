@@ -245,4 +245,4 @@ description: ""
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>Parents/guardians are reminded to be punctual when picking up their children/ward at the school gates.</b>
 
-<i><b>Correct as at 5 March 2023</b></i></span>
+<i><b>Correct as at 5 March 2023</b></i>

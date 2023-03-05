@@ -84,6 +84,8 @@ To motivate our P1 to P3 children to read fluently and expressively, the school 
 
 Primary 5 students who show interest and aptitude in creative writing are selected to submit a portfolio of their writing to apply for a Creative Writing Programme conducted by MOE. This programme aims to help our budding writers hone their writing skills and nurture their love for the language. Selected students participate in a 3 day non-residential camp where they get to learn writing techniques taught by published writers. Students may also get an opportunity to showcase their writing in Mementoes, a compilation of poetry and prose shared during the course.
 
+<img src = "/images/English/cwp1.jpg" style="width:100%"><br>
+<img src = "/images/English/cwp2.jpg" style="width:100%"><br>
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>8.	Tinkerspace</b>
 

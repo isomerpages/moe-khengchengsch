@@ -125,3 +125,15 @@ Physical activity is the cornerstone of the KCS PE programme. The PE programme i
   color:black">SAFE RIDING</span></p></span></td><td style="width:128.25pt;border:solid windowtext 2.25pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;box-sizing: border-box" width="171"><span style="box-sizing: border-box"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">P2, P3, P6</span></p></span></td></tr></tbody></table>
+
+##### <b>Health Management</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">With effect from 2016, Health Education (Physical Health) programmes are subsumed under the PE&HE Department. The programmes are listed as follows:<br><br>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Dental Health</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Students from Primary 1 and 2 are given lessons on how to brush their teeth by the school dental nurse. Primary 3 to 6 students receive two check-ups with the dental nurse within the year. There are also talks from the School Dental Nurse for the students to further educate them on ways to keep their teeth healthy and clean.<br>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>School Health Screening</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">School Health Screening takes place once every year where students receive check-ups on their eyesight, back and necessary injections.<br>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Health Fair</b><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Health Fair is held annually in August to raise awareness among students on health topics not covered in the Physical Health and Fitness. These include ‘Care for our Kidneys’, “Why drink milk?” and other domains of health.

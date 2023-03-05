@@ -20,7 +20,6 @@ sections:
         - title: Connect with us
           description: ""
           url: /newsletter/
-      background: /images/Homepage/KCS School building design_watermark for cover.jpeg
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

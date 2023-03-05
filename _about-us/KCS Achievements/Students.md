@@ -451,4 +451,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="107"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr></tbody></table>
-</span></li></ul></span></span></span></span></span></span></span></span></span></span></span></span>
+</span></li></ul>

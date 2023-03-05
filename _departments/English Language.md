@@ -57,8 +57,11 @@ The EL teachers conduct drama-in-writing sessions for their students in Primary 
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>3.	NOVEL Programme</b>
 
-The middle primary NOVEL programme aims to encourage a greater love for reading books beyond the Stellar curriculum. Narratives Of Very Exciting Lessons take place as students read extensively and view digital media through SLS lessons as well as engage in fun post-reading activities in class. Analysing linguistic features and popular storybook characters give our students an early introduction to the literary world of fiction and non-fiction books.
+<span style="font-size:16.0pt;font-family:Arial;color:black">The middle primary NOVEL programme aims to encourage a greater love for reading books beyond the Stellar curriculum. Narratives Of Very Exciting Lessons take place as students read extensively and view digital media through SLS lessons as well as engage in fun post-reading activities in class. Analysing linguistic features and popular storybook characters give our students an early introduction to the literary world of fiction and non-fiction books.<br>
 
+<img src="/images/English/Novel1.jpeg" style="width:600px;height:500px;margin-right:45px;" align = "left"><br>
+<img src="/images/English/Novel2.jpeg" style="width:600px;height:500px;margin-right:45px;" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>4.	P1 and P2 Learning Support Programmes, P3 and P4 Reading Remediation Programmes and Buddy Reading Programme</b>
 
 These programmes provide additional support for our students who are weak in their basic literacy and reading skills. The content and instructional methods are catered to these students and helmed by teachers who are specially trained to conduct these specialised programmes. Due to their small class sizes, the students receive more attention and help from their teachers, enabling them to learn better, boosting their confidence in the process. Some of the activities which the Primary 1 &amp; 2 students in the programme are engaged in include daily pre-assembly reading programmes.

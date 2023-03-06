@@ -8,7 +8,6 @@ image: ""
 ---
 <span style="font-size:16.0pt;font-family:Arial;color:black">Dear Parent/Guardian,
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">The March 2023 memo has been sent via Parents Gateway.  You can also view it here,  March-KCS Memo 2023
+<span style="font-size:16.0pt;font-family:Arial;color:black">The March 2023 memo has been sent via Parents Gateway.  You can also view it here, [MarchMemo2023](/files/Monthly%20Memo/Marchmemo2023.pdf)
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">Thank you.<br>
-<a href="[](/files/Monthly%20Memo/Marchmemo2023.pdf)">March 2023 Memo</a>

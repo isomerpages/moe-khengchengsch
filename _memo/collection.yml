@@ -1,0 +1,6 @@
+collections:
+  memo:
+    output: true
+    order:
+      - Newsletter.md
+      - Monthly Memo.md

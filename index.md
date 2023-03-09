@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: /news/
+          url: /artmuseum/
         - title: Resources
           description: ""
           url: /parentsresource/

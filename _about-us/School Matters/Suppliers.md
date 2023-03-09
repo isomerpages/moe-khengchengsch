@@ -25,22 +25,23 @@ Email: <a href = "mailto: popschs@popularworld.com">popschs@popularworld.com</a>
 <span style="font-size:18.0pt;font-family:Arial;color:black"><br>
 Website: <a href = "https://www.popular.com.sg" target="_blank">https://www.popular.com.sg</a>
 
-<span style="font-size:18.0pt;font-family:Arial;color:black"><b>Please contact school bookshop directly for any enquiries.<b>
+<span style="font-size:18.0pt;font-family:Arial;color:black"><b>Please contact school bookshop directly for any enquiries.</b>
 	
 # Dental Clinic@KCS
 <span style="font-size:18.0pt;font-family:Arial;color:black"><b>Contact Number: 87648106</b><br>
-<span style="font-size:18.0pt;font-family:Arial;color:black"><br>Operating Hours
-
+<span style="font-size:18.0pt;font-family:Arial;color:black"><br>Operating Hours<br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 <ul>
 	<li>8.00am to 5.30pm (Mondays to Thursdays)</li>
 	<li>10.30am to 12.00pm (Fridays)</li>
 	<li>2.00pm to 4.00pm (Lunchtime - Mondays to Fridays)</li>
+</ul>
 
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>Operates on every alternate week</b></span>	
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">For more information, do visit the Health Promotion Board website, http://www.hpb.gov.sg
+
 	
 # Teo Boon Transport
 <span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Teo / Mrs Teo<br>

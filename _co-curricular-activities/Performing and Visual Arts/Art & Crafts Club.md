@@ -107,5 +107,6 @@ third_nav_title: Performing and Visual Arts
 	</li><li>Virtual Art Gallery of Featured Artworks done by our members.
 	</li><li>Contact Information of Art &amp; Crafts Club Teachers
 </li></ul>
+</span>
 	
-<img align="left" style="width:500px;height:300px;margin-right:45px;" src="/images/art&amp;crafts.png"></span></span></span></span>
+<img align="left" style="width:500px;height:300px;margin-right:45px;" src="/images/art&amp;crafts.png">

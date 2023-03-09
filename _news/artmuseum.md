@@ -3,7 +3,6 @@ title: artmuseum
 permalink: /artmuseum/
 description: ""
 ---
-
 # P4 Art Museum-based Learning (Family Education) 2023
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">Museum-based Learning (MBL) has been implemented as one of the core learning experiences in the Primary Art Syllabus.

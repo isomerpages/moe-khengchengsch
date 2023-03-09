@@ -232,7 +232,7 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
   &quot;Times New Roman&quot;;color:black"><span style="font-size:14.0pt;font-family:Arial;color:black">Ms Shalini Venkiteswaran</span></span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:9.2pt"><td width="271" style="width:203.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><span style="font-size:14.0pt;font-family:Arial;color:black">Members</span></span></p></td><td width="240" style="width:180.1pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black"><span style="font-size:14.0pt;font-family:Arial;color:black">Members</span></span></p></td><td width="240" style="width:200.1pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:

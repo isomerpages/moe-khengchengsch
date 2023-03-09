@@ -44,13 +44,13 @@ Website: <a href = "https://www.popular.com.sg" target="_blank">https://www.popu
 
 	
 # Teo Boon Transport
-<span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Teo / Mrs Teo<br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Teo / Mrs Teo<br></span>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Tel: 6758 5382 / 9795 3848</span><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Fax: 6753 7887<br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Address: Blk 102, Yishun Ave 5, #02-121, S760102<br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Fax: 6753 7887<br></span>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Address: Blk 102, Yishun Ave 5, #02-121, S760102<br></span>
 
 # Yang Tze Kiang Tailor
-<span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Low<br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Tel: 6769 1260<br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Fax: 6762 9285<br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Website: <a href="www.yangtzekiang.com.sg" target="_blank">www.yangtzekiang.com.sg</a><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Contact Person: Mr Low<br></span>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Tel: 6769 1260<br></span>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Fax: 6762 9285<br></span>
+<span style="font-size:16.0pt;font-family:Arial;color:black">Website: <a href="www.yangtzekiang.com.sg" target="_blank">www.yangtzekiang.com.sg</a><br></span>

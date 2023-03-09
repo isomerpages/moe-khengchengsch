@@ -1,8 +1,10 @@
 ---
-title: Arts
-permalink: /arts/
+title: "Aesthetics: Art"
+permalink: /art/
 description: ""
 ---
+
+
 # Vision
 An Active Appreciator and Innovator of the Arts.
 

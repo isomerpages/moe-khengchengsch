@@ -155,7 +155,7 @@ School Executive Committee
   &quot;Times New Roman&quot;;color:black">Ms Shalini Venkiteswaran<br>shalini_venkiteswaran@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:15;height:10.2pt"><td style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt" width="299"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">SH Aesthetics (Int)</span></p></td><td style="width:225.0pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black">SH Aesthetics</span></p></td><td style="width:225.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt" width="300"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:

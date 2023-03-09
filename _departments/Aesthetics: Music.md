@@ -1,8 +1,9 @@
 ---
-title: Music
+title: "Aesthetics: Music"
 permalink: /music/
 description: ""
 ---
+
 # Vision
 An Active Appreciator and Innovator of the Arts
 

@@ -3,6 +3,7 @@ title: Executive & Administrative Staff (EAS)
 permalink: /eas/
 description: ""
 ---
+<span style="font-size:16.0pt;font-family:Arial;color:black">
 <table style="width:413.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="551" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.55pt"><td style="width:161.4pt;border:solid windowtext 1.5pt;
@@ -118,4 +119,4 @@ description: ""
   solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;mso-border-top-alt:
   solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;background:
   #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:22.2pt" width="336"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Agung</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:black">Mr Muhamad Rosli Bin Soid</span></p></td></tr></tbody></table>

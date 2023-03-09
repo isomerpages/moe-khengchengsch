@@ -21,7 +21,8 @@ More significantly, we are the 90th GB Company in Singapore, started in the year
 	
 	
 # Organisation Chart
- 
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">
 <table style="mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;mso-yfti-tbllook:
  1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" cellpadding="0" cellspacing="3" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid windowtext 2.25pt;background:#F5E49A;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal"><strong><span style="font-size:14.0pt;line-height:107%;
   font-family:&quot;Arial&quot;,sans-serif;color:black">Teacher-in-Charge</span></strong><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;

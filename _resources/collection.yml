@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Parents Resource.md
-      - Students Resource.md
+      - Student Resource.md
       - Staff Resource.md

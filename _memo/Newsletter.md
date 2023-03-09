@@ -3,4 +3,4 @@ title: Newsletter
 permalink: /newsletter/
 description: ""
 ---
-[Newsletter 2022](https://heyzine.com/flip-book/38d0816154.html)
+<span style="font-size:16.0pt;font-family:Arial;color:black">[Newsletter 2022](https://heyzine.com/flip-book/b3530ed0b7.html)

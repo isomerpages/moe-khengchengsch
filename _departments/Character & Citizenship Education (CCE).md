@@ -281,22 +281,3 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
   mso-color-alt:windowtext">Mr Ravi</span><span style="font-size:14.0pt;
   font-family:&quot;Arial&quot;,sans-serif"></span></p><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;font-family:
   &quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
-
-# School Counselling
-
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>What is Counselling?</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br> Counselling provides an opportunity for children to talk, in confidence, about things that are worrying them or affecting their day to day life. What children choose to talk about is completely up to them, but common issues are bullying, parental separation, stress, friendships, change, bereavement, distressing traumatic events and anger.
-
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>What does the school counsellor do?</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>Counsellors are trained to listen without judging and to help children sort out their thoughts and feelings. Counsellors in primary schools often use creative activities such as drawing, art and writing to help a child express their concerns.
-
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Why have a counsellor in school?</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br> When children are experiencing difficulties at home or in school their concentration and the way they behave can be adversely effected. The school counsellor provides counselling to children in a place that is familiar, safe and secure. By providing emotional support and enabling children to ‘off load’ feelings and anxieties counselling can help a child to concentrate more in class, feel better about themselves and build their self-confidence.
-	
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Is it confidential?</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>Whilst sessions are confidential, all parents/carers of primary school children will be offered an opportunity to meet with their child’s counsellor during the time they are receiving counselling. This will provide an opportunity for any concerns to be voiced, any questions to be answered or feedback to be given. In cases of self-harm or other risk issues, parents and school leaders will be informed immediately.
-
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Referrals</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>Teachers or parents can make a referral to the school counsellor.
-
-You may contact the school counsellor, Ms Anna Wong at 62552502 or email her at&nbsp;[wong\_pui\_yeang@moe.edu.sg](mailto:wong_pui_yeang@moe.edu.sg)</span>

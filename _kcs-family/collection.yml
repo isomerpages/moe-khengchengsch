@@ -2,7 +2,6 @@ collections:
   kcs-family:
     output: true
     order:
-      - School Canteen.md
       - School Executive Committee.md
       - Academic Staff/.keep
       - Academic Staff/Primary 1.md
@@ -18,3 +17,4 @@ collections:
       - Parents Support Group (PSG).md
       - Alumni.md
       - Big Heart Student Care.md
+      - School Canteen.md

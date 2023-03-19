@@ -349,4 +349,4 @@ description: ""
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"><a href="https://portal.mims.moe.gov.sg/">https://portal.mims.moe.gov.sg/</a></span><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table></span></span></span></span>
+  color:black;mso-color-alt:windowtext"><a href="https://portal.mims.moe.gov.sg/">https://portal.mims.moe.gov.sg/</a></span><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>

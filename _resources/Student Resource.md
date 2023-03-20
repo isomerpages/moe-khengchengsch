@@ -3,7 +3,7 @@ title: Student Resource
 permalink: /studentresource/
 description: ""
 ---
- <table style="width:467.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
+<table style="width:467.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="623" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:198.45pt;border:solid windowtext 1.5pt;
   background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:

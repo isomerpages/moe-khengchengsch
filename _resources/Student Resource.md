@@ -51,7 +51,7 @@ description: ""
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" valign="top" width="359"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;">&nbsp;</span></p><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="https://vle.learning.moe.edu.sg/">https://vle.learning.moe.edu.sg</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="https://vle.learning.moe.edu.sg/" target="_blank">https://vle.learning.moe.edu.sg</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:5;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#FFF2CC;
   mso-background-themecolor:accent4;mso-background-themetint:51;padding:3.75pt 3.75pt 3.75pt 3.75pt;
@@ -69,7 +69,7 @@ description: ""
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" valign="top" width="359"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;">&nbsp;</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.ezhishi.net/"><span style="font-size:14.0pt;font-family:
+  line-height:normal" align="center" class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.ezhishi.net/" target="_blank"><span style="font-size:14.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
   mso-color-alt:windowtext">https://www.ezhishi.net</span></a></span><span class="MsoHyperlink"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:windowtext;mso-color-alt:
@@ -96,7 +96,7 @@ description: ""
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="https://plus.moo-o.com/software/download">https://plus.moo-o.com/software/download</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><a href="https://plus.moo-o.com/software/download" target="_blank">https://plus.moo-o.com/software/download</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:9;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#FFF2CC;
   mso-background-themecolor:accent4;mso-background-themetint:51;padding:3.75pt 3.75pt 3.75pt 3.75pt;
@@ -113,7 +113,7 @@ description: ""
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" valign="top" width="359"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"><br><a href="https://www.newsmaker.tv">https://www.newsmaker.tv</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:11;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
+  color:black;mso-color-alt:windowtext"><br><a href="https://www.newsmaker.tv" target="_blank">https://www.newsmaker.tv</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:11;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#FFF2CC;
   mso-background-themecolor:accent4;mso-background-themetint:51;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:19.2pt" colspan="2" width="623"><p style="margin-bottom:0in;text-align:center;
@@ -129,7 +129,7 @@ description: ""
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" valign="top" width="359"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"><br><a href="https://www.koobits.com/">https://www.koobits.com/</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:13;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
+  color:black;mso-color-alt:windowtext"><br><a href="https://www.koobits.com/" target="_blank">https://www.koobits.com/</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:13;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#FFF2CC;
   mso-background-themecolor:accent4;mso-background-themetint:51;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:19.2pt" colspan="2" width="623"><p style="margin-bottom:0in;text-align:center;
@@ -137,19 +137,13 @@ description: ""
   color:black;mso-color-alt:windowtext">KCS Library OPAC System</span></i></b><b><i><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></i></b></p></td></tr><tr style="mso-yfti-irow:14;height:19.2pt"><td style="width:198.45pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="265"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Login Details to reserve books on OPAC<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Username: BC Number<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Default password: Moe@ddmmyyyy<br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Change your password to: Kcs@ddmmyyyy</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Login Details to reserve books on OPAC<br><br>Username: BC Number<br>Default password: Moe@ddmmyyyy<br><br> Change your password to: Kcs@ddmmyyyy</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:268.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" valign="top" width="359"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"><br><br><br><br><a href="https://go.gov.sg/opac-kcs">https://go.gov.sg/opac-kcs</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:15;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
+  color:black;mso-color-alt:windowtext"><br><br><br><br><a href="https://go.gov.sg/opac-kcs" target="_blank">https://go.gov.sg/opac-kcs</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:15;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#FFF2CC;
   mso-background-themecolor:accent4;mso-background-themetint:51;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:19.2pt" colspan="2" width="623"><p style="margin-bottom:0in;text-align:center;

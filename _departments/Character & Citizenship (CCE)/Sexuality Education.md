@@ -18,11 +18,11 @@ third_nav_title: Character & Citizenship (CCE)
 (c)	Make responsible decisions for yourself, your family and society; and<br>
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education"><b>HERE</b></a> for more information on MOE Sexuality Education.<br>
+You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);"><b>HERE</b></a> for more information on MOE Sexuality Education.<br>
 		
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Overview of KHENG CHENG SCHOOL'S Sexuality Education Programme for 2023</b>
 
-</span></li><li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/moe-sexuality-education-scope"><b>HERE</b></a> for more information on the scope of Sexuality Education in the school curriculum.
+</span></li><li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);"><b>HERE</b></a> for more information on the scope of Sexuality Education in the school curriculum.
  </li><li>The subjects that incorporate topics on sexuality include:<br>
 a.	Science<br>
 b.	Character and Citizenship Education (CCE)
@@ -35,59 +35,59 @@ b.	Character and Citizenship Education (CCE)
 <span style="font-size:16.0pt;font-family:Arial;color:black">At KHENG CHENG SCHOOL, the following Sexuality Education lessons will be taught in 2023:<br>
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><center><b>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br>PRIMARY 5<br></b></center>
-<table style="width:682.95pt;background:white;border-collapse:collapse;
+<table style="width:620.25pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:
  6.75pt;mso-table-anchor-vertical:page;mso-table-anchor-horizontal:margin;
  mso-table-left:left;mso-table-top:84.3pt;mso-border-insideh:1.5pt solid windowtext;
- mso-border-insidev:1.5pt solid windowtext" width="911" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.2pt"><td style="width:111.9pt;border:solid windowtext 1.5pt;
+ mso-border-insidev:1.5pt solid windowtext" width="827" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.2pt"><td style="width:80.25pt;border:solid windowtext 1.5pt;
   background:#A8D08D;mso-background-themecolor:accent6;mso-background-themetint:
-  153;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="149"><p style="margin-bottom:0in;text-align:center;
+  153;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">CCE (FTGP) THEME</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:117.0pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:112.5pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:12.2pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  height:12.2pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">LESSON TITLE / DURATION</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td><td style="width:364.5pt;border:solid windowtext 1.5pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td><td style="width:337.5pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:.75pt .75pt .75pt .75pt;
-  height:12.2pt" valign="top" width="486"><p style="margin-bottom:0in;text-align:center;
+  height:12.2pt" valign="top" width="450"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">LESSON OVERVIEW</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:89.55pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:1.25in;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:.75pt .75pt .75pt .75pt;
-  height:12.2pt" valign="top" width="119"><p style="margin-bottom:0in;text-align:center;
+  height:12.2pt" valign="top" width="120"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">TIME PERIOD</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:12.2pt"><td style="width:111.9pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:12.2pt"><td style="width:80.25pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" rowspan="3" width="149"><p style="margin-bottom:0in;text-align:center;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" rowspan="3" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Growing Years</span></p></td><td style="width:117.0pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Growing Years</span></p></td><td style="width:112.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">The Changes in Me<br>(60 min)</span></p></td><td style="width:364.5pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">The Changes in Me<br>(60 min)</span></p></td><td style="width:337.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="486"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="450"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:5.35pt;line-height:normal;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -99,38 +99,38 @@ b.	Character and Citizenship Education (CCE)
   margin-left:5.35pt;line-height:normal;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:89.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td><td style="width:1.25in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" rowspan="3" width="119"><p style="margin-bottom:0in;text-align:center;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" rowspan="3" width="120"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 4 Week 9</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.2pt"><td style="width:117.0pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Term 4 Week 9</span></p></td></tr><tr style="mso-yfti-irow:2;height:12.2pt"><td style="width:112.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Did You Know?<br>(60 min)</span></p></td><td style="width:364.5pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Did You Know?<br>(60 min)</span></p></td><td style="width:337.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="486"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="450"><p style="margin-bottom:0in;line-height:normal;mso-element:
   frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   page;mso-element-anchor-horizontal:margin;mso-element-top:84.3pt;mso-height-rule:
   exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.2pt"><td style="width:117.0pt;border-top:none;border-left:
+  mso-fareast-font-family:&quot;Times New Roman&quot;"><span style="mso-spacerun:yes">&nbsp;</span>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.2pt"><td style="width:112.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="156"><p style="margin-bottom:0in;text-align:center;
+  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Keeping Myself Safe<br>(60 min)</span></p></td><td style="width:364.5pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Keeping Myself Safe<br>(60 min)</span></p></td><td style="width:337.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="486"><p style="margin-bottom:0in;line-height:normal;mso-element:
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="450"><p style="margin-bottom:0in;line-height:normal;mso-element:
   frame;mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   page;mso-element-anchor-horizontal:margin;mso-element-top:84.3pt;mso-height-rule:
   exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -140,84 +140,84 @@ b.	Character and Citizenship Education (CCE)
   exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td></tr></tbody></table>
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b><center>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br>PRIMARY 5<br></center></b>
-<table style="width:682.95pt;background:white;border-collapse:collapse;
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b><center>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021<br>PRIMARY 6<br></center></b>
+<table style="width:615.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:
  6.75pt;mso-table-anchor-vertical:page;mso-table-anchor-horizontal:margin;
  mso-table-left:left;mso-table-top:84.3pt;mso-border-insideh:1.5pt solid windowtext;
- mso-border-insidev:1.5pt solid windowtext" width="911" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.2pt"><td style="width:111.9pt;border:solid windowtext 1.5pt;
+ mso-border-insidev:1.5pt solid windowtext" width="821" align="left" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:12.2pt"><td style="width:71.25pt;border:solid windowtext 1.5pt;
   background:#A8D08D;mso-background-themecolor:accent6;mso-background-themetint:
-  153;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="149"><p style="margin-bottom:0in;text-align:center;
+  153;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="95"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">CCE (FTGP) THEME</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:134.85pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:103.5pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:12.2pt" valign="top" width="180"><p style="margin-bottom:0in;text-align:center;
+  height:12.2pt" valign="top" width="138"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">LESSON TITLE / DURATION</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td><td style="width:346.65pt;border:solid windowtext 1.5pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td><td style="width:373.5pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:.75pt .75pt .75pt .75pt;
-  height:12.2pt" valign="top" width="462"><p style="margin-bottom:0in;text-align:center;
+  height:12.2pt" valign="top" width="498"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">LESSON OVERVIEW</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:89.55pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;"></span></b></p></td><td style="width:67.5pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#A8D08D;
   mso-background-themecolor:accent6;mso-background-themetint:153;padding:.75pt .75pt .75pt .75pt;
-  height:12.2pt" valign="top" width="119"><p style="margin-bottom:0in;text-align:center;
+  height:12.2pt" valign="top" width="90"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">TIME PERIOD</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:12.2pt"><td style="width:111.9pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:12.2pt"><td style="width:71.25pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" rowspan="3" width="149"><p style="margin-bottom:0in;text-align:center;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" rowspan="3" width="95"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">&nbsp;</span></p></td><td style="width:134.85pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">&nbsp;</span></p></td><td style="width:103.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="180"><p style="margin-bottom:0in;text-align:center;
+  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="138"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Are We More than Friends?<br>Lesson 1<br>(60 min)</span></p></td><td style="width:346.65pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Are We More than Friends?<br>Lesson 1<br>(60 min)</span></p></td><td style="width:373.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="462"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="498"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:5.35pt;line-height:normal;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</span></p></td><td style="width:89.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</span></p></td><td style="width:67.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" rowspan="3" width="119"><p style="margin-bottom:0in;text-align:center;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" rowspan="3" width="90"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">Term 4 Week 5</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:12.2pt"><td style="width:134.85pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:12.2pt"><td style="width:103.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="180"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">Are We More than Friends?<br>Lesson 2<br>(60 min)</span></p></td><td style="width:346.65pt;border-top:none;border-left:
+  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="138"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">Are We More than Friends?<br>Lesson 2<br>(60 min)</span></p></td><td style="width:373.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="462"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="498"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:8.5pt;line-height:normal;mso-element:frame;mso-element-frame-hspace:
   9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.2pt"><td style="width:134.85pt;border-top:none;border-left:
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:12.2pt"><td style="width:103.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="180"><p style="margin-bottom:0in;text-align:center;
+  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:12.2pt" valign="top" width="138"><p style="margin-bottom:0in;text-align:center;
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -225,10 +225,10 @@ b.	Character and Citizenship Education (CCE)
   line-height:normal;mso-element:frame;mso-element-frame-hspace:9.0pt;
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:84.3pt;mso-height-rule:exactly" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">(60 min)</span></p></td><td style="width:346.65pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">(60 min)</span></p></td><td style="width:373.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="462"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:12.2pt" valign="top" width="498"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:13.0pt;text-indent:-4.5pt;line-height:normal;mso-element:frame;
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   page;mso-element-anchor-horizontal:margin;mso-element-top:84.3pt;mso-height-rule:
@@ -244,8 +244,8 @@ b.	Character and Citizenship Education (CCE)
   mso-element-frame-hspace:9.0pt;mso-element-wrap:around;mso-element-anchor-vertical:
   page;mso-element-anchor-horizontal:margin;mso-element-top:84.3pt;mso-height-rule:
   exactly" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td></tr></tbody></table><br>
+  mso-fareast-font-family:&quot;Times New Roman&quot;">This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</span></p></td></tr></tbody></table>
 
 </span></span></span></li><li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
-</li><li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://form.gov.sg/63d37fa8e2862f0011d3471b">HERE</a>. The completed opt-out form is to be submitted by 28/02/2023.
+</li><li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable <a href="https://form.gov.sg/63d37fa8e2862f0011d3471b" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);">HERE</a>. The completed opt-out form is to be submitted by 28/02/2023.
 </li><li>Parents can contact the school at jacqueline_anthony@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.</li></span></ol></span>

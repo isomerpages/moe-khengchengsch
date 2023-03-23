@@ -2,8 +2,8 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship Ed/Character & Citizenship Education (CCE).md
-      - Character & Citizenship Ed/.keep
+      - Character & Citizenship (CCE)/Character & Citizenship Education (CCE).md
+      - Character & Citizenship (CCE)/.keep
       - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md

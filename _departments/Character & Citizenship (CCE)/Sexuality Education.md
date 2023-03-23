@@ -33,4 +33,3 @@ b.	Character and Citizenship Education (CCE)
 
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">At KHENG CHENG SCHOOL, the following Sexuality Education lessons will be taught in 2023:
-

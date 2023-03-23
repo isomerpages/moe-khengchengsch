@@ -19,3 +19,7 @@ third_nav_title: Character & Citizenship (CCE)
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);"><b>HERE</b></a> for more information on MOE Sexuality Education.
+		
+<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Overview of KHENG CHENG SCHOOL'S Sexuality Education Programme for 2023</b>
+
+<li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);"><b>HERE</b></a> for more information on the scope of Sexuality Education in the school curriculum.

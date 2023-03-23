@@ -2,7 +2,11 @@
 title: Character & Citizenship Education (CCE)
 permalink: /cce/
 description: ""
+third_nav_title: Character & Citizenship (CCE)
 ---
+
+
+
 # Approach
 <span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">“Education has had two great goals: to help young people become smart and to help them become good.” ~ Thomas Lickona.</span>
 

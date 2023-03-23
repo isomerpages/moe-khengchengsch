@@ -18,7 +18,7 @@ third_nav_title: Character & Citizenship (CCE)
 (c)	Make responsible decisions for yourself, your family and society; and<br>
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education"><b>HERE</b></a> for more information on MOE Sexuality Education.
+You may click <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education"><b>HERE</b></a> for more information on MOE Sexuality Education.<br>
 		
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Overview of KHENG CHENG SCHOOL'S Sexuality Education Programme for 2023</b>
 

@@ -23,3 +23,14 @@ You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Overview of KHENG CHENG SCHOOL'S Sexuality Education Programme for 2023</b>
 
 <li>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);"><b>HERE</b></a> for more information on the scope of Sexuality Education in the school curriculum.
+ <li>The subjects that incorporate topics on sexuality include:<br>
+a.	Science<br>
+b.	Character and Citizenship Education (CCE)
+
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b><u>Sexuality Education Lessons</b></u>
+<li>The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. <br>
+<li>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. <br>
+
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">At KHENG CHENG SCHOOL, the following Sexuality Education lessons will be taught in 2023:
+

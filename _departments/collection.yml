@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship (CCE)/Character & Citizenship Education (CCE).md
-      - Character & Citizenship (CCE)/.keep
       - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
@@ -17,5 +15,7 @@ collections:
       - National Education & Social Studies (NESS).md
       - "Aesthetics: Art.md"
       - "Aesthetics: Music.md"
+      - Character & Citizenship (CCE)/.keep
+      - Character & Citizenship (CCE)/Character & Citizenship Education (CCE).md
       - Student Development Team.md
       - Student Management & Student Leadership.md

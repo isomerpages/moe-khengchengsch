@@ -13,7 +13,7 @@ Kheng Cheng School believes in a strong Home-School-Community based partnership 
 2.  <i>Develop strategic and sustainable partnerships with external organisation</i>
 
 ### **PSG EXCO**
-<img src = "/images/PSG/psgexco2023.jpeg">
+<img src = "/images/PSG/psgexco2023.jpeg" style="width 80%">
 
 
 ### **Be Part of the PSG Family**

@@ -13,9 +13,8 @@ Kheng Cheng School believes in a strong Home-School-Community based partnership 
 2.  <i>Develop strategic and sustainable partnerships with external organisation</i>
 
 ### **PSG EXCO**
+<img src = "/images/PSG/psgexco2023.jpeg" style="width 80%">
 
-
-![Psg Exco 2023](https://khengcheng.moe.edu.sg/wp-content/uploads/2022/04/PSG-Exco-2023-1024x576.jpeg)
 
 ### **Be Part of the PSG Family**
 

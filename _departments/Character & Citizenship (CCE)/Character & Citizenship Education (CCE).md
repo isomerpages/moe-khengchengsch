@@ -261,4 +261,4 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
   margin-left:8.4pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-color-alt:windowtext">Mdm Ariel Loh Lee Miang<br><br>Mdm Pirrita<br><br>Ms Anna Wong<br><br>Mdm K Kalaichelvy<br><br>Ms Chang Siew Chian</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>

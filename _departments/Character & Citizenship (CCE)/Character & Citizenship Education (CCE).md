@@ -136,10 +136,10 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
 <img src="/images/CCE/CCE/visit.png" style="width:100%">	
 
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Redesigning Pedagogy International Conference 2017</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>Our Learning for Life Programme – Student Voice &amp; Advocacy (SVA) was well-received by the audience at the Conference.
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>Our Learning for Life Programme – Student Voice &amp; Advocacy (SVA) was well-received by the audience at the Conference.</span>
 	
 <img src="/images/CCE/CCE/rpic.png" style="width:100%">
-</span>
+
 
 # Organisation Chart
 

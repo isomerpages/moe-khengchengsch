@@ -1,5 +1,5 @@
 ---
-title: April Memo
+title: April Memo 2023
 permalink: /aprilmemo/
 date: 2023-04-02
 layout: post

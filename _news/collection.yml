@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - Art & Crafts Club's Tour to Dragon Kiln.md
       - Opening Ceremony of Art Gallery 3 Our Art Space.md
       - P4 Art Museum based Learning Family Education 2023.md
       - Total Defence  Day (TDD) Commemoration.md

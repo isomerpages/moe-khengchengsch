@@ -1,5 +1,5 @@
 ---
-title: Art &amp; Crafts Club's Tour to Dragon Kiln
+title: Art and Crafts Club's Tour to Dragon Kiln
 permalink: /dragonkiln/
 description: ""
 ---

@@ -1,8 +1,8 @@
 ---
-title: Character & Citizenship Education (CCE)
+title: Character &amp; Citizenship Education (CCE)
 permalink: /cce/
 description: ""
-third_nav_title: Character & Citizenship (CCE)
+third_nav_title: Character &amp; Citizenship (CCE)
 ---
 # Approach
 <span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">“Education has had two great goals: to help young people become smart and to help them become good.” ~ Thomas Lickona.</span>
@@ -21,8 +21,7 @@ third_nav_title: Character & Citizenship (CCE)
 	<li>Values are both taught and caught.</li>
 	<li>engaging students through varied modes of delivery</li>
 	<li>Parents as key partners.</li>
-	</ul>
-	</span>
+</ul>
 	
 # 	Key Programmes
 <span style="font-size:20.0pt;;color:black"><b><u>Character &amp; Citizenship Education</u></b></span>
@@ -261,4 +260,4 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
   margin-left:8.4pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black;mso-color-alt:windowtext">Mdm Ariel Loh Lee Miang<br><br>Mdm Pirrita<br><br>Ms Anna Wong<br><br>Mdm K Kalaichelvy<br><br>Ms Chang Siew Chian</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
+	mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

@@ -3,6 +3,7 @@ title: Monthly Memo
 permalink: /monthlymemo/
 description: ""
 ---
+<span style="font-size:16.0pt;font-family:Arial;color:black">
 <table style="width:245.45pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:
@@ -21,4 +22,7 @@ description: ""
   paragraph;mso-element-anchor-horizontal:margin;mso-element-top:5.4pt;
   mso-height-rule:exactly" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Arial&quot;;color:black"><a style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;color:black;align=centre"><a href="https://heyzine.com/flip-book/99d6735681.html" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);">March Memo 2023</a>
+  mso-fareast-font-family:&quot;Times New Roman&quot;color:black;align=centre"></a><a href="https://heyzine.com/flip-book/99d6735681.html" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);">March Memo 2023</a></span></p>
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+<a style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;color:black;align=centre"></a><a href="https://heyzine.com/flip-book/5f2d78d1e4.html" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);">April Memo 2023</a></span><p></p></td></tr></tbody></table></span>

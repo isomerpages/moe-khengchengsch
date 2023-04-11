@@ -91,7 +91,9 @@ tr:nth-child(even) {
   </tr>
 </tbody></table>
 
+![](/images/GB/drill%20comp%201%20(1).JPG)
 
+![](/images/GB/drill%20comp%202.jpg)
 
-
+![](/images/GB/drill%20comp%203.JPG)
 </span>

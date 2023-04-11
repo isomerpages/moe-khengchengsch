@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 <span style="font-size:16.0pt;font-family:Arial;color:black">After a 3 year hiatus due to Covid, the 90th GB Company was finally able to send a team to take part in the National Drill Competition. 
-Through the hard work, dedication and perseverance of these girls, we were awarded a Silver Award! 
+Through the hard work, dedication and perseverance of these girls, **we were awarded a Silver Award!** 
 We are really proud of how far they have come in a short span of three months as they had only started 
 learning the basic foot drills at the beginning of this year. 
 

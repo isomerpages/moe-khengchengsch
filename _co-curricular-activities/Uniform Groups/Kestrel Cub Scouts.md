@@ -83,9 +83,4 @@ A Scout has courage in all difficulties
   &quot;Times New Roman&quot;;color:black">Ms Ayesha Jagaber Yasmin<br>Ayesha_jagaber_yasmin@moe.edu.sg</span></p></td></tr></tbody></table></span></li></ul>
 
 # Photo Gallery
-<span style="font-size:16.0pt;font-family:Arial;color:black"><a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://drive.google.com/drive/folders/1wN7IcoIF3U9JkjL4BayzKlrwaWAaEHoa?usp=share_link">Click Here to view Photo Gallery</a>
-	
-	
-	
-	
-</span></span></span></span></span></span></span></span></span></span></span>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://drive.google.com/drive/folders/1wN7IcoIF3U9JkjL4BayzKlrwaWAaEHoa?usp=share_link">Click Here to view Photo Gallery</a></span></span></span></span></span></span></span></span></span></span></span>

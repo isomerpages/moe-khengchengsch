@@ -80,4 +80,7 @@ A Scout has courage in all difficulties
   &quot;Times New Roman&quot;;color:black">Ms Daphne Lee Yen Hong<br>lee_yen_hong@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:187.15pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Ayesha Jagaber Yasmin<br>Ayesha_jagaber_yasmin@moe.edu.sg</span></p></td></tr></tbody></table></span></li></ul></span></span></span></span></span></span></span></span></span></span>
+  &quot;Times New Roman&quot;;color:black">Ms Ayesha Jagaber Yasmin<br>Ayesha_jagaber_yasmin@moe.edu.sg</span></p></td></tr></tbody></table></span></li></ul>
+
+# Photo Gallery
+<span style="font-size:16.0pt;font-family:Arial;color:black"><a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://drive.google.com/drive/folders/1bMddWve_o_pTtk2nXKhylmBeXBxr5OeL?usp=sharing">Click Here to view Photo Gallery</a></span></span></span></span></span></span></span></span></span></span></span>

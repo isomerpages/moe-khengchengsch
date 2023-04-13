@@ -10,6 +10,6 @@ Dear Parents / Guardians,
 
 Our Scouts Awards Ceremony. You can refer to this link for the photographs and Videos. 
 
-[Awards Ceremony Photographs and Videos](https://drive.google.com/drive/folders/1wN7IcoIF3U9JkjL4BayzKlrwaWAaEHoa?usp=share_link)
+[Awards Ceremony Photographs and Videos](https://drive.google.com/drive/folders/1bMddWve_o_pTtk2nXKhylmBeXBxr5OeL?usp=sharing)
 
 Thank you.

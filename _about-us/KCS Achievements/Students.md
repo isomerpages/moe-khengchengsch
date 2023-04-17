@@ -5,6 +5,23 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Students Achievements
+##### <b>National School Games South Zone Basketball 2022)</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+
+
+| **Division** | **Award** |
+| -------- | -------- |
+| Senior Boys|2nd Position |
+| Senior Girls|2nd Position |
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">	
+It is a great pleasure to announce that both Senior Boys and Girls team have emerged 2nd in the basketball finals held on 26 May. This is the first competition after a 2 years break due to COVID19 situation. Both teams have out-performed our expectations.<br><br>
+	
+| **Senior Boys** |<br>
+| -------- | -------- |
+|LIM ZHI SHENG JAVIER|P6-2 |
+|MUHAMMAD RAYHAN DORIA BIN MUHAMMAD SHAHIR|P6-2 |
+
 ##### <b>National School Games (NSG)</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">"The National School Games (NSG) resumed on19 April for Primary school athletes - the Senior Division (Primary 6) students competed (over a span of two weeks from 19-28 April) and the Junior Division (Primary 4 &amp; 5) will take place in July. <br><br>
 KCS sent our athletes to participate in 
@@ -1014,4 +1031,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span>

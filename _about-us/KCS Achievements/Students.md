@@ -5,6 +5,12 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Curriculum
+##### <b>The 29th Annual World Children’s Picture Contest 2021</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">The 29th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 9,998 entries from 50 countries and regions, our student - Ng Zheng Xian from P3.3 (2021) had received Honorable Mention for his creativity and good use of artistic techniques in his artwork. We would like to congratulate Zheng Xian for his achievement, and also encourage our students to take part in the upcoming 30th edition of the Annual World Children Picture Contest. Students may find out more from their respective art teacher.
+
+##### <b>Achievement of Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">We are pleased to inform you that our Red Cross Links has once again achieved the Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021. Numerous red-cross related activities and enrichment activities were carried out to encourage our links to achieve the highest possible level of proficiency in training. These inlude first aid knowledge and bandaging skills ensuring emergency readiness and preparedness.  
+
 ##### <b>SYF Youth Station Project songwriting event</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The Music Department is delighted to share that two of our students’ song-writing entries made it into the Top 10 (Isabelle Adefuin Balangue, P6.5) and Honorary Mention (Cheong Ming Yue, P6.4) categories of the SYF Youth Station Project songwriting event this year.
 
@@ -995,4 +1001,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

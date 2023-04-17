@@ -5,6 +5,14 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Students Achievements
+##### <b>Girls' Brigade Company Awards (2021) - Gold Award</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
+
+<img style="width:80%" src="/images/GB/gbgoldaward2021.JPG"><br>
+
+<img style="width:80%" src="/images/GB/gbthanks.JPG">
+
+
 ##### <b>National School Games South Zone Basketball 2022)</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 
@@ -1060,4 +1068,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span>

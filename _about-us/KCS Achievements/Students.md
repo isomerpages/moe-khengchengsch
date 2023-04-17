@@ -21,6 +21,35 @@ It is a great pleasure to announce that both Senior Boys and Girls team have eme
 | -------- | -------- |
 |LIM ZHI SHENG JAVIER|P6-2 |
 |MUHAMMAD RAYHAN DORIA BIN MUHAMMAD SHAHIR|P6-2 |
+|MUHAMMAD NUR IMAN BIN JAMALULHASLUDIN|P6-2 |
+|HONG YI JIE REAGAN|P6-3 |
+|JOSHUA KAUSHIK S/O MOHAN ROY|P6-4 |
+|NICHOLAS TAN PANG JUN |P6-4 |
+|WYATT AGUSTIN LEE YAN WO|P6-4 |
+|JOSHUA LIM JING ZHAN|P6-4 |
+|LU HONG YU KEPH|P6-5 |
+|DANIEL LEE LEMAN|P6-5 |
+|LIM BING XU|P6-5 |
+|RYAN ROSHARN S/O PIRABU|P6-5 |
+|MUHAMMAD RAHIL DORIA BIN MUHAMMAD SHAHIR|P6-6 |
+
+| **Senior Girls** |<br>
+| -------- | -------- |
+|MAYA SHAFIRAH BINTE BAKAR|P6-2 |
+|ADELIA AN TING BINTE MOHAMAD SUKHAIRI|P6-2 |
+|NUR SYAHIRAH PUTRI DANIA BINTE MOHAMAD SYAHIDIN|P6-2 |
+|ALICIA LAU ZHEN LING|P6-3 |
+|NEO CLAIRE|P6-3 |
+|AZELEA LI YUN'EN |P6-4 |
+|CHEN LU|P6-4 |
+|CHEW JIA EN|P6-4 |
+|JOHANNA KAJOL D/O MOHAN ROY|P6-4 |
+|VERBOON NIKK|P6-4 |
+|DINA RAIESSHA BINTE MOHAMED HAJIRIN|P6-5 |
+|FOO DUN HUI CLARINDA|P6-5 |
+|KOH SHU NING SHANNON|P6-5 |
+|NATHALY CHAN LEAL ERN|P6-7 |
+|YUKI SOH SIEW PIN|P6-7 |
 
 ##### <b>National School Games (NSG)</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">"The National School Games (NSG) resumed on19 April for Primary school athletes - the Senior Division (Primary 6) students competed (over a span of two weeks from 19-28 April) and the Junior Division (Primary 4 &amp; 5) will take place in July. <br><br>

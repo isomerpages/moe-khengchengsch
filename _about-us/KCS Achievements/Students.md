@@ -4,7 +4,80 @@ permalink: /studentsachievements/
 description: ""
 third_nav_title: KCS Achievements
 ---
-# Curriculum
+# Students Achievements
+##### <b>Girls' Brigade Company Awards (2021) - Gold Award</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
+
+<img style="width:80%" src="/images/GB/gbgoldaward2021.JPG"><br>
+
+<img style="width:80%" src="/images/GB/gbthanks.JPG">
+
+
+##### <b>National School Games South Zone Basketball 2022)</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+
+
+| **Division** | **Award** |
+| -------- | -------- |
+| Senior Boys|2nd Position |
+| Senior Girls|2nd Position |
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">	
+It is a great pleasure to announce that both Senior Boys and Girls team have emerged 2nd in the basketball finals held on 26 May. This is the first competition after a 2 years break due to COVID19 situation. Both teams have out-performed our expectations.<br><br>
+	
+| **Senior Boys** |<br>
+| -------- | -------- |
+|LIM ZHI SHENG JAVIER|P6-2 |
+|MUHAMMAD RAYHAN DORIA BIN MUHAMMAD SHAHIR|P6-2 |
+|MUHAMMAD NUR IMAN BIN JAMALULHASLUDIN|P6-2 |
+|HONG YI JIE REAGAN|P6-3 |
+|JOSHUA KAUSHIK S/O MOHAN ROY|P6-4 |
+|NICHOLAS TAN PANG JUN |P6-4 |
+|WYATT AGUSTIN LEE YAN WO|P6-4 |
+|JOSHUA LIM JING ZHAN|P6-4 |
+|LU HONG YU KEPH|P6-5 |
+|DANIEL LEE LEMAN|P6-5 |
+|LIM BING XU|P6-5 |
+|RYAN ROSHARN S/O PIRABU|P6-5 |
+|MUHAMMAD RAHIL DORIA BIN MUHAMMAD SHAHIR|P6-6 |
+
+| **Senior Girls** |<br>
+| -------- | -------- |
+|MAYA SHAFIRAH BINTE BAKAR|P6-2 |
+|ADELIA AN TING BINTE MOHAMAD SUKHAIRI|P6-2 |
+|NUR SYAHIRAH PUTRI DANIA BINTE MOHAMAD SYAHIDIN|P6-2 |
+|ALICIA LAU ZHEN LING|P6-3 |
+|NEO CLAIRE|P6-3 |
+|AZELEA LI YUN'EN |P6-4 |
+|CHEN LU|P6-4 |
+|CHEW JIA EN|P6-4 |
+|JOHANNA KAJOL D/O MOHAN ROY|P6-4 |
+|VERBOON NIKK|P6-4 |
+|DINA RAIESSHA BINTE MOHAMED HAJIRIN|P6-5 |
+|FOO DUN HUI CLARINDA|P6-5 |
+|KOH SHU NING SHANNON|P6-5 |
+|NATHALY CHAN LEAL ERN|P6-7 |
+|YUKI SOH SIEW PIN|P6-7 |
+
+##### <b>National School Games (NSG)</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">"The National School Games (NSG) resumed on19 April for Primary school athletes - the Senior Division (Primary 6) students competed (over a span of two weeks from 19-28 April) and the Junior Division (Primary 4 &amp; 5) will take place in July. <br><br>
+KCS sent our athletes to participate in 
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+	<li>1,500m</li><li>4 X 100m<br></li><li>4 X 300m</li><li>High Jumps &amp; Long Jumps (in both Senior Boys &amp; Girls categories: participants included: Lyra [P6.3]; Aijuna &amp; Siti Nurqirin [P6.1]; Candy Goh [P6.7]; Aidan &amp; Hazim [P6.2];Ian Isacc [P6.4]).<br>
+	
+We are proud that <b>KCS clinched Gold for high-jump by Gan Jeng Yu (P6.4) &amp; a commendable 4th position by Tsen Yu Han (Senior Girls Div 1 &amp; 2 respectively)</b> 
+
+</li><li>Our Senior Boys, Brayden See (P6.5) &amp; Joachim U (P6.6) garnered 5th positions for the high jump event. 
+</li><li>Our boys ( Anden Low [P6.5], Hadi, Thai An &amp; Loong Qi - came in 5th also for 4 X 300m and 4 X 100m events. <br>
+
+Overall, all our the athletes did a great job, given the 'short run-way' of preparation &amp; (face-to-face) trainings (of only 5-6 weeks), leading to the NSG in April. More importantly, our KCS athletes' unwavering &amp; 'never-say-die' attitude put into the limited trainings and the actual days of competitions in a stadium setting (at Bukit Gombak), the coaches &amp; teachers provided for them, were highly commendable - and we are all very proud of them!"
+
+##### <b>The 29th Annual World Children’s Picture Contest 2021</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">The 29th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 9,998 entries from 50 countries and regions, our student - Ng Zheng Xian from P3.3 (2021) had received Honorable Mention for his creativity and good use of artistic techniques in his artwork. We would like to congratulate Zheng Xian for his achievement, and also encourage our students to take part in the upcoming 30th edition of the Annual World Children Picture Contest. Students may find out more from their respective art teacher.
+
+##### <b>Achievement of Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">We are pleased to inform you that our Red Cross Links has once again achieved the Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021. Numerous red-cross related activities and enrichment activities were carried out to encourage our links to achieve the highest possible level of proficiency in training. These inlude first aid knowledge and bandaging skills ensuring emergency readiness and preparedness.  
+
 ##### <b>SYF Youth Station Project songwriting event</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The Music Department is delighted to share that two of our students’ song-writing entries made it into the Top 10 (Isabelle Adefuin Balangue, P6.5) and Honorary Mention (Cheong Ming Yue, P6.4) categories of the SYF Youth Station Project songwriting event this year.
 
@@ -20,7 +93,7 @@ third_nav_title: KCS Achievements
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.<br><br>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="583" style="width:437.5pt;margin-left:-.15pt;background:white;border-collapse:collapse;
+</span></span></span></span></span></span></span></span></span></li></span><table></table><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="583" style="width:437.5pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.8pt"><td width="358" valign="top" style="width:268.3pt;border:solid windowtext 1.5pt;
   background:#C5E0B3;mso-background-themecolor:accent6;mso-background-themetint:
@@ -995,4 +1068,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span>

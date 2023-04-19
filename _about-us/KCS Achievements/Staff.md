@@ -4,7 +4,6 @@ permalink: /staffachievements/
 description: ""
 third_nav_title: KCS Achievements
 ---
-
 ##### <b>School Achievements</b>
 <table style="width:404.25pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;mso-border-insideh:

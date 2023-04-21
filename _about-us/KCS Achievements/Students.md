@@ -5,6 +5,11 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Students Achievements
+##### <b>The 30th Annual World Children’s Picture Contest 2022</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black">The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region.  Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
+
+<img style="width:80%" src="/images/Achievements/picturecontest.JPG"><br>
+
 ##### <b>Girls' Brigade Company Awards (2021) - Gold Award</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
 
@@ -1068,4 +1073,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span>

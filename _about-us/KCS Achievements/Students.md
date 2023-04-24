@@ -5,17 +5,243 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Students Achievements
+##### <b></b>Results of Non-CCA National School Games Competition
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+
+**2023 NSG WUSHU COMPETITION**
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="208" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">EVENT</span></b></p></td><td width="128" valign="top" style="width:95.95pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">COMPETITOR</span></b></p></td><td width="66" valign="top" style="width:49.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">CLASS</span></b></p></td><td width="126" valign="top" style="width:94.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">RESULTS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="208" valign="top" style="width:158pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .2pt;mso-border-alt:solid windowtext .2pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">5-Duan Changquan -<br>Junior Boys<b></b></span></p></td><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Qu Lihao<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.4</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">9<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="208" rowspan="2" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">3-Duan Changquan -<br> Junior Boys<b></b></span></p></td><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayden Goh<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P4.1</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">13<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayvin Goh<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P2.8</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">40<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="208" rowspan="2" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Sword -<br>Junior Boys<b></b></span></p></td><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Qu Lihao<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.4<b></b></span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">5<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayden Goh<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">14<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="208" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Broadsword -<br> Junior Boys<b></b></span></p></td><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Zhan Cunyu<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.3</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">41<sup>st</sup> position</span></p></td></tr><tr style="mso-yfti-irow:7"><td width="208" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Spear -<br> Junior Boys<b></b></span></p></td><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayden Goh<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">16<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td width="208" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Cudgel -<br> Junior Boys<b></b></span></p></td><td width="128" valign="top" style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayvin Goh<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P2.8</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">49<sup>th</sup> position</span></p></td></tr></tbody></table>
+<br>
+**2023 NSG ARTISTIC GYMNASTICS**
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="222" valign="top" style="width:166.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">EVENT</span></b></p></td><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">COMPETITOR</span></b></p></td><td width="66" valign="top" style="width:49.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">CLASS</span></b></p></td><td width="126" valign="top" style="width:94.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">RESULTS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="222" rowspan="2" valign="top" style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Men’s Artistic Gymnastics (MAG) Junior Div -All Round for 3 events<b></b></span></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.2</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4<sup>th</sup> position</span></p><p class="MsoNoSpacing"><span style="font-size:14.0pt">Bronze Award</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kal Lim Zi Jin<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P4.1</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">16<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="222" rowspan="2" valign="top" style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">MAG INDIVIDUAL APPARATUS Junior Novice – Floor Exercise<b></b></span></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.2</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4<sup>th</sup> position Bronze</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kal Lim Zi Jin<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">14<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="222" valign="top" style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">MAG INDIVIDUAL APPARATUS Junior Novice – Mushroom<b></b></span></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.2<b></b></span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4<sup>th</sup> position Bronze</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="222" rowspan="2" valign="top" style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">MAG INDIVIDUAL APPARATUS Junior Novice – Vault<b></b></span></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.2<b></b></span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><sup><span style="font-size:14.0pt">8th</span></sup><span style="font-size:14.0pt"> position Bronze</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kal Lim Zi Jin<b></b></span></p></td><td width="66" valign="top" style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">18<sup>th</sup> position</span></p></td></tr></tbody></table>
+
+**2023 NSG RHYTHMIC GYMNASTICS**
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="margin-left:-40.75pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="262" valign="top" style="width:196.55pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">EVENT</span></b></p></td><td width="176" valign="top" style="width:131.95pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">COMPETITOR</span></b></p></td><td width="72" valign="top" style="width:.75in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">CLASS</span></b></p></td><td width="162" valign="top" style="width:121.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">RESULTS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="262" rowspan="2" valign="top" style="width:196.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Junior Division Developmental Level 2 -Ball</span></p></td><td width="176" valign="top" style="width:131.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Yang Wanyi<b></b></span></p></td><td width="72" valign="top" style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.2</span></p></td><td width="162" valign="top" style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">49<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="176" valign="top" style="width:131.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Alyssandra Thea Kee<b></b></span></p></td><td width="72" valign="top" style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.3</span></p></td><td width="162" valign="top" style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">66<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td width="262" valign="top" style="width:196.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Junior Division Developmental Level 2 -Rope</span></p></td><td width="176" valign="top" style="width:131.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Alyssandra Thea Kee<b></b></span></p></td><td width="72" valign="top" style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing" align="center" style="text-align:center"><span style="font-size:14.0pt">P3.3</span></p></td><td width="162" valign="top" style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">39<sup>th</sup> position Achievement Pin</span></p></td></tr></tbody></table>
+
+
 ##### <b>The 30th Annual World Children’s Picture Contest 2022</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region.  Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
 
-<img style="width:80%" src="/images/Achievements/picturecontest.JPG"><br>
+<img src="/images/Achievements/picturecontest.JPG" style="width:80%"><br>
 
 ##### <b>Girls' Brigade Company Awards (2021) - Gold Award</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
 
-<img style="width:80%" src="/images/GB/gbgoldaward2021.JPG"><br>
+<img src="/images/GB/gbgoldaward2021.JPG" style="width:80%"><br>
 
-<img style="width:80%" src="/images/GB/gbthanks.JPG">
+<img src="/images/GB/gbthanks.JPG" style="width:80%">
 
 
 ##### <b>National School Games South Zone Basketball 2022)</b>
@@ -98,87 +324,87 @@ Overall, all our the athletes did a great job, given the 'short run-way' of prep
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.<br><br>
 
-</span></span></span></span></span></span></span></span></span></li></span><table></table><table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="583" style="width:437.5pt;margin-left:-.15pt;background:white;border-collapse:collapse;
+</span></span></span></span></span></span></span></span></span></li></span><table></table><table style="width:437.5pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
- mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.8pt"><td width="358" valign="top" style="width:268.3pt;border:solid windowtext 1.5pt;
+ mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="583" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.8pt"><td style="width:268.3pt;border:solid windowtext 1.5pt;
   background:#C5E0B3;mso-background-themecolor:accent6;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Name</span></b></p></td><td width="88" valign="top" style="width:65.85pt;border:solid windowtext 1.5pt;
+  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.8pt" valign="top" width="358"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Name</span></b></p></td><td style="width:65.85pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#C5E0B3;
   mso-background-themecolor:accent6;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:7.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  height:7.8pt" valign="top" width="88"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Class (2021)</span></b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="138" valign="top" style="width:103.35pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:103.35pt;border:solid windowtext 1.5pt;
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#C5E0B3;
   mso-background-themecolor:accent6;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Award</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
+  height:7.8pt" valign="top" width="138"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Award</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.75pt"><td style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Jolene See Ya Ern</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="358"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Jolene See Ya Ern</span></p></td><td style="width:65.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.1</span></p></td><td width="138" valign="top" style="width:103.35pt;border-top:none;border-left:
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="88"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.1</span></p></td><td style="width:103.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Bronze</span></p></td></tr><tr style="mso-yfti-irow:2;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.75pt" valign="top" width="138"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Bronze</span></p></td></tr><tr style="mso-yfti-irow:2;height:15.75pt"><td style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ng Zheng Xian</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="358"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ng Zheng Xian</span></p></td><td style="width:65.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.3</span></p></td><td width="138" rowspan="5" style="width:103.35pt;border-top:none;border-left:
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="88"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.3</span></p></td><td style="width:103.35pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Honorable Mention</span></p></td></tr><tr style="mso-yfti-irow:3;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.75pt" rowspan="5" width="138"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Honorable Mention</span></p></td></tr><tr style="mso-yfti-irow:3;height:15.75pt"><td style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Goh Shao Feng Rayner</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="358"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Goh Shao Feng Rayner</span></p></td><td style="width:65.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.2</span></p></td></tr><tr style="mso-yfti-irow:4;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="88"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.2</span></p></td></tr><tr style="mso-yfti-irow:4;height:15.75pt"><td style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ee Jing Han Kaydence</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="358"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ee Jing Han Kaydence</span></p></td><td style="width:65.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr><tr style="mso-yfti-irow:5;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="88"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr><tr style="mso-yfti-irow:5;height:15.75pt"><td style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Luk Shin Yu</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="358"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Luk Shin Yu</span></p></td><td style="width:65.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="88"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:15.75pt"><td style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Mohamed Khairy Bin Mohamed Agus</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="358"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Mohamed Khairy Bin Mohamed Agus</span></p></td><td style="width:65.85pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt" width="88"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr></tbody></table>
 	
 ##### <b>KCS Art Display at Mediacorp Campus</b>
@@ -187,158 +413,158 @@ As part of our Art department’s belief to provide students with opportunities 
 
 We are extremely proud of the students!
 You may find the picture of the display below:<br><br>
-<img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/Artdisplay1.png"><img align="right" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/Artdisplay2.png"><br><br><br><br><br><br>
+<img src="/images/Art/Artdisplay1.png" style="width:220px;height:200px;margin-right:50px;" align="left"><img src="/images/Art/Artdisplay2.png" style="width:220px;height:200px;margin-right:50px;" align="right"><br><br><br><br><br><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Here are some photographs of our student photographers in action!<br><br>
 
-<img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction1.jpg"><img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction2.jpg">
+<img src="/images/Art/artaction1.jpg" style="width:220px;height:200px;margin-right:50px;" align="left"><img src="/images/Art/artaction2.jpg" style="width:220px;height:200px;margin-right:50px;" align="left">
 
-<img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction3.jpg"><img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction4.jpg"><br><br><br><br>
+<img src="/images/Art/artaction3.jpg" style="width:220px;height:200px;margin-right:50px;" align="left"><img src="/images/Art/artaction4.jpg" style="width:220px;height:200px;margin-right:50px;" align="left"><br><br><br><br>
 
 # Co-Curricular
 ##### <b>National School Games (NSG) 2022</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">We are pleased to announce that our Track &amp; Field CCA performed exceptionally well in the SPSSC NSG Track &amp; Field Meet which was held from 19 April to 27 April.<br><br>
 The results are as follows:
 
-<table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="754" style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
- 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="754" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;background:
+ 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;background:
   #FFE599;mso-background-themecolor:accent4;mso-background-themetint:102;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td style="width:186.9pt;border:solid windowtext 2.25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td width="249" valign="top" style="width:186.9pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="249"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Division</span></b></p></td><td style="width:112.5pt;border:solid windowtext 2.25pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Division</span></b></p></td><td width="150" valign="top" style="width:112.5pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td style="width:138.95pt;border:solid windowtext 2.25pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td width="185" valign="top" style="width:138.95pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="185"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Athletes</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.15pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Athletes</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.15pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.15pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">High Jump</span></p></td><td style="width:186.9pt;border-top:none;border-left:
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">High Jump</span></p></td><td width="249" valign="top" style="width:186.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt" valign="top" width="249"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Senior Division 1 Boys</span></p></td><td style="width:112.5pt;border-top:none;border-left:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Senior Division 1 Boys</span></p></td><td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5<sup>th</sup> Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5<sup>th</sup> Placing</span></p></td><td width="185" valign="top" style="width:138.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt" valign="top" width="185"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Brayden See<br>U Joachim</span></p></td></tr><tr style="mso-yfti-irow:2;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Brayden See<br>U Joachim</span></p></td></tr><tr style="mso-yfti-irow:2;height:23.2pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Jump</span></p></td><td style="width:186.9pt;border-top:none;border-left:
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Jump</span></p></td><td width="249" valign="top" style="width:186.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Senior Division 1 Boys</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:112.5pt;border-top:none;border-left:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Senior Division 1 Boys</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">10<sup>th</sup> Placing</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:138.95pt;border-top:none;border-left:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">10<sup>th</sup> Placing</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="185" valign="top" style="width:138.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Brayden See</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Brayden See</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.2pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1500m</span></p></td><td style="width:186.9pt;border-top:none;border-left:
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1500m</span></p></td><td width="249" valign="top" style="width:186.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Senior Division 1 Boys</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:112.5pt;border-top:none;border-left:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Senior Division 1 Boys</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="150" valign="top" style="width:112.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">12<sup>th</sup> Placing</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:138.95pt;border-top:none;border-left:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">12<sup>th</sup> Placing</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="185" valign="top" style="width:138.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Aidan Ka’if</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Aidan Ka’if</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:23.2pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Long Jump</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p></td><td width="249" style="width:186.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Senior Division 2 Girls</span><span style="font-size:16.0pt;
-  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="150" style="width:112.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">2nd Placing</span><span style="font-size:16.0pt;line-height:
-  107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
+  107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="185" style="width:138.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Gan Jeng Yu</span><span style="font-size:16.0pt;line-height:
-  107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
+  107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.2pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Shot Put</span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">Shot Put</span></p></td><td width="249" style="width:186.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Division 2 Girls</span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">Senior Division 2 Girls</span></p></td><td width="150" style="width:112.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">1st Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">1st Placing</span></p></td><td width="185" style="width:138.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Gan Jeng Yu</span></p></td></tr><tr style="mso-yfti-irow:6;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">Gan Jeng Yu</span></p></td></tr><tr style="mso-yfti-irow:6;height:23.2pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">4x100m Relay</span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">4x100m Relay</span></p></td><td width="249" style="width:186.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Division 1 Boys</span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">Senior Division 1 Boys</span></p></td><td width="150" style="width:112.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">5th Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">5th Placing</span></p></td><td width="185" style="width:138.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:23.2pt"><td width="170" style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">4x300m Relay</span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">4x300m Relay</span></p></td><td width="249" style="width:186.9pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Division Boys</span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">Senior Division Boys</span></p></td><td width="150" style="width:112.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">4th Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black">4th Placing</span></p></td><td width="185" style="width:138.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">&nbsp;</span></p></td></tr></tbody></table>
 
 ##### <b>NSG Track &amp; Field (Junior Division)</b>
@@ -359,178 +585,7 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
 <span style="font-size:16.0pt;font-family:Arial;color:black">KCS Track &amp; Field has won many accolades over the years, and students undergo rigorous training and selection trials to represent the school in inter-school and national sporting events. With the resumption of NSG this year, we are proud to share the achievements of our students who have worked hard to take home victories.
 
 ##### <b>2022 National School Games Track and Field Championships</b>
- <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="754" style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
- collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
- 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;background:
-  #FFE599;mso-background-themecolor:accent4;mso-background-themetint:102;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Competitor</span></b></p></td><td width="188" valign="top" style="width:141.3pt;border:solid windowtext 2.25pt;
-  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
-  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td width="167" valign="top" style="width:125.0pt;border:solid windowtext 2.25pt;
-  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
-  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td width="107" valign="top" style="width:80.45pt;border:solid windowtext 2.25pt;
-  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
-  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Position</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.15pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ashton Ng Yu Hong</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">120 Metres</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:19.19</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Bryan Lee Jia Jun</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">120 Metres</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:18.69</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Cael Syafwan Bin Mohamed Faizal</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">25 Metres</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:04.91</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Chiang Xu Yong Aegen</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Implement Throw</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">18.14,16.61, 16.04</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Jovan Teo Zhe Kai</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Scissors Jump</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1.09</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td></tr><tr style="mso-yfti-irow:6;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tan Guan Yu Caleb</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Scissors Jump</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1.18</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td></tr><tr style="mso-yfti-irow:7;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tay Yew Kwang</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Shortput (2KG)</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8.73, 8.42, 8.21</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black"></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1. Ashton Ng Yu Hong<br>2. Chiang Xu Yong Aegen<br>3. Cael Syafwan Bin Mohamed Faizal<br>4. Muhammad Hafiz Bin Rahmat<br>5. Tan Guan Yu Caleb<br>6. Jerrell Goh Zuo Yu<br>7. Wong Hou Teck<br>8. Bryan Lee Jia Jun</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8 x 50m Relay</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">01:07.53</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr></tbody></table>
-</span></li></ul>
-
-<table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
+ <table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
  1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="754" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;background:
   #FFE599;mso-background-themecolor:accent4;mso-background-themetint:102;
@@ -699,378 +754,549 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="107"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr></tbody></table>
+</span></li></ul>
 
-<table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="754" style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
- 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="754" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;background:
+ 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;background:
   #FFE599;mso-background-themecolor:accent4;mso-background-themetint:102;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Competitor</span></b></p></td><td style="width:141.3pt;border:solid windowtext 2.25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Competitor</span></b></p></td><td width="188" valign="top" style="width:141.3pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td style="width:125.0pt;border:solid windowtext 2.25pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td width="167" valign="top" style="width:125.0pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td style="width:80.45pt;border:solid windowtext 2.25pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td width="107" valign="top" style="width:80.45pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Position</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Position</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.15pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ashton Ng Yu Hong</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">120 Metres</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:19.19</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:15.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:2;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Bryan Lee Jia Jun</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">120 Metres</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:18.69</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Cael Syafwan Bin Mohamed Faizal</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">25 Metres</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:04.91</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Chiang Xu Yong Aegen</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Implement Throw</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">18.14,16.61, 16.04</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Jovan Teo Zhe Kai</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Scissors Jump</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1.09</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td></tr><tr style="mso-yfti-irow:6;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tan Guan Yu Caleb</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Scissors Jump</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1.18</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td></tr><tr style="mso-yfti-irow:7;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tay Yew Kwang</span><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Shortput (2KG)</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8.73, 8.42, 8.21</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:transparent;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:23.2pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  none;mso-border-top-alt:solid windowtext 2.25pt;background:transparent;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1. Ashton Ng Yu Hong<br>2. Chiang Xu Yong Aegen<br>3. Cael Syafwan Bin Mohamed Faizal<br>4. Muhammad Hafiz Bin Rahmat<br>5. Tan Guan Yu Caleb<br>6. Jerrell Goh Zuo Yu<br>7. Wong Hou Teck<br>8. Bryan Lee Jia Jun</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8 x 50m Relay</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">01:07.53</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
+  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr></tbody></table>
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="754" style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
+ collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
+ 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;background:
+  #FFE599;mso-background-themecolor:accent4;mso-background-themetint:102;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Competitor</span></b></p></td><td width="188" valign="top" style="width:141.3pt;border:solid windowtext 2.25pt;
+  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
+  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td width="167" valign="top" style="width:125.0pt;border:solid windowtext 2.25pt;
+  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
+  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td width="107" valign="top" style="width:80.45pt;border:solid windowtext 2.25pt;
+  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
+  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Position</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Zhu Tianxin</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Zhu Tianxin</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Jump with Take Off Zone (SZ)</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Jump with Take Off Zone (SZ)</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.85</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.85</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span></p></td></tr><tr style="mso-yfti-irow:2;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span></p></td></tr><tr style="mso-yfti-irow:2;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Muhd Nur I’zzat</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Muhd Nur I’zzat</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">40 Metres</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">40 Metres</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:07.08</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:07.08</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr><tr style="mso-yfti-irow:3;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr><tr style="mso-yfti-irow:3;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Muhd Nur I’zzat</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Muhd Nur I’zzat</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Medicine Ball Throw (1KG)</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Medicine Ball Throw (1KG)</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">9.21, 8.25, 8.05</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">9.21, 8.25, 8.05</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1</span></p></td></tr><tr style="mso-yfti-irow:4;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1</span></p></td></tr><tr style="mso-yfti-irow:4;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Isaac Chan Chu Wan</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Isaac Chan Chu Wan</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">60 Metres</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">60 Metres</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:09.89</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:09.89</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1. Kwa Hsien Wang Edwin<br>2. Ernest Tiang Le’er<br>3. A’dyn Bin Megat Shahrom<br>4. Foo Zheng Xun<br>5. Yip Cheng Xi Dylan<br>6. Seng Jay Son<br>7. Muhammad Nur I’zzat Bin Saffudin<br>8. Isaac Chan Chun Wan</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1. Kwa Hsien Wang Edwin<br>2. Ernest Tiang Le’er<br>3. A’dyn Bin Megat Shahrom<br>4. Foo Zheng Xun<br>5. Yip Cheng Xi Dylan<br>6. Seng Jay Son<br>7. Muhammad Nur I’zzat Bin Saffudin<br>8. Isaac Chan Chun Wan</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8 x 50m Relay</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8 x 50m Relay</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">01:11.28</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">01:11.28</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">7</span></p></td></tr></tbody></table>
 
-<table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="754" style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
- 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="754" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;background:
+ 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;background:
   #FFE599;mso-background-themecolor:accent4;mso-background-themetint:102;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Competitor</span></b></p></td><td style="width:141.3pt;border:solid windowtext 2.25pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Competitor</span></b></p></td><td width="188" valign="top" style="width:141.3pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td style="width:125.0pt;border:solid windowtext 2.25pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td width="167" valign="top" style="width:125.0pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td style="width:80.45pt;border:solid windowtext 2.25pt;
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td width="107" valign="top" style="width:80.45pt;border:solid windowtext 2.25pt;
   border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
   mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Position</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Position</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Diong Yan Ling</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Diong Yan Ling</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Scissors Jump</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Scissors Jump</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1.11</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1.11</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr><tr style="mso-yfti-irow:2;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr><tr style="mso-yfti-irow:2;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ella Tan Yu Xuan</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ella Tan Yu Xuan</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">120 Metres</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">120 Metres</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:18.41</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">00:18.41</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3</span></p></td></tr><tr style="mso-yfti-irow:3;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3</span></p></td></tr><tr style="mso-yfti-irow:3;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Nurizzati Amaliairdina</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Nurizzati Amaliairdina</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Implement Throw</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Implement Throw</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">12.84, 11.77, 9.79</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">12.84, 11.77, 9.79</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3</span></p></td></tr><tr style="mso-yfti-irow:4;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3</span></p></td></tr><tr style="mso-yfti-irow:4;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tianyi Chanel Maglio</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tianyi Chanel Maglio</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Implement Throw</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Implement Throw</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">13.25, 12.85, 12.59</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">13.25, 12.85, 12.59</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2</span></p></td></tr><tr style="mso-yfti-irow:5;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2</span></p></td></tr><tr style="mso-yfti-irow:5;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Maegan Lee Jia Ying</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Maegan Lee Jia Ying</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Medicine Ball Throw (2KG)</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Medicine Ball Throw (2KG)</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5.48, 5.41</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5.48, 5.41</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr><tr style="mso-yfti-irow:6;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr><tr style="mso-yfti-irow:6;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Charlene Boo-Koh</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Charlene Boo-Koh</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Shot Put (2KG)</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Shot Put (2KG)</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6.62, 6.28, 5.70</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6.62, 6.28, 5.70</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span></p></td></tr><tr style="mso-yfti-irow:7;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">4</span></p></td></tr><tr style="mso-yfti-irow:7;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Sherlyn Kuah Hui Min</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Sherlyn Kuah Hui Min</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Shot Put (2KG)</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Shot Put (2KG)</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">7.25, 6.68, 6.46</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">7.25, 6.68, 6.46</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:7.5pt"><td style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:7.5pt"><td width="292" style="width:219.1pt;border:solid windowtext 2.25pt;border-top:
   none;mso-border-top-alt:solid windowtext 2.25pt;background:#F2F2F2;
   mso-background-themecolor:background1;mso-background-themeshade:242;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="292"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Charlene Boo-Koh</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Charlene Boo-Koh</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Oh Kai Le Kaeleigh</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Oh Kai Le Kaeleigh</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ashley Yeo Wen Xuan</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ashley Yeo Wen Xuan</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tianyi Chanel Maglio</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Tianyi Chanel Maglio</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Diong Yan Ling</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Diong Yan Ling</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Maegan Lee Jia Ying</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Maegan Lee Jia Ying</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Sherlyn Kuah Hui Min</span></p><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Sherlyn Kuah Hui Min</span></p><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
   margin-left:.5in;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo1;
-  tab-stops:list .5in" class="MsoNormal"><span style="font-size:16.0pt;
+  tab-stops:list .5in"><span style="font-size:16.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black"><span style="mso-list:Ignore">8.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><span style="font-size:16.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ella Tan Yu Xuan</span></p></td><td style="width:141.3pt;border-top:none;border-left:none;
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ella Tan Yu Xuan</span></p></td><td width="188" style="width:141.3pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="188"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8 x 50m Relay</span></p></td><td style="width:125.0pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">8 x 50m Relay</span></p></td><td width="167" style="width:125.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="167"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">01:10.76</span></p></td><td style="width:80.45pt;border-top:none;border-left:none;
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">01:10.76</span></p></td><td width="107" style="width:80.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
-  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span>
+  242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span>

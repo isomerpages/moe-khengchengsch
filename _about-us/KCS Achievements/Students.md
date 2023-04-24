@@ -5,6 +5,94 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Students Achievements
+
+<span style="font-size:20.0pt;font-family:Arial;color:black">
+<u><b>2022 - National School Games </b></u><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+<i><b><u>Junior 2 Boys </u></b></i><br>
+<b>120m</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Ashton Ng Yu Hong (P6.7 this year)- 8th<br>
+Bryan Lee Jia Jun (P6.4 this year) 4th<br>
+	
+<b>25m</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Cael Syafwan Bin Mohamed (P6.1A this year) - 4th<br>
+
+<b>Long implement throw</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Aegen Chiang Xu Yong (P6.6 this year) - 4th<br>
+
+<b>Scissors Jump</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Caleb Tan- 1st<br>
+Jovan Teo- 5th
+
+<b>Shot Put (2kg)</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Tay Yew Kwang  (P6.4 this year) - 2nd<br>
+Tay Yew Kwang - 8x50m Relay- 5th<br>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+<i><b><u>Junior 1 Boys </u></b></i><br>
+<b>Long Jump</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Zhu Tianxin - 4th<br>
+
+<b>60m</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Isaac Chan Chun Wan (P5.3 this year) - 5th<br>
+Izzat- 6th<br>
+
+<b>Medicine Ball Throw</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Muhammad Nur’Izzat Bin Saffudin (P5.2 this year) - 1st<br>
+Muhammad Nur’Izzat Bin Saffudin  - 8x50m relay- 7th<br>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+<i><b><u>Junior 2 Girls </u></b></i><br>
+<b>Scissors Jump</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Diong Yan Ling (P6.2 this year) - 6th<br>
+
+<b>120m</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Ella Tan Yu Xian (P6.2 this year) - 3rd<br>
+
+<b>Long Implement Throw</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Tianyi Chanel Maglio (P6.2 this year) - 2nd<br>
+Nurizzati Amaliairdina (P6.2 this year) 3rd
+
+<b>Medicine Ball Throw</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Maegan Lee Jia Ying (P6.4 this year)- 5th<br>
+
+<b>Shot Put</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Sherlyn Kuah Hui Min (P6.7 this year) - 2nd<br>
+Charlene Boo-Koh Cai Ting (P6.6 this year) -4th<br>
+Charlene Boo-Koh Cai Ting  - 8x50m relay- 6th<br>
+	
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+<i><b><u>Junior 1 Girls </u></b></i><br>
+<b>40m</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Nurul Farhah Binte Muhd Firdaus (P5.5 this year)- 4th<br>
+
+<b>Medicine Ball Throw</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Nur Qalysha Binte Abdullah (P5.2 this year)- 6th<br>
+
+<b>60m</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Avril Liow Huiru (P5.2 this year) - 6th<br>
+
+<b>Long Jump</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+Zhang Xinyu (P5.4 this year) - 6th<br>
+Zhang Xinyu  - 8x50m relay- 5th
+
+
 ##### <b>Results of 9th Ang Mo Kio CC Chess Challenge 2023</b>
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">Girls' Category
@@ -1950,4 +2038,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

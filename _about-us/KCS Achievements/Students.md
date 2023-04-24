@@ -230,6 +230,8 @@ third_nav_title: KCS Achievements
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:14.0pt">39<sup>th</sup> position Achievement Pin</span></p></td></tr></tbody></table>
 
+<span style="font-size:16.0pt;font-family:Arial;color:black">Click 
+<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/0ea1f1640f.html">HERE </a> for event  photographs
 
 ##### <b>The 30th Annual World Children’s Picture Contest 2022</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region.  Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
@@ -1299,4 +1301,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span>

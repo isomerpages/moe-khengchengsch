@@ -644,7 +644,8 @@ third_nav_title: KCS Achievements
   color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
   12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
 
-
+<span style="font-size:20.0pt;font-family:Arial;color:black">Click 
+<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/2f3a470c87.html">HERE</a> for Photographs.
 
 
 
@@ -1949,4 +1950,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

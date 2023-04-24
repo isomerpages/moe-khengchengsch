@@ -5,6 +5,883 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Students Achievements
+##### <b>Results of 9th Ang Mo Kio CC Chess Challenge 2023</b>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">Girls' Category
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="587" style="width:440.25pt;background:white;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;mso-border-insideh:
+ 1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:8.45pt"><td width="37" valign="top" style="width:27.55pt;border:solid windowtext 1.5pt;
+  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
+  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:8.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">S/N</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="88" valign="top" style="width:66.35pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
+  height:8.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Class</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="289" valign="top" style="width:217.1pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:8.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Name</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="172" valign="top" style="width:129.25pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
+  height:8.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Award</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:17.1pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">1</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">P3.2</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">LIANG KAILIN</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">U10 Girls’ – 4th</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">2</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">CHEN RUOXI DORA</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 GIRLS’ – Merit</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">3</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">HANNAH AMELIA</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – 7<sup>th</sup></span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">4</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">LIM XUAN YAN HEILEY</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – 9th</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">5</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">TAN RUI XI JAMIE</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – 10<sup>th</sup></span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:6;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">6</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">THIAN SI NING RHEANNE</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – Merit</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:7;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">7</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">VICTORIA SEAH ZHUO YAN</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – 5th</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:8;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">8</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">GUO LINGYI</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – Merit</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:9;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">9</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">LM YU XIN ZOE</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ –<br>Champion, Overall 8th</span><span style="font-size:12.0pt;line-height:107%;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:10;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">10</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">TANG LI TONG</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – Merit</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:11;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">11</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">JONG RUI EN REGINA</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U10 Girls’ – 3rd</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:12;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">12</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P5.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">JOLENE SEE YA ERN</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U12 Girls’ – 5th</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:13;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">13</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P5.4</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">LEE YING HUI</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U12 Girls’ – 8<sup>th</sup></span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:14;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">14</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P5.4</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">TEE XIN NUO GLADYS</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U12 Girls’ – 7<sup>th</sup></span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:15;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">15</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P6.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">FREYA MEI SOO</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U12 Girls’ – 10<sup>th</sup></span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:16;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">16</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P6.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">GABRIELLE CHIA XIN LE</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U12 Girls’ – 9<sup>th</sup></span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:17;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">17</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P6-4</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">ANGELYN QUEK</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U12 Girls’ – 6<sup>th</sup></span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:18;mso-yfti-lastrow:yes;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">18</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P6.5</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">NICHOLE THE KAI YUAN</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">U12 Girls’ –<br>3<sup>rd</sup>, Overall 10th</span><span style="font-size:12.0pt;line-height:
+  107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">Boys' Category
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="587" style="width:440.25pt;background:white;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;mso-border-insideh:
+ 1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:8.45pt"><td width="37" valign="top" style="width:27.55pt;border:solid windowtext 1.5pt;
+  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
+  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:8.45pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">S/N</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="88" valign="top" style="width:66.35pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
+  height:8.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Class</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="289" valign="top" style="width:217.1pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:8.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Name</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td><td width="172" valign="top" style="width:129.25pt;border:solid windowtext 1.5pt;
+  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
+  mso-background-themecolor:accent2;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
+  height:8.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Award</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1;height:17.1pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">1</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">P2.8</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">YU ZHUOLANG FELIX</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:17.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Boys U8 – 4th</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">2</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.1</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">DAVID LAU RUI YU</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">3</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.1</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">THIERRY ENVER CHUA ZHENYU</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">4</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">TAN QINGYUAN</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">5</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P3.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">WONG KAI</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:6;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">6</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">ETHN SOH JING KAI</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:7;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">7</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">JAYDEN DENZEL TAN YIXUN</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:8;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">8</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">PHUA JING CHENG</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:9;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">9</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.2</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">TEO EE TIET</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:10;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">10</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P4.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">AARON THE KAI MING</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:11;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">11</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P5.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">LUCAS CHEONG JUN HONG</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:12;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">12</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P5.3</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">TOBY CHAN KAI MING</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Boys U12 – 8th</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:13;mso-yfti-lastrow:yes;height:26.2pt"><td width="37" style="width:27.55pt;border:solid windowtext 1.5pt;border-top:
+  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
+  3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">13</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;"></span></p></td><td width="88" style="width:66.35pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">P5.4</span><span style="font-size:12.0pt;
+  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="289" style="width:217.1pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">LIM EN EMIL</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td width="172" style="width:129.25pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
+  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
+  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:26.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Merit</span><span style="font-size:
+  12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>
+
+<span style="font-size:20.0pt;font-family:Arial;color:black">Click 
+<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/2f3a470c87.html">HERE</a> for Photographs.
+
+
+
+
+
+
+
+
+##### <b></b>Results of Non-CCA National School Games Competition
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+
+**2023 NSG WUSHU COMPETITION**
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">EVENT</span></b></p></td><td style="width:95.95pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">COMPETITOR</span></b></p></td><td style="width:49.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">CLASS</span></b></p></td><td style="width:94.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">RESULTS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:158pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .2pt;mso-border-alt:solid windowtext .2pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p class="MsoNoSpacing"><span style="font-size:14.0pt">5-Duan Changquan -<br>Junior Boys<b></b></span></p></td><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Qu Lihao<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.4</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">9<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="2" width="208"><p class="MsoNoSpacing"><span style="font-size:14.0pt">3-Duan Changquan -<br> Junior Boys<b></b></span></p></td><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayden Goh<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P4.1</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">13<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayvin Goh<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P2.8</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">40<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="2" width="208"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Sword -<br>Junior Boys<b></b></span></p></td><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Qu Lihao<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.4<b></b></span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">5<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayden Goh<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">14<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Broadsword -<br> Junior Boys<b></b></span></p></td><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Zhan Cunyu<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.3</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">41<sup>st</sup> position</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Spear -<br> Junior Boys<b></b></span></p></td><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayden Goh<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">16<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="208"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4-Duan Cudgel -<br> Junior Boys<b></b></span></p></td><td style="width:95.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="128"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kayvin Goh<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P2.8</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">49<sup>th</sup> position</span></p></td></tr></tbody></table>
+<br>
+**2023 NSG ARTISTIC GYMNASTICS**
+
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:166.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="222"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">EVENT</span></b></p></td><td style="width:85.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">COMPETITOR</span></b></p></td><td style="width:49.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">CLASS</span></b></p></td><td style="width:94.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">RESULTS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="2" width="222"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Men’s Artistic Gymnastics (MAG) Junior Div -All Round for 3 events<b></b></span></p></td><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.2</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4<sup>th</sup> position</span></p><p class="MsoNoSpacing"><span style="font-size:14.0pt">Bronze Award</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kal Lim Zi Jin<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P4.1</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">16<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="2" width="222"><p class="MsoNoSpacing"><span style="font-size:14.0pt">MAG INDIVIDUAL APPARATUS Junior Novice – Floor Exercise<b></b></span></p></td><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.2</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4<sup>th</sup> position Bronze</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kal Lim Zi Jin<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">14<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="222"><p class="MsoNoSpacing"><span style="font-size:14.0pt">MAG INDIVIDUAL APPARATUS Junior Novice – Mushroom<b></b></span></p></td><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.2<b></b></span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">4<sup>th</sup> position Bronze</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:166.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="2" width="222"><p class="MsoNoSpacing"><span style="font-size:14.0pt">MAG INDIVIDUAL APPARATUS Junior Novice – Vault<b></b></span></p></td><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Tan Chian Zen<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.2<b></b></span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><sup><span style="font-size:14.0pt">8th</span></sup><span style="font-size:14.0pt"> position Bronze</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes"><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="114"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Kal Lim Zi Jin<b></b></span></p></td><td style="width:49.5pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="66"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P4.1<b></b></span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:14.0pt">18<sup>th</sup> position</span></p></td></tr></tbody></table>
+
+**2023 NSG RHYTHMIC GYMNASTICS**
+
+<table style="margin-left:-40.75pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:196.55pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="262"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">EVENT</span></b></p></td><td style="width:131.95pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="176"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">COMPETITOR</span></b></p></td><td style="width:.75in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">CLASS</span></b></p></td><td style="width:121.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="162"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">RESULTS</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:196.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" rowspan="2" width="262"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Junior Division Developmental Level 2 -Ball</span></p></td><td style="width:131.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="176"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Yang Wanyi<b></b></span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.2</span></p></td><td style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="162"><p class="MsoNoSpacing"><span style="font-size:14.0pt">49<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:131.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="176"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Alyssandra Thea Kee<b></b></span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.3</span></p></td><td style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="162"><p class="MsoNoSpacing"><span style="font-size:14.0pt">66<sup>th</sup> position</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:196.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="262"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Junior Division Developmental Level 2 -Rope</span></p></td><td style="width:131.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="176"><p class="MsoNoSpacing"><span style="font-size:14.0pt">Alyssandra Thea Kee<b></b></span></p></td><td style="width:.75in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="72"><p style="text-align:center" align="center" class="MsoNoSpacing"><span style="font-size:14.0pt">P3.3</span></p></td><td style="width:121.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="162"><p class="MsoNoSpacing"><span style="font-size:14.0pt">39<sup>th</sup> position Achievement Pin</span></p></td></tr></tbody></table>
+
+<span style="font-size:16.0pt;font-family:Arial;color:black">Click 
+<a href="https://heyzine.com/flip-book/0ea1f1640f.html" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);">HERE </a> for event  photographs
+
 ##### <b>The 30th Annual World Children’s Picture Contest 2022</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region.  Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
 
@@ -1073,4 +1950,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   background:#F2F2F2;mso-background-themecolor:background1;mso-background-themeshade:
   242;padding:.75pt .75pt .75pt .75pt;height:7.5pt" width="107"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

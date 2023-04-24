@@ -926,7 +926,7 @@ Zhang Xinyu  - 8x50m relay- 5th
 
 **2023 NSG RHYTHMIC GYMNASTICS**
 
-<table style="margin-left:-40.75pt;border-collapse:collapse;border:none;mso-border-alt:
+<table style="margin-left:-1.75pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:196.55pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="262"><p class="MsoNoSpacing"><b><span style="font-size:14.0pt">EVENT</span></b></p></td><td style="width:131.95pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:

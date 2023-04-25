@@ -1159,7 +1159,6 @@ You may find the picture of the display below:<br><br>
 
 <img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction3.jpg"><img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction4.jpg"><br><br><br><br>
 
-# Co-Curricular
 ##### <b>National School Games (NSG) 2022</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">We are pleased to announce that our Track &amp; Field CCA performed exceptionally well in the SPSSC NSG Track &amp; Field Meet which was held from 19 April to 27 April.<br><br>
 The results are as follows:

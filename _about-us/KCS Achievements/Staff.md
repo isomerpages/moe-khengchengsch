@@ -20,12 +20,12 @@ third_nav_title: KCS Achievements
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="358"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">YELLOW FLAME AWARD FOR 2021<br>School Green Awards by SEC</span></p></td><td style="width:135.8pt;border-top:none;border-left:none;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">YELLOW FLAME AWARD<br>School Green Awards by SEC</span></p></td><td style="width:135.8pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="181"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2021</span></p></td></tr></tbody></table>
+	mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2021<br>2022</span></p></td></tr></tbody></table>
 
 ##### <b>Accolades</b>
 

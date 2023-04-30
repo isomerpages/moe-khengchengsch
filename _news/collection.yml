@@ -2,8 +2,10 @@ collections:
   news:
     output: true
     order:
-      - News/Annual World Children's Picture Cotest 2022.md
       - News/.keep
+      - News/Upcycling Innovators.md
+      - News/GB Awards Ceremony 2022.md
+      - News/Annual World Children's Picture Cotest 2022.md
       - News/Art and Crafts Club's Tour to Dragon Kiln.md
       - News/Total Defence  Day (TDD) Commemoration.md
       - News/Our Art Space.md

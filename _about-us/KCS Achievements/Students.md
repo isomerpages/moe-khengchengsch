@@ -5,9 +5,18 @@ description: ""
 third_nav_title: KCS Achievements
 ---
 # Students Achievements<br>
+<span style="font-size:18.0pt;font-family:Arial;color:blue">
+	<b>(1)  GB Awards Ceremony - Company Awards 2022 and Junior Brigader Brooch</b><br><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+The Singapore Girls’ Brigade 90th Company in Kheng Cheng School has met the standard to achieve the Gold Award for the National Company Awards in 2022!<br>
+
+Four of our Brigaders also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. We are proud of our four recipients: Lim Shin Ying (6.3); Sii Yu Tong (6.4); Kaylyn Low Jean Xuan (6.6) and Nurul Farysha binte Abdullah (6.7). They possess good character, have demonstrated leadership and are responsible Squad Leaders.</span>
+
+Click 
+<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/c955e00db1.html"><b>HERE</b></a> fo ceremony Photographs.
 
 <span style="font-size:18.0pt;font-family:Arial;color:blue">
-	<b>(1) 2022 - National School Games </b><br>
+	<b>(2) 2022 - National School Games </b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black"><br>
 <i><b><u>Junior 2 Boys </u></b></i><br>
 <b>120m</b>
@@ -92,7 +101,7 @@ Zhang Xinyu  - 8x50m relay- 5th
 
 
 <span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
-	(2) Results of 9th Ang Mo Kio CC Chess Challenge 2023<br>
+	(3) Results of 9th Ang Mo Kio CC Chess Challenge 2023<br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Girls' Category
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="587" style="width:440.25pt;background:white;border-collapse:collapse;border:none;
@@ -740,7 +749,7 @@ Zhang Xinyu  - 8x50m relay- 5th
 
 
 <span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
-<b></b>(3) Results of Non-CCA National School Games Competition
+<b></b>(4) Results of Non-CCA National School Games Competition
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 
 <b></b>2023 NSG WUSHU COMPETITION
@@ -970,13 +979,13 @@ Zhang Xinyu  - 8x50m relay- 5th
 <span style="font-size:16.0pt;font-family:Arial;color:black">Click 
 <a href="https://heyzine.com/flip-book/0ea1f1640f.html" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);">HERE </a> for event  photographs
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b>(4) The 30th Annual World Children’s Picture Contest 2022</b><br>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b>(5) The 30th Annual World Children’s Picture Contest 2022</b><br>
 <span style="font-size:14.0pt;font-family:Arial;color:black">The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region.  Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
 
 <img style="width:80%" src="/images/Achievements/picturecontest.JPG"><br>
 
 <span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
-	<b></b>(5) Girls' Brigade Company Awards (2021) - Gold Award</b><br>
+	<b></b>(6) Girls' Brigade Company Awards (2021) - Gold Award</b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
 
 <img style="width:80%" src="/images/GB/gbgoldaward2021.JPG"><br>
@@ -985,7 +994,7 @@ Zhang Xinyu  - 8x50m relay- 5th
 
 
 <span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
-<b></b>(6) National School Games South Zone Basketball (2022)</b>
+<b></b>(7) National School Games South Zone Basketball (2022)</b>
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 
 
@@ -1031,7 +1040,7 @@ It is a great pleasure to announce that both Senior Boys and Girls team have eme
 |NATHALY CHAN LEAL ERN|P6-7 |
 |YUKI SOH SIEW PIN|P6-7 |
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b>(7) National School Games (NSG)</b><br>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b>(8) National School Games (NSG)</b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">The National School Games (NSG) resumed on 19 April for Primary school athletes - the Senior Division (Primary 6) students competed (over a span of two weeks from 19 to 28 April) and the Junior Division (Primary 4 &amp; 5) will take place in July. <br><br>
 KCS sent our athletes to participate in the following relays:
 <span style="font-size:16.0pt;font-family:Arial;color:black">
@@ -1044,10 +1053,10 @@ We are proud that <b>KCS clinched Gold for high-jump by Gan Jeng Yu (P6.4) &amp;
 
 Overall, all our the athletes did a great job, given the 'short run-way' of preparation &amp; (face-to-face) trainings (of only 5-6 weeks), leading to the NSG in April. More importantly, our KCS athletes' unwavering &amp; 'never-say-die' attitude put into the limited trainings and the actual days of competitions in a stadium setting (at Bukit Gombak), the coaches &amp; teachers provided for them, were highly commendable - and we are all very proud of them!"
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(8) The 29th Annual World Children’s Picture Contest 2021</b><br>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(9) The 29th Annual World Children’s Picture Contest 2021</b><br>
 <span style="font-size:14.0pt;font-family:Arial;color:black">The 29th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 9,998 entries from 50 countries and regions, our student - Ng Zheng Xian from P3.3 (2021) had received Honorable Mention for his creativity and good use of artistic techniques in his artwork. We would like to congratulate Zheng Xian for his achievement, and also encourage our students to take part in the upcoming 30th edition of the Annual World Children Picture Contest. Students may find out more from their respective art teacher.
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(9) Achievement of Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021</b><br>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(10) Achievement of Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021</b><br>
 <span style="font-size:14.0pt;font-family:Arial;color:black">We are pleased to inform you that our Red Cross Links has once again achieved the Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021. Numerous red-cross related activities and enrichment activities were carried out to encourage our links to achieve the highest possible level of proficiency in training. These inlude first aid knowledge and bandaging skills ensuring emergency readiness and preparedness.  
 
 <span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(10) SYF Youth Station Project songwriting event</b><br>
@@ -1061,7 +1070,7 @@ Overall, all our the athletes did a great job, given the 'short run-way' of prep
 <span style="font-size:14.0pt;font-family:Arial;color:black">Ming Yue: I’ve Got Your Back<br>
 <span style="font-size:14.0pt;font-family:Arial;color:black"><a href="https://youtu.be/ziSCPVDzFcU">https://youtu.be/ziSCPVDzFcU</a>
 	
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(11) The 28th Annual World Children’s Picture Contest 2020</b>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(12) The 28th Annual World Children’s Picture Contest 2020</b>
 	<span style="font-size:14.0pt;font-family:Arial;color:black"><br>
 The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.<br><br>
 
@@ -1148,7 +1157,7 @@ The 28th edition of the Annual World Children’s Picture Contest is a drawing c
   line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr></tbody></table>
 	
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(12) KCS Art Display at Mediacorp Campus</b>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(13) KCS Art Display at Mediacorp Campus</b>
 <span style="font-size:14.0pt;font-family:Arial;color:black">	
 As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module.<br>
 
@@ -1162,7 +1171,7 @@ You may find the picture of the display below:<br><br>
 <img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction3.jpg"><img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction4.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 	
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(13) National School Games (NSG) 2022</b><br>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(14) National School Games (NSG) 2022</b><br>
 <span style="font-size:14.0pt;font-family:Arial;color:black">We are pleased to announce that our Track &amp; Field CCA performed exceptionally well in the SPSSC NSG Track &amp; Field Meet which was held from 19 April to 27 April.<br><br>
 The results are as follows:
 
@@ -1325,7 +1334,7 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
 
 <span style="font-size:14.0pt;font-family:Arial;color:black">KCS Track &amp; Field has won many accolades over the years, and students undergo rigorous training and selection trials to represent the school in inter-school and national sporting events. With the resumption of NSG this year, we are proud to share the achievements of our students who have worked hard to take home victories.
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b><b>(14) 2022 National School Games Track and Field Championships</b><br>
+<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b><b>(15) 2022 National School Games Track and Field Championships</b><br>
 	
  <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="754" style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
@@ -2043,11 +2052,10 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">6</span></p></td></tr></tbody></table></b><br>
 	
-	
 <span style="font-size:18.0pt;font-family:Arial;color:blue">
-	<b>(15) National Chinese Calligraphy Competition 2023 </b><br>
-<span style="font-size:14.0pt;font-family:Arial;color:black">        <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-alt:"Calisto MT"; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-alt:Calibri; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:SimSun;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+	<b>(16) National Chinese Calligraphy Competition 2023 </b><br>
+<span style="font-size:14.0pt;font-family:Arial;color:black">       
 
 Zhang Xinyu of P 5.4 and Jolene See Ya Ern of P5.3 have won a Merit Award and a Consolation Award respectively in the National Chinese Calligraphy Competition 2023.
 
-The Competition was organized by Hong Wen School in Term One. A total of 67 schools of 488 students participated. Hence, Zhang Xinyu and Jolene See have made Kheng Cheng proud by winning the prestigious awards!</span></span></b></span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span></span></span></span></b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+The Competition was organized by Hong Wen School in Term One. A total of 67 schools of 488 students participated. Hence, Zhang Xinyu and Jolene See have made Kheng Cheng proud by winning the prestigious awards!</span></span></b></span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span></span></span></span></b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

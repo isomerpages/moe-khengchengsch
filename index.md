@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: /picturecontest
+          url: /innovators
         - title: Resources
           description: ""
           url: /parentsresource/

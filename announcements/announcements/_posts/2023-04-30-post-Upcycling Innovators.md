@@ -11,6 +11,4 @@ image: ""
 
 <span style="font-size:16.0pt;font-family:Arial;color:blue">
 Click 
-<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/59231649e7.html"><b>HERE</b></a> to view the photographs of event.
-
-</span>
+<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/59231649e7.html"><b>HERE</b></a> to view the photographs of event.</span>

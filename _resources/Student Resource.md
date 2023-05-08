@@ -143,7 +143,10 @@ description: ""
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" valign="top" width="359"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext"><br><br><br><br><a href="https://go.gov.sg/opac-kcs" target="_blank">https://go.gov.sg/opac-kcs</a></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:15;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
+  color:black;mso-color-alt:windowtext"><br><br><br><br><a href="https://go.gov.sg/opac-kcs" target="_blank">https://go.gov.sg/opac-kcs</a></span><br>
+<span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext"><br><a href="https://schoolibrary.moe.edu.sg/khengcheng" target="_blank">https://schoolibrary.moe.edu.sg/khengcheng</a></span><br>
+<span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:15;height:19.2pt"><td style="width:467.4pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#FFF2CC;
   mso-background-themecolor:accent4;mso-background-themetint:51;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:19.2pt" colspan="2" width="623"><p style="margin-bottom:0in;text-align:center;

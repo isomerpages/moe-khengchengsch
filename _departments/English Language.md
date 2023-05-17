@@ -39,17 +39,17 @@ description: ""
 Nurture Our Writers (NOW), Nurture Imaginative Minds (NIM) and 
 Nurturing Independent Communicators (NIC) are customised department programs focused on developing Productive and Receptive skills aligned to the department’s mission to move students from Rustle to Roar…
 
-•	NOW programs include writing packages aligned to STELLAR 2.0 and enrichment writing lessons. 
-•	NIM programs such as IT enabled Moo-O for lower primary and Novel Reading for middle primary. 
+•	NOW programs include writing packages aligned to STELLAR 2.0 and enrichment writing lessons.<br> 
+•	NIM programs such as IT enabled Moo-O for lower primary and Novel Reading for middle primary.<br> 
 •	NIC programs such as Literary Arts for P2, P3 and P4 and IT enabled NewsMaker for P4 and P5.
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>1.	Languages Fiesta @ KCS</b>
 
-To immerse students in the use of languages, the English Department organises various activities to aoruse students’ interest in the English Language through reading, listening, speaking and writing for Languages Fiesta.
+To immerse students in the use of languages, the English Department organises various activities to arouse students’ interest in the English Language through reading, listening, speaking and writing for Languages Fiesta.
 
-Lat year, students challenged one another to see who could recite the given tongue twisters the fastest. They also took part in spelling bees to see how many words they could spell accurately. Primary 1 and 2 students were also encouraged to come dressed in their favourite story book characters. Students had a fun time sharing about their favourite characters and stories. Pre-assembly activities were organised to promote the use of good spoken and written English. Our P3s and P4s tried their hands at poetry writing too. They let their creative juices flow and enjoyed the chance to share their drawings with others. It was a joy seeing students immersed in the use of English Language. As they say, with languages, you are at home anywhere!
+Last year, students challenged one another to see who could recite the given tongue twisters the fastest. They also took part in spelling bees to see how many words they could spell accurately. Primary 1 and 2 students were also encouraged to come dressed in their favourite story book characters. Students had a fun time sharing about their favourite characters and stories. Pre-assembly activities were organised to promote the use of good spoken and written English. Our P3s and P4s tried their hands at poetry writing too. They let their creative juices flow and enjoyed the chance to share their drawings with others. It was a joy seeing students immersed in the use of English Language. As they say, with languages, you are at home anywhere!
 
-<img src="/images/English/languagefiesta.jpg" style="width:600px;height:500px;margin-right:45px;" align = "left"><br><br><br><br><br><br><br><br>
+<img src="/images/English/languagefiesta.jpg" style="width:600px;height:500px;margin-right:45px;" align="left"><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>	
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>2.	Drama-in-writing Programme</b>
 
@@ -59,8 +59,8 @@ The EL teachers conduct drama-in-writing sessions for their students in Primary 
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">The middle primary NOVEL programme aims to encourage a greater love for reading books beyond the Stellar curriculum. Narratives Of Very Exciting Lessons take place as students read extensively and view digital media through SLS lessons as well as engage in fun post-reading activities in class. Analysing linguistic features and popular storybook characters give our students an early introduction to the literary world of fiction and non-fiction books.<br>
 
-<img src="/images/English/Novel1.jpeg" style="width:600px;height:500px;margin-right:45px;" align = "left"><br>
-<img src="/images/English/Novel2.jpeg" style="width:600px;height:500px;margin-right:45px;" align = "left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="/images/English/Novel1.jpeg" style="width:600px;height:500px;margin-right:45px;" align="left"><br>
+<img src="/images/English/Novel2.jpeg" style="width:600px;height:500px;margin-right:45px;" align="left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>4.	P1 and P2 Learning Support Programmes, P3 and P4 Reading Remediation Programmes and Buddy Reading Programme</b>
 
@@ -75,26 +75,26 @@ This school publication consists of three volumes of EL and MT literary works wr
 
 To motivate our P1 to P3 children to read fluently and expressively, the school engages the students in using the fun digital courseware, Moo-O. This collaborative platform allows the readers to be immersed in the story that they are reading, transforming them into the story characters. As part of cultivating a love for the language through innovative and engaging broadcasting technologies, our P4 and P5 students create content using NewsMaker for a variety of purposes. 
 
-<img src = "/images/English/Moo-O.png" style="width:100%"><br>
-<img src = "/images/English/Moo1.jpg" style="width:100%"><br>
-<img src = "/images/English/moo2.jpg" style="width:100%"><br>
-<img src = "/images/English/moo3.jpg" style="width:100%"><br>
+<img src="/images/English/Moo-O.png" style="width:100%"><br>
+<img src="/images/English/Moo1.jpg" style="width:100%"><br>
+<img src="/images/English/moo2.jpg" style="width:100%"><br>
+<img src="/images/English/moo3.jpg" style="width:100%"><br>
 	
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>7.	Creative Writing Programme</b>
 
 Primary 5 students who show interest and aptitude in creative writing are selected to submit a portfolio of their writing to apply for a Creative Writing Programme conducted by MOE. This programme aims to help our budding writers hone their writing skills and nurture their love for the language. Selected students participate in a 3 day non-residential camp where they get to learn writing techniques taught by published writers. Students may also get an opportunity to showcase their writing in Mementoes, a compilation of poetry and prose shared during the course.
 
-<img src = "/images/English/cwp1.jpg" style="width:100%"><br>
-<img src = "/images/English/cwp2.jpg" style="width:100%"><br>
+<img src="/images/English/cwp1.jpg" style="width:100%"><br>
+<img src="/images/English/cwp2.jpg" style="width:100%"><br>
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>8.	Tinkerspace</b>
 
  Tinkerspace is where students engage in hands-on activities in Science, Technology, Arts and Maths (S.T.E.A.M). We want our students to put on their tinkering hats and let their imagination run wild.     
 
-<img src = "/images/English/Tinkerspace1.jpeg" style="width:50%"><br>
-<img src = "/images/English/Tinkerspace2.jpeg" style="width:50%"><br>
-<img src = "/images/English/Tinkerspace3.jpeg" style="width:50%"><br>
-<img src = "/images/English/Tinkerspace4.jpeg" style="width:50%"><br>
+<img src="/images/English/Tinkerspace1.jpeg" style="width:50%"><br>
+<img src="/images/English/Tinkerspace2.jpeg" style="width:50%"><br>
+<img src="/images/English/Tinkerspace3.jpeg" style="width:50%"><br>
+<img src="/images/English/Tinkerspace4.jpeg" style="width:50%"><br>
 	
 # Organisation Chart
 
@@ -139,4 +139,4 @@ Primary 5 students who show interest and aptitude in creative writing are select
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Mahalingam Indra<br>Miss Geraldine Tiew<br>Mrs Winnie Chan<br>Mdm Sophia Loo<br>Ms Ariel Low<br>Ms Priaya Tishan<br>Mr Lim Zonghan<br>Ms Jaime Chia<br>Mdm Kalpana<br>Mdm Haniza<br>Mrs Zuraidah Mano<br>Ms Ayesha Jagaber Yasmin<br>Ms Santi<br>Ms Koh Meng Hoe<br>Mrs Caryn Ong<br>Miss Shalini<br>Miss Su Yen Leng</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:black">Mdm Mahalingam Indra<br>Miss Geraldine Tiew<br>Mrs Winnie Chan<br>Mdm Sophia Loo<br>Ms Ariel Low<br>Ms Priaya Tishan<br>Mr Lim Zonghan<br>Ms Jaime Chia<br>Mdm Kalpana<br>Mdm Haniza<br>Mrs Zuraidah Mano<br>Ms Ayesha Jagaber Yasmin<br>Ms Santi<br>Ms Koh Meng Hoe<br>Mrs Caryn Ong<br>Miss Shalini<br>Miss Su Yen Leng</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

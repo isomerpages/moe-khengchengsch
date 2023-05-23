@@ -4,4 +4,4 @@ permalink: /p5camp/
 description: ""
 third_nav_title: News
 ---
-<span style="font-size:20.0pt;font-family:Arial;color:black">Dear Parents /  Guardians,<br><br>You can refer to this <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://youtu.be/fpqdR8sV_jk">LINK</a> for the happenings and photographs of the P5 Camp 2023. <br><br> Thank you<br>Kheng Cheng School</span>
+<span style="font-size:20.0pt;font-family:Arial;color:black">Dear Parents /  Guardians,<br><br>You can refer to this <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(20, 20, 250);" rel="noopener noreferrer" target="_blank" href="https://youtu.be/fpqdR8sV_jk"><b>LINK</b></a> for the happenings and photographs of the P5 Camp 2023. <br><br> Thank you<br>Kheng Cheng School</span>

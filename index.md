@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: /innovators/
+          url: /p5camp/
         - title: Resources
           description: ""
           url: /parentsresource/

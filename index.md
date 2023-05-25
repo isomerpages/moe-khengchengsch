@@ -4,7 +4,7 @@ title: KHENG CHENG SCHOOL
 description: A Dynamic Community of Compassionate Leaders and Critical Thinkers.
 image: /images/KhengChengSchoolLogo.png
 permalink: /
-notification: Welcome to Kheng Cheng School
+notification: KHENG CHENG SCHOOL OPEN HOUSE WILL BE HELD ON 27 MAY, 9.30AM TO 12PM.
 sections:
   - hero:
       title: KHENG CHENG SCHOOL

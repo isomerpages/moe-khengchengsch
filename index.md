@@ -4,7 +4,7 @@ title: KHENG CHENG SCHOOL
 description: A Dynamic Community of Compassionate Leaders and Critical Thinkers.
 image: /images/KhengChengSchoolLogo.png
 permalink: /
-notification: Welcome to Kheng Cheng School
+notification: Kheng Cheng School  OPEN HOUSE AND P2 CCA FAIR will be held on 27 MAY.
 sections:
   - hero:
       title: KHENG CHENG SCHOOL
@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: /p5camp/
+          url: /esplande
         - title: Resources
           description: ""
           url: /parentsresource/

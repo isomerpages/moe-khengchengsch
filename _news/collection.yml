@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - "News/Instrumental Music Competition: Digital Concert Hall.md"
       - News/Day Out @ Esplande.md
       - News/Primary 5 Camp 2023.md
       - News/.keep

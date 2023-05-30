@@ -1,0 +1,12 @@
+---
+title: P2 CCA Fair 2023 Parents Briefing
+permalink: /p2ccafair2023/
+date: 2023-05-30
+layout: post
+description: ""
+image: ""
+---
+<span style="font-size:16.0pt;font-family:Arial;color:black">Dear Parents / Guardians,<br><br><span style="font-size:16.0pt;font-family:Arial;color:black">Please refer to the <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/c955e00db1.html"><b>[LINK]()</b> </a>for the slides used for the P2 CCA Fair Parents Briefing 2023. <br><br>Thank you<br><br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">
+Regards<br>
+Kheng Cheng School</span></span></span>

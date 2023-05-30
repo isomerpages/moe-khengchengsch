@@ -18,7 +18,8 @@ description: ""
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><a style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; color: rgb(128, 56, 61); text-decoration: underline; background-color: transparent; margin: 0px 0px 2rem; padding: 0px; line-height: 1.25; cursor: pointer; transition: all 0.25s ease-in-out 0s;" rel="noopener" target="_blank" href="https://www.khengcheng.moe.edu.sg/files/p2%20cca%20fair%202023_parents%20briefing.pdf">P2 CCA Fair Parents Briefing 2023</a>
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal">
+&nbsp; &nbsp; &nbsp; <a style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; color: rgb(128, 56, 61); text-decoration: underline; background-color: transparent; margin: 0px 0px 2rem; padding: 0px; line-height: 1.25; cursor: pointer; transition: all 0.25s ease-in-out 0s;" rel="noopener" target="_blank" href="https://www.khengcheng.moe.edu.sg/files/p2%20cca%20fair%202023_parents%20briefing.pdf">P2 CCA Fair Parents Briefing 2023</a>
 	
 </p></td></tr><tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;

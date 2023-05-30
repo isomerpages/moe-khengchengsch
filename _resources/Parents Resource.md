@@ -18,10 +18,7 @@ description: ""
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="[P2 CCA Fair Parents Briefing](/files/p2%20cca%20fair%202023_parents%20briefing.pdf)"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">P2 CCA Parents Briefing 2023</span></span></span></span></a></p></td></tr>
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="[](/files/p2%20cca%20fair%202023_parents%20briefing.pdf)">P2 CCA Fair Parents Briefing</a></p></td></tr>
 
 <tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;

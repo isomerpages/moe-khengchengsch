@@ -40,7 +40,7 @@ Primary 1 Teachers
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Goh Koon Mei<br>goh_koon_mei@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:21.3pt"><td style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Mr Raja Nazruldin Bin Raja Kamarulzaman<br>raja_nazruldin_raja_kamaru@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:21.3pt"><td style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="56"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;

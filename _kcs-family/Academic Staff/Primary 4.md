@@ -28,7 +28,7 @@ Primary 4 Teachers
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="283"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Ms Grace Yap Li Ying<br><span style="mso-spacerun:yes">&nbsp;</span>grace_yap_li_ying@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:21.3pt"><td style="width:39.55pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Mdm Fong Lik Khuan<br><span style="mso-spacerun:yes">&nbsp;</span>fong_lik_khuan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:21.3pt"><td style="width:39.55pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="53"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -86,18 +86,14 @@ Primary 4 Teachers
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" colspan="2" width="577"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Ms Eunice Leow Min Ru<br>leow_min_ru_eunice@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:8;height:21.3pt"><td style="width:39.55pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" rowspan="2" width="53"><p style="margin-bottom:0in;text-align:center;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:20pt" rowspan="2" width="53"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">P4-6</span></p></td><td style="width:220.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="294"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Fong Lik Khuan<br>fong_lik_khuan@moe.edu.sg</span></p></td><td style="width:212.45pt;border-top:none;border-left:
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:2.0pt" width="294"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:black">Mdm Aslinda Binte Paujan<br>fong_lik_khuan@moe.edu.sg</span></p></td><td style="width:212.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="283"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Ms Teo Yee Leng<br><span style="mso-spacerun:yes">&nbsp;</span>teo_yee_leng@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:21.3pt"><td style="width:432.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" colspan="2" width="577"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Aslinda Binte Paujan<br>aslinda_paujan@moe.edu.sg</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Ms Teo Yee Leng<br><span style="mso-spacerun:yes">&nbsp;</span>aslinda_paujan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:21.3pt"></tr></tbody></table>

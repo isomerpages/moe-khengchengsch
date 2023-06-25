@@ -48,13 +48,13 @@ Primary 2 Teachers
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt"><span style="mso-spacerun:yes">&nbsp;</span>Ms Su Ting Ting<br><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span>su_ting_ting@moe.edu.sg</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span><p></p></td></tr><tr style="mso-yfti-irow:3;height:21.3pt"><td width="56" style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span>su_ting_ting@moe.edu.sg</span>
+
+</td></tr><tr style="mso-yfti-irow:3;height:21.3pt"><td width="56" style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">P2-3</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td width="274" style="width:205.7pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;"></span><p></p></td><td width="274" style="width:205.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -65,14 +65,11 @@ Primary 2 Teachers
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span>Ms Grace Yap Li Ying</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p><br><span style="mso-spacerun:yes">&nbsp;</span>grace_yap_li_ying@moe.edu.sg<span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span><p></p></td></tr><tr style="mso-yfti-irow:4;height:21.3pt"><td width="56" style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext"><span style="mso-spacerun:yes">&nbsp;</span>Ms Grace Yap Li Ying</span><br><span style="mso-spacerun:yes"></span>grace_yap_li_ying@moe.edu.sg</p></td></tr><tr><td width="56" style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">P2-4</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td><td width="274" style="width:205.7pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;"></span><p></p></td><td width="274" style="width:205.7pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:

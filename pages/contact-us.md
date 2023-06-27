@@ -16,7 +16,7 @@ locations:
     title: Kheng Cheng School
 contacts:
   - content:
-      - phone: +65 6255 2502
+      - phone: +65 8840 6580
       - email: kcs@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
@@ -24,9 +24,9 @@ contacts:
       - phone: ""
       - email: ""
       - other: "Bus Stop 1: 235<br>Bus Stop 2 & 3: 56, 73, 88, 105,
-          157<br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&n\
-          bsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&\
-          nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp159, 163, 231 <br>Nearest
-          MRT Station: Braddell"
+          157<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n\
+          bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp\
+          ;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n\
+          bsp;&nbsp;159, 163, 231 <br>Nearest MRT Station: Braddell"
     title: Getting there
 ---

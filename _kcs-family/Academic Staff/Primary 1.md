@@ -4,8 +4,6 @@ permalink: /kcs-family/Academic-Staff/Primary1/
 description: ""
 third_nav_title: Academic Staff
 ---
-Primary 1 Teachers
-==================
 
 <table style="width:480.25pt;margin-left:-.75pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:
@@ -36,7 +34,7 @@ Primary 1 Teachers
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="338"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Choo Wei Ting<br>choo_wei_ting@moe.edu.sg</span></p></td><td style="width:184.6pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;;color:black">Miss Choo Wei Ting<br>choo_wei_ting@moe.edu.sg</span></p></td><td style="width:184.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -48,7 +46,7 @@ Primary 1 Teachers
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="338"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Geraldine Tiew Shuying<br>geraldine_tiew_shuying@moe.edu.sg</span></p></td><td style="width:184.6pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black">Miss Geraldine Tiew Shuying<br>geraldine_tiew_shuying@moe.edu.sg</span></p></td><td style="width:184.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -76,7 +74,7 @@ Primary 1 Teachers
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Seah Sin Peng<br>seah_sin_peng@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:21.3pt"><td style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Ms Seah Sin Peng<br>seah_sin_peng@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:21.3pt"><td style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="56"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -108,7 +106,7 @@ Primary 1 Teachers
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="338"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Sivamalar Kulasegaram<br>sivamalar_kulasegaram@moe.edu.sg</span></p></td><td style="width:184.6pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;;color:black">Miss Sivamalar Kulasegaram<br>sivamalar_kulasegaram@moe.edu.sg</span></p></td><td style="width:184.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:

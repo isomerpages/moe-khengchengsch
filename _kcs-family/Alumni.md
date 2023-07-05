@@ -5,6 +5,8 @@ description: ""
 ---
 ##### KHENG CHENG SCHOOL ALUMNI ASSOCIATION
 
+![](/images/alumni.jpeg)
+
 Alumni is an asset to school as former students help to foster a sense of pride and loyalty for the school. KCS Alumni Association allows alumni members to strengthen their bond with the school and staff and it is also a platform for former students to reconnect and network. In addition, this fosters a sense of belonging and fellowship amongst the former students. We would like to encourage all alumni to be part of the KCS family by coming on-board, participating in the school events and activities. 
 
 Stay connected through our KCS Alumni Facebook which you could learn about the upcoming school events and register to be our alumni volunteers!
@@ -22,5 +24,4 @@ For more information, you can also contact the teachers who are in charge of the
 | Teacher Coordinator 1 | Teacher Coordinator 2 | Alumni Chairman  |
 | -------- | -------- | -------- |
 | Miss Leong Tim Tim   | Mdm Siti Amirah   | Zi Bao     |
-| leong_tim_tim@moe.edu.sg | siti_amirah@moe.edu.sg | -------- |
-
+| leong_tim_tim@moe.edu.sg | siti_amirah@moe.edu.sg| -------- |

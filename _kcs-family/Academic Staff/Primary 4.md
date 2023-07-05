@@ -4,9 +4,6 @@ permalink: /kcs-family/Academic-Staff/Primary4/
 description: ""
 third_nav_title: Academic Staff
 ---
-## Primary 4 Teachers
-
-
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="630" style="width:472.5pt;margin-left:-.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;

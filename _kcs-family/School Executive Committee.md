@@ -57,11 +57,11 @@ School Executive Committee
   &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:21.3pt"><td style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="299"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD English</span></p></td><td style="width:225.0pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black">HOD English (Internal)</span></p></td><td style="width:225.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="300"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Elizabeth Tay<br>elizabeth_tay_ai_lyn@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:10.2pt"><td style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Mdm Kalpana Kannadhasan<br>kalpana_kannadhasan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;height:10.2pt"><td style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:10.2pt" width="299"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">HOD Mathematics</span></p></td><td style="width:225.0pt;border-top:none;border-left:none;

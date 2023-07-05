@@ -4,7 +4,7 @@ permalink: /kcs-family/Academic-Staff/Primary3/
 description: ""
 third_nav_title: Academic Staff
 ---
-Primary 3 Teachers
+## Primary 3 Teachers
 ==================
 
 <table style="width:6.25in;margin-left:-.75pt;background:white;border-collapse:collapse;
@@ -16,7 +16,7 @@ Primary 3 Teachers
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#C1D6F5;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.55pt" valign="top" colspan="2" width="544"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name of Form Teachers &amp; Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:21.3pt"><td style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name of Form Teachers &amp; Email Addresses</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:21.3pt"><td style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="56"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
@@ -24,7 +24,7 @@ Primary 3 Teachers
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="274"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Goh Sock Lai<br>goh_sock_lai@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;;color:black">Miss Goh Sock Lai<br>goh_sock_lai@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="270"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -48,7 +48,7 @@ Primary 3 Teachers
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="274"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Leong Tim Tim<br>leong_tim_tim@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black">Miss Leong Tim Tim<br>leong_tim_tim@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" width="270"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
@@ -84,7 +84,7 @@ Primary 3 Teachers
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="274"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mrs Jacqueline Anthony<br>Jacqueline_anthony@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;;color:black">Mrs Jacqueline Anthony<br>jacqueline_anthony@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="270"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:

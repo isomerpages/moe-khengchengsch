@@ -3,8 +3,8 @@ title: School Executive Committee
 permalink: /schoolexecutivecommittee/
 description: ""
 ---
-School Executive Committee
-==========================
+## School Executive Committee
+========================
 
 ### School Leaders
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="383" style="width:287.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;

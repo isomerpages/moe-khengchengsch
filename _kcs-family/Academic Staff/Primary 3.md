@@ -4,7 +4,7 @@ permalink: /kcs-family/Academic-Staff/Primary3/
 description: ""
 third_nav_title: Academic Staff
 ---
-## Primary 3 Teachers
+
 
 
 <table style="width:6.25in;margin-left:-.75pt;background:white;border-collapse:collapse;

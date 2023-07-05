@@ -4,7 +4,6 @@ permalink: /kcs-family/Academic-Staff/Primary6/
 description: ""
 third_nav_title: Academic Staff
 ---
-      
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="630" style="width:472.5pt;margin-left:-.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.55pt"><td width="60" valign="top" style="width:45.0pt;border:solid windowtext 1.5pt;
@@ -14,7 +13,7 @@ third_nav_title: Academic Staff
   border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#C1D6F5;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.55pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name of Form Teachers &amp; Email Address</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:21.3pt"><td width="60" style="width:45.0pt;border:solid windowtext 1.5pt;border-top:
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name of Form Teachers &amp; Email Addresses</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:21.3pt"><td width="60" style="width:45.0pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;

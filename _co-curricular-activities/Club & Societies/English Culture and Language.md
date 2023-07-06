@@ -13,7 +13,7 @@ third_nav_title: Club & Societies
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 <ul>
 	<li>Create a love and appreciation for the English Language through interesting and engaging activities
-	<li>Provide students with an opportunity to express their personal views and their creative talents<br>
+	</li><li>Provide students with an opportunity to express their personal views and their creative talents<br>
 		
 # Key Programmes
-<span style="font-size:16.0pt;font-family:Arial;color:black">Some examples of the activities that the club carries out include writing fractured fairy tales, producing mini movies, cooking and writing recipes and playing educational word games. Students are also given the opportunity to participate in school events and public speaking competitions.
+<span style="font-size:16.0pt;font-family:Arial;color:black">Some examples of the activities that the club carries out include writing fractured fairy tales, producing mini movies, cooking and writing recipes and playing educational word games. Students are also given the opportunity to participate in school events and public speaking competitions.</span></li></ul></span></span></span>

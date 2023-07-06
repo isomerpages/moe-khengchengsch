@@ -16,9 +16,9 @@ locations:
     title: Kheng Cheng School
 contacts:
   - content:
-      - phone: +65 8840 6580
+      - phone: +65 6255 2502
       - email: kcs@moe.edu.sg
-      - other: ""
+      - other: "Fax: 62556569"
     title: General Enquiries & Feedback
   - content:
       - phone: ""

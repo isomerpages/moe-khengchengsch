@@ -37,6 +37,4 @@ More significantly, we are the 90th GB Company in Singapore, started in the year
     font-family:&quot;Arial&quot;,sans-serif;color:black">Miss Jane Chua Zheng Yi<br>chua_zheng_yi_jane@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:1;box-sizing: border-box"><td style="background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
     box-sizing: border-box"><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;
     font-family:&quot;Arial&quot;,sans-serif;color:black">Mrs Sharon Wong<br>chia_seok_kiang_sharon@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;box-sizing: border-box"><td style="padding:3.75pt 3.75pt 3.75pt 3.75pt;box-sizing: border-box"><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;
-    font-family:&quot;Arial&quot;,sans-serif;color:black">Miss Santi Lin Supramaniam<br>santi_lin_supramaniam@moe.edu.sg</span></p></td></tr></tbody></table></td></tr></tbody></table>.
-
-</span></span>
+    font-family:&quot;Arial&quot;,sans-serif;color:black">Miss Santi Lin Supramaniam<br>santi_lin_supramaniam@moe.edu.sg</span></p></td></tr></tbody></table></td></tr></tbody></table>.</span></span></span>

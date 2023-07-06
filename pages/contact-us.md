@@ -10,15 +10,15 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 7.30am - 5.00pm
+        time: 7.30 a.m. - 5.00 p.m.
         description: Closed on Public Holidays.
     maps_link: https://goo.gl/maps/jmgiLJxoC7RUfPyx6
     title: Kheng Cheng School
 contacts:
   - content:
-      - phone: +65 8840 6580
+      - phone: +65 6255 2502
       - email: kcs@moe.edu.sg
-      - other: ""
+      - other: "Fax: 62556569"
     title: General Enquiries & Feedback
   - content:
       - phone: ""

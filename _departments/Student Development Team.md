@@ -30,8 +30,8 @@ This is our in-house after school programme for selected P5 and P6 students. At 
 
 # Organisational Chart
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="918" style="width:688.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td width="329" valign="top" style="width:246.7pt;border:solid windowtext 1.0pt;
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="900" style="width:670.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td width="329" valign="top" style="width:238.7pt;border:solid windowtext 1.0pt;
   background:#F7CAAC;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt"><p class="MsoNormal" align="center" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
   auto;text-align:center"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
   color:#484848;mso-ligatures:none">Designation</span></b><span style="font-family:&quot;Lato&quot;,sans-serif;mso-ligatures:none"></span></p></td><td width="213" valign="top" style="width:159.7pt;border:solid windowtext 1.0pt;

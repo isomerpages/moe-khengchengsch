@@ -185,5 +185,4 @@ third_nav_title: Club & Societies
     cursor:pointer;transition: all 0.25s ease-in-out 0s" href="mailto:mandy_chia_puay_neo@moe.edu.sg"><span style="color:#80383D">mandy_chia_puay_neo@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;box-sizing: border-box"><td style="background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
     box-sizing: border-box"><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;
     font-family:&quot;Arial&quot;,sans-serif;color:black">Ms Alisa Chua Nyap Lih<br style="box-sizing: border-box"><a style="box-sizing: border-box;
-    cursor:pointer;transition: all 0.25s ease-in-out 0s" href="mailto:alisa_chua_nyap_lih@moe.edu.sg"><span style="color:#80383D">alisa_chua_nyap_lih@moe.edu.sg</span></a></span></p></td></tr></tbody></table></td></tr></tbody></table>
-</span></span></span></span>
+    cursor:pointer;transition: all 0.25s ease-in-out 0s" href="mailto:alisa_chua_nyap_lih@moe.edu.sg"><span style="color:#80383D">alisa_chua_nyap_lih@moe.edu.sg</span></a></span></p></td></tr></tbody></table></td></tr></tbody></table></span></span></span></span>

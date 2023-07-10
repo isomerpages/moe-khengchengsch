@@ -11,9 +11,8 @@ Contact Us
 
 <b>KHENG CHENG SCHOOL</b> <br>
 15 Lorong 3 Toa Payoh, Singapore 319580 <br>
-T: 6255 2502 (Temporarily unavailable)<br>
-F: 6255 6569 (Temporarily unavailable)<br>
-M: 88406580 (Interim contact number)<br>
+T: 6255 2502 <br>
+F: 6255 6569 <br>
 W: www.khengcheng.moe.edu.sg <br>
 E :&nbsp;[kcs@moe.edu.sg](mailto:kcs@moe.edu.sg) <br>
 <b>Getting there</b> <br>

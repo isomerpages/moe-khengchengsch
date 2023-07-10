@@ -21,7 +21,7 @@ In the recent years, the club has taken part in various inter-school competition
 	<li>Photography</li>
 </ul>
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Primary 4 & Primary 5:</b>
+<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Primary 4 &amp; Primary 5:</b>
 <ul>
 	<li>Video Editing</li>
 	<li> Artificial Intelligence by IMDA </li>
@@ -90,4 +90,4 @@ In the recent years, the club has taken part in various inter-school competition
   &quot;Times New Roman&quot;;color:black">Ms Koh Yuan Ting</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:187.15pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Zhang Li</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:black">Mdm Zhang Li</span></p></td></tr></tbody></table></span></span></span></span></span>

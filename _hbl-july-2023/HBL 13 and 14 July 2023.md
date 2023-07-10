@@ -12,5 +12,4 @@ Your child’s/ward’s form teachers and subject teachers have assigned relevan
 
 More information and guide for any log in issues can also be found in the site when you click the link. 
 
-[Assignment for HBL on 13 and 14 July 2023](https://sites.google.com/moe.edu.sg/kcsfhbl/home)
-
+### [Link for HBL on 13 and 14 July 2023](https://sites.google.com/moe.edu.sg/kcsfhbl/home)

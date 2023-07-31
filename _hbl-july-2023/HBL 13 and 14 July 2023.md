@@ -1,11 +1,11 @@
 ---
-title: HBL 13 and 14 July 2023
+title: HBL 15 and 16 August 2023
 permalink: /hbljuly/
 description: ""
 ---
 Dear Parents/Guardians, 
 
-The Primary 6 Preliminary Oral will be held on ***13 and 14 July 2023***  for our P6 students. Similar to our annual practice, all Primary 1 to Primary 5 students will carry out home-based learning (HBL) on both of these dates.
+The Primary 6 PSLE Oral will be held on ***15 and 16 August 2023***. Similar to our annual practice, all Primary 1 to Primary 5 students will carry out home-based learning (HBL) on both of these dates.
 
 Your child’s/ward’s form teachers and subject teachers have assigned relevant homework according to the timetable for that day, through the different HBL platforms. The details of the HBL assignments can be retrieved from the link below. We seek your assistance in ensuring that your child/ward sets aside sufficient time to complete the assigned tasks.
 

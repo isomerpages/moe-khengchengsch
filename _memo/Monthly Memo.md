@@ -8,5 +8,6 @@ description: ""
 | [February](/files/Monthly%20Memo/Febmemo2023.pdf)
 | [March](/files/Monthly%20Memo/Marchmemo2023.pdf)| 
 |[April](/files/Monthly%20Memo/aprilmemo.pdf)
-| [May](/files/Monthly%20Memo/maymemo2023.pdf)
-|[July](/files/Monthly%20Memo/july%20memo.pdf)</b></span></b></span>
+|[May](/files/Monthly%20Memo/maymemo2023.pdf)
+|[July](/files/Monthly%20Memo/july%20memo.pdf)| 
+[August](/files/Monthly%20Memo/august%20kcs%20memo.pdf)</b></span></b></span>

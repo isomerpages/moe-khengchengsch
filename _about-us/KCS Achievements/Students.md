@@ -747,7 +747,7 @@ Zhang Xinyu  - 8x50m relay- 5th
 <b></b>(4) Results of Non-CCA National School Games Competition
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 
-<b></b>2023 NSG WUSHU COMPETITION
+<b>2023 NSG WUSHU COMPETITION</b>
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="208" valign="top" style="width:155.8pt;border:solid windowtext 1.0pt;
@@ -1081,11 +1081,12 @@ Zhang Xinyu  - 8x50m relay- 5th
   21.0pt;mso-height-rule:exactly"><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
   mso-color-alt:windowtext">Rank 4<sup>th</sup></span><span style="font-size:
-  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table><br>
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
                
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-2023 NSG TAEKWONDO POOMSAE
+<br>
 
+2023 NSG TAEKWONDO POOMSAE
+	
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="605" style="width:453.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-table-lspace:9.0pt;margin-left:6.75pt;mso-table-rspace:9.0pt;margin-right:
@@ -1662,7 +1663,7 @@ Zhang Xinyu  - 8x50m relay- 5th
   mso-color-alt:windowtext">22<sup>nd</sup> Place<br>13<sup>th</sup> Place</span></span><span style="mso-bookmark:_Hlk143151972"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;"></span></span></p></td></tr></tbody></table><br>
 	
-<span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG TABLE TENNIS<br>
+<span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG TABLE TENNIS<br></span>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="605" style="width:453.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
@@ -2977,4 +2978,4 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
 
 Zhang Xinyu of P 5.4 and Jolene See Ya Ern of P5.3 have won a Merit Award and a Consolation Award respectively in the National Chinese Calligraphy Competition 2023.
 
-The Competition was organized by Hong Wen School in Term One. A total of 67 schools of 488 students participated. Hence, Zhang Xinyu and Jolene See have made Kheng Cheng proud by winning the prestigious awards!</span></span></b></span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span></span></span></span></b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+The Competition was organized by Hong Wen School in Term One. A total of 67 schools of 488 students participated. Hence, Zhang Xinyu and Jolene See have made Kheng Cheng proud by winning the prestigious awards!</span></span></b></span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span></span></span></span></b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

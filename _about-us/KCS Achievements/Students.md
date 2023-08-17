@@ -743,11 +743,6 @@ Zhang Xinyu  - 8x50m relay- 5th
 <a href="https://heyzine.com/flip-book/2f3a470c87.html" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);">HERE</a> for Photographs.
 
 
-
-
-
-
-
 <span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
 <b></b>(4) Results of Non-CCA National School Games Competition
 <span style="font-size:16.0pt;font-family:Arial;color:black">
@@ -847,8 +842,6 @@ Zhang Xinyu  - 8x50m relay- 5th
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:12.0pt">49<sup>th</sup> position</span></p></td></tr></tbody></table>
-
-
 <br>
 2023 NSG ARTISTIC GYMNASTICS
 
@@ -976,7 +969,7 @@ Zhang Xinyu  - 8x50m relay- 5th
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNoSpacing"><span style="font-size:12.0pt">39<sup>th</sup> position Achievement Pin</span></p></td></tr></tbody></table>
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG ARTISTIC GYMNASTICS</span><br>
+2023 NSG ARTISTIC GYMNASTICS<br>
  
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="605" style="width:453.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
@@ -1088,9 +1081,10 @@ Zhang Xinyu  - 8x50m relay- 5th
   21.0pt;mso-height-rule:exactly"><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
   mso-color-alt:windowtext">Rank 4<sup>th</sup></span><span style="font-size:
-  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
-
-<span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG TAEKWONDO POOMSAE<br>
+  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table><br>
+               
+<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
+2023 NSG TAEKWONDO POOMSAE
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="605" style="width:453.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;

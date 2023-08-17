@@ -1588,7 +1588,7 @@ Zhang Xinyu  - 8x50m relay- 5th
   mso-element-wrap:around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:
   margin;mso-element-top:429.05pt;mso-height-rule:exactly"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">3<sup>rd</sup> Bronze</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>	
+  &quot;Times New Roman&quot;"></span></p></td></tr></tbody></table><br>	
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG SWIMMING<br>
  
@@ -1666,7 +1666,7 @@ Zhang Xinyu  - 8x50m relay- 5th
   margin;mso-element-top:429.05pt;mso-height-rule:exactly"><span style="mso-bookmark:_Hlk143151972"><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
   mso-color-alt:windowtext">22<sup>nd</sup> Place<br>13<sup>th</sup> Place</span></span><span style="mso-bookmark:_Hlk143151972"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;"></span></span></p></td></tr></tbody></table><br>
 	
 <span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG TABLE TENNIS<br>
 
@@ -1780,9 +1780,9 @@ Zhang Xinyu  - 8x50m relay- 5th
   margin;mso-element-top:429.05pt;mso-height-rule:exactly"><span style="mso-bookmark:_Hlk143151972"><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
   mso-color-alt:windowtext">2<sup>nd</sup> Tiered 1 Group</span></span><span style="mso-bookmark:_Hlk143151972"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></span></p></td></tr></tbody></table>	
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></span></p></td></tr></tbody></table><br>	
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG BADMINTON
+<span style="font-size:16.0pt;font-family:Arial;color:black">2023 NSG BADMINTON<br>
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" align="left" width="605" style="width:453.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
@@ -1893,7 +1893,7 @@ Zhang Xinyu  - 8x50m relay- 5th
   margin;mso-element-top:429.05pt;mso-height-rule:exactly"><span style="mso-bookmark:_Hlk143151972"><span style="font-size:12.0pt;font-family:
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;
   mso-color-alt:windowtext">2<sup>nd</sup> Tiered 1 Group</span></span><span style="mso-bookmark:_Hlk143151972"><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></span></p></td></tr></tbody></table>
+  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></span></p></td></tr></tbody></table><br>
 	
 	
 	

@@ -10,4 +10,5 @@ description: ""
 |[April](/files/Monthly%20Memo/aprilmemo.pdf)
 |[May](/files/Monthly%20Memo/maymemo2023.pdf)
 |[July](/files/Monthly%20Memo/july%20memo.pdf)| 
-[August](/files/Monthly%20Memo/august%20kcs%20memo.pdf)</b></span></b></span>
+[August](/files/Monthly%20Memo/august%20kcs%20memo.pdf)| 
+[September]()</b></span></b></span>

@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Parents and Guardans, 
+Dear Parents and Guardians, 
 
 The August memo is ready for your viewing. You can click this [link](/files/Monthly%20Memo/august%20kcs%20memo.pdf) to get access to the memo. 
 

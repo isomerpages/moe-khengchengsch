@@ -5,11 +5,6 @@ description: ""
 ---
 ## School Executive Committee
 
-
-
-      
-
-
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="611" style="margin-left:-.15pt;background:white;border-collapse:collapse;
  mso-table-layout-alt:fixed;border:none;mso-border-alt:solid windowtext 1.5pt;
  mso-yfti-tbllook:1184;mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:

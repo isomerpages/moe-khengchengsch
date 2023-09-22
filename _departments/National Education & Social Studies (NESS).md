@@ -199,7 +199,7 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
 
 ![](/images/Social%20Studies/Picture%208_ND.jpg)![](/images/Social%20Studies/Picture%207_ND.png)
 
-# Organisation Chart<br>
+## NESS Committee<br>
 
 <span style="font-size:20.0pt;font-family:Arial;color:black">
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="511" style="width:383.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;

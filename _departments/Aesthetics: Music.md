@@ -3,14 +3,13 @@ title: "Aesthetics: Music"
 permalink: /music/
 description: ""
 ---
-
-# Vision
+## Vision
 An Active Appreciator and Innovator of the Arts
 
-# Mission
+## Mission
 Empowering every child with the skills and knowledge to explore and experiment in Music.
 
-# Approach
+## Approach
 The Music curriculum seeks to teach our students to learn and appreciate Music through the 3E approach.
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="755" style="width:566.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
@@ -105,7 +104,7 @@ The Music curriculum seeks to teach our students to learn and appreciate Music t
 </li></ul>
 <span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span><p></p></td></tr></tbody></table>
 
-# Key Programmes
+## Key Programmes
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="96" valign="top" style="width:71.75pt;border:solid windowtext 1.0pt;
@@ -248,7 +247,7 @@ The Music curriculum seeks to teach our students to learn and appreciate Music t
   text-indent:.25in;line-height:normal"><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-bidi-language:TA">Play, Sing &amp; Dance!</span></p></td></tr></tbody></table>
 	
-# Organisation Chart
+## Organisation Chart
 <table style="width:296.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="395" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:161.4pt;border:solid windowtext 1.5pt;
@@ -276,5 +275,5 @@ The Music curriculum seeks to teach our students to learn and appreciate Music t
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:29.4pt" width="180"><p class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Ms Lam Guan Yu<br>Mdm Joycelyn Ho</span><span style="font-size:12.0pt;line-height:107%;
+  &quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Miss Lam Guan Yu<br>Mdm Joycelyn Ho</span><span style="font-size:12.0pt;line-height:107%;
   font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr></tbody></table>

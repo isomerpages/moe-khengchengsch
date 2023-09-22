@@ -3,15 +3,13 @@ title: "Aesthetics: Art"
 permalink: /art/
 description: ""
 ---
-
-
-# Vision
+## Vision
 An Active Appreciator and Innovator of the Arts.
 
-# Mission
+## Mission
 Empowering every child with the skills and knowledge to explore and experiment in Art.
 
-# Approach
+## Approach
 The art curriculum seeks to teach our students to learn and appreciate Art through the 3E approach
 
 <table style="width:566.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
@@ -126,10 +124,10 @@ The art curriculum seeks to teach our students to learn and appreciate Art throu
   &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">P2 Colouring Competition</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr></tbody></table>
 	
-# 	Key Programme
+## 	Key Programme
 ![](/images/Aesthetics/Art/Art.png)
 
-# Organisation Chart
+## Organisation Chart
  <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="511" style="width:383.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;
@@ -179,4 +177,4 @@ Our KCS Visual Art microsite is a one-stop information platform for parents/guar
 Scan here to access&nbsp;**KCS Visual Art Microsite**<br>
 <span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
 mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><b>URL:</b> http://bitly.ws/xNgS
-<img src = "/images/Aesthetics/Art/microsite.png" style="width:30%">
+<img src="/images/Aesthetics/Art/microsite.png" style="width:30%"></span>

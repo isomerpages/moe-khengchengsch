@@ -3,10 +3,10 @@ title: National Education & Social Studies (NESS)
 permalink: /NESS/
 description: ""
 ---
-# Vision
+## Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">A critical thinker who is an informed, concerned and participative citizen. 
 
-# Objectives
+## Objectives
 <span style="font-size:16.0pt;font-family:Arial;color:black">National Education is anchored on the following citizenship dispositions, which enable our students to realise their part in the flourishing of their community and nation: a sense of belonging, a sense of reality, a sense of hope, and the will to act. These dispositions, together with knowledge, skills and values gained from Social Studies, will help students become citizens who are informed, concerned and participative
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">To provide our students with the knowledge, skills, and values to: 
@@ -17,7 +17,7 @@ description: ""
   </li><li>have confidence in our nation’s future<br>
 </li></span></ul>
 
-# Social Studies Approach
+## Social Studies Approach
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Philosophy of Social Studies</b></span>
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">Social Studies curriculum, through the inquiry approach, seeks to inculcate in students a deeper understanding of the values that define the Singapore society, nurture dispositions that will inspire them to show concern for the society and the world in which they live and demonstrate empathy in their relationships with others.
@@ -26,12 +26,12 @@ description: ""
 <span style="font-size:20.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><b>Objectives Syllabus Design</b></span>
 
 
-<span style="font-size:20.0pt;font-family:Arial;color:black">The syllabus is designed using a thematic approach, structured along the key themes1 of Identity, Culture and Heritage and People and Environment, is adopted to frame the Social Studies Primary (SSP) syllabus. It is organised into three broad clusters: 
+<span style="font-size:16.0pt;font-family:Arial;color:black">The syllabus is designed using a thematic approach, structured along the key themes1 of Identity, Culture and Heritage and People and Environment, is adopted to frame the Social Studies Primary (SSP) syllabus. It is organised into three broad clusters: 
 Cluster 1: Discovering Self and Immediate Environment
 Cluster 2: Understanding Singapore in the Past and Present
 Cluster 3: Appreciating Singapore, the Region and the World We Live In
 
-# Key Programmes: Social Studies in KCS
+## Key Programmes: Social Studies in KCS
 
 <span style="font-size:16.0pt;font-family:Arial;color:black">In line with the schools’ mission and vision, we hope that students will be able to be informed, concerned and participative citizens. We aim to provide the students with the relevant experiences in and beyond school over their 6 years of their primary school education. Below is an overview of the programmes and activities put in place for the students:
 
@@ -55,8 +55,8 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:50.55pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Jacob Balla’s Children’s Garden<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">- To learn about the diversity in the environment and how organisms live together.</span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;
+  &quot;Times New Roman&quot;;color:black">Jacob Ballas Children’s Garden<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">To learn about the diversity in the environment and how organisms live together.</span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt"><p class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;
   font-family:&quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">Primary 2</span></b><b><span style="font-size:12.0pt;line-height:107%;font-family:
@@ -66,8 +66,8 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">National Orchid Garden</span></b><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><i><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">The focus of the learning experience is for students to learn about the national flower, the Vanda Miss Joaquim and how it represents the people of Singapore</span></i><span style="font-size:12.0pt;
+  color:black;mso-color-alt:windowtext">National Orchid Garden<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">The focus of the learning experience is for students to learn about the national flower, the Vanda Miss Joaquim and how it represents the people of Singapore</span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black"></span></p></td></tr><tr style="mso-yfti-irow:3;height:9.2pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
@@ -79,9 +79,8 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Sustainable Singapore Gallery / Singapore Mobility Gallery</span></b><b><span style="font-size:12.0pt;
-  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><i><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">to develop an understanding of: Singapore’s physical environment; land use in Singapore; and how Singapore manages its resources to meet the needs of the country</span></i><span style="font-size:12.0pt;
+  color:black;mso-color-alt:windowtext">Sustainable Singapore Gallery / Singapore Mobility Gallery<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">To develop an understanding of: Singapore’s physical environment; land use in Singapore; and how Singapore manages its resources to meet the needs of the country</span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:black"></span></p></td></tr><tr style="mso-yfti-irow:4;height:9.2pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
@@ -93,16 +92,10 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Kreta Ayer Heritage Gallery</span></b><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoListParagraphCxSpFirst" style="margin-top:0in;margin-right:0in;
-  margin-bottom:0in;margin-left:.25in;mso-add-space:auto;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-.25in;line-height:normal;
-  mso-list:l0 level1 lfo1"><span style="font-size:12.0pt;
-  mso-ascii-font-family:Calibri;mso-fareast-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri;mso-bidi-font-style:italic"><span style="mso-list:Ignore">-<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><i><span style="font-size:12.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;color:black;mso-color-alt:windowtext">to recognise the contributions made by the Chinese community in the development of Singapore</span></i><i><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></i></p><p class="MsoListParagraphCxSpLast" style="margin-left:.25in;mso-add-space:
-  auto;text-align:justify;text-justify:inter-ideograph"><i><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></i></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Geylang Serai Heritage Gallery</span></b><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><i><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">to recognise the contributions made by the Malay and Muslim community in the development of Singapore</span></i><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  color:black;mso-color-alt:windowtext">Kreta Ayer Heritage Gallery<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">To recognise the contributions made by the Chinese community in the development of Singapore<br></span><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Geylang Serai Heritage Gallery<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">to recognise the contributions made by the Malay and Muslim community in the development of Singapore</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:5;height:9.2pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;
@@ -113,8 +106,8 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Indian Heritage Centre</span></b><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><i><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">to understand the history, heritage and diversity within the Indian community; recognise the contributions made by the Indian community in the development of Singapore; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage.</span></i><b><span style="font-size:12.0pt;
+  color:black;mso-color-alt:windowtext">Indian Heritage Centre<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">To understand the history, heritage and diversity within the Indian community; recognise the contributions made by the Indian community in the development of Singapore; and understand how the different influences from the diverse cultures have shaped Singapore’s multi-cultural heritage.</span><b><span style="font-size:12.0pt;
   line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:9.2pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal"><b><span style="font-size:12.0pt;line-height:107%;
@@ -125,8 +118,8 @@ Cluster 3: Appreciating Singapore, the Region and the World We Live In
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Asian Civilisations Museum</span></b><b><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><i><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">to understand the cultural and historical ties that have influence on the countries in Southeast Asia and explore how Singapore’s cultural heritage has evolved over time, influenced by the diverse mix of cultures.</span></i><b><span style="font-size:12.0pt;
+  color:black;mso-color-alt:windowtext">Asian Civilisations Museum<br></span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">To understand the cultural and historical ties that have influence on the countries in Southeast Asia and explore how Singapore’s cultural heritage has evolved over time, influenced by the diverse mix of cultures.</span><b><span style="font-size:12.0pt;
   line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></b></p></td></tr></tbody></table>
 
 ![](/images/Social%20Studies/Picture%202_P4LJ.jpeg)

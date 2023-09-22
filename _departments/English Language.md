@@ -3,7 +3,7 @@ title: English Language
 permalink: /english/
 description: ""
 ---
-# Vision
+## Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">A Dynamic Community of Compassionate Leaders and Critical Thinkers<br>
 
 # Mission
@@ -33,7 +33,7 @@ description: ""
 	</li><li>Effectively
 </li></span></ul>
 
-# Key Programmes
+## Key Programmes
 <span style="font-size:16.0pt;font-family:Arial;color:black">The English Language (EL) Department uses Strategies for English Language Learning and Reading (STELLAR) with a focus on developing multi-literacies and metacognitive thinking. 
 
 Nurture Our Writers (NOW), Nurture Imaginative Minds (NIM) and 
@@ -96,7 +96,7 @@ Primary 5 students who show interest and aptitude in creative writing are select
 <img src="/images/English/Tinkerspace3.jpeg" style="width:50%"><br>
 <img src="/images/English/Tinkerspace4.jpeg" style="width:50%"><br>
 	
-# Organisation Chart
+### English Language Committee
 
 <table style="width:503.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
@@ -114,11 +114,11 @@ Primary 5 students who show interest and aptitude in creative writing are select
   &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Head of Department (HOD) / English Language</span></p></td><td style="width:184.5pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;;color:black">Head of Department (HOD) / English Language (acting)</span></p></td><td style="width:184.5pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Elizabeth Tay</span></p></td></tr><tr style="mso-yfti-irow:2;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Mdm Kalpana</span></p></td></tr><tr style="mso-yfti-irow:2;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Lead Teacher / English Language</span></p></td><td style="width:184.5pt;border-top:none;border-left:none;
@@ -139,4 +139,4 @@ Primary 5 students who show interest and aptitude in creative writing are select
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Mahalingam Indra<br>Miss Geraldine Tiew<br>Mrs Winnie Chan<br>Mdm Sophia Loo<br>Ms Ariel Low<br>Ms Priaya Tishan<br>Mr Lim Zonghan<br>Ms Jaime Chia<br>Mdm Kalpana<br>Mdm Haniza<br>Mrs Zuraidah Mano<br>Ms Ayesha Jagaber Yasmin<br>Ms Santi<br>Ms Koh Meng Hoe<br>Mrs Caryn Ong<br>Miss Shalini<br>Miss Su Yen Leng</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+  &quot;Times New Roman&quot;;color:black">Mdm Mahalingam Indra<br>Miss Geraldine Tiew<br>Mrs Winnie Chan<br>Mdm Sophia Loo<br>Ms Ariel Low<br>Ms Priaya Tishan<br>Mr Lim Zonghan<br>Ms Jaime Chia<br>Mdm Haniza<br>Mrs Zuraidah Mano<br>Ms Ayesha Jagaber Yasmin<br>Ms Santi<br>Ms Koh Meng Hoe<br>Mrs Caryn Ong<br>Miss Shalini<br>Miss Su Yen Leng</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

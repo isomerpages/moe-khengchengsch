@@ -2,7 +2,7 @@
 title: Character and Citizenship Education
 permalink: /cce/
 description: ""
-third_nav_title: Character &amp; Citizenship (CCE)
+third_nav_title: Character & Citizenship (CCE)
 ---
 # Approach
 <span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">“Education has had two great goals: to help young people become smart and to help them become good.” ~ Thomas Lickona.</span>
@@ -173,35 +173,63 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">SEN</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:121.7pt"><td style="width:161.4pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:121.7pt" width="215"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mr Cheng Xijie<br>(CME Coordinator)<br>Ms Leong Tim Tim<br>(ECG Coordinator)<br></span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Ms Yeo Yong Yong (Sexuality Education Coordinator)</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  3.75pt 3.75pt 3.75pt 3.75pt;height:121.7pt" width="215"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Mr Cheng Xijie</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">(CME Coordinator)</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Ms Leong Tim Tim</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">(ECG Coordinator)</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Ms Yeo Yong Yong</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">(Sexuality Education Coordinator)</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Seah Sin Peng</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Mdm Joycelyn Ho</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Mr Raymond Khoo</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Priya Tisha</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Yeo Li Ching</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">Mr Roman Anthony</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">Mdm Mahalingam Indra</span><span style="font-size:
-  14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Mdm Mahalingam Indra</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Koh Meng Hoe</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
-  mso-color-alt:windowtext">Mr Raja Nazruldin</span><span style="font-size:
-  14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Mr Raja Nazruldin</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Jocelyn Tay</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Tina Woo</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Mandy Chia</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Mr Muhd Rasul</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Mdm Siti Amirah</span><span style="font-size:14.0pt;
   font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;">&nbsp;</span></p></td><td style="width:2.25in;border-top:none;border-left:none;
@@ -248,16 +276,29 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
   font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Mdm Mardiana</span><span style="font-size:14.0pt;
-  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;text-indent:9.1pt;line-height:
-  normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Ms Devi Krishnan</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;text-indent:9.1pt;line-height:
-  normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Mr Lim Ming En</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Ms Devi Krishnan</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Mr Lim Ming En</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;">&nbsp;</span></p></td><td style="width:153.0pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:121.7pt" width="204"><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:8.4pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:black;mso-color-alt:windowtext">Mdm Ariel Loh Lee Miang<br><br>Mdm Pirrita<br><br>Ms Anna Wong<br><br>Mdm K Kalaichelvy<br><br>Ms Chang Siew Chian</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black;mso-color-alt:windowtext">Mdm Ariel Loh Lee Miang</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Mdm Pirrita</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Ms Anna Wong</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Mdm K Kalaichelvy</span><span style="font-size:14.0pt;
+  font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
+  margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
+  mso-color-alt:windowtext">Ms Chang Siew Chian</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
 	mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

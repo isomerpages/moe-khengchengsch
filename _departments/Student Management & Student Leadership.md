@@ -139,7 +139,7 @@ Our key guiding principles in the development of student leaders in KCS are:<br>
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" colspan="2" width="511"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Ms Su Yen Leng<br>(HOD Discipline &amp; Student Management)</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Miss Su Yen Leng<br>(HOD Discipline &amp; Student Management)</span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#F7CAAC;
   mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
@@ -157,11 +157,11 @@ Our key guiding principles in the development of student leaders in KCS are:<br>
   border-top:none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt" valign="top" width="271"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Ms Jane Chua (P3)<br>Mrs Mano (P4)<br>Mrs Winnie Chan (P5)<br>Ms YU Mingxia (P6)<br>Mr Yung Keng Sing (CCA Leaders)</span><span style="font-size:12.0pt;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Miss Jane Chua (P3)<br>Mrs Mano (P4)<br>Mrs Winnie Chan (P5)<br>Miss Yu Mingxia (P6)<br>Mr Yung Keng Sing (CCA Leaders)</span><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:180.1pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mrs Janice Low (P1)<br>Ms Nadiah (P2)<br>Ms Goh Sock Lai (P3)<br>Ms Jaime Chia (P3)<br>Mrs Toh Cheng Hwan (P4)<br>Mrs Cheryl Ho (P5)<br>Mrs Shaon Wong (P6)<br>Mr Ravi (OM Discipline)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td>
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mrs Janice Low (P1)<br>Ms Nadiah (P2)<br>Ms Goh Sock Lai (P3)<br>Ms Jaime Chia (P3)<br>Mrs Toh Cheng Hwan (P4)<br>Mrs Cheryl Ho (P5)<br>Mrs Sharon Wong (P6)<br>Mr Ravi (OM Discipline)</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></ul></span></span>

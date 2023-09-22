@@ -16,28 +16,28 @@ Empowering every child to be future-ready through the Practices of Science and t
 # Approach
 Students are given the opportunity to excel and enjoy learning Science through multi-faceted activities at different levels to infuse the spirit of scientific inquiry. The active learning process in Science Education takes place within and beyond the confines of the classrooms and textbooks. These platforms aim to captures students’ interests to be inspired Science learners. Students engage in inquiry-based learning using the 5E-Inquiry model (5E-Inquiry model), which has scientific inquiry at its core, to facilitate the construction and consolidation of Science concepts. Ultimately, students will be able to innovate and propose models and solutions for real world problems.
 
-<img src = "/images/Science/Picture2.png" style="width:60%">
-<img src = "/images/Science/Picture3.png" style="width:60%">
+<img src="/images/Science/Picture2.png" style="width:60%">
+<img src="/images/Science/Picture3.png" style="width:60%">
 
 # Key Programmes
 **Young Explorers @ the Zoo! (YEZ!)**
 
 YEZ! takes our students out of the classroom and into the Singapore Zoo. This outdoor learning experience gives our students the opportunity to observe animals and plants at close range to find out more about them. In addition, students will hone their collaborative skills as they work with their friends to complete a series of questions in a trail using hand-held tablets. Do look out for our students holding these devices at the Singapore Zoo!
 
-<img src = "/images/Science/YEZ.jpg" style="width:100%">
+<img src="/images/Science/YEZ.jpg" style="width:100%">
 
 **Visual Reasoning in Science (VRS)**
 “Not all will become a scientist, but a scientist can come from anyone.”
 
 This is the belief that drives VRS. VRS makes use of concept cartoons to help students improve their Science process skills and Science content, and challenge them to think critically. Studies have shown that children are able to build relations between knowledge and observations better when they can imagine themselves as the characters of a show. As such, VRS aims to help our students achieve their potential in Science through challenging yet accessible concept cartoons.
-<img src = "/images/Science/reasoning.jpg" style="width:100%">
+<img src="/images/Science/reasoning.jpg" style="width:100%">
 
 **Real World Science (RWS)**
 With focus on Real World Science, our Upper Primary students work like scientists to solve the big questions involving real world phenomenon and observations. Science is everywhere, yet many struggle to explain the scientific phenomenon that happens around us.
 
 The RWS programme challenges our Upper Primary students to think critically and apply their problem-solving skills, and Science concepts and knowledge to explain phenomena. Through experimentation and research, students discover new findings to support their understanding of Science and how the world works. With the unknown and unpredictable future ahead of us, these analytical and problem-solving skills will ensure that our students are ready to meet the challenges of the future and contribute positively back to the society through innovation.
 
-<img src = "/images/Science/science.jpg" style="width:100%">
+<img src="/images/Science/science.jpg" style="width:100%">
 
 **Maths and Science Fiesta**
 
@@ -99,4 +99,4 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="240"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mrs Jacqueline Anthony<br>Ms Nilam Shafia<br>Mr Alvin Puah<br>Mrs Sharon Wong<br>Mr Roman Anthony<br>Mrs Elaine Leong<br>Ms Jocelyn Tay<br>Ms Tan Ying Rui<br>Mrs Gillian Teh</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:black">Mrs Jacqueline Anthony<br>Ms Nilam Shafia<br>Mr Alvin Puah<br>Mrs Sharon Wong<br>Mrs Elaine Leong<br>Ms Jocelyn Tay<br>Ms Tan Ying Rui<br>Mrs Gillian Teh</span></p></td></tr></tbody></table>

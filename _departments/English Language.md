@@ -3,7 +3,7 @@ title: English Language
 permalink: /english/
 description: ""
 ---
-# Vision
+## Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">A Dynamic Community of Compassionate Leaders and Critical Thinkers<br>
 
 # Mission
@@ -33,7 +33,7 @@ description: ""
 	</li><li>Effectively
 </li></span></ul>
 
-# Key Programmes
+## Key Programmes
 <span style="font-size:16.0pt;font-family:Arial;color:black">The English Language (EL) Department uses Strategies for English Language Learning and Reading (STELLAR) with a focus on developing multi-literacies and metacognitive thinking. 
 
 Nurture Our Writers (NOW), Nurture Imaginative Minds (NIM) and 
@@ -96,7 +96,7 @@ Primary 5 students who show interest and aptitude in creative writing are select
 <img src="/images/English/Tinkerspace3.jpeg" style="width:50%"><br>
 <img src="/images/English/Tinkerspace4.jpeg" style="width:50%"><br>
 	
-# Organisation Chart
+### English Language Committee
 
 <table style="width:503.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;

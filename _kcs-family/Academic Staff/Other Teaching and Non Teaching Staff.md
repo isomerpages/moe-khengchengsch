@@ -4,7 +4,7 @@ permalink: /kcs-family/Academic-Staff/Other-Teaching-and-Non-Teaching-Staff/
 description: ""
 third_nav_title: Academic Staff
 ---
-Other Teaching and Non-Teaching Staff
+## Other Teaching and Non-Teaching Staff
 =====================================
 
 
@@ -95,8 +95,6 @@ Other Teaching and Non-Teaching Staff
     <td class="tg-r5gp">lim_yeng_chian@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Ms Happy Wong</td>
-    <td class="tg-0lax">tan_kim_bee_happy@moe.edu.sg</td>
-  </tr>
-</tbody>
+    <td class="tg-0lax">
+</td></tr></tbody>
 </table>

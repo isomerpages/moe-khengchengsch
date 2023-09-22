@@ -11,4 +11,4 @@ description: ""
 |[May](/files/Monthly%20Memo/maymemo2023.pdf)
 |[July](/files/Monthly%20Memo/july%20memo.pdf)| 
 [August](/files/Monthly%20Memo/august%20kcs%20memo.pdf)| 
-[September]()</b></span></b></span>
+[September][](/files/Monthly%20Memo/septembermemo.pdf)()</b></span></b></span>

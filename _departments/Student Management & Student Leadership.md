@@ -3,18 +3,18 @@ title: Student Management & Student Leadership
 permalink: /smsl/
 description: ""
 ---
-# Vision
+## Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">Empowering Every Child to Lead and Impact the Community, and be Ready for the Future.</span>
 
-# Mission
+## Mission
 <span style="font-size:16.0pt;font-family:Arial;color:black">Developing self-disciplined students and compassionate leaders who are equipped with skills and guided by values to bring forth changes and improvement within self and others..</span>
 
-# Objectives
+## Objectives
 <span style="font-size:16.0pt;font-family:Arial;color:black">Discipline - To adopt a whole school approach for Restorative Discipline.<br> 
 Student Leadership – To provide opportunities for student leaders to apply their learned skills.
 </span>
 
-# Approach
+## Approach
 <span style="font-size:20.0pt;font-family:Arial;color:black"><b>Restorative School Discipine</b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Students learn well when there is order and discipline. At the same time, they also need care, encouragement and space to learn from mistakes and improve. Discipline is an educative process, and the goal is to instill self-discipline and good character in students. In school, we adopt a positive and proactive approach in discipline when we work with our students. 
 </span>
@@ -126,7 +126,7 @@ Our key guiding principles in the development of student leaders in KCS are:<br>
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b><u>Communication with Prefects</u></b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Prefects and parents can refer to the Prefectorial Notice Board in the canteen for information on duty roster. Carrying out school duties is part of a Prefect’s responsibilities. Consent forms will be sent via Parents Gateway prior to meetings or workshops. On days with just-in-time announcements, teachers from the Student Leadership Committee will disseminate information to the Prefects. For queries, Prefects are encouraged to approach the teacher-in-charge of his/her level for clarifications. <br>
 
-# Organisation Chart
+## SM and SL Committee
 
 <table style="width:383.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;

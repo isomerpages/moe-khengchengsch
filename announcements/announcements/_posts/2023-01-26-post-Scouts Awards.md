@@ -8,7 +8,7 @@ image: ""
 ---
 Dear Parents / Guardians,
 
-Our Scouts Awards Ceremony. You can refer to this link for the photographs and Videos. 
+Our Scouts Awards Ceremony. You can refer to this link for the photographs and videos. 
 
 [Awards Ceremony Photographs and Videos](https://drive.google.com/drive/folders/1bMddWve_o_pTtk2nXKhylmBeXBxr5OeL?usp=sharing)
 

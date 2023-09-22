@@ -85,7 +85,7 @@ This is our in-house after school programme for selected P5 and P6 students. At 
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:24.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Ms Tan Ying Rui</span></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Miss Tan Ying Rui</span></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:24.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
@@ -107,7 +107,7 @@ This is our in-house after school programme for selected P5 and P6 students. At 
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Ms Dixie Tan</span></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Miss Dixie Tan</span></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:19.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
@@ -129,7 +129,7 @@ This is our in-house after school programme for selected P5 and P6 students. At 
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:30.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Ms Su Yen Leng</span></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
+  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">Miss Su Yen Leng</span></p></td><td width="246" valign="top" style="width:184.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:30.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
@@ -145,4 +145,3 @@ This is our in-house after school programme for selected P5 and P6 students. At 
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:33.95pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif">neo_beng_hoon<br>@moe.edu.sg</span></p></td></tr></tbody></table>
-

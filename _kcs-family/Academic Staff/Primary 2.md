@@ -4,10 +4,6 @@ permalink: /kcs-family/Academic-Staff/Primary2/
 description: ""
 third_nav_title: Academic Staff
 ---
-
-
-
-      
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="600" style="width:6.25in;margin-left:-.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.55pt"><td width="56" valign="top" style="width:41.8pt;border:solid windowtext 1.5pt;
@@ -89,7 +85,7 @@ third_nav_title: Academic Staff
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Mdm Phua Wee Koon<br><span style="mso-spacerun:yes">&nbsp;</span>phua_wee_koon@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:7;height:21.3pt"><td width="56" style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black"><span style="mso-spacerun:yes">&nbsp;</span>Mdm Toh Xiao Ying<br><span style="mso-spacerun:yes">&nbsp;</span>toh_xiao_ying@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:7;height:21.3pt"><td width="56" style="width:41.8pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;

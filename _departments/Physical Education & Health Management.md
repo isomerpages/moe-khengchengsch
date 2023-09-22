@@ -3,14 +3,14 @@ title: Physical Education & Health Management
 permalink: /pehm/
 description: ""
 ---
-##### <b>Physical Education</b>
-# Vision
+
+## Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">Better PE, Better Sports &amp; Better Lives.
 
-# Mission	
+## Mission	
 <span style="font-size:16.0pt;font-family:Arial;color:black">To give all students opportunities and experiences to transform, leading to the achievement of total wellness resulting in healthier lifestyles.
 	
-# Objectives
+## Objectives
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 <ul>
 	<li>Understand the importance and benefits of physical activity
@@ -19,7 +19,7 @@ description: ""
  </li><li>Develop and maintain both health-related fitness: cardio-respiratory endurance, muscular strength, muscular endurance, flexibility and body composition; and performance-related fitness: agility, co-ordination and balance
  </li><li>Play safely with respect to self and others
 
-# Approach
+## Approach
 <span style="font-size:16.0pt;font-family:Arial;color:black">MOE has introduced a new PE syllabus with effect from 2014. The lower primary level (P1-P3) focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in students’ performance. The upper primary level extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.<br><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">There are seven learning areas that facilitate the organisation of learning experiences under the new syllabus. They include:<br>
 <ul>
@@ -70,7 +70,7 @@ description: ""
   3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Enjoy and value the benefits of living a physically active and healthy life.</span></p></td></tr></tbody></table></span></li></ul>
 
-# Key Programmes
+## Key Programmes
 
 <table style="width:493.5pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
  mso-yfti-tbllook:1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:
@@ -155,7 +155,7 @@ description: ""
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>Anti-Drug</b><br>
 <span style="font-size:16.0pt;font-family:Arial;color:black">Preventive Drug Education empowers our upper primary students with the knowledge of commonly abused drugs and prevents them from falling prey to drug abuse. This programme takes place in term 3 when the Anti-drug bus visits the school.<br>
 
-# Organisation Chart
+## Physical Education Committee
 <table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="754" style="width:565.5pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
  mso-yfti-tbllook:1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:
  2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="481" style="width:360.75pt;border:solid windowtext 2.25pt;

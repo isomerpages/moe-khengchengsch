@@ -10,4 +10,4 @@ Dear Parents and Guardians,
 
 The September memo is ready for your viewing. You can click this [link](/files/Monthly%20Memo/septembermemo.pdf) to get access to the memo.
 
-Thank you. 
+Thank you.

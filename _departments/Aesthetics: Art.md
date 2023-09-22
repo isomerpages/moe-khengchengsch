@@ -127,7 +127,7 @@ The art curriculum seeks to teach our students to learn and appreciate Art throu
 ## 	Key Programme
 ![](/images/Aesthetics/Art/Art.png)
 
-## Organisation Chart
+## Art Committee
  <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="511" style="width:383.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td width="271" valign="top" style="width:203.3pt;border:solid windowtext 1.5pt;

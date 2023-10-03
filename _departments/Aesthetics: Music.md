@@ -247,7 +247,7 @@ The Music curriculum seeks to teach our students to learn and appreciate Music t
   text-indent:.25in;line-height:normal"><span style="font-size:12.0pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-bidi-language:TA">Play, Sing &amp; Dance!</span></p></td></tr></tbody></table>
 	
-## Organisation Chart
+## Music Committee
 <table style="width:296.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="395" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:161.4pt;border:solid windowtext 1.5pt;

@@ -4,9 +4,6 @@ permalink: /kcs-family/Academic-Staff/Primary3/
 description: ""
 third_nav_title: Academic Staff
 ---
-
-
-
 <table style="width:6.25in;margin-left:-.75pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="600" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.55pt"><td style="width:41.8pt;border:solid windowtext 1.5pt;
@@ -24,7 +21,7 @@ third_nav_title: Academic Staff
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:21.3pt" width="274"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Goh Sock Lai<br>goh_sock_lai@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;;color:black">Mdm Ng Zi Yi<br>ng_ziyi_elaine@moe.edu.sg</span></p></td><td style="width:202.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:21.3pt" valign="top" width="270"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:

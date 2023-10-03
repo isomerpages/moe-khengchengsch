@@ -3,13 +3,13 @@ title: Student Development Team
 permalink: /studentdevelopment/
 description: ""
 ---
-# Objectives
+## Objectives
 Our Student Development Team oversees the holistic development of our students. We aim to develop students and enhance their learning experience in school through various programmes for students and strong partnership with stakeholders.
 
-# Approach
+## Approach
 The team comprises of 2 Year Heads and 3 Assistant Year Heads who work closely with the class form teachers to cater to the students' socio-emotional needs, including cultivating values, and providing additional support.
 
-# Key Programmes
+## Key Programmes
 **1. bacK to sChool Session**
 
 The bac**K** to s**C**hool **S**ession aims to help students settle into the new school year. This takes place on the first week of the year, for Primary 1 students, and the first day of school for the rest of the levels. Activities are planned to help our students adapt to the new environment and foster positive relationships with their teachers and peers. These activities include:
@@ -28,7 +28,7 @@ Students are explicitly taught social skills during CCE lessons. We believe that
 **4. Oasis@KCS**<br>
 This is our in-house after school programme for selected P5 and P6 students. At Oasis@KCS, students are given academic support, equipped with life skills and given opportunities to explore new areas of interest.
 
-# Organisational Chart
+## SDT Committee
 
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:16.45pt"><td width="240" valign="top" style="width:179.75pt;border:solid windowtext 1.0pt;

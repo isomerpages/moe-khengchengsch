@@ -140,7 +140,7 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
 <img src="/images/CCE/CCE/rpic.png" style="width:100%">
 
 
-# Organisation Chart
+## CCE Committee 
 
 <table style="width:476.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;

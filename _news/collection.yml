@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - News/p5camp.md
       - News/Music Exchange.md
       - News/.keep
       - News/Day Out @ Esplande.md

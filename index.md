@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: News
           description: ""
-          url: /musicexchange
+          url: /chess
         - title: Resources
           description: ""
           url: /parentsresource/

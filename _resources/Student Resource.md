@@ -225,4 +225,9 @@ description: ""
   box-sizing: inherit;margin:0rem 0px 0in;font-size:1.25rem">
 	<span style="box-sizing: inherit;font-style:inherit;font-weight:inherit">
 
+
+<img style="width:30%" src="![](/images/T2%20and%20A/gradinfo.jpg)">
+
+<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="[](/files/T2%20and%20A/gradinfo.pdf)">Click Here</a>
+
 </span></p></td></tr></tbody></table>

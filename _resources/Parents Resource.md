@@ -2,7 +2,9 @@
 title: Parents Resource
 permalink: /parentsresource/
 description: ""
+variant: markdown
 ---
+
 <table style="width:536.35pt;background:white;border-collapse:collapse;mso-yfti-tbllook:
  1184" width="715" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
@@ -10,121 +12,110 @@ description: ""
   mso-bidi-font-family:Arial;color:white">Parents Briefing</span></strong><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td><td style="width:345.1pt;border:solid #D6D6D6 1.0pt;
   border-left:none;mso-border-left-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#101857;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:17.25pt;box-sizing: border-box;border-image: initial" valign="top" width="460"><span style="box-sizing: border-box;font-style:inherit;font-weight:inherit"><p style="text-align:center" align="center" class="MsoNormal"><strong style="box-sizing: border-box"><span style="font-size:14.0pt;line-height:
-  107%;font-family:&quot;inherit&quot;,serif;mso-bidi-font-family:Arial;color:white">Resources</span></strong><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></span></td></tr><tr style="mso-yfti-irow:1;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  height:17.25pt" valign="top" width="460"><p style="text-align:center" align="center" class="MsoNormal"><strong><span style="font-size:14.0pt;line-height:107%;font-family:&quot;inherit&quot;,serif;
+  mso-bidi-font-family:Arial;color:white">Resources</span></strong><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
+  mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
+  height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Parents Webinar 2023 </span></p></td><td style="width:345.1pt;border-top:none;border-left:none;
+  border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
+  mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
+  mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Connecting with your child in the Digital Age</span></p></td></tr><tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">P2 CCA Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal">
-&nbsp; &nbsp; &nbsp; <a style="box-sizing: border-box; font-family: Lato; border-width: 0px; border-style: solid; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; color: rgb(128, 56, 61); text-decoration: underline; background-color: transparent; margin: 0px 0px 2rem; padding: 0px; line-height: 1.25; cursor: pointer; transition: all 0.25s ease-in-out 0s;" rel="noopener" target="_blank" href="https://www.khengcheng.moe.edu.sg/files/p2%20cca%20fair%202023_parents%20briefing.pdf">P2 CCA Fair Parents Briefing 2023</a>
-	
-</p></td></tr><tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">P2 CCA Parents Briefing 2023</span></p></td></tr><tr style="mso-yfti-irow:3;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Principal’s Message</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt;
-  box-sizing: border-box;border-image: initial" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/GxwuNvGg63g"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">Message from Principal</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:3;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/GxwuNvGg63g"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">Message from Principal</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:4;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Primary 1 Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt;box-sizing: border-box;
-  border-image: initial" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/HfQNleAWQSg"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">Year Head Address (Primary 1)</span></span></span></a></span></p></td></tr><tr style="mso-yfti-irow:4;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/HfQNleAWQSg"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">Year Head Address (Primary 1)</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:5;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Primary 2 Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt;
-  box-sizing: border-box;border-image: initial" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/s1RIQqc87Rc"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">Year Head Address (Primary 2)</span></span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/zDKyUUGykQw"><span style="box-sizing: border-box;font-style:inherit;font-weight:inherit"><span style="color:#80383D">P2 Parents Briefing for English Language</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/xX5bHDGFjsM"><span style="color:#80383D">P2 Parents Briefing for Mathematics</span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/5ypYBIvATXE"><span style="color:#80383D">P2 Parents Briefing for Mother Tongue Language</span></a><br style="mso-special-character:line-break;box-sizing: border-box"><br style="mso-special-character:line-break"></span></p></td></tr><tr style="mso-yfti-irow:5;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/s1RIQqc87Rc"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">Year Head Address (Primary 2)</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/zDKyUUGykQw"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P2 Parents Briefing for English Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/xX5bHDGFjsM"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P2 Parents Briefing for Mathematics</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/5ypYBIvATXE"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P2 Parents Briefing for Mother Tongue Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br style="mso-special-character:line-break"><br style="mso-special-character:line-break"></span></p></td></tr><tr style="mso-yfti-irow:6;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Primary 3 Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt;box-sizing: border-box;
-  border-image: initial" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/Hx_ezOhR9xc"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">Year Head Address (Primary 3)</span></span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/0m1TamuraJE"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P3 Parents Briefing for English Language</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/WUdum6uu8L4"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P3 Parents Briefing for Mathematics</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/xmPVwAvYehA"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P3 Parents Briefing for Mother Tongue Language</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/DUZBO7xJW-U"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P3 Parents Briefing for Science</span></span></a></span></p></td></tr><tr style="mso-yfti-irow:6;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/Hx_ezOhR9xc"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">Year Head Address (Primary 3)</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/0m1TamuraJE"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P3 Parents Briefing for English Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/WUdum6uu8L4"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P3 Parents Briefing for Mathematics</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/xmPVwAvYehA"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P3 Parents Briefing for Mother Tongue Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/DUZBO7xJW-U"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P3 Parents Briefing for Science</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:7;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Primary 4 Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
+  height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">P5.6Primary 4 Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt;
-  box-sizing: border-box;border-image: initial" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/_Ib2xiLTk4w"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">Year Head Address (Primary 4)</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/hDkXIG5Wyl0"><span style="box-sizing: border-box;font-style:inherit;font-weight:inherit"><span style="color:#80383D">P4 Parents Briefing for English Language</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/RQf3OpbMMeo"><span style="color:#80383D">P4 Parents Briefing for Mathematics</span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/TZuyG-iIqfQ"><span style="color:#80383D">P4 Parents Briefing for Mother Tongue Language</span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/P0_D7cuRXMw"><span style="color:#80383D">P4 Parents Briefing for Science</span></a></span></p></td></tr><tr style="mso-yfti-irow:7;height:23.15pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="460"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/_Ib2xiLTk4w"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">Year Head Address (Primary 4)</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/hDkXIG5Wyl0"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P4 Parents Briefing for English Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/RQf3OpbMMeo"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P4 Parents Briefing for Mathematics</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/TZuyG-iIqfQ"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P4 Parents Briefing for Mother Tongue Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/P0_D7cuRXMw"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P4 Parents Briefing for Science</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"></span></p></td></tr><tr style="mso-yfti-irow:8;height:23.15pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:23.15pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Primary 5 Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.15pt;box-sizing: border-box;
-  border-image: initial" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/WFdTD2VfMFw"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">Year Head Address (Primary 5)</span></span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/-PU7aBaPKGk"><span style="box-sizing: border-box;font-style:inherit;font-weight:inherit"><span style="color:#80383D">P5 Parents Briefing for English and Foundation English Language</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/VZzBHMn71FM"><span style="color:#80383D">P5 Parents Briefing for Foundation Mathematics</span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/VZzBHMn71FM"><span style="color:#80383D">P5 Parents Briefing for Standard Mathematics</span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/WR1s2fUigmI"><span style="color:#80383D">P5 Parents Briefing for Mother Tongue and Foundation Mother Tongue Language&nbsp;</span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/tnePOuiLlBs"><span style="color:#80383D">P5 Parents Briefing for Science and Foundation Science</span></a></span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.15pt" valign="top" width="460"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/WFdTD2VfMFw"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">Year Head Address (Primary 5)</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/-PU7aBaPKGk"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P5 Parents Briefing for English and Foundation English Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/VZzBHMn71FM"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P5 Parents Briefing for Foundation Mathematics</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/VZzBHMn71FM"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P5 Parents Briefing for Standard Mathematics</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/WR1s2fUigmI"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P5 Parents Briefing for Mother Tongue and Foundation Mother Tongue Language&nbsp;</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/tnePOuiLlBs"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P5 Parents Briefing for Science and Foundation Science</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Primary 6 Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:
   none;border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:17.25pt;box-sizing: border-box" valign="top" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/2xz-83FxGqY"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">Year Head Address (Primary 6)</span></span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/Ce_oR4U1CyU"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P6 Parents Briefing for English and Foundation English Language</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/RxRqJLInGsY"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P6 Parents Briefing for Foundation Mathematics</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/BpQmTyoDFnc"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P6 Parents Briefing for Standard Mathematics</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/aNGwpN8Dulg"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P6 Parents Briefing for Mother Tongue and Foundation Mother Tongue Language</span></span></a><br style="box-sizing: border-box"><a style="box-sizing: border-box;
-  cursor:pointer;margin-bottom:2rem;transition: all 0.25s ease-in-out 0s" target="_blank" href="https://youtu.be/8wATtmhHU0E"><span style="color:#80383D"><span style="box-sizing: border-box;font-style:inherit;
-  font-weight:inherit">P6 Parents Briefing for Science and Foundation Science</span></span></a></span></p></td></tr></tbody></table>
+  height:17.25pt" valign="top" width="460"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/2xz-83FxGqY"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">Year Head Address (Primary 6)</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/Ce_oR4U1CyU"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P6 Parents Briefing for English and Foundation English Language</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/RxRqJLInGsY"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P6 Parents Briefing for Foundation Mathematics</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/BpQmTyoDFnc"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P6 Parents Briefing for Standard Mathematics</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/aNGwpN8Dulg"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P6 Parents Briefing for Mother Tongue and Foundation Mother Tongue Language</span></a></span><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:black"><br></span><span style="color:black;mso-color-alt:windowtext"><a target="_blank" href="https://youtu.be/8wATtmhHU0E"><span style="font-family:
+  &quot;Arial&quot;,sans-serif;color:#80383D">P6 Parents Briefing for Science and Foundation Science</span></a></span><span style="font-family:&quot;Arial&quot;,sans-serif;
+  color:black"></span></p></td></tr></tbody></table>
 
 <table style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Signika, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 120px; width: 728.906px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 23px;"><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(16, 24, 87); height: 23px; text-align: center;"><span style="box-sizing: border-box; font-size: 14pt; font-family: arial, helvetica, sans-serif; color: rgb(255, 255, 0);"><strong style="box-sizing: border-box; font-weight: bolder;color:white">Events</strong></span></td><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(16, 24, 87); height: 23px; text-align: center;"><span style="box-sizing: border-box; font-size: 14pt; font-family: arial, helvetica, sans-serif; color: rgb(255, 255, 0);"><strong style="box-sizing: border-box; font-weight: bolder;color:white">Resources / Links</strong></span></td></tr><tr style="box-sizing: border-box; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(255, 255, 255); height: 23px;"><span style="box-sizing: border-box; font-family: arial, Helvetica, sans-serif;">Primary 5 Camp 2023</span></td><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(255, 255, 255); height: 23px;"><a href="https://khengcheng.moe.edu.sg/wp-content/uploads/2023/02/P5-Camp_Briefing-to-Parents_2023.pdf" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">P5 Camp Briefing 2023</span></a></td></tr></tbody></table>
 

@@ -4,7 +4,6 @@ permalink: /parentsresource/
 description: ""
 variant: markdown
 ---
-
 <table style="width:536.35pt;background:white;border-collapse:collapse;mso-yfti-tbllook:
  1184" width="715" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
@@ -20,7 +19,7 @@ variant: markdown
   border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">Connecting with your child in the Digital Age</span></p></td></tr><tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">[Connecting with your child in the Digital Age](/files/parenting%20webinar%202023.pdf)</span></p></td></tr><tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">P2 CCA Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:

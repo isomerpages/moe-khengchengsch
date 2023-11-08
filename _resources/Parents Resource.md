@@ -19,7 +19,7 @@ variant: markdown
   border-bottom:solid #D6D6D6 1.0pt;border-right:solid #D6D6D6 1.0pt;
   mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-left-alt:solid #D6D6D6 .25pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a href="[](/files/parenting%20webinar%202023.pdf) target=">Connecting your child in the Digital Age</a></span></p></td></tr><tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
+  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:17.25pt" width="460"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black"><a href="[Connecting your child in the Digital Age](/files/parenting%20webinar%202023.pdf) target= blank">Connecting your child in the Digital Age</a></span></p></td></tr><tr style="mso-yfti-irow:2;height:17.25pt"><td style="width:174.0pt;border:solid #D6D6D6 1.0pt;
   border-top:none;mso-border-top-alt:solid #D6D6D6 .25pt;mso-border-alt:solid #D6D6D6 .25pt;
   mso-border-bottom-alt:solid #D6D6D6 .75pt;background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:17.25pt" valign="top" width="232"><p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,sans-serif;color:black">P2 CCA Parents Briefing 2023</span></p></td><td style="width:345.1pt;border-top:none;border-left:

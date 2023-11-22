@@ -2,9 +2,8 @@
 title: Executive & Administrative Staff (EAS)
 permalink: /eas/
 description: ""
+variant: markdown
 ---
-      
-
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="599" style="width:449.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:26.7pt"><td width="251" style="width:188.4pt;border:solid windowtext 1.5pt;background:
@@ -50,7 +49,7 @@ description: ""
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:22.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Jason Sim<br>sim_teck_hee_jason@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:22.2pt"><td width="251" style="width:188.4pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Mr Adrian Ng<br>ng_chi_hung_adrian@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:22.2pt"><td width="251" style="width:188.4pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:22.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Corporate Support Officer</span></p></td><td width="348" style="width:261.0pt;border-top:none;border-left:none;
@@ -113,7 +112,7 @@ description: ""
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:22.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Agung</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:22.2pt"><td width="251" style="width:188.4pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black">Ms Umairah</span></p></td></tr><tr style="mso-yfti-irow:15;mso-yfti-lastrow:yes;height:22.2pt"><td width="251" style="width:188.4pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:22.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Desktop Engineer 2</span></p></td><td width="348" style="width:261.0pt;border-top:none;border-left:none;

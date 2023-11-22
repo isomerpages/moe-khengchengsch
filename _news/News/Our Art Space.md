@@ -17,4 +17,4 @@ This collaboration allowed our students to foster greater community spirit throu
 
 We look forward to our third year collaboration opportunity together with TPY East CC next year!
 
-##### Click [here](https://heyzine.com/flip-book/95fd067d80.html) to view the event. 
+Click [here](https://heyzine.com/flip-book/95fd067d80.html) to view the event. 

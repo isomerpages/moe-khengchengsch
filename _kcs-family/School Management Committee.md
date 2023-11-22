@@ -4,7 +4,7 @@ permalink: /kcs-family/smc/
 description: ""
 variant: markdown
 ---
-# School Management Committee
+### School Management Committee
 
 <table style="width:431.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;

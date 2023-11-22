@@ -19,7 +19,7 @@ Our objectives are to strengthen partnerships with key stakeholders (PSG, SMC, A
 ### Be Part of the PSG Family
 
 
-Interested parents whose child/ children is/are currently studying in KCS can sign up by sending us an at&nbsp;[khengcheng.psg@gmail.com](mailto:khengcheng.psg@gmail.com)
+Interested parents whose child/ children is/are currently studying in KCS can sign up by sending us an email : [khengcheng.psg@gmail.com](mailto:khengcheng.psg@gmail.com)
 
 
 

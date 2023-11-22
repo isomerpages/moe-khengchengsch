@@ -3,6 +3,7 @@ title: 64th National Inter School Chess Championship 2023
 permalink: /chess/
 description: ""
 third_nav_title: News
+variant: markdown
 ---
 <span style="font-size:14.0pt;font-family:Arial;color:black">Our chess players took part in this team competition. 2 teams were awarded the runner-up positions in the South Zone:<br><br>
 	<b>Girls Under 8 <br></b>
@@ -16,5 +17,5 @@ P4.3 JONG RUI EN REGINA <br>
 P5.3 LAMBRIGHTS CHLOE SZE<br> 
 P5.3 JOLENE SEE YA ERN<br><br>
 
-<span style="font-size:14.0pt;font-family:Arial;color:Red">
-Congratulations! We are proud of all of you!</span></span></span></span></span>
+
+#### Congratulations! We are proud of all of you!</span></span></span></span>

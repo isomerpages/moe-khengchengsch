@@ -17,7 +17,7 @@ sections:
         - title: Resources
           description: ""
           url: /parentsresource/
-        - title: Connect with us
+        - title: Newsletter
           description: ""
           url: /newsletter/
       background: /images/Homepage/KCS School building design_watermark for cover.jpeg

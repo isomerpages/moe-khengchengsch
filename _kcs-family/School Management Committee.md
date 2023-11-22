@@ -2,8 +2,9 @@
 title: School Management Committee
 permalink: /kcs-family/smc/
 description: ""
+variant: markdown
 ---
-# School Management Committee
+### School Management Committee
 
 <table style="width:431.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
@@ -89,4 +90,4 @@ description: ""
   #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="288"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Mr Lee Peng Koon</span></p></td></tr></tbody></table>
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Office Bearer 2022 – 2023</b></span>
+#### Office Bearer 2022 – 2023

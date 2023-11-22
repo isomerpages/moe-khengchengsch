@@ -2,33 +2,34 @@
 title: Parents Support Group (PSG)
 permalink: /psg/
 description: ""
+variant: markdown
 ---
-Parents Support Group
-=====================
-### **Philosophy**
+## Parents Support Group
+
+### Philosophy
 
 Kheng Cheng School believes in a strong Home-School-Community based partnership which can be achieved by strategic &amp; sustainable partnerships with our various partners. 
 
 Our objectives are to strengthen partnerships with key stakeholders (PSG, SMC, Alumni)and develop strategic and sustainable partnerships with external organisations.
 
-### **PSG EXCO**
+### PSG EXCO
 <img src="/images/PSG/psgexco2023.jpeg" style="width 80%">
 
 
-### **Be Part of the PSG Family**
+### Be Part of the PSG Family
 
 
-Interested parents whose child/ children is/are currently studying in KCS can sign up by sending us an at&nbsp;[khengcheng.psg@gmail.com](mailto:khengcheng.psg@gmail.com)
+Interested parents whose child/ children is/are currently studying in KCS can sign up by sending us an email : [khengcheng.psg@gmail.com](mailto:khengcheng.psg@gmail.com)
 
 
 
-### **Key Programmes**
+### Key Programmes
 
-#### **Together We Achieve**
+#### Together We Achieve
 <table style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Signika, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 480px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Programme</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">Together We Achieve (TWA) 2023</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Objectives</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">To help P3 students to be more proficient<br style="box-sizing: border-box;">in performing the four operations</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Teacher Coordinator</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">Mdm Vince Ho</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">PSG Coordinator</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">Mdm Janette He and Mdm Sharon Yuen</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Days</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">Tuesday, Thursday and Friday</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Time</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">7:00 a.m. – 7:25 a.m.</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Venue</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">Classroom</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Topics</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">Term 1 Week 3 to Term 2 Week 5
 <br style="box-sizing: border-box;">Addition &amp; Subtraction<br style="box-sizing: border-box;"><br style="box-sizing: border-box;"> Term 2 Week 6 to Term 4<br style="box-sizing: border-box;">Multiplication &amp; Division</td></tr></tbody></table>
 
-##### **Chinese Reading Programme 读读乐 （2023）**
+##### Chinese Reading Programme 读读乐 （2023）
 
 <table style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Signika, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 525px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 23px;"><td style="box-sizing: border-box; padding: 5px; width: 160px; height: 23px; background-color: rgb(209, 245, 159);"><strong style="box-sizing: border-box; font-weight: bolder;">Programme</strong></td><td style="box-sizing: border-box; padding: 5px; width: 351px; height: 23px;">Chinese Reading Programme&nbsp; 读读乐</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 69.3333px;"><td style="box-sizing: border-box; padding: 5px; width: 160px; height: 23px; background-color: rgb(209, 245, 159);"><strong style="box-sizing: border-box; font-weight: bolder;">Objective</strong></td><td style="box-sizing: border-box; padding: 5px; width: 351px; height: 69.3333px;">To expose students to Chinese Language by introducing story-telling, shares book reading and story quizzes.</td></tr><tr style="box-sizing: border-box; height: 55px;"><td style="box-sizing: border-box; padding: 5px; width: 160px; height: 23px; background-color: rgb(209, 245, 159);"><strong style="box-sizing: border-box; font-weight: bolder;">Teacher Coordinator</strong></td><td style="box-sizing: border-box; padding: 5px; width: 351px; height: 55px;">Mr Cheng Xijie</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 55px;"><td style="box-sizing: border-box; padding: 5px; width: 160px; height: 23px; background-color: rgb(209, 245, 159);"><strong style="box-sizing: border-box; font-weight: bolder;">PSG Coordinator</strong></td><td style="box-sizing: border-box; padding: 5px; width: 351px; height: 55px;">Mdm Vanessa Ng and Mdm Jasmine Ee<p></p></td></tr><tr style="box-sizing: border-box; height: 55px;"><td style="box-sizing: border-box; padding: 5px; width: 160px; height: 23px; background-color: rgb(209, 245, 159);"><strong style="box-sizing: border-box; font-weight: bolder;">Days</strong></td><td style="box-sizing: border-box; padding: 5px; width: 351px; height: 55px;">Wednesdays and Thursdays</td></tr><tr style="box-sizing: border-box;"></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; background-color: rgb(206, 242, 184); width: 172px;"><strong style="box-sizing: border-box; font-weight: bolder;">Time</strong></td><td style="box-sizing: border-box; padding: 5px; width: 292px;">7:00 a.m. – 7:25 a.m.
 	</td></tr></tbody></table>

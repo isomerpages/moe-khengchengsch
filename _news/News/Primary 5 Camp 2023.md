@@ -5,7 +5,9 @@ description: ""
 third_nav_title: News
 variant: markdown
 ---
-Dear Parents / Guardians,  
+#### Dear Parents / Guardians,  
+
+Please enjoy the video of the event. Thank you.
   
 
 

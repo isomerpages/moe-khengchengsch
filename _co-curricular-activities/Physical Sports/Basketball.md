@@ -91,7 +91,7 @@ Through teachable moments and game play to instill idea of teamwork, diligence, 
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Phua Wee Koon<br>phua_wee_koon@moe.edu.sg</span></p></td></tr></tbody></table></span>
+  &quot;Times New Roman&quot;;color:black">Ms Phua Wee Koon<br>phua_wee_koon@moe.edu.sg</span></p></td></tr></tbody></table>
 
 ### Achievements
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="406" style="margin-left:-.15pt;background:white;border-collapse:collapse;
@@ -672,4 +672,4 @@ Through teachable moments and game play to instill idea of teamwork, diligence, 
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:33.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">4<sup>th</sup> Place</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table>
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table></span>

@@ -48,7 +48,7 @@ To immerse students in the use of languages, the English Department organises va
 
 Last year, students challenged one another to see who could recite the given tongue twisters the fastest. They also took part in spelling bees to see how many words they could spell accurately. Primary 1 and 2 students were also encouraged to come dressed in their favourite story book characters. Students had a fun time sharing about their favourite characters and stories. Pre-assembly activities were organised to promote the use of good spoken and written English. Our P3s and P4s tried their hands at poetry writing too. They let their creative juices flow and enjoyed the chance to share their drawings with others. It was a joy seeing students immersed in the use of English Language. As they say, with languages, you are at home anywhere!
 
-<img src="/images/English/languagefiesta.jpg" style="width:600px;height:500px;margin-right:45px;" align="left"><br><br>
+<img src="/images/English/languagefiesta.jpg" style="width:600px;height:500px;margin-right:45px;" align="left">
 
 
 #### 2.	Drama-in-writing Programme

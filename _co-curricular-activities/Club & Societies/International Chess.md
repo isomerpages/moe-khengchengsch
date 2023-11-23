@@ -3,19 +3,19 @@ title: International Chess
 permalink: /internationalchess/
 description: ""
 third_nav_title: Club & Societies
-variant: tiptap
+variant: markdown
 ---
-# Vision
-<span style="font-size:16.0pt;font-family:Arial;color:black">The KCS International Chess Club believes in the holistic development of its members with a strong focus on character traits such as determination, perseverance and respect which are developed in the course of competitions and interaction between club members.
+### Vision
+The KCS International Chess Club believes in the holistic development of its members with a strong focus on character traits such as determination, perseverance and respect which are developed in the course of competitions and interaction between club members.
 	
-# Approach
-<span style="font-size:16.0pt;font-family:Arial;color:black">The Chess Club was set up in the early 1990s with the objective of promoting intellectual games.  As a ‘thinking’ game, chess helps to instil perseverance, self–discipline and self-confidence among the members. It also requires players to practise systematic reasoning and logical decision-making.
+### Approach
+The Chess Club was set up in the early 1990s with the objective of promoting intellectual games.  As a ‘thinking’ game, chess helps to instil perseverance, self–discipline and self-confidence among the members. It also requires players to practise systematic reasoning and logical decision-making.
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">Opportunities are provided for members to develop peaks of excellence through a fun-learning process. They represent the school in both the Individual and Team Chess events at the Nationals. One of the main highlights of the KCS International Chess Club is the South Zone Chess Carnival held during the June holidays.
+Opportunities are provided for members to develop peaks of excellence through a fun-learning process. They represent the school in both the Individual and Team Chess events at the Nationals. One of the main highlights of the KCS International Chess Club is the South Zone Chess Carnival held during the June holidays.
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">These competitions open up opportunities for chess players from various schools to compete and learn from one another. Our chess players have won many awards at the nationals and it is definitely an important component in providing our students with a holistic education.
+These competitions open up opportunities for chess players from various schools to compete and learn from one another. Our chess players have won many awards at the nationals and it is definitely an important component in providing our students with a holistic education.
 
-# Achievements
+### Achievements
 
 <table style="width:411.75pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
  mso-yfti-tbllook:1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:
@@ -164,7 +164,7 @@ variant: tiptap
   padding:3.75pt 3.75pt 3.75pt 3.75pt;height:30.0pt" width="255"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">South Zone U12 Girls – 9th Place</span></p></td></tr></tbody></table>
 
-# Organisation Chart
+### Organisation Chart
 <table style="mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;mso-yfti-tbllook:
  1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" cellpadding="0" cellspacing="3" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="border:solid windowtext 2.25pt;background:#F5E49A;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal"><strong><span style="font-size:14.0pt;line-height:107%;
   font-family:&quot;Arial&quot;,sans-serif;color:black">Teacher-in-Charge</span></strong><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
@@ -186,4 +186,4 @@ variant: tiptap
     cursor:pointer;transition: all 0.25s ease-in-out 0s" href="mailto:mandy_chia_puay_neo@moe.edu.sg"><span style="color:#80383D">mandy_chia_puay_neo@moe.edu.sg</span></a></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;box-sizing: border-box"><td style="background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;
     box-sizing: border-box"><p class="MsoNormal"><span style="font-size:14.0pt;line-height:107%;
     font-family:&quot;Arial&quot;,sans-serif;color:black">Ms Alisa Chua Nyap Lih<br style="box-sizing: border-box"><a style="box-sizing: border-box;
-    cursor:pointer;transition: all 0.25s ease-in-out 0s" href="mailto:alisa_chua_nyap_lih@moe.edu.sg"><span style="color:#80383D">alisa_chua_nyap_lih@moe.edu.sg</span></a></span></p></td></tr></tbody></table></td></tr></tbody></table></span></span></span></span>
+    cursor:pointer;transition: all 0.25s ease-in-out 0s" href="mailto:alisa_chua_nyap_lih@moe.edu.sg"><span style="color:#80383D">alisa_chua_nyap_lih@moe.edu.sg</span></a></span></p></td></tr></tbody></table></td></tr></tbody></table>

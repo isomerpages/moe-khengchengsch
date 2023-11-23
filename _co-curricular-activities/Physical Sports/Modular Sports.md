@@ -3,36 +3,36 @@ title: Modular Sports
 permalink: /modularsports/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
-# Vision
-<span style="font-size:16.0pt;font-family:Arial;color:black">To offer students an opportunity to experience a diversity of different team sports and activities.
+### Vision
 
-# Mission
-<span style="font-size:16.0pt;font-family:Arial;color:black">Students to learn basic skills, techniques and to have fun.
-	
-# Objectives
-<span style="font-size:16.0pt;font-family:Arial;color:black">Students will learn teamwork, sportsmanship and develop understanding of a specific sport.
-	
-# Approach
-<span style="font-size:16.0pt;font-family:Arial;color:black">Through different sports activities and students will inculcate KCS’s core values of kindness, courage, sincerity and diligence.
-	
-# Key Programmes
-<span style="font-size:16.0pt;font-family:Arial;color:black">Sports modules include:
+To offer students an opportunity to experience a diversity of different team sports and activities
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-<ul>
-	<li>Tennis
-	</li><li>Soccer
-	</li><li>Athletics
-	</li><li>Basketball
-	</li><li>Flying Disc
-	</li><li>Badminton
-	</li><li>Floorball
-	</li><li>Street Dance
-	</li><li>And others
-	</li></ul>
+### Mission
 
-# Organisation Chart
+Students to learn basic skills, techniques and to have fun.
+	
+### Objectives
+Students will learn teamwork, sportsmanship and develop understanding of a specific sport.
+	
+### Approach
+Through different sports activities and students will inculcate KCS’s core values of kindness, courage, sincerity and diligence.
+	
+### Key Programmes
+Sports modules include:
+
+*   Tennis
+*   Soccer
+*   Athletics
+*   Basketball
+*   Flying Disc
+*   Badminton
+*   Floorball
+*   Street Dance
+*   And others
+
+### Organisation Chart
 
 <table style="width:336.75pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;mso-border-insideh:
@@ -65,4 +65,4 @@ third_nav_title: Physical Sports
   &quot;Times New Roman&quot;;color:black">Mdm Goh Koon Mei<br>goh_koon_mei@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:19.2pt"><td style="width:187.5pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Lim Ming En<br>lim_ming_en@moe.edu.sg</span></p></td></tr></tbody></table></span></span></span></span></span></span>
+  &quot;Times New Roman&quot;;color:black">Mr Lim Ming En<br>lim_ming_en@moe.edu.sg</span></p></td></tr></tbody></table>

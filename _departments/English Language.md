@@ -62,16 +62,16 @@ The middle primary NOVEL programme aims to encourage a greater love for reading 
 <img src="/images/English/Novel1.jpeg" style="width:600px;height:500px;margin-right:45px;" align="left"><br>
 <img src="/images/English/Novel2.jpeg" style="width:600px;height:500px;margin-right:45px;" align="left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>4.	P1 and P2 Learning Support Programmes, P3 and P4 Reading Remediation Programmes and Buddy Reading Programme</b>
+#### 4.	P1 and P2 Learning Support Programmes, P3 and P4 Reading Remediation Programmes and Buddy Reading Programme
 
 These programmes provide additional support for our students who are weak in their basic literacy and reading skills. The content and instructional methods are catered to these students and helmed by teachers who are specially trained to conduct these specialised programmes. Due to their small class sizes, the students receive more attention and help from their teachers, enabling them to learn better, boosting their confidence in the process. Some of the activities which the Primary 1 &amp; 2 students in the programme are engaged in include daily pre-assembly reading programmes.
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>5.	School Publication, ‘Spin-A-Yarn’</b>
+#### 5.	School Publication, ‘Spin-A-Yarn’
 
 This school publication consists of three volumes of EL and MT literary works written by our budding writers each year. Each publication also includes an art gallery showcasing the artistic pieces painted and crafted by our little artists. The works featured serve as good models for the students in the school to enjoy and emulate.
 
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>6.	Moo-O and NewsMaker</b>
+#### 6.	Moo-O and NewsMaker
 
 To motivate our P1 to P3 children to read fluently and expressively, the school engages the students in using the fun digital courseware, Moo-O. This collaborative platform allows the readers to be immersed in the story that they are reading, transforming them into the story characters. As part of cultivating a love for the language through innovative and engaging broadcasting technologies, our P4 and P5 students create content using NewsMaker for a variety of purposes. 
 
@@ -80,7 +80,7 @@ To motivate our P1 to P3 children to read fluently and expressively, the school 
 <img src="/images/English/moo2.jpg" style="width:80%"><br>
 <img src="/images/English/moo3.jpg" style="width:80%"><br>
 	
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>7.	Creative Writing Programme</b>
+#### 7.	Creative Writing Programme
 
 Primary 5 students who show interest and aptitude in creative writing are selected to submit a portfolio of their writing to apply for a Creative Writing Programme conducted by MOE. This programme aims to help our budding writers hone their writing skills and nurture their love for the language. Selected students participate in a 3 day non-residential camp where they get to learn writing techniques taught by published writers. Students may also get an opportunity to showcase their writing in Mementoes, a compilation of poetry and prose shared during the course.
 
@@ -139,4 +139,4 @@ Primary 5 students who show interest and aptitude in creative writing are select
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Mahalingam Indra<br>Miss Geraldine Tiew<br>Mrs Winnie Chan<br>Mdm Sophia Loo<br>Ms Ariel Low<br>Ms Priaya Tishan<br>Mr Lim Zonghan<br>Ms Jaime Chia<br>Mdm Haniza<br>Mrs Zuraidah Mano<br>Ms Ayesha Jagaber Yasmin<br>Ms Santi<br>Ms Koh Meng Hoe<br>Mrs Caryn Ong<br>Miss Shalini<br>Miss Su Yen Leng</span></p></td></tr></tbody></table></span></span></span></span>
+  &quot;Times New Roman&quot;;color:black">Mdm Mahalingam Indra<br>Miss Geraldine Tiew<br>Mrs Winnie Chan<br>Mdm Sophia Loo<br>Ms Ariel Low<br>Ms Priaya Tishan<br>Mr Lim Zonghan<br>Ms Jaime Chia<br>Mdm Haniza<br>Mrs Zuraidah Mano<br>Ms Ayesha Jagaber Yasmin<br>Ms Santi<br>Ms Koh Meng Hoe<br>Mrs Caryn Ong<br>Miss Shalini<br>Miss Su Yen Leng</span></p></td></tr></tbody></table>

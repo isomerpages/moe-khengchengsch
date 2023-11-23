@@ -1,8 +1,9 @@
 ---
 title: International Chess
-permalink: /chess/
+permalink: /internationalchess/
 description: ""
 third_nav_title: Club & Societies
+variant: tiptap
 ---
 # Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">The KCS International Chess Club believes in the holistic development of its members with a strong focus on character traits such as determination, perseverance and respect which are developed in the course of competitions and interaction between club members.

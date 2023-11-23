@@ -3,27 +3,24 @@ title: Basketball
 permalink: /basketball/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
-# Vision
-<span style="font-size:16.0pt;font-family:Arial;color:black">‘Grounding in humility. Shooting for the stars. Stronger Together'<br>
-Our school basketball team strives to foster a love for the game and to instill in our players a passion for teamwork, perseverance, and growth mindset. Inspire and uplift others on and off the court.</span>
+### Vision
+Grounding in humility. Shooting for the stars. Stronger Together'  
+Our school basketball team strives to foster a love for the game and to instill in our players a passion for teamwork, perseverance, and growth mindset. Inspire and uplift others on and off the court.
 
-# Mission
-<span style="font-size:16.0pt;font-family:Arial;color:black">Our mission is to develop well-rounded basketball players who have both the skills to excel on the court and the character and values (courage, diligence, kindness, sincerity) to achieve in life.<br>
+### Mission
+Our mission is to develop well-rounded basketball players who have both the skills to excel on the court and the character and values (**courage**, **diligence**, **kindness**, **sincerity**) to achieve in life.  
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-‘One man can be a crucial ingredient on a team but one man cannot make a team’
-– Kareem Abdul Jabbar
-</span>
+‘One man can be a crucial ingredient on a team but one man cannot make a team’ – **Kareem Abdul Jabbar**
 	
-# Objectives
+### Objectives
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">Create a safe environment where every player can learn, grow and reach their full potential. <br>
+Create a safe environment where every player can learn, grow and reach their full potential.  
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-Through teachable moments and game play to instill idea of teamwork, diligence, courage, and growth mindset<br>
+Through teachable moments and game play to instill idea of teamwork, diligence, courage, and growth mindset
 
-# Approach
+### Approach
 <span style="font-size:16.0pt;font-family:Arial;color:black">Specialized training for different levels.<br>
 <ul>
 	<li><b>Primary 3:</b> Foundation training
@@ -31,16 +28,13 @@ Through teachable moments and game play to instill idea of teamwork, diligence, 
  </li><li><b>Primary 5 and 6:</b> Specialized training in 5v5 strategy
 </li></ul>
 	
-# Key Programmes
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-<ul>
-	<li>National School Games Competition (Zonal and National) (Junior Division)
- </li><li>National School Games Competition (Zonal and National) (Senior Division)
- </li><li>Participate in friendly competition with other schools​
-</li><li>Learning journeys
-</li></ul>
+### Key Programmes
+*   National School Games Competition (Zonal and National) (Junior Division)
+*   National School Games Competition (Zonal and National) (Senior Division)
+*   Participate in friendly competition with other schools​
+*   Learning journeys
 	
-# Organisation Chart
+### Organisation Chart
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="671" style="width:503.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
@@ -97,9 +91,9 @@ Through teachable moments and game play to instill idea of teamwork, diligence, 
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Phua Wee Koon<br>phua_wee_koon@moe.edu.sg</span></p></td></tr></tbody></table></span></span></span></span></span>
+  &quot;Times New Roman&quot;;color:black">Ms Phua Wee Koon<br>phua_wee_koon@moe.edu.sg</span></p></td></tr></tbody></table></span>
 
-# Achievements
+### Achievements
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="406" style="margin-left:-.15pt;background:white;border-collapse:collapse;
  mso-table-layout-alt:fixed;border:none;mso-border-alt:solid windowtext 1.5pt;
  mso-yfti-tbllook:1184;mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:

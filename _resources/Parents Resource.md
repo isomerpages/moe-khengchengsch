@@ -120,23 +120,13 @@ variant: markdown
 
 ### Primary 1 Matters
 
-
-
 | Primary 1 |  |  |
 | -------- | -------- | -------- |
-| Parents Gateway (A digital platform for parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities.)  | [Parents Gateway Guide](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)     |      |
+| Parents Gateway (A digital platform for parents) | [Parents Gateway Guide](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)     |      |
 |P1 Orientation Briefing and Sharing Slides|----|
 |Information Booklet|[Information Booklet](/files/Parents/P1_INFORMATION_BOOKLET__FOR_COHORT_2024_.pdf)|
 |P1 Orientation Consolidated FAQs|[P1 Orientation FAQ](/files/Parents/P1_Orientation_FAQs.pdf)|
 
-
-Parents Gateway (A digital platform for parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities.) [Parents Gateway](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)
-
-P1 Orientation Briefing and Sharing Slides
-
-Information Booklet [Information Booklet](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)
-
-P1 Orientation Consolidated FAQs [P1 Orientation FAQ](/files/Parents/P1_Orientation_FAQs.pdf)
 
 ### Covid Matters
 

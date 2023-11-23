@@ -32,7 +32,7 @@ Sports modules include:
 *   Street Dance
 *   And others
 
-# Organisation Chart
+### Organisation Chart
 
 <table style="width:336.75pt;background:white;border-collapse:collapse;border:none;
  mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;mso-border-insideh:

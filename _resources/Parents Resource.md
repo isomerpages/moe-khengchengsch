@@ -41,6 +41,7 @@ variant: markdown
 
 
 ### Events
+
 | Events |  |  |
 | -------- | -------- | -------- |
 | Primary 5 Camp 2024     |  --    |      |

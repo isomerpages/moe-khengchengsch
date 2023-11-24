@@ -23,7 +23,7 @@ This enables parents to better support their child in their education journey th
 	
 Registering for Parents Gateway.
 You can refer to the info below or click on this. [Parents Gateway Onboarding Guide](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)
-	<a href="/images/Parents Gateway/PG.gif"></a></span><a href="/images/Parents Gateway/PG.gif"><br></a>
+
 	
 How to download the Parents Gateway App?
 1. Open the Apple App Store or Google Playstore app on your mobile smart phones
@@ -35,4 +35,4 @@ How to download the Parents Gateway App?
 <img src="/images/Parents Gateway/QR.jpg">
 
 3. Download and install the app onto your phone
-4. Make sure you enable ‘Allow Notifications’ to receive push notifications</span></span></span></span>
+4. Make sure you enable ‘Allow Notifications’ to receive push notifications</span></span></span></span></span>

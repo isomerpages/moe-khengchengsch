@@ -5,12 +5,14 @@ description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-<img src="/images/Parents Gateway/parentsgateway.jpg" style="width:200px;height:240px;margin-right:15px;" align="left">
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Parents Gateway</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Parents Gateway is a new digital platform developed by Ministry of Education (MOE) and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities.<br><br>
-This enables parents to better support their child in their education journey through closer interactions and communications with schools. Kheng Cheng School will start using Parents Gateway in Term 2 2019. We invite parents to download the Parents Gateway mobile application today.
+<img src="/images/Parents Gateway/parentsgateway.jpg" style="width:200px;height:240px;margin-right:15px;" align="right">
 
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Below are some resources</b><br>
+Parents Gateway is a new digital platform developed by Ministry of Education (MOE) and GovTech to bring greater convenience to parents to perform simple administrative transactions and to stay updated on schools’ programmes and activities.  
+  
+This enables parents to better support their child in their education journey through closer interactions and communications with schools.
+
+### Below are some resources
+
 [Information on Parents Gateway](/files/Parents%20Gateway/Information-for-new-Parents-Gateway.pdf)<br>
 [Travel Declaration](/files/Parents%20Gateway/Travel-Declaration-Update-Personal-Information.pdf)<br>
 [Parents Gateway FAQs](/files/Parents%20Gateway/Frequently-Asked-Questions-For-Parents.pdf)
@@ -25,14 +27,10 @@ Registering for Parents Gateway.
 You can refer to the info below or click on this. [Parents Gateway Onboarding Guide](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)
 
 	
-How to download the Parents Gateway App?
-1. Open the Apple App Store or Google Playstore app on your mobile smart phones
-2. Search for the ‘Parents Gateway’ mobile app or click on the link below on your mobile smart phone
-
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>IOS:</b><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708"> Download Parents Gateway App on Apple Appstore</a><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Android:</b><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG"> Download Parents Gateway App on Playstore</a>
-
+##### How to download the Parents Gateway App?
+1.  Open the Apple App Store or Google Playstore app on your mobile smart phones.
+2.  Search for the ‘Parents Gateway’ mobile app or click on the link below on your mobile smart phone.
 <img src="/images/Parents Gateway/QR.jpg">
 
-3. Download and install the app onto your phone
-4. Make sure you enable ‘Allow Notifications’ to receive push notifications</span></span></span></span></span>
+3. Download and install the app onto your phone.
+4. Make sure you enable ‘Allow Notifications’ to receive push notifications.

@@ -3,12 +3,9 @@ title: Non Financial Information
 permalink: /about-us/Non-Financial-Information/
 description: ""
 third_nav_title: School Matters
+variant: markdown
 ---
-
-Non-Financial Information
-=========================
-
-
+### Non-Financial Information
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -43,4 +40,4 @@ Non-Financial Information
 
 A Member of Education fund.
 
-<b>Auditor:</b> Audit Trust PAC
+<b>Auditor:</b>&nbsp;Audit Trust PAC

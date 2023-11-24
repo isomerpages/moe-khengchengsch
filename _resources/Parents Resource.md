@@ -39,8 +39,11 @@ variant: markdown
 ||[P6 Parents Briefing for Science and Foundation Science](https://youtu.be/8wATtmhHU0E)||
 
 
+### Events
+| Events |  |  |
+| -------- | -------- | -------- |
+| Primary 5 Camp 2024     |  --    |      |
 
-<table style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Signika, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 120px; width: 728.906px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 23px;"><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(16, 24, 87); height: 23px; text-align: center;"><span style="box-sizing: border-box; font-size: 14pt; font-family: arial, helvetica, sans-serif; color: rgb(255, 255, 0);"><strong style="box-sizing: border-box; font-weight: bolder;color:white">Events</strong></span></td><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(16, 24, 87); height: 23px; text-align: center;"><span style="box-sizing: border-box; font-size: 14pt; font-family: arial, helvetica, sans-serif; color: rgb(255, 255, 0);"><strong style="box-sizing: border-box; font-weight: bolder;color:white">Resources / Links</strong></span></td></tr><tr style="box-sizing: border-box; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(255, 255, 255); height: 23px;"><span style="box-sizing: border-box; font-family: arial, Helvetica, sans-serif;">Primary 5 Camp 2023</span></td><td style="box-sizing: border-box; padding: 5px; width: 336.333px; background-color: rgb(255, 255, 255); height: 23px;"><a href="https://khengcheng.moe.edu.sg/wp-content/uploads/2023/02/P5-Camp_Briefing-to-Parents_2023.pdf" target="_blank" rel="noopener noreferrer" style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);"><span style="box-sizing: border-box; font-family: arial, helvetica, sans-serif;">P5 Camp Briefing 2023</span></a></td></tr></tbody></table>
 
 ### Primary 1 Matters
 

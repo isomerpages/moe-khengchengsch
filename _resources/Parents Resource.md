@@ -7,7 +7,7 @@ variant: markdown
 ### Parents Briefing
 
 | Parents Briefing | Resources | |  
-| --- | ---- | --- |  
+| -------- | -------- | -------- | 
 | Parents Webinar 2023 | [Parents Webinar 2023](/files/parenting%20webinar%202023.pdf) ||  
 | P2 CCA Parents Briefing 2023 | [P2 CCA Parents Briefing 2023](/files/p2%20cca%20fair%202023_parents%20briefing.pdf) ||
 |Principal’s Message|[Message from Principal](https://youtu.be/GxwuNvGg63g)||

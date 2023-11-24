@@ -5,6 +5,7 @@ description: ""
 variant: markdown
 ---
 ### Parents Briefing
+
 | Parents Briefing | Resources | |  
 | --- | ---- | --- |  
 | Parents Webinar 2023 | [Parents Webinar 2023](/files/parenting%20webinar%202023.pdf) ||  

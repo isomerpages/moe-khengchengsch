@@ -35,4 +35,4 @@ How to download the Parents Gateway App?
 <img src="/images/Parents Gateway/QR.jpg">
 
 3. Download and install the app onto your phone
-4. Make sure you enable ‘Allow Notifications’ to receive push notifications&lt;</span></span></span></span></span>
+4. Make sure you enable ‘Allow Notifications’ to receive push notifications</span></span></span></span></span>

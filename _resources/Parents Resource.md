@@ -122,9 +122,9 @@ variant: markdown
 
 | Primary 1 |  |  |
 | -------- | -------- | -------- |
-| Parents Gateway (A digital platform for parents) | [Parents Gateway Guide](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)     |      |
+| Parents Gateway (A digital platform for parents) | [Instructions on Onboarding Parents Gateway](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)     |      |
 |P1 Orientation Briefing and Sharing Slides|[P1 Orientation Slides](/files/Parents/P1_orientation_slides.pdf)|
-|Information Booklet|[Information Booklet](/files/Parents/P1_INFORMATION_BOOKLET__FOR_COHORT_2024_.pdf)|
+|Information Booklet|[P1 Information Booklet](/files/Parents/P1_INFORMATION_BOOKLET__FOR_COHORT_2024_.pdf)|
 |P1 Orientation Consolidated FAQs|[P1 Orientation FAQ](/files/Parents/P1_Orientation_FAQs.pdf)|
 
 

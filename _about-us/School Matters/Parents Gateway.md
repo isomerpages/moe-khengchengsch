@@ -21,17 +21,12 @@ This enables parents to better support their child in their education journey th
 <iframe width="600" height="400" src="https://www.youtube.com/embed/PCM5o8jAncc">
 </iframe>
 	
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>Registering for Parents Gateway</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">You can refer to the info below or click on this 
+Registering for Parents Gateway.
+You can refer to the info below or click on this. [Parents Gateway Onboarding Guide](/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf)
 	<a href="/images/Parents Gateway/PG.gif"></a></span><a href="/images/Parents Gateway/PG.gif"><br></a>
 	
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-For queries and clarifications on Parents Gateway, please email us at kcs@moe.edu.sg .</span>
-
-<img src="/images/Parents Gateway/PG.jpg">
-
-<span style="font-size:20.0pt;font-family:Arial;color:black"><b>How to download the Parents Gateway App?</b><b><br></b>
-<span style="font-size:16.0pt;font-family:Arial;color:black">1. Open the Apple App Store or Google Playstore app on your mobile smart phones<br>
+How to download the Parents Gateway App?
+1. Open the Apple App Store or Google Playstore app on your mobile smart phones
 2. Search for the ‘Parents Gateway’ mobile app or click on the link below on your mobile smart phone
 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>IOS:</b><a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708"> Download Parents Gateway App on Apple Appstore</a><br>
@@ -39,5 +34,5 @@ For queries and clarifications on Parents Gateway, please email us at kcs@moe.ed
 
 <img src="/images/Parents Gateway/QR.jpg">
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">3. Download and install the app onto your phone<br>
-4. Make sure you enable ‘Allow Notifications’ to receive push notifications</span></span></span></span></span></span></span></span></span>
+3. Download and install the app onto your phone
+4. Make sure you enable ‘Allow Notifications’ to receive push notifications</span></span></span></span>

@@ -51,7 +51,7 @@ Muhammad Nur’Izzat Bin Saffudin (P5.2 this year) - 1st
 Muhammad Nur’Izzat Bin Saffudin - 8x50m relay- 7th
 
 
-### **Junior 2 Girls**
+#### **Junior 2 Girls**
 
 **Scissors Jump**  
 Diong Yan Ling (P6.2 this year) - 6th  
@@ -72,7 +72,7 @@ Charlene Boo-Koh Cai Ting (P6.6 this year) -4th
 Charlene Boo-Koh Cai Ting - 8x50m relay- 6th
 
 	
-### **Junior 1 Girls**
+#### **Junior 1 Girls**
 
 **40m**  
 Nurul Farhah Binte Muhd Firdaus (P5.5 this year)- 4th  
@@ -102,7 +102,7 @@ Zhang Xinyu - 8x50m relay- 5th
 ##### Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
 
 
-###  **Results of Non-CCA National School Games Competition**
+### **Results of Non-CCA National School Games Competition**
 
 
 #### 2023 NSG WUSHU COMPETITION
@@ -217,6 +217,7 @@ The links to their respective songs are as follows:
 The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.
 
 ![WC 21](/images/Achievements/World_Children_2021.png)	
+
 #### **KCS Art Display at Mediacorp Campus** 
 
 As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module. 

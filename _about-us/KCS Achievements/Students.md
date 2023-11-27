@@ -194,20 +194,21 @@ The 29th edition of the Annual World Children’s Picture Contest is a drawing c
 
 We are pleased to inform you that our Red Cross Links has once again achieved the Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021. Numerous red-cross related activities and enrichment activities were carried out to encourage our links to achieve the highest possible level of proficiency in training. These inlude first aid knowledge and bandaging skills ensuring emergency readiness and preparedness. 
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(10) SYF Youth Station Project songwriting event</b><br>
-<span style="font-size:14.0pt;font-family:Arial;color:black">The Music Department is delighted to share that two of our students’ song-writing entries made it into the Top 10 (Isabelle Adefuin Balangue, P6.5) and Honorary Mention (Cheong Ming Yue, P6.4) categories of the SYF Youth Station Project songwriting event this year.
+#### **SYF Youth Station Project songwriting event**
 
-<span style="font-size:14.0pt;font-family:Arial;color:black">The links to their respective songs are as follows:
+The Music Department is delighted to share that two of our students’ song-writing entries made it into the Top 10 (Isabelle Adefuin Balangue, P6.5) and Honorary Mention (Cheong Ming Yue, P6.4) categories of the SYF Youth Station Project songwriting event this year.
 
-<span style="font-size:14.0pt;font-family:Arial;color:black">Isabelle: Start of This Journey<br>
-<span style="font-size:14.0pt;font-family:Arial;color:black"><a href="https://youtu.be/NomGSKgKvFo">https://youtu.be/NomGSKgKvFo</a>
+The links to their respective songs are as follows:
 
-<span style="font-size:14.0pt;font-family:Arial;color:black">Ming Yue: I’ve Got Your Back<br>
-<span style="font-size:14.0pt;font-family:Arial;color:black"><a href="https://youtu.be/ziSCPVDzFcU">https://youtu.be/ziSCPVDzFcU</a>
-	
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(12) The 28th Annual World Children’s Picture Contest 2020</b>
-	<span style="font-size:14.0pt;font-family:Arial;color:black"><br>
-The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.<br><br>
+##### Isabelle: [Start of This Journey ](https://youtu.be/NomGSKgKvFo)
+
+
+##### Ming Yue: [I've Got Your Back](https://youtu.be/ziSCPVDzFcU)
+
+#### **The 28th Annual World Children’s Picture Contest 2020**
+
+The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.
+
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="583" style="width:437.5pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
@@ -292,23 +293,23 @@ The 28th edition of the Annual World Children’s Picture Contest is a drawing c
   line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr></tbody></table>
 	
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(13) KCS Art Display at Mediacorp Campus</b>
-<span style="font-size:14.0pt;font-family:Arial;color:black">	
-As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module.<br>
+#### **KCS Art Display at Mediacorp Campus**&nbsp;
 
-We are extremely proud of the students!
-You may find the picture of the display below:<br><br>
-<img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/Artdisplay1.png"><img align="right" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/Artdisplay2.png"><br><br><br><br><br><br>
-<span style="font-size:14.0pt;font-family:Arial;color:black">Here are some photographs of our student photographers in action!<br><br>
+As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module. 
 
-<img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction1.jpg"><img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction2.jpg">
+We are extremely proud of the students! You may find the picture of the display below:
 
-<img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction3.jpg"><img align="left" style="width:220px;height:200px;margin-right:50px;" src="/images/Art/artaction4.jpg"><br><br><br><br><br><br><br><br><br><br><br><br><br>
+![](/images/Art/artaction1.jpg)
+![](/images/Art/artaction4.jpg)
 
-	
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b>(14) National School Games (NSG) 2022</b><br>
-<span style="font-size:14.0pt;font-family:Arial;color:black">We are pleased to announce that our Track &amp; Field CCA performed exceptionally well in the SPSSC NSG Track &amp; Field Meet which was held from 19 April to 27 April.<br><br>
-The results are as follows:
+
+#### **KCS Art Display at Mediacorp Campus**&nbsp;
+
+As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module.  
+
+
+We are extremely proud of the students! You may find the picture of the display below:
+
 
 <table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
@@ -1365,4 +1366,4 @@ P5.3 LAMBRIGHTS CHLOE SZE
 P5.3 JOLENE SEE YA ERN
 
 
-### Congratulations! We are proud of all of you!</span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span>
+### Congratulations! We are proud of all of you!</span></span>

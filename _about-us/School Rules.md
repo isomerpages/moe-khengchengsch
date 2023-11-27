@@ -42,7 +42,7 @@ variant: markdown
 	</li><li>Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.<br>
 
 
-<span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Attendance </u></b><br><br>
+## Attendance 
 <span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students must:</b><br><br>
 <ul>
 	<li>attend school regularly and be punctual for all school.
@@ -120,4 +120,4 @@ variant: markdown
 
 
 
-##### Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.</span></span></span></li></ul></span></span></li></ul></span></li></ul></span></span></li></ul></span></span>
+##### Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.</span></span></span></li></ul></span></li></ul></span></li></ul></span></span></li></ul></span></span>

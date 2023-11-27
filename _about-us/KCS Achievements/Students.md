@@ -266,7 +266,8 @@ KCS Track & Field has won many accolades over the years, and students undergo ri
 #### **2022 National School Games Track and Field Championships**
 	
 ![NGS 2](/images/Achievements/NGS_Track_2022_P2.png)
-
+![NGS P3](/images/Achievements/NGS_2022_P3.png)
+![NGS P4](/images/Achievements/NGS_2022_P4.png)
 
 
 #### **National Chinese Calligraphy Competition 2023**      
@@ -277,7 +278,7 @@ The Competition was organized by Hong Wen School in Term One. A total of 67 scho
 
 #### **SYF Youth Station Project (Song Writing)**
 
-
+![](/images/Achievements/SYF_Song_2022.png)
 	
 #### 64th National Inter-School Chess Championship 2023  
   

@@ -100,11 +100,10 @@ Boys' Category
 Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
 
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
-<b></b>(4) Results of Non-CCA National School Games Competition
-<span style="font-size:16.0pt;font-family:Arial;color:black">
+###  **Results of Non-CCA National School Games Competition**
 
-<b>2023 NSG WUSHU COMPETITION</b>
+
+2023 NSG WUSHU COMPETITION
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:155.8pt;border:solid windowtext 1.0pt;
@@ -200,6 +199,7 @@ Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="126"><p class="MsoNoSpacing"><span style="font-size:12.0pt">49<sup>th</sup> position</span></p></td></tr></tbody></table>
 <br>
+
 2023 NSG ARTISTIC GYMNASTICS
 
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -2505,4 +2505,4 @@ P5.3 LAMBRIGHTS CHLOE SZE
 P5.3 JOLENE SEE YA ERN
 
 
-### Congratulations! We are proud of all of you!</span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span>
+### Congratulations! We are proud of all of you!</span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

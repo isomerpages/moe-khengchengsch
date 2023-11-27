@@ -4,10 +4,10 @@ permalink: /about-us/School-Rules/
 description: ""
 variant: markdown
 ---
-School Rules
-============
+# School Rules
 
-<span style="font-size:20.0pt;font-family:Arial;color:blue"><b><u> Appearance </u></b>
+
+## Appearance 
 
 
 
@@ -120,4 +120,4 @@ School Rules
 
 
 
-<b>Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.</b></span></span></span></li></ul></span></span></li></ul></span></li></ul></span></span></li></ul></span></span></span>
+##### Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.</span></span></span></li></ul></span></span></li></ul></span></li></ul></span></span></li></ul></span></span>

@@ -176,7 +176,7 @@ It is a great pleasure to announce that both Senior Boys and Girls team have eme
 
 #### **National School Games (NSG)**
 
-The National School Games (NSG) resumed on 19 April for Primary school athletes - the Senior Division (Primary 6) students competed (over a span of two weeks from 19 to 28 April) and the Junior Division (Primary 4 & 5) will take place in July.  
+The National School Games (NSG) resumed on 19 April for Primary school athletes - the Senior Division (Primary 6) students competed (over a span of two weeks from 19 to 28 April) and the Junior Division (Primary 4 &amp; 5) will take place in July.  
   
 KCS sent our athletes to participate in the following relays:
 
@@ -184,14 +184,14 @@ KCS sent our athletes to participate in the following relays:
 *   4 X 100m  
     
 *   4 X 300m
-*   High Jumps & Long Jumps (in both Senior Boys & Girls categories)  
+*   High Jumps &amp; Long Jumps (in both Senior Boys &amp; Girls categories)  
     
-We are proud that **KCS clinched Gold for high-jump by Gan Jeng Yu (P6.4) & a commendable 4th position by Tsen Yu Han (Senior Girls Div 1 & 2 respectively)**
+We are proud that&nbsp;**KCS clinched Gold for high-jump by Gan Jeng Yu (P6.4) &amp; a commendable 4th position by Tsen Yu Han (Senior Girls Div 1 &amp; 2 respectively)**
     
-*   Our Senior Boys, Brayden See (P6.5) & Joachim U (P6.6) garnered 5th positions for the high jump event.
-*   Our boys ( Anden Low \[P6.5\], Hadi, Thai An & Loong Qi - came in 5th also for 4 X 300m and 4 X 100m events.  
+*   Our Senior Boys, Brayden See (P6.5) &amp; Joachim U (P6.6) garnered 5th positions for the high jump event.
+*   Our boys ( Anden Low \[P6.5\], Hadi, Thai An &amp; Loong Qi - came in 5th also for 4 X 300m and 4 X 100m events.  
     
-    Overall, all our the athletes did a great job, given the 'short run-way' of preparation & (face-to-face) trainings (of only 5-6 weeks), leading to the NSG in April. More importantly, our KCS athletes' unwavering & 'never-say-die' attitude put into the limited trainings and the actual days of competitions in a stadium setting (at Bukit Gombak), the coaches & teachers provided for them, were highly commendable - and we are all very proud of them!"
+    Overall, all our the athletes did a great job, given the 'short run-way' of preparation &amp; (face-to-face) trainings (of only 5-6 weeks), leading to the NSG in April. More importantly, our KCS athletes' unwavering &amp; 'never-say-die' attitude put into the limited trainings and the actual days of competitions in a stadium setting (at Bukit Gombak), the coaches &amp; teachers provided for them, were highly commendable - and we are all very proud of them!"
 
 #### **The 29th Annual World Children’s Picture Contest 2021**  
 
@@ -216,31 +216,33 @@ The links to their respective songs are as follows:
 
 The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.
 
-![WC 21](/images/Achievements/World_Children_2021.png)	
+<img style="width:400px;" src="/images/Achievements/World_Children_2021.png">
 
-#### **KCS Art Display at Mediacorp Campus** 
+
+#### **KCS Art Display at Mediacorp Campus**&nbsp;
 
 As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module. 
 
 We are extremely proud of the students! You may find the picture of the display below:
 
-![](/images/Art/artaction1.jpg)
-![](/images/Art/artaction4.jpg)
+<img style="width:400px;" src="/images/Art/artaction1.jpg">
+<img style="width:400px;" src="/images/Art/artaction4.jpg">
 
 
-#### **KCS Art Display at Mediacorp Campus** 
+#### **KCS Art Display at Mediacorp Campus**&nbsp;
 
 As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module.  
 
 
 We are extremely proud of the students! You may find the picture of the display below:
 
-![](/images/Art/Artdisplay1.png)
-![](/images/Art/Artdisplay2.png)
+<img style="width:400px;" src="/images/Art/Artdisplay1.png">
+<img style="width:400px;" src="/images/Art/Artdisplay2.png">
+
 
 #### **National School Games (NSG) 2022**  
 
-We are pleased to announce that our Track & Field CCA performed exceptionally well in the SPSSC NSG Track & Field Meet which was held from 19 April to 27 April.  
+We are pleased to announce that our Track &amp; Field CCA performed exceptionally well in the SPSSC NSG Track &amp; Field Meet which was held from 19 April to 27 April.  
   
 The results are as follows:
 
@@ -250,9 +252,9 @@ The results are as follows:
 
 The National School Games (NSG) is Singapore’s largest and most extensive annual youth sports event with more than 250 divisional competitions for student-athletes across primary and secondary schools, junior colleges and centralised institutions. The main aim of the NSG is to encourage character development among student-athletes as they pursue sporting excellence.
 
-#### KCS Track & Field  
+#### KCS Track &amp; Field  
 
-At Kheng Cheng School, co-curricular pursuits have played a fundamental role in developing well-rounded students. Our Track & Field CCA provides an opportunity for students to:
+At Kheng Cheng School, co-curricular pursuits have played a fundamental role in developing well-rounded students. Our Track &amp; Field CCA provides an opportunity for students to:
 
 *   Develop a love for run, jump and throw activities
 *   Acquire the basic competence and knowledge of the proper techniques and rules in run, jump and throw events,
@@ -261,7 +263,7 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
 *   Nurture 21st Century Competencies such as communication, collaboration and self-management skills by learning alongside teammates across different levels
 *   Boost their physical, mental and emotional well-being through a multitude of fun and engaging activities  
     
-KCS Track & Field has won many accolades over the years, and students undergo rigorous training and selection trials to represent the school in inter-school and national sporting events. With the resumption of NSG this year, we are proud to share the achievements of our students who have worked hard to take home victories.
+KCS Track &amp; Field has won many accolades over the years, and students undergo rigorous training and selection trials to represent the school in inter-school and national sporting events. With the resumption of NSG this year, we are proud to share the achievements of our students who have worked hard to take home victories.
 
 #### **2022 National School Games Track and Field Championships**
 	
@@ -278,19 +280,21 @@ The Competition was organized by Hong Wen School in Term One. A total of 67 scho
 
 #### **SYF Youth Station Project (Song Writing)**
 
-![](/images/Achievements/SYF_Song_2022.png)
+<img style="width:400px;" src="/images/Achievements/SYF_Song_2022.png">
 	
 #### 64th National Inter-School Chess Championship 2023  
   
 Our chess players took part in this team competition. 2 teams were awarded the runner-up positions in the South Zone:
   
-Girls Under 8  
+#### Girls Under 8
+
 P2.3 LEONG FANG CHEN  
 P2.1 HANNAH CHAN YEE JIA  
 P2.5 HENG TZE TING, SHARMAINE  
 P1.5 BU QIANYU
 	
-Girls Open
+#### Girls Open
+
 P4.2 LAM YU XIN ZOE  
 P4.3 JONG RUI EN REGINA  
 P5.3 LAMBRIGHTS CHLOE SZE  

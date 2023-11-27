@@ -111,15 +111,13 @@ Click [HERE](https://heyzine.com/flip-book/0ea1f1640f.html) for more event  phot
 
 The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
 
-<img style="width:80%" src="/images/Achievements/picturecontest.JPG"><br>
+![](/images/Achievements/picturecontest.JPG)
 
 #### **Girls' Brigade Company Awards (2021) - Gold Award**
 
 The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
 
-<img style="width:80%" src="/images/GB/gbgoldaward2021.JPG"><br>
-
-<img style="width:80%" src="/images/GB/gbthanks.JPG">
+![](/images/GB/gbgoldaward2021.JPG)
 
 
 #### **National School Games South Zone Basketball (2022)**
@@ -209,89 +207,6 @@ The links to their respective songs are as follows:
 
 The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.
 
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="583" style="width:437.5pt;margin-left:-.15pt;background:white;border-collapse:collapse;
- border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
- mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.8pt"><td width="358" valign="top" style="width:268.3pt;border:solid windowtext 1.5pt;
-  background:#C5E0B3;mso-background-themecolor:accent6;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Name</span></b></p></td><td width="88" valign="top" style="width:65.85pt;border:solid windowtext 1.5pt;
-  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#C5E0B3;
-  mso-background-themecolor:accent6;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:7.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Class (2021)</span></b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="138" valign="top" style="width:103.35pt;border:solid windowtext 1.5pt;
-  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#C5E0B3;
-  mso-background-themecolor:accent6;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Award</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Jolene See Ya Ern</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.1</span></p></td><td width="138" valign="top" style="width:103.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Bronze</span></p></td></tr><tr style="mso-yfti-irow:2;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ng Zheng Xian</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">3.3</span></p></td><td width="138" rowspan="5" style="width:103.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Honorable Mention</span></p></td></tr><tr style="mso-yfti-irow:3;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Goh Shao Feng Rayner</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.2</span></p></td></tr><tr style="mso-yfti-irow:4;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Ee Jing Han Kaydence</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr><tr style="mso-yfti-irow:5;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Luk Shin Yu</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:15.75pt"><td width="358" style="width:268.3pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Mohamed Khairy Bin Mohamed Agus</span></p></td><td width="88" style="width:65.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">2.5</span></p></td></tr></tbody></table>
 	
 #### **KCS Art Display at Mediacorp Campus**&nbsp;
 
@@ -310,167 +225,33 @@ As part of our Art department’s belief to provide students with opportunities 
 
 We are extremely proud of the students! You may find the picture of the display below:
 
+![](/images/Art/Artdisplay1.png)
+![](/images/Art/Artdisplay2.png)
 
-<table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
- collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
- 1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:2.25pt solid windowtext" width="754" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:7.5pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;background:
-  #FFE599;mso-background-themecolor:accent4;mso-background-themetint:102;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:7.5pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Event</span></b></p></td><td style="width:186.9pt;border:solid windowtext 2.25pt;
-  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
-  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="249"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Division</span></b></p></td><td style="width:112.5pt;border:solid windowtext 2.25pt;
-  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
-  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Results</span></b></p></td><td style="width:138.95pt;border:solid windowtext 2.25pt;
-  border-left:none;mso-border-left-alt:solid windowtext 2.25pt;background:#FFE599;
-  mso-background-themecolor:accent4;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:7.5pt" valign="top" width="185"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Athletes</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:15.15pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:15.15pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">High Jump</span></p></td><td style="width:186.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt" valign="top" width="249"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Senior Division 1 Boys</span></p></td><td style="width:112.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt" valign="top" width="150"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5<sup>th</sup> Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:15.15pt" valign="top" width="185"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Brayden See<br>U Joachim</span></p></td></tr><tr style="mso-yfti-irow:2;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Long Jump</span></p></td><td style="width:186.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Senior Division 1 Boys</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:112.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">10<sup>th</sup> Placing</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:138.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Brayden See</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:3;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">1500m</span></p></td><td style="width:186.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Senior Division 1 Boys</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:112.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">12<sup>th</sup> Placing</span><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:138.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" valign="top" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black;mso-color-alt:windowtext">Aidan Ka’if</span><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:4;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Long Jump</span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Division 2 Girls</span><span style="font-size:16.0pt;
-  line-height:107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">2nd Placing</span><span style="font-size:16.0pt;line-height:
-  107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Gan Jeng Yu</span><span style="font-size:16.0pt;line-height:
-  107%;font-family:&quot;Arial&quot;,sans-serif"></span></p></td></tr><tr style="mso-yfti-irow:5;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Shot Put</span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Division 2 Girls</span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">1st Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Gan Jeng Yu</span></p></td></tr><tr style="mso-yfti-irow:6;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">4x100m Relay</span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Division 1 Boys</span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">5th Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:23.2pt"><td style="width:127.5pt;border:solid windowtext 2.25pt;border-top:
-  none;mso-border-top-alt:solid windowtext 2.25pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:23.2pt" width="170"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">4x300m Relay</span></p></td><td style="width:186.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="249"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Division Boys</span></p></td><td style="width:112.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="150"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">4th Placing</span></p></td><td style="width:138.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 2.25pt;border-right:solid windowtext 2.25pt;
-  mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt" width="185"><p style="text-align:center" align="center" class="MsoNormal"><span style="font-size:16.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">&nbsp;</span></p></td></tr></tbody></table>
+#### **National School Games (NSG) 2022**  
 
+We are pleased to announce that our Track &amp; Field CCA performed exceptionally well in the SPSSC NSG Track &amp; Field Meet which was held from 19 April to 27 April.  
+  
+The results are as follows:
 
+#### **National School Games**
 
-<span style="font-size:14.0pt;font-family:Arial;color:black"><b>National School Games<br></b>
 The National School Games (NSG) is Singapore’s largest and most extensive annual youth sports event with more than 250 divisional competitions for student-athletes across primary and secondary schools, junior colleges and centralised institutions. The main aim of the NSG is to encourage character development among student-athletes as they pursue sporting excellence.
 
-<span style="font-size:14.0pt;font-family:Arial;color:black"><b>KCS Track &amp; Field</b><br>
+#### KCS Track &amp; Field  
+
 At Kheng Cheng School, co-curricular pursuits have played a fundamental role in developing well-rounded students. Our Track &amp; Field CCA provides an opportunity for students to:
-<ul>
-<li>Develop a love for run, jump and throw activities
-</li><li>Acquire the basic competence and knowledge of the proper techniques and rules in run, jump and throw events,
-</li><li>Hone, display and advocate a high standard of character guided by our KCS values
-</li><li>Develop sport values including perseverance, respect, equality, discipline and leadership through active participation in their weekly training sessions as well as competitions
-</li><li>Nurture 21st Century Competencies such as communication, collaboration and self-management skills by learning alongside teammates across different levels
-</li><li>Boost their physical, mental and emotional well-being through a multitude of fun and engaging activities<br>
 
-<span style="font-size:14.0pt;font-family:Arial;color:black">KCS Track &amp; Field has won many accolades over the years, and students undergo rigorous training and selection trials to represent the school in inter-school and national sporting events. With the resumption of NSG this year, we are proud to share the achievements of our students who have worked hard to take home victories.
+*   Develop a love for run, jump and throw activities
+*   Acquire the basic competence and knowledge of the proper techniques and rules in run, jump and throw events,
+*   Hone, display and advocate a high standard of character guided by our KCS values
+*   Develop sport values including perseverance, respect, equality, discipline and leadership through active participation in their weekly training sessions as well as competitions
+*   Nurture 21st Century Competencies such as communication, collaboration and self-management skills by learning alongside teammates across different levels
+*   Boost their physical, mental and emotional well-being through a multitude of fun and engaging activities  
+    
+KCS Track &amp; Field has won many accolades over the years, and students undergo rigorous training and selection trials to represent the school in inter-school and national sporting events. With the resumption of NSG this year, we are proud to share the achievements of our students who have worked hard to take home victories.
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b></b><b><b><b>(15) 2022 National School Games Track and Field Championships</b><br>
+#### **2022 National School Games Track and Field Championships**
 	
  <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="754" style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
@@ -641,7 +422,7 @@ At Kheng Cheng School, co-curricular pursuits have played a fundamental role in 
   mso-border-top-alt:solid windowtext 2.25pt;mso-border-left-alt:solid windowtext 2.25pt;
   background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:23.2pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">5</span></p></td></tr></tbody></table>
-</b></b></span></span></li></ul><b><b>
+<b><b>
 
 <table style="width:565.85pt;margin-left:-.15pt;background:white;border-collapse:
  collapse;border:none;mso-border-alt:solid windowtext 2.25pt;mso-yfti-tbllook:
@@ -1366,4 +1147,4 @@ P5.3 LAMBRIGHTS CHLOE SZE
 P5.3 JOLENE SEE YA ERN
 
 
-### Congratulations! We are proud of all of you!</span></span>
+### Congratulations! We are proud of all of you!

@@ -13,7 +13,7 @@ The Singapore Girls’ Brigade 90th Company in Kheng Cheng School has met the st
 
 Four of our Brigaders also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. We are proud of our four recipients: Lim Shin Ying (6.3); Sii Yu Tong (6.4); Kaylyn Low Jean Xuan (6.6) and Nurul Farysha binte Abdullah (6.7). They possess good character, have demonstrated leadership and are responsible Squad Leaders.
 
-Click [HERE](https://heyzine.com/flip-book/c955e00db1.html) for the ceremony Photographs.
+##### Click [HERE](https://heyzine.com/flip-book/c955e00db1.html) for the ceremony Photographs.
 
 ### **2022 - National School Games**  
   
@@ -51,7 +51,7 @@ Muhammad Nur’Izzat Bin Saffudin (P5.2 this year) - 1st
 Muhammad Nur’Izzat Bin Saffudin - 8x50m relay- 7th
 
 
-### **Junior 2 Girls**
+#### **Junior 2 Girls**
 
 **Scissors Jump**  
 Diong Yan Ling (P6.2 this year) - 6th  
@@ -72,7 +72,7 @@ Charlene Boo-Koh Cai Ting (P6.6 this year) -4th
 Charlene Boo-Koh Cai Ting - 8x50m relay- 6th
 
 	
-### **Junior 1 Girls**
+#### **Junior 1 Girls**
 
 **40m**  
 Nurul Farhah Binte Muhd Firdaus (P5.5 this year)- 4th  
@@ -91,21 +91,30 @@ Zhang Xinyu - 8x50m relay- 5th
 
 ### **Results of 9th Ang Mo Kio CC Chess Challenge 2023**
 	
-Girls' Category
+#### Girls' Category
+
+![2023 Chess](/images/Achievements/AMK_Chess_girls_2023.png)
+
+#### Boys' Category
+
+![2023 Chess Boys](/images/Achievements/AMK_Chess_boys_2023.png)
+
+##### Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
 
 
-Boys' Category
+### **Results of Non-CCA National School Games Competition**
 
 
-Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
+#### 2023 NSG WUSHU COMPETITION
 
+![Wushu 2023](/images/Achievements/Wushu_2023.png)
+![GA P1](/images/Achievements/Gymnastics_Award_2023_P1.png)
+![GA P2](/images/Achievements/Gymnastics_Award_2023_P2.png)
+![GA P3](/images/Achievements/Gymnastics_Award_2023_P3.png)
+![GA P4](/images/Achievements/Gymnastics_Award_2023_P4.png)
 
-###  **Results of Non-CCA National School Games Competition**
-
-
-2023 NSG WUSHU COMPETITION
-
-Click [HERE](https://heyzine.com/flip-book/0ea1f1640f.html) for more event  photographs
+##### Click [HERE](https://heyzine.com/flip-book/0ea1f1640f.html) for the event photos.
+##### Click [HERE](https://heyzine.com/flip-book/e207ebdc49.html) for more event photos.
 
 ### **The 30th Annual World Children’s Picture Contest 2022** 
 
@@ -207,7 +216,8 @@ The links to their respective songs are as follows:
 
 The 28th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that our school had received one bronze award and five honorable mentions for the students who showed creativity and good use of artistic techniques in their artwork. In recognition of their artistic talent shown through this competition, our school presented the six winners with a prize and a certificate awarded from the organisers of the Annual World Children’s Picture Contest.
 
-	
+![WC 21](/images/Achievements/World_Children_2021.png)	
+
 #### **KCS Art Display at Mediacorp Campus** 
 
 As part of our Art department’s belief to provide students with opportunities to display their talent in art at public platforms, 12 of our student’s photographs are on display at Mediacorp Campus – a collaboration with The Tree Cafe. Students worked on the theme Our School Life, and applied various photography techniques like, rule of third and symmetry, to tell a story about their experience in school. We hope you’d also enjoy the pieces taken by our Primary 4 students, during the digital photography module. 
@@ -234,6 +244,8 @@ We are pleased to announce that our Track & Field CCA performed exceptionally we
   
 The results are as follows:
 
+![NSG 1](/images/Achievements/NGS_2022_P1.png)
+
 #### **National School Games**
 
 The National School Games (NSG) is Singapore’s largest and most extensive annual youth sports event with more than 250 divisional competitions for student-athletes across primary and secondary schools, junior colleges and centralised institutions. The main aim of the NSG is to encourage character development among student-athletes as they pursue sporting excellence.
@@ -253,6 +265,7 @@ KCS Track & Field has won many accolades over the years, and students undergo ri
 
 #### **2022 National School Games Track and Field Championships**
 	
+![NGS 2](/images/Achievements/NGS_Track_2022_P2.png)
 
 
 

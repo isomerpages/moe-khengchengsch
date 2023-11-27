@@ -3,105 +3,95 @@ title: Students
 permalink: /studentsachievements/
 description: ""
 third_nav_title: KCS Achievements
+variant: markdown
 ---
 # Students Achievements
-<span style="font-size:18.0pt;font-family:Arial;color:blue">
-	<b>(1)  GB Awards Ceremony - Company Awards 2022 and Junior Brigader Brooch</b><br><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-The Singapore Girls’ Brigade 90th Company in Kheng Cheng School has met the standard to achieve the Gold Award for the National Company Awards in 2022!<br>
 
-Four of our Brigaders also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. We are proud of our four recipients: Lim Shin Ying (6.3); Sii Yu Tong (6.4); Kaylyn Low Jean Xuan (6.6) and Nurul Farysha binte Abdullah (6.7). They possess good character, have demonstrated leadership and are responsible Squad Leaders.</span>
+#### **GB Awards Ceremony - Company Awards 2022 and Junior Brigader Brooch**  
+  
+The Singapore Girls’ Brigade 90th Company in Kheng Cheng School has met the standard to achieve the Gold Award for the National Company Awards in 2022!  
+
+Four of our Brigaders also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. We are proud of our four recipients: Lim Shin Ying (6.3); Sii Yu Tong (6.4); Kaylyn Low Jean Xuan (6.6) and Nurul Farysha binte Abdullah (6.7). They possess good character, have demonstrated leadership and are responsible Squad Leaders.
 
 Click 
 <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/c955e00db1.html"><b>HERE</b></a> fo ceremony Photographs.
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue">
-	<b>(2) 2022 - National School Games </b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-<i><b><u>Junior 2 Boys </u></b></i><br>
-<b>120m</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Ashton Ng Yu Hong (P6.7 this year)- 8th<br>
-Bryan Lee Jia Jun (P6.4 this year) 4th<br>
-	
-<b>25m</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Cael Syafwan Bin Mohamed (P6.1A this year) - 4th<br>
+### **2022 - National School Games**  
+  
+#### **Junior 2 Boys**
 
-<b>Long implement throw</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Aegen Chiang Xu Yong (P6.6 this year) - 4th<br>
+**120m**  
+Ashton Ng Yu Hong (P6.7 this year)- 8th  
+Bryan Lee Jia Jun (P6.4 this year) 4th  
 
-<b>Scissors Jump</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Caleb Tan- 1st<br>
+**25m**  
+Cael Syafwan Bin Mohamed (P6.1A this year) - 4th  
+
+**Long implement throw**  
+Aegen Chiang Xu Yong (P6.6 this year) - 4th  
+
+**Scissors Jump**  
+Caleb Tan- 1st  
 Jovan Teo- 5th
 
-<b>Shot Put (2kg)</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Tay Yew Kwang  (P6.4 this year) - 2nd<br>
-Tay Yew Kwang - 8x50m Relay- 5th<br>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-<i><b><u>Junior 1 Boys </u></b></i><br>
-<b>Long Jump</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Zhu Tianxin - 4th<br>
+**Shot Put (2kg)**  
+Tay Yew Kwang (P6.4 this year) - 2nd  
+Tay Yew Kwang - 8x50m Relay- 5th  
+  
+#### **Junior 1 Boys**
 
-<b>60m</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Isaac Chan Chun Wan (P5.3 this year) - 5th<br>
-Izzat- 6th<br>
+**Long Jump**  
+Zhu Tianxin - 4th  
 
-<b>Medicine Ball Throw</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Muhammad Nur’Izzat Bin Saffudin (P5.2 this year) - 1st<br>
-Muhammad Nur’Izzat Bin Saffudin  - 8x50m relay- 7th<br>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-<i><b><u>Junior 2 Girls </u></b></i><br>
-<b>Scissors Jump</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Diong Yan Ling (P6.2 this year) - 6th<br>
+**60m**  
+Isaac Chan Chun Wan (P5.3 this year) - 5th  
+Izzat- 6th  
 
-<b>120m</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Ella Tan Yu Xian (P6.2 this year) - 3rd<br>
+**Medicine Ball Throw**  
+Muhammad Nur’Izzat Bin Saffudin (P5.2 this year) - 1st  
+Muhammad Nur’Izzat Bin Saffudin - 8x50m relay- 7th
 
-<b>Long Implement Throw</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Tianyi Chanel Maglio (P6.2 this year) - 2nd<br>
+
+### **Junior 2 Girls**
+
+**Scissors Jump**  
+Diong Yan Ling (P6.2 this year) - 6th  
+
+**120m**  
+Ella Tan Yu Xian (P6.2 this year) - 3rd  
+
+**Long Implement Throw**  
+Tianyi Chanel Maglio (P6.2 this year) - 2nd  
 Nurizzati Amaliairdina (P6.2 this year) 3rd
 
-<b>Medicine Ball Throw</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Maegan Lee Jia Ying (P6.4 this year)- 5th<br>
+**Medicine Ball Throw**  
+Maegan Lee Jia Ying (P6.4 this year)- 5th  
 
-<b>Shot Put</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Sherlyn Kuah Hui Min (P6.7 this year) - 2nd<br>
-Charlene Boo-Koh Cai Ting (P6.6 this year) -4th<br>
-Charlene Boo-Koh Cai Ting  - 8x50m relay- 6th<br>
-	<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-<i><b><u>Junior 1 Girls </u></b></i><br>
-<b>40m</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Nurul Farhah Binte Muhd Firdaus (P5.5 this year)- 4th<br>
+**Shot Put**  
+Sherlyn Kuah Hui Min (P6.7 this year) - 2nd  
+Charlene Boo-Koh Cai Ting (P6.6 this year) -4th  
+Charlene Boo-Koh Cai Ting - 8x50m relay- 6th
 
-<b>Medicine Ball Throw</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Nur Qalysha Binte Abdullah (P5.2 this year)- 6th<br>
+	
+### **Junior 1 Girls**
 
-<b>60m</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Avril Liow Huiru (P5.2 this year) - 6th<br>
+**40m**  
+Nurul Farhah Binte Muhd Firdaus (P5.5 this year)- 4th  
 
-<b>Long Jump</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black"><br>
-Zhang Xinyu (P5.4 this year) - 6th<br>
-Zhang Xinyu  - 8x50m relay- 5th
+**Medicine Ball Throw**  
+Nur Qalysha Binte Abdullah (P5.2 this year)- 6th  
+
+**60m**  
+Avril Liow Huiru (P5.2 this year) - 6th  
+
+**Long Jump**  
+Zhang Xinyu (P5.4 this year) - 6th  
+Zhang Xinyu - 8x50m relay- 5th
 
 
-<span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
-	(3) Results of 9th Ang Mo Kio CC Chess Challenge 2023<br>
+
+### **Results of 9th Ang Mo Kio CC Chess Challenge 2023**
+	
 <span style="font-size:16.0pt;font-family:Arial;color:black">Girls' Category
 <span style="font-size:16.0pt;font-family:Arial;color:black">
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="587" style="width:440.25pt;background:white;border-collapse:collapse;border:none;
@@ -3145,4 +3135,4 @@ P5.3 LAMBRIGHTS CHLOE SZE<br>
 P5.3 JOLENE SEE YA ERN<br><br>
 
 <span style="font-size:14.0pt;font-family:Arial;color:Red">
-Congratulations! We are proud of all of you!</span></span></span></span></span></span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span></span></span></span></b></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+Congratulations! We are proud of all of you!</span></span></span></span></span></span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span></span></span></span>

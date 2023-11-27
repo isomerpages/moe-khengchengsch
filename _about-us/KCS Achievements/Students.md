@@ -97,8 +97,7 @@ Girls' Category
 Boys' Category
 
 
-<span style="font-size:20.0pt;font-family:Arial;color:black">Click 
-<a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://heyzine.com/flip-book/2f3a470c87.html">HERE</a> for Photographs.
+Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
 
 
 <span style="font-size:18.0pt;font-family:Arial;color:blue"><b>
@@ -2506,4 +2505,4 @@ P5.3 LAMBRIGHTS CHLOE SZE
 P5.3 JOLENE SEE YA ERN
 
 
-### Congratulations! We are proud of all of you!</span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span></span>
+### Congratulations! We are proud of all of you!</span></span></span></b></span></span></span></b></span></span></b></span></span></span></span></span></span></span></b></span></span></b></span></span></b></span></li></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></b></span>

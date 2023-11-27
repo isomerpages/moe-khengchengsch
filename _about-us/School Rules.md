@@ -9,51 +9,49 @@ variant: markdown
 
 ## Appearance 
 
+#### **School Uniform**
 
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+*   White canvas shoes and white school socks that are clearly visible above the ankle are to be worn
+*   Fingernails must be short, clean and unpainted.
+*   Name tags should be sewn onto uniforms as shown below.
+*   Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>School Uniform</b>
-
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-<ul>
-	<li>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
-	</li><li> White canvas shoes and white school socks that are clearly visible above the ankle are to be worn
-	</li><li>Fingernails must be short, clean and unpainted.
-	</li><li>Name tags should be sewn onto uniforms as shown below.
-	</li><li>Sports shoes cannot be worn during curriculum hours if the activity is conducted after school hours.
 
 
 <img src="/images/Uniform/uniform1.png" style="width:60%">
 
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Hair</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-<ul>
-	<li>Hair must be neat and hair/fringe must not touch the eyebrows or the collar.
-	</li><li>Girls with shoulder-length or long hair hanging below the blouse collar must be tied up.  
-	</li><li>Long fringe must be clipped. Only white, blue or black hair accessories are allowed.
-	</li><li>Boys must be neat in appearance, clean-shaven and no facial hair is allowed. Punk or outlandish hairstyle is not allowed.
-	</li><li>Tinting and/or highlighting of hair is not allowed.<br>
+#### **Hair**
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Accessories</b>
-<ul>
-	<li>Only small ear studs are allowed for girls.
-	</li><li>No ornaments or jewellery is allowed to be worn in school.
-	</li><li>Mobile phones and electronic gadgets that can be used for communication and recording purposes are not allowed in school.
-	</li><li>Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.<br>
+*   Hair must be neat and hair/fringe must not touch the eyebrows or the collar.
+*   Girls with shoulder-length or long hair hanging below the blouse collar must be tied up.
+*   Long fringe must be clipped. Only white, blue or black hair accessories are allowed.
+*   Boys must be neat in appearance, clean-shaven and no facial hair is allowed. Punk or outlandish hairstyle is not allowed.
+*   Tinting and/or highlighting of hair is not allowed
+
+#### **Accessories**
+
+*   Only small ear studs are allowed for girls.
+*   No ornaments or jewellery is allowed to be worn in school.
+*   Mobile phones and electronic gadgets that can be used for communication and recording purposes are not allowed in school.
+*   Playing/ Trading cards, toys and items that are considered dangerous or inappropriate in school are not allowed in school.
 
 
-## Attendance 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students must:</b><br><br>
-<ul>
-	<li>attend school regularly and be punctual for all school.
-  </li><li>submit a medical certificate and/or a letter from parents to the Form Teacher upon his/her return to school to explain absence.
-	</li><li>not leave school without official permission during school.
-	</li><li>seek permission from the Form/Subject Teacher to leave early in the event of illness or unexpected circumstances.<br><br>
+## Attendance
 
-<span style="font-size:16.0pt;font-family:Arial;color:black" align="left">
-<u> Singing of National Anthem &amp; Recitation of National Pledge </u>
+#### **All students must:**  
+  
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students:</b>
+*   attend school regularly and be punctual for all school.
+*   submit a medical certificate and/or a letter from parents to the Form Teacher upon his/her return to school to explain absence.
+*   not leave school without official permission during school.
+*   seek permission from the Form/Subject Teacher to leave early in the event of illness or unexpected circumstances.
+
+
+### Singing of National Anthem &amp; Recitation of National Pledge
+
+**All students:**
 
 *   who are Singapore citizens must sing the National Anthem and take the Pledge.
 *   will take the Pledge with the right fist placed over the heart.
@@ -61,9 +59,9 @@ variant: markdown
 *   must stand at attention and face the flag when the National Anthem is being sung and the pledge recited.
 *   must observe the ceremony with solemnity and respect.
 
-#### <u> General Behaviour </u>
+## General Behaviour
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>All students:</b>
+#### **All students:**
 
 *   must uphold the good name of the school and exercise self-discipline both in and outside the school.
 *   are not allowed to enter the staff room and special rooms unless accompanied by a teacher.
@@ -120,4 +118,4 @@ variant: markdown
 
 
 
-##### Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.</span></span></span></li></ul></span></li></ul></span></li></ul></span></span></li></ul></span></span>
+##### Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.

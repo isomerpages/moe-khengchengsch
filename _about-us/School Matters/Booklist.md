@@ -5,4 +5,19 @@ description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-Booklist for 2024 coming soon
+#### School Bookshop:
+
+Please be informed that our school bookshop will be operating on the following revised dates:
+
+29 Nov to 1 Dec 2023 - All Levels
+
+6 Dec to 7 Dec 2023 - FAS only
+
+8 Dec to 9 Dec 2023 - All Levels
+
+14 Dec to 16 Dec 2023 - All Levels
+
+18 Dec 2023- All Levels
+
+Please also note that the bookshop will operate between **9 am to 3 pm (Mon-Fri) and 9 am to 12 pm (Sat)** on the above mentioned dates.
+

@@ -11,7 +11,7 @@ third_nav_title: School Matters
 
 |Type of Stall | Closing Date |  |
 | -------- | -------- | -------- |
-| Others (Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)     | 12 December 2023     |  |
+|Others (Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)| 12 December 2023|  |
 |Others (Non - Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)|12 December 2023||
 
 #### Application Procedure
@@ -32,8 +32,8 @@ Download and complete the application form. You may also request for a hardcopy 
 
 #### How to get there?
 
-*   Nearest MRT: Braddell MRT – 10 minutes walking distance
-*   Bus number: 235 (loop service from Toa Payoh Bus Interchange) – 3 minutes walking distance
+*   Nearest MRT: Braddell MRT about 10 minutes of walking distance.
+*   Bus number: 235 (loop service from Toa Payoh Bus Interchange).  3 minutes walking distance.
 
 #### Interested applicants must meet the following criteria:
 

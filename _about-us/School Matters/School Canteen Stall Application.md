@@ -7,8 +7,6 @@ third_nav_title: School Matters
 ---
 ### School Canteen Stall Application
 
-
-
 |Type of Stall | Closing Date |  |
 | -------- | -------- | -------- |
 |Others (Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)| 12 December 2023|  |
@@ -19,9 +17,9 @@ third_nav_title: School Matters
 Download and complete the application form. You may also request for a hardcopy from the School’s General Office. [School Canteen Application Form](/files/school_application_for_canteen_stall.pdf)
 
 **Attach the following documents together with the application form**
-*     Photocopy of the NRIC (front and back)
-*     List of proposed menu and pricing for all items
-*     Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
+1.     Photocopy of the NRIC (front and back)
+2.     List of proposed menu and pricing for all items
+3.     Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
 
 **Submit the completed application form and documents by closing date via email OR to the School’s General Office.**
 

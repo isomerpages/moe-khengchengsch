@@ -81,7 +81,6 @@ variant: markdown
 | General | |  |  
 | :--- | :----: | ---: |  
 |KCS Visual Art Microsite | [KCS Visual Art](https://sites.google.com/moe.edu.sg/art-at-kcs/about-us)|  |  
-|Booklist for 2024 | -- |  |
 |ICT Learning Platform &amp; Resources|--||
 |Student Learning Space|[SLS Login](https://vle.learning.moe.edu.sg/login)||
 |MOE website|[MOE Website](https://www.moe.gov.sg/)||
@@ -95,4 +94,4 @@ variant: markdown
 ### Covid Matters
 
 
-Implementation of TraceTogether in schools on 1 June 2021  [https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection)
+[https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection)

@@ -140,7 +140,7 @@ There are seven learning areas that facilitate the organisation of learning expe
   color:black">P1 – P6</span></p></td></tr></tbody></table>
 
 
-##### **Health Management**
+### Health Management
 
 With effect from 2016, Health Education (Physical Health) programmes are subsumed under the PE&amp;HE Department. The programmes are listed as follows:  
   

@@ -2,36 +2,39 @@
 title: Physical Education & Health Management
 permalink: /pehm/
 description: ""
+variant: markdown
 ---
+### Vision
 
-## Vision
-<span style="font-size:16.0pt;font-family:Arial;color:black">Better PE, Better Sports &amp; Better Lives.
+Better PE, Better Sports &amp; Better Lives.
 
-## Mission	
-<span style="font-size:16.0pt;font-family:Arial;color:black">To give all students opportunities and experiences to transform, leading to the achievement of total wellness resulting in healthier lifestyles.
+### Mission	
+
+To give all students opportunities and experiences to transform, leading to the achievement of total wellness resulting in healthier lifestyles.
 	
-## Objectives
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-<ul>
-	<li>Understand the importance and benefits of physical activity
-	</li><li>Enjoy and actively participate in a variety of physical activities
-	</li><li>Demonstrate positive personal/social character traits such as fair play, teamwork and sportsmanship in a variety of physical activities
- </li><li>Develop and maintain both health-related fitness: cardio-respiratory endurance, muscular strength, muscular endurance, flexibility and body composition; and performance-related fitness: agility, co-ordination and balance
- </li><li>Play safely with respect to self and others
+### Objectives
 
-## Approach
-<span style="font-size:16.0pt;font-family:Arial;color:black">MOE has introduced a new PE syllabus with effect from 2014. The lower primary level (P1-P3) focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in students’ performance. The upper primary level extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.<br><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">There are seven learning areas that facilitate the organisation of learning experiences under the new syllabus. They include:<br>
-<ul>
-	<li>Athletics (from P3)
-	</li><li>Dance
-  </li><li>Gymnastics
-	</li><li>Games &amp; Sports
-  </li><li>Outdoor Education
-  </li><li>Swimming (P3 only)
-  </li><li>Physical Health &amp; Fitness<br>
+*   Understand the importance and benefits of physical activity.
+*   Enjoy and actively participate in a variety of physical activities.
+*   Demonstrate positive personal/social character traits such as fair play, teamwork and sportsmanship in a variety of physical activities.
+*   Develop and maintain both health-related fitness: cardio-respiratory endurance, muscular strength, muscular endurance, flexibility and body composition; and performance-related fitness: agility, co-ordination and balance.
+*   Play safely with respect to self and others.
 
-<span style="font-size:16.0pt;font-family:Arial;color:black">For each learning area, there are specific PE goals to be met.
+### Approach
+
+MOE has introduced a new PE syllabus with effect from 2014. The lower primary level (P1-P3) focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in students’ performance. The upper primary level extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.
+
+There are seven learning areas that facilitate the organisation of learning experiences under the new syllabus. They include:
+
+*   Athletics (from P3)
+*   Dance
+*   Gymnastics
+*   Games &amp; Sports
+*   Outdoor Education
+*   Swimming (P3 only)
+*   Physical Health &amp; Fitness
+
+##### For each learning area, there are specific PE goals to be met.
       
 
 <table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="908" style="width:680.65pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
@@ -68,9 +71,9 @@ description: ""
   3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Goal 6</span></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;padding:
   3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Enjoy and value the benefits of living a physically active and healthy life.</span></p></td></tr></tbody></table></span></li></ul>
+  &quot;Times New Roman&quot;;color:black">Enjoy and value the benefits of living a physically active and healthy life.</span></p></td></tr></tbody></table>
 
-## Key Programmes
+### Key Programmes
 
 <table style="width:493.5pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
  mso-yfti-tbllook:1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:
@@ -137,25 +140,33 @@ description: ""
   color:black">P1 – P6</span></p></td></tr></tbody></table>
 
 
-##### <b>Health Management</b>
-<span style="font-size:16.0pt;font-family:Arial;color:black">With effect from 2016, Health Education (Physical Health) programmes are subsumed under the PE&amp;HE Department. The programmes are listed as follows:<br><br>
+##### **Health Management**
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Dental Health</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Students from Primary 1 and 2 are given lessons on how to brush their teeth by the school dental nurse. Primary 3 to 6 students receive two check-ups with the dental nurse within the year. There are also talks from the School Dental Nurse for the students to further educate them on ways to keep their teeth healthy and clean.<br>
+With effect from 2016, Health Education (Physical Health) programmes are subsumed under the PE&amp;HE Department. The programmes are listed as follows:  
+  
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>School Health Screening</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">School Health Screening takes place once every year where students receive check-ups on their eyesight, back and necessary injections.<br>
+**Dental Health**
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Health Fair</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Health Fair is held annually in August to raise awareness among students on health topics not covered in the Physical Health and Fitness. These include ‘Care for our Kidneys’, “Why drink milk?” and other domains of health.<br>
+Students from Primary 1 and 2 are given lessons on how to brush their teeth by the school dental nurse. Primary 3 to 6 students receive two check-ups with the dental nurse within the year. There are also talks from the School Dental Nurse for the students to further educate them on ways to keep their teeth healthy and clean.  
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Myopia</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">The eye care week on myopia takes place in Term 2 Weeks 1 &amp; 2. An exhibition on eye care is held at the HE corner for students to understand and create awareness about proper eye care. An assembly talk is also held in conjunction with eye care week.<br>
+**School Health Screening**
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"><b>Anti-Drug</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">Preventive Drug Education empowers our upper primary students with the knowledge of commonly abused drugs and prevents them from falling prey to drug abuse. This programme takes place in term 3 when the Anti-drug bus visits the school.<br>
+School Health Screening takes place once every year where students receive check-ups on their eyesight, back and necessary injections.  
 
-## Physical Education Committee
+**Health Fair**
+
+Health Fair is held annually in August to raise awareness among students on health topics not covered in the Physical Health and Fitness. These include ‘Care for our Kidneys’, “Why drink milk?” and other domains of health.  
+
+**Myopia** 
+
+The eye care week on myopia takes place in Term 2 Weeks 1 &amp; 2. An exhibition on eye care is held at the HE corner for students to understand and create awareness about proper eye care. An assembly talk is also held in conjunction with eye care week.  
+
+**Anti-Drug** 
+
+Preventive Drug Education empowers our upper primary students with the knowledge of commonly abused drugs and prevents them from falling prey to drug abuse. This programme takes place in term 3 when the Anti-drug bus visits the school.
+
+### Physical Education Committee
+
 <table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="754" style="width:565.5pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
  mso-yfti-tbllook:1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:
  2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="481" style="width:360.75pt;border:solid windowtext 2.25pt;
@@ -177,4 +188,4 @@ description: ""
   color:black">&nbsp;</span><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
   color:black">Members</span></p></td><td width="267" style="width:200.25pt;border:solid windowtext 2.25pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Mr Lee Qin Yi<br>Ms Grace Yap<br>Miss Yeo Li Ching<br>Mr Raymond Khoo<br>Mr Yung Keng Sing</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></li></ul></span></span></span>
+  color:black">Mr Lee Qin Yi<br>Ms Grace Yap<br>Miss Yeo Li Ching<br>Mr Raymond Khoo<br>Mr Yung Keng Sing</span></p></td></tr></tbody></table>

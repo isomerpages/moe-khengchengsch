@@ -54,18 +54,16 @@ In line with the schools’ mission and vision, we hope that students will be ab
 
 #### International Friendship Day
 
-![](/images/Social%20Studies/Picture%2010_IFD.png)
-![](/images/Social%20Studies/Picture%209_IFD.png)
-![](/images/Social%20Studies/Picture%2011_IFD.png)
+![](/images/Social%20Studies/KCS_NESS_6.png)
 
 #### Racial Harmony Day
 	
-![](/images/Social%20Studies/Picture%2012_RHD.jpeg)
-![](/images/Social%20Studies/Picture%2013_RHD.jpeg)
+![](/images/Social%20Studies/KCS_NESS_7.png)
 
 #### National Day
 
-![](/images/Social%20Studies/Picture%208_ND.jpg)![](/images/Social%20Studies/Picture%207_ND.png)
+![](/images/Social%20Studies/Picture%208_ND.jpg)
+![](/images/Social%20Studies/Picture%207_ND.png)
 
 ### NESS Committee
 

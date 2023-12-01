@@ -39,9 +39,13 @@ The syllabus is designed using a thematic approach, structured along the key the
 
 In line with the schools’ mission and vision, we hope that students will be able to be informed, concerned and participative citizens. We aim to provide the students with the relevant experiences in and beyond school over their 6 years of their primary school education. Below is an overview of the programmes and activities put in place for the students:
 
+![](/images/Social%20Studies/KCS_NESS_2.png)
+
 ![](/images/Social%20Studies/KCS_NESS_1.png)
 	
 ### Key Programmes: National Education Commemorative Events
+
+![](/images/Social%20Studies/KCS_NESS_3.png)
 	
 ##### Total Defence Day
 

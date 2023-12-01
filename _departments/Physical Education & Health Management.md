@@ -36,45 +36,19 @@ There are seven learning areas that facilitate the organisation of learning expe
 
 ##### For each learning area, there are specific PE goals to be met.
       
+| PE Goals | Description | |
+| -------- | -------- | -------- |
+|Goal 1|Acquire a range of motor skills to participate in a variety of physical activities.||
+|Goal 2|Understand and apply movement concepts, principles and strategies in a range of physical activities||
+|Goal 3|Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment||
+|Goal 4|Display positive personal and social behaviour across different experiences||
+|Goal 5|Acquire and maintain health-enhancing fitness through regular participation in physical activities||
+|Goal 6|Enjoy and value the benefits of living a physically active and healthy life||
 
-<table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="908" style="width:680.65pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
- mso-yfti-tbllook:1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:
- 2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="109" style="width:81.75pt;border:solid windowtext 2.25pt;background:
-  #D6A2A6;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">PE Goals</span></b><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;background:
-  #D6A2A6;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Description</span></b><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="109" style="width:81.75pt;border:solid windowtext 2.25pt;background:
-  #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Goal 1</span></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;background:
-  #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Acquire a range of motor skills to participate in a variety of physical activities</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="109" style="width:81.75pt;border:solid windowtext 2.25pt;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Goal 2</span></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Understand and apply movement concepts, principles and strategies in a range of physical activities</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="109" style="width:81.75pt;border:solid windowtext 2.25pt;background:
-  #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Goal 3</span></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;background:
-  #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="109" style="width:81.75pt;border:solid windowtext 2.25pt;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Goal 4</span></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Display positive personal and social behaviour across different experiences</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="109" style="width:81.75pt;border:solid windowtext 2.25pt;background:
-  #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Goal 5</span></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;background:
-  #EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Acquire and maintain health-enhancing fitness through regular participation in physical activities</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td width="109" style="width:81.75pt;border:solid windowtext 2.25pt;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Goal 6</span></p></td><td width="793" style="width:594.4pt;border:solid windowtext 2.25pt;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Enjoy and value the benefits of living a physically active and healthy life.</span></p></td></tr></tbody></table>
 
 ### Key Programmes
 
+![](/images/PE/PE_01.png)
 
 ### Health Management
 

@@ -49,7 +49,8 @@ With focus on Real World Science, our Upper Primary students work like scientist
 
 The RWS programme challenges our Upper Primary students to think critically and apply their problem-solving skills, and Science concepts and knowledge to explain phenomena. Through experimentation and research, students discover new findings to support their understanding of Science and how the world works. With the unknown and unpredictable future ahead of us, these analytical and problem-solving skills will ensure that our students are ready to meet the challenges of the future and contribute positively back to the society through innovation.
 
-<img src="/images/Science/science.jpg" style="width:100%">
+<img style="width:400px;" src="/images/Science/science.jpg">
+
 
 **Maths and Science Fiesta**
 

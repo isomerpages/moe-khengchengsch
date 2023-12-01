@@ -12,13 +12,13 @@ Click here : [https://workspace.google.com/dashboard](https://workspace.google.c
 
 ### Student Learning Space (SLS)
 
-User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC
+User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC.
 
 Click here: [https://vle.learning.moe.edu.sg/](https://vle.learning.moe.edu.sg/)
 
 ### eZhishi
 
-User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC
+User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC.
 
 Click here: [https://www.ezhishi.net/](https://www.ezhishi.net/)
 
@@ -54,11 +54,11 @@ Click here: [https://schoolibrary.moe.edu.sg/khengcheng](https://schoolibrary.mo
 
 ### WaWaYaYa
 
-User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC
+User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC.
 
 ### Young Scientist Badge Scheme (YSBS)
 
-User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC (all lowercase)
+User ID: First 5 letters of Name according to class register and last 4 digits of BC and last letter of BC (all lowercase).
 
 Click here: [https://youngscientist.sscglobal.com.sg/](https://youngscientist.sscglobal.com.sg/)
 

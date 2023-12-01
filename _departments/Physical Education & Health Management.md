@@ -167,25 +167,14 @@ Preventive Drug Education empowers our upper primary students with the knowledge
 
 ### Physical Education Committee
 
-<table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="754" style="width:565.5pt;mso-cellspacing:1.5pt;border:solid windowtext 2.25pt;
- mso-yfti-tbllook:1184;mso-border-insideh:2.25pt solid windowtext;mso-border-insidev:
- 2.25pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="481" style="width:360.75pt;border:solid windowtext 2.25pt;
-  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Designation</span></b></p></td><td width="267" style="width:200.25pt;border:solid windowtext 2.25pt;
-  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Name</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="481" style="width:360.75pt;border:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">HOD Physical Education &amp; Health Management</span></p></td><td width="267" style="width:200.25pt;border:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Ms Sivamalar Kulasegaram</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="481" style="width:360.75pt;border:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Senior Teacher / Physical Education</span></p></td><td width="267" style="width:200.25pt;border:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Mr Alex Tan Ze Yi</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="481" style="width:360.75pt;border:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">&nbsp;</span><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Members</span></p></td><td width="267" style="width:200.25pt;border:solid windowtext 2.25pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:14.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Mr Lee Qin Yi<br>Ms Grace Yap<br>Miss Yeo Li Ching<br>Mr Raymond Khoo<br>Mr Yung Keng Sing</span></p></td></tr></tbody></table>
+
+
+| Designation | Name | |
+| -------- | -------- | -------- |
+| HOD Physical Education &amp; Health Management     | Ms Sivamalar Kulasegaram     | |
+|Senior Teacher / Physical Education|Mr Alex Tan Ze Yi||
+|Members|Mr Lee Qin Yi||
+||Ms Grace Yap||
+||Miss Yeo Li Ching||
+||Mr Raymond Khoo||
+||Mr Yung Keng Sing||

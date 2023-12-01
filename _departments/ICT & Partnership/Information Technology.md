@@ -3,20 +3,24 @@ title: Information Technology
 permalink: /ict/
 description: ""
 third_nav_title: ICT & Partnership
+variant: markdown
 ---
-## Vision
+### Vision
+
 Future ready and self-directed digital learners and&nbsp;Making a Positive Difference to our students
 
-## Mission
+### Mission
+
 ICT: To sharpen practices and deepen learning by harnessing the use of ICT.&nbsp;
 Communication and Partnership: Building on Trust, Partnering as one.
 
-## Objective
+### Objective
+
 Our school harnesses the use of ICT to nurture our students in becoming self-directed and collaborative learners of the 21st century. With the resources and support provided, we hope to encourage students to become self-directed learners.
 
 To bring about a shift in ICT practices for learning and teaching, a sustained school-wide effort is required. Instructional leadership is at all levels. The direction of the school is to ensure quality teaching and learning with ICT and create an ICT learning environment to support effective implementation of teaching and learning with technology.
 
-## Approach
+### Approach
 
 1. To engage students and create responsibility for their own learning.
 
@@ -26,7 +30,8 @@ To bring about a shift in ICT practices for learning and teaching, a sustained s
 
 In the event of a school closure due to unforeseen circumstances, student learning will be facilitated through home-based learning. The school also conducts home-based learning during school holidays and during PSLE marking exercise.
 
-## Key Programmes
+### Key Programmes
+
 **Baseline ICT Standards**
 
 ICT lessons are conducted for P1 to P6 students. The curriculum is founded on MOE’s Baseline ICT Standards. The Baseline ICT Standards is a set of ICT skill competencies set out in four progressive key stages which represent the basic level of knowledge, skills and values that students need in order to fully benefit from a curriculum enriched with ICT, and eventually thrive in a technology-driven society. The lessons in our school are designed to be age-appropriate and focus on the key skills that students should master before progressing to a higher level. Students are given the opportunities to apply their learning in their school work with the integration of ICT skills in teaching and learning.

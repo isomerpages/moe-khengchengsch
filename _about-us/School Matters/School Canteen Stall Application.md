@@ -43,4 +43,4 @@ Download and complete the application form. You may also request for a hardcopy 
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 *   Successful applicant will be expected to commence operation of the stall in **Jan 2024**.
 
-Only shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
+Only shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. **Closing date is 12 December 2023.**

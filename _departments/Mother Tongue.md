@@ -2,34 +2,36 @@
 title: Mother Tongue
 permalink: /mothertongue/
 description: ""
+variant: markdown
 ---
-## Vision
+### Vision
 
-<span style="font-size:20.0pt;font-family:Arial;color:black"> Ignite the interest in and joy of learning Mother Tongue. </span>
+Ignite the interest in and joy of learning Mother Tongue.
 
-## Mission
-<span style="font-size:20.0pt;font-family:Arial;color:black">Develop pupils’ language competency and Integrate culture and social cohesion through MTL and CCE MTL programmes </span>
+### Mission
 
-## Objectives
-<ol>
-<span style="font-size:20.0pt;font-family:Arial;color:black">
-	<li>To enable students to interact well in the form of listening, speaking, reading and writing in Mother Tongue
-	</li><li>To enable students to transmit the culture and values of the community<br>
+Develop pupils’ language competency and Integrate culture and social cohesion through MTL and CCE MTL programmes.
+
+### Objectives
+
+To enable students to interact well in the form of listening, speaking, reading and writing in Mother Tongue.
+To enable students to transmit the culture and values of the community.
  
 	
-## Approach
-<span style="font-size:20.0pt;font-family:Arial;color:black">The Mother Tongue Department Implements holistic assessment for the students.&nbsp; We cater to students’ different learning styles through Differentiated Instructions and modular approach. The students are exposed to culture and language activities. </span>
+### Approach
 
-## Key Programme
-<ol>
-<span style="font-size:20.0pt;font-family:Arial;color:black">	
- <li>Language Fiesta
-	 </li><li>Inter-School Competitions
-	 </li><li> Cultural &amp; Values Immersion Programme
-  </li><li> Structure Reading Programme
-<br>
+The Mother Tongue Department Implements holistic assessment for the students.&nbsp; We cater to students’ different learning styles through Differentiated Instructions and modular approach. The students are exposed to culture and language activities.
+
+### Key Programme
+
+*   Language Fiesta
+*   Inter-School Competitions
+*   Cultural &amp; Values Immersion Programme
+*   Structure Reading Programme
+
 	
-## Mother Tongue Committee
+### Mother Tongue Committee
+
 <table style="width:444.9pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="593" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:224.4pt;border:solid windowtext 1.5pt;
@@ -78,4 +80,4 @@ description: ""
   border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="294"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Ang Su-Juin<br>Mdm Toh Xiao Ying<br>Ms Dixie Tan<br>Mdm Neo Beng Hoon<br>Ms Chen Chen<br>Ms Amber Ye<br>Ms Leong Tim Tim<br>Mdm Siti Amirah<br>Mdm Zheng Liangneng (HCL)<br>Mdm Zhang Li (HCL)<br>Ms Chew Jiaying Vivian<br>Mdm Nur Sodiqin<br>Mdm Loh Cheng Hwan<br>Mr Muhd Rasul<br>Mr Cheng Xijie<br>Miss Yu Mingxia<br>Ms Cui Min<br>Mdm Su Ting Ting<br>Ms Devi d/o Krishnan</span></p></td></tr></tbody></table></li></span></ol></li></span></ol>
+  &quot;Times New Roman&quot;;color:black">Ms Ang Su-Juin<br>Mdm Toh Xiao Ying<br>Ms Dixie Tan<br>Mdm Neo Beng Hoon<br>Ms Chen Chen<br>Ms Amber Ye<br>Ms Leong Tim Tim<br>Mdm Siti Amirah<br>Mdm Zheng Liangneng (HCL)<br>Mdm Zhang Li (HCL)<br>Ms Chew Jiaying Vivian<br>Mdm Nur Sodiqin<br>Mdm Loh Cheng Hwan<br>Mr Muhd Rasul<br>Mr Cheng Xijie<br>Miss Yu Mingxia<br>Ms Cui Min<br>Mdm Su Ting Ting<br>Ms Devi d/o Krishnan</span></p></td></tr></tbody></table>

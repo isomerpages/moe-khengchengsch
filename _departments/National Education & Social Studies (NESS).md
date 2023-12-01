@@ -50,6 +50,8 @@ In line with the schools’ mission and vision, we hope that students will be ab
 	
 ##### Total Defence Day
 
+![](/images/Social%20Studies/KCS_NESS_4.png)
+
 #### International Friendship Day
 
 ![](/images/Social%20Studies/Picture%2010_IFD.png)
@@ -65,4 +67,6 @@ In line with the schools’ mission and vision, we hope that students will be ab
 
 ![](/images/Social%20Studies/Picture%208_ND.jpg)![](/images/Social%20Studies/Picture%207_ND.png)
 
-## NESS Committee
+### NESS Committee
+
+![](/images/Social%20Studies/KCS_NESS_5.png)

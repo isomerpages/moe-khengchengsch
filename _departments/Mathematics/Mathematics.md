@@ -3,11 +3,13 @@ title: Mathematics
 permalink: /mathematics/
 description: ""
 third_nav_title: Mathematics
+variant: markdown
 ---
-# Vision
+### Vision
+
 Every KCS student a critical thinker and a competent mathematical problem solver.
 
-# Mission
+### Mission
 Enable every child to:
 
 * Acquire mathematical concepts and skills for real life applications
@@ -15,15 +17,17 @@ Enable every child to:
 * Develop positive attitudes (motivation, perseverance, confidence, appreciation) towards mathematics
 * Be a lifelong learner in mathematics
 
-# Objectives
+### Objectives
+
 ![](/images/Mathematics/maths.png)
 
 The central focus of the framework is mathematical problem solving, that is, using mathematics to solve problems.&nbsp; The framework stresses conceptual understanding, skills proficiency and mathematical processes, and gives due emphasis to attitudes and metacognition.&nbsp; These five components are inter-related.
 
-# Approach
+### Approach
 The school has a structured concept-based Mathematics curriculum to bring out conceptual understanding. With the use of Experienced-based Learning as our guiding principle in crafting learning activities, teachers are deliberate in bringing out the essential conceptual knowledge using the Concrete-Pictorial-Abstract Approach. The learning activities enable students to develop and apply their mathematical reasoning and ability to use mathematical language to express mathematical ideas.
 
 ### Mathematics Committee
+
  <table style="width:422.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
  border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
  mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="563" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:233.4pt;border:solid windowtext 1.5pt;

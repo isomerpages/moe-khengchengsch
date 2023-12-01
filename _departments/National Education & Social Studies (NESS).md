@@ -46,7 +46,7 @@ In line with the schools’ mission and vision, we hope that students will be ab
 	
 ### Key Programmes: National Education Commemorative Events
 
-<img style="width:400px;" src="/images/Social%20Studies/KCS_NESS_3.png">
+<img style="width:500px;" src="/images/Social%20Studies/KCS_NESS_3.png">
 	
 ##### Total Defence Day
 
@@ -67,4 +67,4 @@ In line with the schools’ mission and vision, we hope that students will be ab
 
 ### NESS Committee
 
-![](/images/Social%20Studies/KCS_NESS_5.png)
+<img style="width:500px;" src="/images/Social%20Studies/KCS_NESS_5.png">

@@ -98,45 +98,24 @@ Primary 5 students who show interest and aptitude in creative writing are select
 	
 #### English Language Committee
 
-<table style="width:503.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
- border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
- mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="671" cellpadding="0" cellspacing="0" border="2" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;
-  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" width="425"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Designation</span></b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:184.5pt;border:solid windowtext 1.5pt;
-  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
-  mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.5pt" valign="top" width="246"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name</span></b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Head of Department (HOD) / English Language (acting)</span></p></td><td style="width:184.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Kalpana</span></p></td></tr><tr style="mso-yfti-irow:2;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Lead Teacher / English Language</span></p></td><td style="width:184.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Grace Foong</span></p></td></tr><tr style="mso-yfti-irow:3;height:19.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Senior Teacher (ST) / English Language</span></p></td><td style="width:184.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Ong Poh Leng</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:318.9pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="425"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Members</span></p></td><td style="width:184.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" width="246"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Mahalingam Indra<br>Miss Geraldine Tiew<br>Mrs Winnie Chan<br>Mdm Sophia Loo<br>Ms Ariel Low<br>Ms Priaya Tishan<br>Mr Lim Zonghan<br>Ms Jaime Chia<br>Mdm Haniza<br>Mrs Zuraidah Mano<br>Ms Ayesha Jagaber Yasmin<br>Ms Santi<br>Ms Koh Meng Hoe<br>Mrs Caryn Ong<br>Miss Shalini<br>Miss Su Yen Leng</span></p></td></tr></tbody></table>
+| Designation | Name |  |
+| -------- | -------- | -------- |
+| Head of Department (HOD) / English Language (acting)     | Mdm Kalpana     |     |
+|Lead Teacher / English Language|Ms Grace Foong||
+|Senior Teacher (ST) / English Language|Mdm Ong Poh Leng||
+|Members|Mdm Mahalingam Indra||
+||Miss Geraldine Tiew||
+||Mrs Winnie Chan||
+||Mdm Sophia Loo||
+||Ms Ariel Low||
+||Ms Priaya Tishan||
+||Mr Lim Zonghan||
+||Ms Jaime Chia||
+||Mdm Haniza||
+||Mrs Zuraidah Mano||
+||Ms Ayesha Jagaber Yasmin||
+||Ms Santi||
+||Ms Koh Meng Hoe||
+||Mrs Caryn Ong||
+||Miss Shalini||
+||Miss Su Yen Leng||

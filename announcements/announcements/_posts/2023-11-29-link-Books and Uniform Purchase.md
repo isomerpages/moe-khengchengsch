@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.khengcheng.moe.edu.sg/booklist/
+external: https://www.khengcheng.moe.edu.sg/suppliers/
 ---

@@ -9,8 +9,8 @@ third_nav_title: School Matters
 
 |Type of Stall | Closing Date |  |
 | -------- | -------- | -------- |
-|Others (Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)| 26 December 2023|  |
-|Others (Non - Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)|26 December 2023||
+|Others (Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)| 29 December 2023|  |
+|Others (Non - Halal, Open to proposal) (Western/Japanese/Korean/Vegetarian, etc.)|29 December 2023||
 
 #### Application Procedure
 
@@ -43,4 +43,4 @@ Download and complete the application form. You may also request for a hardcopy 
 *   Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 *   Successful applicant will be expected to commence operation of the stall in **Jan 2024**.
 
-Only shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. **Closing date is 26 December 2023.**
+Only shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. **Closing date is 29 December 2023.**

@@ -2,8 +2,8 @@
 title: Staff Resource
 permalink: /staffresource/
 description: ""
+variant: markdown
 ---
-      
 <table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="631" style="width:473.15pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:31.0pt"><td width="631" colspan="2" style="width:473.15pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#002060;padding:0in 5.4pt 0in 5.4pt;
@@ -131,7 +131,7 @@ description: ""
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:22.25pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-bidi-font-family:Calibri"><a href="https://go.gov.sg/kcs-2023-memo" target="_blank"><span style="color:#7030A0">https://go.gov.sg/kcs-2023-memo</span></a><span style="color:#7030A0"></span></span></p></td></tr><tr style="mso-yfti-irow:16;height:22.25pt"><td width="215" style="width:161.3pt;border:solid windowtext 1.0pt;border-top:
+  Calibri;mso-bidi-font-family:Calibri"><a href="https://go.gov.sg/kcs-2024-memo" target="_blank"><span style="color:#7030A0">https://go.gov.sg/kcs-2024-memo</span></a><span style="color:#7030A0"></span></span></p></td></tr><tr style="mso-yfti-irow:16;height:22.25pt"><td width="215" style="width:161.3pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:22.25pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-hansi-font-family:
   Calibri;mso-bidi-font-family:Calibri;color:black">School Cockpit (Admin &amp; Reports)</span></p></td><td width="416" style="width:311.85pt;border-top:none;border-left:none;

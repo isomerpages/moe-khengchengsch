@@ -7,7 +7,7 @@ variant: markdown
 ---
 
 
-| Class | Form Teacher | Email |
+| Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | P1-1     | Joy Gan Ling Ling (Ms)     | gan_ling_ling_joy@moe.edu.sg     |
 |      | Yeo Yong Yong (Ms)     | yeo_yong_yong@moe.edu.sg     |

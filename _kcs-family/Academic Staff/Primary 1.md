@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Academic Staff
 variant: markdown
 ---
-
-
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | P1-1     | Ms Joy Gan Ling Ling | gan_ling_ling_joy@moe.edu.sg  |

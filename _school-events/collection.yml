@@ -1,5 +1,5 @@
 collections:
-  news:
+  school-events:
     output: true
     order:
       - News/64th National Inter School Chess Championship 2023.md

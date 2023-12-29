@@ -11,7 +11,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: News
+        - title: School events
           description: ""
           url: /chess
         - title: Resources

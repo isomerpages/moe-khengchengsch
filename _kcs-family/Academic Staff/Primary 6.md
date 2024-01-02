@@ -7,12 +7,12 @@ variant: markdown
 ---
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| P6-1     | Ms Leong Tim Tim     | -     |
-|      | Ms Koh Meng Hoe     | -     |
+| P6-1     | Ms Leong Tim Tim     | leong_tim_tim@moe.edu.sg     |
+|      | Ms Koh Meng Hoe     | koh_meng_hoe@moe.edu.sg     |
 | P6-2     | Mrs Cheryl Ho     | -     |
 |      | Mdm Neo Beng Hoon     | neo_beng_hoon@moe.edu.sg     |
 | P6-3     | Ms Goh Ming Sze     | goh_ming_sze@moe.edu.sg     |
-|      | Ms Santi Lin     | -     |
+|      | Ms Santi Lin     | santi_lin_supramaniam@moe.edu.sg     |
 | P6-4     | Ms Koh Yuan Ting     | -     |
 |     | Ms Chew Jiaying     | -     |
 | P6-5     | Ms Mandy Chia     | mandy_chia_puay_neo@moe.edu.sg     |
@@ -21,4 +21,3 @@ variant: markdown
 |     | Mrs Toh Cheng Hwan     | -     |
 | P6-7     | Ms Ang Su-Juin     | ang_su-juin@moe.edu.sg     |
 |      | Mrs Caryn Ong     | foo_mei_chi_caryn@moe.edu.sg     |
-

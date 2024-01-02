@@ -4,6 +4,14 @@ permalink: /monthlymemo/
 description: ""
 variant: markdown
 ---
+### YEAR 2024
+
+January
+
+
+
+
+
 ### YEAR 2023
 
 | Monthly Memo |  |  |  

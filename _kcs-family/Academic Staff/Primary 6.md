@@ -9,7 +9,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | P6-1     | Ms Leong Tim Tim     | leong_tim_tim@moe.edu.sg     |
 |      | Ms Koh Meng Hoe     | koh_meng_hoe@moe.edu.sg     |
-| P6-2     | Mrs Cheryl Ho     | -     |
+| P6-2     | Mrs Cheryl Ho     | tan_lee_tuan@moe.edu.sg    |
 |      | Mdm Neo Beng Hoon     | neo_beng_hoon@moe.edu.sg     |
 | P6-3     | Ms Goh Ming Sze     | goh_ming_sze@moe.edu.sg     |
 |      | Ms Santi Lin     | santi_lin_supramaniam@moe.edu.sg     |

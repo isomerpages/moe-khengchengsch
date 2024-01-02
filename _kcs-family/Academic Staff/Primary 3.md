@@ -8,7 +8,7 @@ variant: markdown
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | P3-1     | Mrs Sharon Wong     | chia_seok_kiang_sharon@moe.edu.sg     |
-|      | Ms Yu Mingxia     | -     |
+|      | Ms Yu Mingxia     | yu_mingxia@moe.edu.sg     |
 | P3-2     | Mr Melvin Chang     | chang_jian_wei_melvin@moe.edu.sg     |
 |      | Ms Jane Chua     | chua_zheng_yi_jane@moe.edu.sg     |
 | P3-3     | Ms Grace Foong     | foong_sou_wan_grace@moe.edu.sg     |
@@ -21,4 +21,3 @@ variant: markdown
 | P3-6     | Mdm Toh Xiao Ying     | toh_xiao_ying@moe.edu.sg  |
 |      | Mdm Ariel Loh     | loh_lee_miang@moe.edu.sg     |
 |      | Ms Wirna Asyura     | wirna_asyura_ali_a@moe.edu.sg  |
-

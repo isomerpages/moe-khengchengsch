@@ -8,7 +8,7 @@ variant: markdown
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | P4-1     | Mrs Mano Zuraidah     | zuraidah_buang@moe.edu.sg     |
-|      | Mrs Elaine Leong     | -     |
+|      | Mrs Elaine Leong     | ng_ziyi_elaine@moe.edu.sg     |
 | P4-2     | Ms Daphne Lee     | lee_yen_hong@moe.edu.sg     |
 |      | Ms Jamie Chia     | -     |
 | P4-3     | Mr Lim Zonghan     | lim_zonghan@moe.edu.sg     |

@@ -18,6 +18,6 @@ variant: markdown
 | P6-5     | Ms Mandy Chia     | mandy_chia_puay_neo@moe.edu.sg     |
 |      | Ms Yeo Li Ching     | yeo_li_ching@moe.edu.sg     |
 | P6-6     | Ms Alisa Chua     | alisa_chua_nyap_lih@moe.edu.sg     |
-|     | Mrs Toh Cheng Hwan     | -     |
+|     | Mrs Toh Cheng Hwan     | loh_cheng_hwan@moe.edu.sg     |
 | P6-7     | Ms Ang Su-Juin     | ang_su-juin@moe.edu.sg     |
 |      | Mrs Caryn Ong     | foo_mei_chi_caryn@moe.edu.sg     |

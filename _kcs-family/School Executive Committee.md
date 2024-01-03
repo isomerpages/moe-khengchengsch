@@ -2,221 +2,90 @@
 title: School Executive Committee
 permalink: /schoolexecutivecommittee/
 description: ""
+variant: markdown
 ---
 ## School Executive Committee
+ 
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="611" style="margin-left:-.15pt;background:white;border-collapse:collapse;
- mso-table-layout-alt:fixed;border:none;mso-border-alt:solid windowtext 1.5pt;
- mso-yfti-tbllook:1184;mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:
- 1.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:10.55pt"><td width="299" valign="top" style="width:224.4pt;border:solid windowtext 1.5pt;
-  background:#C1D6F5;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.55pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Designation</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td><td width="312" valign="top" style="width:3.25in;border:solid windowtext 1.5pt;
-  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#C1D6F5;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.55pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848">Name</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:1;height:10.55pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#D9D9D9;mso-background-themecolor:
-  background1;mso-background-themeshade:217;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:10.55pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Principal</span><b><span style="font-size:
-  12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#484848"></span></b></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.55pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Cheryl Tan<br>kcs@moe.edu.sg</span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848"></span></b></p></td></tr><tr style="mso-yfti-irow:2;height:10.55pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#D9D9D9;mso-background-themecolor:
-  background1;mso-background-themeshade:217;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:10.55pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Vice-Principal (Academic)</span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#484848"></span></b></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.55pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Khoo Ghee Han<br>kcs@moe.edu.sg</span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848"></span></b></p></td></tr><tr style="mso-yfti-irow:3;height:10.55pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#D9D9D9;mso-background-themecolor:
-  background1;mso-background-themeshade:217;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:10.55pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Vice-Principal (Admin)</span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#484848"></span></b></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.55pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Pun Kian Peng Jack<br>kcs@moe.edu.sg</span><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#484848"></span></b></p></td></tr><tr style="mso-yfti-irow:4;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD Mathematics</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Goh Ming Sze<br>goh_ming_sze@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:5;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD English (Internal)</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Kalpana Kannadhasan<br>kalpana_kannadhasan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:6;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD Science</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Melvin Chang Jian Wei<br>chang_jian_wei_melvin@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:7;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD Mother Tongue</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Fong Lik Khuan<br>fong_lik_khuan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:8;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD PE &amp; CCA</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Sivamalar Kulasegaram<br>sivamalar_kulasegaram@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:9;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD ICT &amp; Partnership</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Nilam Shafia<br>nilam_shafia_khamis@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:10;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD CCE</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mrs Jacqueline Anthony<br>jacqueline_anthony@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:11;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD Discipline &amp; Student Management</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Su Yen Leng<br>su_yen_leng@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:12;height:30.75pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:30.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">HOD SSD</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:30.75pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Ang Su-Juin<br>ang_su-juin@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:13;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">LH Science</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Lee Yen Hong Daphne<br>lee_yen_hong@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:14;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">LH Mathematics</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Alisa Chua Nyap Lih<br>alisa_chua_nyap_lih@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:15;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">SH Chinese Language</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Lim Ming En<br>lim_ming_en@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:16;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">SH National Education &amp; Social Studies (NESS)</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Shalini Venkiteswaran<br>shalini_venkiteswaran@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:17;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">SH Aesthetics</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Woo Siew Wei Tina<br>woo_siew_wei@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:18;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">SH SEN</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Neo Beng Hoon<br>neo_beng_hoon@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:19;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Year Head Upper Block Pri 6</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mrs Caryn Ong<br>foo_mei_chi_caryn@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:20;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Year Head Lower Block Pri 1 &amp; 2</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Toh Xiao Ying<br>toh_xiao_ying@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:21;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Asst Year Head Pri 3</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Tan Ying Rui<br>tan_ying_rui@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:22;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Asst Year Head Pri 4</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Brenda Peh Sock Ngor&nbsp;&nbsp;<br>peh_sock_ngor@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:23;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Asst Year Head Pri 5</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Tan Mei Lan Dixie<br>tan_mei_lan_dixie@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:24;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Administration Manager 1</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Reeve Sim<br>reeve_sim@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:25;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Administration Manager 2</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr K Surindranath<br>surindranath_kaseenathan@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:26;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Operations Manager 1</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Karuppiah Ravindran<br>karuppiah_ravindran@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:27;mso-yfti-lastrow:yes;height:10.2pt"><td width="299" style="width:224.4pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:transparent;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Operations Manager 2</span></p></td><td width="312" style="width:3.25in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:transparent;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:10.2pt"><p class="MsoNormal" style="margin-bottom:0in;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Lim Teng Poh Joey&nbsp;<br>lim_teng_poh@moe.edu.sg</span></p></td></tr></tbody></table>
+<table style="border-collapse:
+ collapse;width:527pt" width="703" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:10410;width:220pt" width="293"> <col style="mso-width-source:userset;mso-width-alt:14563;width:307pt" width="410"></colgroup><tbody><tr style="mso-height-source:userset;height:32.4pt;mso-yfti-firstrow:
+  yes;mso-yfti-irow:0" height="43"><td style="height:32.4pt;width:220pt" width="293" class="xl65" height="43">Designation</td><td style="border-left:none;width:307pt" width="410" class="xl65">Name</td></tr><tr style="mso-height-source:userset;height:45.0pt;mso-yfti-irow:
+  1" height="60"><td style="height:100.05pt;
+  border-top:none;width:220pt" width="293" class="xl66" height="133" rowspan="2">Principal</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl66">Mdm Cheryl Tan</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl66" height="73">kcs@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  2" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl66" height="146" rowspan="2">Vice-Principal (Academic)</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl66">Mr Khoo Ghee Han</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl66" height="73">kcs@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  3" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl66" height="146" rowspan="2">Vice-Principal (Admin)</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl66">Mr Pun Kian Peng Jack</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl66" height="73">kcs@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  4" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD Mathematics</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Miss Goh Ming Sze</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">goh_ming_sze@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  5" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD English (Covering)</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mdm Kalpana Kannadhasan</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">kalpana_kannadhasan@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  6" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD Science</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Melvin Chang Jian Wei</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">chang_jian_wei_melvin@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  7" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD Mother Tongue</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Ms Fong Lik Khuan</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">fong_lik_khuan@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  8" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD PE &amp; CCA</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Miss Sivamalar Kulasegaram</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">sivamalar_kulasegaram@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  9" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD ICT &amp; Partnership</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Ms Nilam Shafia</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">nilam_shafia_khamis@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  10" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD CCE</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mrs Jacqueline Anthony</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">jacqueline_anthony@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  11" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD Discipline &amp; Student Management</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Miss Su Yen Leng</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">su_yen_leng@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  12" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">HOD SSD</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Miss Ang Su-Juin</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">ang_su-juin@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl68" height="146" rowspan="2">HOD 21CC</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Ms Mong Mien Hui Ashley</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">mong_mien_hui_ashley@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  13" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">LH Science</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Ms Lee Yen Hong Daphne</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">lee_yen_hong@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  14" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">LH Mathematics</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Miss Alisa Chua Nyap Lih</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">alisa_chua_nyap_lih@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  15" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">SH Chinese Language</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Lim Ming En</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">lim_ming_en@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  16" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">SH National Education &amp; Social Studies (NESS)</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Miss Shalini Venkiteswaran</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">shalini_venkiteswaran@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  17" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">SH Aesthetics</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Ms Woo Siew Wei Tina</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">woo_siew_wei@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  18" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">SH SEN</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mdm Neo Beng Hoon</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">neo_beng_hoon@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  19" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Year Head Upper Block</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mrs Caryn Ong</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">foo_mei_chi_caryn@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  20" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Year Head Lower Block</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mdm Toh Xiao Ying</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">toh_xiao_ying@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  22" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Asst Year Head</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mdm Brenda Peh Sock Ngor&nbsp;&nbsp;</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">peh_sock_ngor@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Asst Year Head (Internal)</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Raja Nazruldin Bin Raja Kamarulzaman</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">raja_nazruldin_raja_kamaru@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  24" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Administration Manager 1</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Reeve Sim</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">reeve_sim@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  25" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Administration Manager 2</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr K Surindranath</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">surindranath_kaseenathan@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  26" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Operations Manager 1</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Karuppiah Ravindran</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">karuppiah_ravindran@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  27;mso-yfti-lastrow:yes" height="73"><td style="height:110.1pt;
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Operations Manager 2</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Lim Teng Poh Joey&nbsp;</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">lim_teng_poh@moe.edu.sg</td></tr></tbody></table>

@@ -22,4 +22,4 @@ variant: markdown
 | P2-7     | Mdm Wu Shu Qing     | wu_shu_qing@moe.edu.sg     |
 |      | Mdm Mahalingam     | mahalingam_indra@moe.edu.sg     |
 | P2-8     | Mdm Claire Lim     | lim_hwee_eng@moe.edu.sg     |
-|      | Ms May Lim     | -    |
+|      | Ms May Lim     | lim_wan_yee_a@moe.edu.sg    |

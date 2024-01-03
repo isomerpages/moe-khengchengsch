@@ -7,7 +7,7 @@ variant: markdown
 ---
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| P5-1     | Mdm Sophie Loo     | loo_sook_fern@moe.edu.sg     |
+| P5-1     | Mdm Sophia Loo     | loo_sook_fern@moe.edu.sg     |
 |      |      |      |
 | P5-2     | Ms Brenda Peh    | peh_sock_ngor@moe.edu.sg     |
 |      | Mdm Siti Amirah     | siti_amirah_othman@moe.edu.sg     |

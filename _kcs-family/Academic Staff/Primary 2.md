@@ -8,7 +8,7 @@ variant: markdown
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | P2-1     | Mrs Janice Low     | janice_low@moe.edu.sg     |
-|      | Mr Chen Xijie     | cheng_xijie@moe.edu.sg     |
+|      | Mr Cheng Xijie     | cheng_xijie@moe.edu.sg     |
 | P2-2     | Ms Choo Wei Ting     | choo_wei_ting@moe.edu.sg     |
 |      | Mdm Zhang Li     | zhang_li_cecely@moe.edu.sg     |
 | P2-3     | Ms Geraldine Tiew     | geraldine_tiew_shuying@moe.edu.sg     |
@@ -23,5 +23,3 @@ variant: markdown
 |      | Mdm Mahalingam     | mahalingam_indra@moe.edu.sg     |
 | P2-8     | Mdm Claire Lim     | lim_hwee_eng@moe.edu.sg     |
 |      | Ms May Lim     | -    |
-
-

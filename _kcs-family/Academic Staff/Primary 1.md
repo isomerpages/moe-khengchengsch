@@ -12,7 +12,7 @@ variant: markdown
 | P1-2     | Ms Priya Tishan     | priya_tishan@moe.edu.sg   |
 |      | Mdm Joycelyn Ho    |  joycelyn_ho@moe.edu.sg   |
 | P1-3     | Ms Sivamalar Kulasegaram   | sivamalar_kulasegaram@moe.edu.sg   |
-|      | Mrs Magdaline Lien     |  -    |
+|      | Mrs Magdaline Lien     |  chew_mei_ling_magdaline@moe.edu.sg   |
 | P1-4     | Mr Lim Ming En     | lim_ming_en@moe.edu.sg     |
 |      | Mdm Yee Kit Yin    | yee_kit_yin@moe.edu.sg     |
 | P1-5     | Mr Nazruldin     | raja_nazruldin_raja_kamaru@moe.edu.sg     |
@@ -23,4 +23,3 @@ variant: markdown
 |      | Ms Su Ting Ting     |   su_ting_ting@moe.edu.sg    |
 | P1-8     | Mdm Mardiana     | mardiana_ismail@moe.edu.sg     |
 |      | Mr Lee Qin Yi     | lee_qin_yi@moe.edu.sg     |
-

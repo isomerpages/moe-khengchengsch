@@ -19,7 +19,7 @@ variant: markdown
 |     | Mdm Rebecca Chew     | chew_hoi_ang@moe.edu.sg     |
 | P1-6     | Mdm Wong Wan Sian     | wong_wan_sian@moe.edu.sg     |
 |      | Ms Nadiah    | nadiah_mohd_yusof@moe.edu.sg     |
-| P1-7     | Mrs Vince Lai    | lai_shao_fong@moe.edu.sg     |
+| P1-7     | Mrs Vince Ho    | lai_shao_fong@moe.edu.sg     |
 |      | Ms Su Ting Ting     |   su_ting_ting@moe.edu.sg    |
 | P1-8     | Mdm Mardiana     | mardiana_ismail@moe.edu.sg     |
 |      | Mr Lee Qin Yi     | lee_qin_yi@moe.edu.sg     |

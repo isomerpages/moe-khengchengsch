@@ -86,4 +86,3 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
 ||Ms Jocelyn Tay||
 ||Ms Nilam Shafia||
 ||Mrs Sharon Wong||
-

@@ -77,11 +77,12 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
 | Head of Department / Science | Mr Melvin Chang  | |
 |Level Head Science|Ms Daphne Lee||
 |Senior Teacher / Science|Ms Teo Yee Leng||
-|Members|Mrs Jacqueline Anthony||
-||Ms Nilam Shafia||
+|Members|||
 ||Mr Alvin Puah||
-||Mrs Sharon Wong||
+||Ms Ashley Mong||
 ||Mrs Elaine Leong||
-||Ms Jocelyn Tay||
-||Ms Tan Ying Rui||
 ||Mrs Gillian Teh||
+||Mrs Jacqueline Anthony||
+||Ms Jocelyn Tay||
+||Ms Nilam Shafia||
+||Mrs Sharon Wong||

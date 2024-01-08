@@ -129,4 +129,4 @@ Our key guiding principles in the development of student leaders in KCS are:<br>
 
 ## SM and SL Committee
 
-</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></ul></span></span>
+![](/images/Student%20Leadership/Student_mgt.png)</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></ul></span></span>

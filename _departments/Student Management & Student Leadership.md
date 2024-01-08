@@ -2,6 +2,7 @@
 title: Student Management & Student Leadership
 permalink: /smsl/
 description: ""
+variant: markdown
 ---
 ## Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">Empowering Every Child to Lead and Impact the Community, and be Ready for the Future.</span>
@@ -128,39 +129,4 @@ Our key guiding principles in the development of student leaders in KCS are:<br>
 
 ## SM and SL Committee
 
-<table style="width:383.4pt;margin-left:-.15pt;background:white;border-collapse:collapse;
- border:none;mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;
- mso-border-insideh:1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="511" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:383.4pt;border:solid windowtext 1.5pt;
-  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" colspan="2" width="511"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Student Management and Leadership</span></b><span style="font-size:18.0pt;font-family:
-  &quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:19.2pt"><td style="width:383.4pt;border:solid windowtext 1.5pt;
-  border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" colspan="2" width="511"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Miss Su Yen Leng<br>(HOD Discipline &amp; Student Management)</span><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;
-  border-top:none;mso-border-top-alt:solid windowtext 1.5pt;background:#F7CAAC;
-  mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.2pt" valign="top" width="271"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Student Leadership</span></b><b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></b></p></td><td style="width:180.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Student Management Reps</span></b><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:203.3pt;border:solid windowtext 1.5pt;
-  border-top:none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.2pt" valign="top" width="271"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Miss Jane Chua (P3)<br>Mrs Mano (P4)<br>Mrs Winnie Chan (P5)<br>Miss Yu Mingxia (P6)<br>Mr Yung Keng Sing (CCA Leaders)</span><span style="font-size:12.0pt;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td style="width:180.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.2pt" valign="top" width="240"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black;mso-color-alt:windowtext">Mrs Janice Low (P1)<br>Ms Nadiah (P2)<br>Ms Goh Sock Lai (P3)<br>Ms Jaime Chia (P3)<br>Mrs Toh Cheng Hwan (P4)<br>Mrs Cheryl Ho (P5)<br>Mrs Sharon Wong (P6)<br>Mr Ravi (OM Discipline)</span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></ul></span></span>
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></ul></span></span>

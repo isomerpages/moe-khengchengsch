@@ -1,6 +1,6 @@
 ---
-title: CyberWellness
-permalink: /cyberwellness/
+title: Partnership
+permalink: /partnership/
 description: ""
 third_nav_title: ICT & Partnership
 variant: markdown

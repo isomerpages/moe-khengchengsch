@@ -38,33 +38,40 @@ The syllabus is designed using a thematic approach, structured along the key the
 
 ### Key Programmes: Social Studies in KCS
 
-In line with the schools’ mission and vision, we hope that students will be able to be informed, concerned and participative citizens. We aim to provide the students with the relevant experiences in and beyond school over their 6 years of their primary school education. Below is an overview of the programmes and activities put in place for the students:
+In line with the schools’ mission and vision, we hope that students will be able to be informed, concerned and participative citizens. We aim to provide the students with the relevant experiences in and beyond school over their 6 years of their primary school education. Below is an overview of the programmes and activities put in place for the students:    
 
-![](/images/Social%20Studies/KCS_NESS_2.png)
+![](/images/Social%20Studies/NESS_8.png)
+![](/images/Social%20Studies/NESS__1_.jpg)
+![](/images/Social%20Studies/NESS__2_.jpg)
+![](/images/Social%20Studies/NESS__3_.jpg)
 
-![](/images/Social%20Studies/KCS_NESS_1.png)
+
 	
 ### Key Programmes: National Education Commemorative Events
 
-<img style="width:500px;" src="/images/Social%20Studies/KCS_NESS_3.png">
-	
 ##### Total Defence Day
 
-![](/images/Social%20Studies/KCS_NESS_4.png)
+Together We Keep Singapore Strong
+
+![](/images/Social%20Studies/NESS__4_.jpg)
 
 #### International Friendship Day
 
-![](/images/Social%20Studies/KCS_NESS_6.png)
+Singapore in Asia
+
+![](/images/Social%20Studies/NESS__5_.jpg)
 
 #### Racial Harmony Day
 	
-![](/images/Social%20Studies/KCS_NESS_7.png)
+Singapore: Our Multicultural Mosaic
+
+![](/images/Social%20Studies/NESS__6_.jpg)
 
 #### National Day
+Onward As One
 
-![](/images/Social%20Studies/Picture%208_ND.jpg)
-![](/images/Social%20Studies/Picture%207_ND.png)
+![](/images/Social%20Studies/NESS__7_.jpg)
 
 ### NESS Committee
 
-<img style="width:500px;" src="/images/Social%20Studies/KCS_NESS_5.png">
+<img style="width:400px;" src="/images/Social%20Studies/NESS_9.png">

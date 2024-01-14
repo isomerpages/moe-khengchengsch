@@ -74,3 +74,4 @@ Onward As One
 
 ### NESS Committee
 
+<img style="width:400px;" src="/images/Social%20Studies/NESS_9.png">

@@ -126,9 +126,13 @@ Students apply skills learnt in class to the real world as they delve in their p
 Active citizenry is well and alive in SVA@KCS. Students are committed to action in building and deepening the Singapore spirit as they serve the community beyond what they do in the classroom.
 Recipients of the Be the Change Award
 
-![](/images/CCE/CCE/CCE__7_.JPG)	
-
+![](/images/CCE/CCE/CCE__7_.JPG)
+![](/images/CCE/CCE/LLP__1_.JPG)
+![](/images/CCE/CCE/LLP__2_.JPG)
+![](/images/CCE/CCE/LLP__3_.JPG)
+![](/images/CCE/CCE/LLP__4_.JPG)
+![](/images/CCE/CCE/LLP__5_.JPG)
+![](/images/CCE/CCE/LLP__6_.JPG)
 
 #### CCE Committee
-
 

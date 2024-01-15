@@ -112,7 +112,6 @@ The infusion of student voice into school activities allow for cross fertilisati
 It is essentially a tiered programme offered to all students from Primary 1 to Primary 6. Students are purposefully guided in using Visible Thinking routines [from the Harvard Ground Zero Project,] to plan a social service project targeted at the serving the community. Students learn to make thoughtful decisions and exercise reasoned judgement as the Visible Thinking routines provide the cognitive task support and scaffold needed. A grounds-up approach, all Kheng Cheng School’s students would have done their part to strengthen the Singapore Spirit to support a recipient of their choice as part of service to their community by year end. Because we allow the students to have to say, each class would be doing something unique and close to their hearts.
 
 The impact of SVA@KCS can be seen in the manner in which the LLP was carried out in the different classes.
-<img src="/images/CCE/CCE/community.png" style="width:100%">
 
 **Joy of Learning**
 
@@ -125,7 +124,9 @@ Students apply skills learnt in class to the real world as they delve in their p
 **Strengthen the Singapore Spirit** 
 
 Active citizenry is well and alive in SVA@KCS. Students are committed to action in building and deepening the Singapore spirit as they serve the community beyond what they do in the classroom.
-Recipients of the Be the Change Award 
+Recipients of the Be the Change Award
+
+![](/images/CCE/CCE/CCE__7_.JPG)
 
 
 

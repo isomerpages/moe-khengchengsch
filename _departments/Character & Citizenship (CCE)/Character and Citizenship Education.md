@@ -22,6 +22,7 @@ A critical thinker &amp; compassionate leader with a heart to serve the nation.
 * Parents as key partners.
 
 ### Approach
+
 “Education has had two great goals: to help young people become smart and to help them become good.” ~ Thomas Lickona.
 
 <img src="/images/CCE/CCE/cce.png" style="width:100%">
@@ -136,3 +137,4 @@ Recipients of the Be the Change Award
 
 #### CCE Committee
 
+<img style="width:400px;" src="/images/CCE/CCE/CCE_tc.png">

@@ -3,56 +3,75 @@ title: Character and Citizenship Education
 permalink: /cce/
 description: ""
 third_nav_title: Character & Citizenship (CCE)
+variant: markdown
 ---
-# Approach
-<span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">“Education has had two great goals: to help young people become smart and to help them become good.” ~ Thomas Lickona.</span>
+## Vision
+
+A critical thinker &amp; compassionate leader with a heart to serve the nation.
+
+##### We aim to develop in our students:
+* Good character
+* Resilience and social-emotional well-being
+* Future readiness
+* Active citizenship
+
+##### Some key principles for teaching and learning of CCE in KCS:
+* Every teacher a CCE teacher.
+* Values are both taught and caught.
+* Engaging students through varied modes of delivery.
+* Parents as key partners.
+
+### Approach
+“Education has had two great goals: to help young people become smart and to help them become good.” ~ Thomas Lickona.
+
 
 <img src="/images/CCE/CCE/cce.png" style="width:100%">
 
-<span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Kheng Cheng School uses a whole school approach in the teaching of Character and Citizenship Education. It aims to develop the mind (Head – Competencies teaching), the heart (Heart – Guiding values) and the hands (Hands – Practice) of our students..</span>
+Kheng Cheng School uses a whole school approach in the teaching of Character and Citizenship Education. It aims to develop the mind (Head – Competencies teaching), the heart ( Heart – Guiding values) and the hands (Hands – Practice) of our students.
 
-<img src="/images/CCE/CCE/atp.png" style="width:100%">
+![](/images/CCE/CCE/CCE__2_.JPG)
 
-<span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Some key principles for teaching and learning of CCE in KCS:</span>
+The goal of CCE is to inculcate values and build competencies in our students to develop them to be exemplary individuals and useful citizens. CCE lessons in KCS are aligned to the components of MOE.
 
-<span style="font-size:16.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">
-<ul>
-	<li>Every teacher a CCE teacher.</li>
-	<li>Values are both taught and caught.</li>
-	<li>engaging students through varied modes of delivery</li>
-	<li>Parents as key partners.</li>
-</ul>
+![](/images/CCE/CCE/CCE__3_.JPG)
+
 	
-# 	Key Programmes
-<span style="font-size:20.0pt;;color:black"><b><u>Character &amp; Citizenship Education</u></b></span>
+### 	Key Programmes
 
-<span style="font-size:16.0pt;font-family:Arial;color:black"> The goal of CCE is to inculcate values and build competencies in our students to develop them to be exemplary individuals and useful citizens.  
-CCE lessons in KCS are aligned to the components of MOE: <br><br>
+#### CCE (MTL)
 
-<span style="font-size:20.0pt;font-family:Arial;color:black">
-<b>CCE(MTL)</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">
- CCE lessons in KCS are taught in Mother Tongue Languages. Lessons include the teaching of values, knowledge and skills for CCE.<br><br>
+CCE lessons in KCS are taught in Mother Tongue Languages. Lessons in CCE(MTL) use stories, scenarios, songs and games to reinforce teaching and learning of values, develop social emotional competencies and nurture citizenship dispositions. Lessons are designed to provide students with more opportunities to discuss and internalize the values.
 
-<span style="font-size:20.0pt;font-family:Arial;color:black">
-<b>School-based CCE</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-This is done through explicit teaching of the KCS core values of Kindness in Heart, Courage to Stand, Sincerity of Might and Diligence of Hand. Student Voice and advocacy and Project Work (VIA) are also embedded in the School-based CCE curriculum.<br><br>
+#### CCE (FTGP)
 
-<span style="font-size:20.0pt;font-family:Arial;color:black">
-<b>CCE(FTGP)</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-Form Teacher Guidance Period (FTGP) provides time within the curriculum for form teachers to engage in quality interactions with their students and for them to strengthen their social and emotional competencies. Skills learnt during FTGP lessons include recognizing and managing emotions, developing care and concern for others, establishing positive relationships, making responsible decisions, and handling challenging situations constructively and ethically.<br><br>
+Form Teacher Guidance Period (FTGP) provides time within the curriculum for form teachers to engage in quality interactions with their students and for them to strengthen their social and emotional competencies. Skills learnt during FTGP lessons include recognizing and managing emotions, developing care and concern for others, establishing positive relationships, making responsible decisions, and handling challenging situations constructively and ethically. 
 
-<span style="font-size:20.0pt;font-family:Arial;color:black">
-<b>Form Teacher Interaction(FTI)</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-FTI provides support for improving the quality of teacher-student interactions and, ultimately, student learning. Teachers help students develop warm, supportive relationships, foster the joy of learning, feel comfortable in class, and experience appropriate levels of autonomy or independence.<br><br>
+Topics related to developing citizenship dispositions are also taught to foster inter-ethnic understanding and appreciation for one another’s culture in a multicultural classroom setting.
+The inclusion of “Family Time” in CCE(FTGP) encourages active partnership between school and home so that what is taught and learnt in school is reinforced at home. Activities suggested allow parents to bond with their children and support their child’s development.
 
-<span style="font-size:20.0pt;font-family:Arial;color:black">
-<b>The Growing Years (GY) Programme</b><br>
-<span style="font-size:16.0pt;font-family:Arial;color:black">
-The upper primary years mark the onset of puberty. Students at this age grapple with physical, emotional, and psychological changes in themselves. The Primary 5 &amp; 6 Growing Years package, ‘Curious Minds’, aims to meet students’ developmental needs, emphasise the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships and cyber wellness.
+#### Form Teacher Interaction (FTI)
+
+FTI provides support for improving the quality of teacher-student interactions and, ultimately, student learning. Teachers help students develop warm, supportive relationships, foster the joy of learning, feel comfortable in class, and experience appropriate levels of autonomy or independence.
+
+#### The Growing Years (GY) Programme
+
+The upper primary years mark the onset of puberty. Students at this age grapple with physical, emotional, and psychological changes in themselves. The Primary 5 &amp; 6 Growing Years package Sexuality Education - SEd, aims to meet students’ developmental needs, emphasize the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships and cyber wellness.
+
+At KCS, only specially selected and trained teachers are deployed to teach SEd.
+
+[Click here for more information](https://www.khengcheng.moe.edu.sg/sexualityedu/)
+
+#### Education and Career Guidance (ECG) Experiences
+
+ECG@KCS is a school-wide programme which focuses on developing and grooming our students to succeed in the 21st century. All KCS students will complete an ECG module each semester during school based CCE lessons. This is to prepare our students for a future of uncertainty. The lessons bring about awareness of new and emerging occupations and the skills and dispositions they need to be equipped with.
+The key components for our approach are:
+* Educate:  Learn about the wide array of occupations in Singapore.
+* Cultivate: Identify and cultivate personal characteristics such as interests, skills/aptitudes and values.
+* Guide: Be guided in understanding the different skills set required in the field of work.
+* ECG experiences in KCS are opportunities to build students’ self-awareness and knowledge of the different education and career pathways. Such experiences would be especially valuable for students in their primary school years, which are a time for growth and discovery.
+
+![](/images/CCE/CCE/CCE__4_.JPG)
+
 
 <img src="/images/CCE/CCE/hsc.png" style="width:100%">
 
@@ -301,4 +320,4 @@ The impact of SVA@KCS can be seen in the manner in which the LLP was carried out
   font-family:&quot;Arial&quot;,sans-serif"></span></p><p style="margin-top:0in;margin-right:0in;margin-bottom:0in;
   margin-left:-.95pt;text-indent:9.1pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black;
   mso-color-alt:windowtext">Ms Chang Siew Chian</span><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-	mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+	mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr></tbody></table></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>

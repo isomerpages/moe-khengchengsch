@@ -48,7 +48,7 @@ Sports modules include:
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Training Day &amp; Time</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:19.2pt"><td style="width:187.5pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Raymond Khoo (i/c)<br>raymond_khoo@moe.edu.sg</span></p></td><td style="width:149.25pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;;color:black"></span></p></td><td style="width:149.25pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
   mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
   background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" rowspan="5" width="199"><p style="margin-bottom:0in;text-align:center;
@@ -62,7 +62,7 @@ Sports modules include:
   &quot;Times New Roman&quot;;color:black">Miss Yu Mingxia<br>yu_mingxia@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:19.2pt"><td style="width:187.5pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Goh Koon Mei<br>goh_koon_mei@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:19.2pt"><td style="width:187.5pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:19.2pt"><td style="width:187.5pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
   3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Mr Lim Ming En<br>lim_ming_en@moe.edu.sg</span></p></td></tr></tbody></table>

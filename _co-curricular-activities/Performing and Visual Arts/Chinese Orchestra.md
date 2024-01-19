@@ -3,6 +3,7 @@ title: Chinese Orchestra
 permalink: /chineseorchestra/
 description: ""
 third_nav_title: Performing and Visual Arts
+variant: markdown
 ---
 # Vision
 <span style="font-size:16.0pt;font-family:Arial;color:black">An Active Appreciator and Innovator of the Arts.
@@ -40,7 +41,7 @@ third_nav_title: Performing and Visual Arts
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:black"><br><br><br><br><br><br>Friday<br>1pm – 3pm</span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td style="width:294.9pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt" width="393"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mr Muhd Rasual (2 i/c)<br>Muhammad_rasul_abdul_hamid@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:3;height:9.2pt"><td style="width:294.9pt;border:solid windowtext 1.5pt;border-top:
+  &quot;Times New Roman&quot;;color:black"></span></p></td></tr><tr style="mso-yfti-irow:3;height:9.2pt"><td style="width:294.9pt;border:solid windowtext 1.5pt;border-top:
   none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
   height:9.2pt" width="393"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">Miss Yu Meng Chen (2 i/c)<br>yu_mengchen@moe.edu.sg</span></p></td></tr><tr style="mso-yfti-irow:4;height:9.2pt"><td style="width:294.9pt;border:solid windowtext 1.5pt;border-top:

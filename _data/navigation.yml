@@ -1,0 +1,10 @@
+logo: /images/KhengChengSchoolLogo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: KCS Family
+    collection: kcs-family
+  - title: Departments
+    collection: departments
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities

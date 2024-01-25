@@ -1,0 +1,22 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Applied Learning Programme.md
+      - Science.md
+      - Mother Tongue.md
+      - ICT & Partnership/.keep
+      - ICT & Partnership/Information Technology.md
+      - ICT & Partnership/Partnership.md
+      - Physical Education & Health Management.md
+      - National Education & Social Studies (NESS).md
+      - "Aesthetics: Art.md"
+      - "Aesthetics: Music.md"
+      - Character & Citizenship (CCE)/.keep
+      - Character & Citizenship (CCE)/Character and Citizenship Education.md
+      - Character & Citizenship (CCE)/Sexuality Education.md
+      - Student Development Team.md
+      - Student Management & Student Leadership.md

@@ -63,7 +63,7 @@ into five main themes: Human Development, Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
 <p><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">Click here for more more information on the scope of Sexuality Education in the school curriculum</a>
 </p>
-<p><strong>5.	The subjects that incorporate topics on sexuality include:</strong>
+<p><strong>5. The subjects that incorporate topics on sexuality include:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -73,9 +73,9 @@ Sexual Health, Sexual Behaviour, and, Culture, Society and Law.</p>
 <p>Character and Citizenship Education (CCE)</p>
 </li>
 </ul>
-<p><strong>Sexuality Education Lessons: </strong>
+<p><strong>Sexuality Education Lessons:</strong>
 </p>
-<p><strong>6.</strong>	The upper primary years mark the onset of puberty.
+<p><strong>6.</strong> The upper primary years mark the onset of puberty.
 With better nutrition and improved health care, children are reaching puberty
 at a younger age and have to grapple with physical, emotional and psychological
 changes in themselves. The implication is that our children are becoming
@@ -85,7 +85,7 @@ Furthermore, our young are also exposed to a wide range of influences that
 could endanger health and undermine the integrity of the family. Our students
 require close guidance so that they can respond with discernment to the
 sexual messages in the media and other sources.</p>
-<p><strong>7. </strong>	Sexuality Education (SEd) lessons are taught as part
+<p><strong>7. </strong>Sexuality Education (SEd) lessons are taught as part
 of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will
 learn healthy ways to manage the physiological, social and emotional changes
 in their growing years. They learn to build healthy and rewarding relationships
@@ -95,8 +95,32 @@ themselves safe from sexuality-related risks.</p>
 <p><strong>At Kheng Cheng School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_logo.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Seed_1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Seed_2.png">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Seed_3.png">
+</div>
+<p><strong>INFORMATION FOR PARENTS</strong>
+</p>
+<p><strong>8.</strong>	Parents may opt their children out of Sexuality Education
+lessons, and/or supplementary Sexuality Education programmes by MOE-approved
+external providers.</p>
+<p><strong>9.</strong>	Parents who wish to opt their children out of the Sexuality
+Education lessons need to complete an opt-out form.</p>
+<p>This form will be communicated to parents at the start of the year and
+is also downloadable <a href="https://form.gov.sg/admin/form/65b7322c90d4ae5b33b767b4/use-template" rel="noopener noreferrer nofollow" target="_blank">here</a> The
+completed opt-out form is to be submitted by <strong>08/03/2024</strong>.</p>
+<p><strong>10.</strong>	Parents can contact the school at <a href="mailto:kcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcs@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p></p>

@@ -57,7 +57,7 @@ For all parents' briefing, please click on this webpage : [2024 KCS Parents' Bri
 |Student Learning Space|[SLS Login](https://vle.learning.moe.edu.sg/login)||
 |MOE website|[MOE Website](https://www.moe.gov.sg/)||
 |Standing Together|--||
-|Sexuality Education| [MOE Sexuality Education](https://go.gov.sg/moe-sexuality-education)||
+|Sexuality Education| [Kheng Cheng Sexuality Education](https://www.khengcheng.moe.edu.sg/sexualityedu/)||
 |Parents Workshop – Inappropriate Content|--||
 |Partnership with HDB – Remaking Our Heartland|--||
 |HPB School Health and School Dental Service|--||

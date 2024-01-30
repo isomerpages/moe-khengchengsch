@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - 21CC.md
       - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
@@ -21,3 +20,4 @@ collections:
       - Character & Citizenship (CCE)/Sexuality Education.md
       - Student Development Team.md
       - Student Management & Student Leadership.md
+      - 21CC.md

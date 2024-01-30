@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - 21CC.md
       - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md

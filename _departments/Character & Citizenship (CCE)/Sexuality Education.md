@@ -112,15 +112,15 @@ themselves safe from sexuality-related risks.</p>
 </div>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
-<p><strong>8.</strong>	Parents may opt their children out of Sexuality Education
+<p><strong>8.</strong> Parents may opt their children out of Sexuality Education
 lessons, and/or supplementary Sexuality Education programmes by MOE-approved
 external providers.</p>
-<p><strong>9.</strong>	Parents who wish to opt their children out of the Sexuality
+<p><strong>9.</strong> Parents who wish to opt their children out of the Sexuality
 Education lessons need to complete an opt-out form.</p>
 <p>This form will be communicated to parents at the start of the year and
-is also downloadable <a href="https://form.gov.sg/admin/form/65b7322c90d4ae5b33b767b4/use-template" rel="noopener noreferrer nofollow" target="_blank">here</a> The
+is also downloadable <a href="https://form.gov.sg/admin/form/65b7322c90d4ae5b33b767b4" rel="noopener noreferrer nofollow" target="_blank">here</a> The
 completed opt-out form is to be submitted by <strong>08/03/2024</strong>.</p>
-<p><strong>10.</strong>	Parents can contact the school at <a href="mailto:kcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcs@moe.edu.sg</a> for
+<p><strong>10.</strong> Parents can contact the school at <a href="mailto:kcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kcs@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 <p></p>

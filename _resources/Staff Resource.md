@@ -253,7 +253,7 @@ variant: markdown
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:20.65pt" width="328"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
-  minor-latin;color:#7030A0"><a target="_blank" href="https://kcs.padlet.com/"><span style="color:#7030A0">https://kcs.padlet.com/</span></a></span></p></td></tr><tr style="mso-yfti-irow:7;height:22.25pt"><td style="width:227.45pt;border:solid windowtext 1.0pt;border-top:
+  minor-latin;color:#7030A0"><a target="_blank" href="https://kcs.padlet.org/"><span style="color:#7030A0">https://kcs.padlet.org/</span></a></span></p></td></tr><tr style="mso-yfti-irow:7;height:22.25pt"><td style="width:227.45pt;border:solid windowtext 1.0pt;border-top:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:22.25pt" width="303"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-bidi-font-family:Calibri;mso-bidi-theme-font:
   minor-latin;color:black">Moo-O</span><span style="font-size:12.0pt;

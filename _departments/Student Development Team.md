@@ -2,6 +2,7 @@
 title: Student Development Team
 permalink: /studentdevelopment/
 description: ""
+variant: markdown
 ---
 ## Objectives
 Our Student Development Team oversees the holistic development of our students. We aim to develop students and enhance their learning experience in school through various programmes for students and strong partnership with stakeholders.
@@ -20,7 +21,15 @@ The bac**K** to s**C**hool **S**ession aims to help students settle into the new
 
 **2.&nbsp; Care Leaders**
 
-Apart from teachers and school counsellors, peers are the next best people to provide social and emotional support for students in need or distress. Peers are generally aware of what their friends are going through and therefore in the best position to alert teachers and school counsellors when they notice that their friends are in need of help or not coping well. Also, students will seek out peers when they are experiencing worry, frustration or concerns and be more comfortable in talking openly with them. With this initial disclosure, peers can offer timely support and advise their friends to seek help. Hence, with our care leaders play an important role in fostering a positive culture of care, trust and respect within the classroom and in the school. To better prepare our Care Leaders for their roles, training sessions have been organised for them. They will be equipped with the essential leadership and peer support relationship skills.
+![](/images/Student%20Leadership/Care_Leaders__1_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__2_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__3_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__4_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__5_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__6_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__7_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__8_.JPG)
+![](/images/Student%20Leadership/Care_Leaders__9_.JPG)
 
 **3. Social Skills**<br>
 Students are explicitly taught social skills during CCE lessons. We believe that by equipping students with social skills, they will be able to build healthy relationships and make responsible decisions. This will in turns helps students to build resilience, achieve better mental well-being, which leads to positive effects on their learning and overall holistic development.

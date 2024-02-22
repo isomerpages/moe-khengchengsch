@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - News/2024 Chinese New Year Celebration.md
       - News/64th National Inter School Chess Championship 2023.md
       - News/Music Exchange.md
       - News/.keep

@@ -15,6 +15,10 @@ Please join us in congratulating our Master Artists,&nbsp;**Jolene See Ya Ern (P
 As part of this competition experience, the top 50 finalists, including Jolene and Adriel, will be attending the Visual Arts Junior Academy (JA) on Saturday, 6th April 2024. This event is held in conjunction with SOTA’s Open House and serves as a valuable opportunity for artistic development. Notably, this program positions both Jolene and Adriel favorably for the Direct School Admission (DSA) into SOTA.
 
 Please enjoy their submissions below.
+![](/images/Achievements/SOTA_2024__1_.jpg)
+![](/images/Achievements/SOTA_2024__2_.jpg)
+
+The list of winners can be found on SOTA’s website: [https://sotalava.com/top-50-finalists](https://sotalava.com/top-50-finalists)
 
 
 

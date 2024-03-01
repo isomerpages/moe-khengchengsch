@@ -35,6 +35,15 @@ The goal of CCE is to inculcate values and build competencies in our students to
 
 ![](/images/CCE/CCE/CCE__3_.JPG)
 
+#### CCE Awards 2024
+
+![](/images/CCE/CCE/Slide4.jpg)
+![](/images/CCE/CCE/Slide5.jpg)
+![](/images/CCE/CCE/Slide6.jpg)
+![](/images/CCE/CCE/Slide7.jpg)
+![](/images/CCE/CCE/Slide8.jpg)
+![](/images/CCE/CCE/Slide9.jpg)
+![](/images/CCE/CCE/Slide10.jpg)
 	
 ### 	Key Programmes
 

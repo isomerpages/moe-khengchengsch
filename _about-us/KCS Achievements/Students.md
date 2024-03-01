@@ -7,13 +7,24 @@ variant: markdown
 ---
 # Students Achievements
 
+
+#### SOTA Primary 6 Art Competition 2024
+
+Please join us in congratulating our Master Artists,&nbsp;**Jolene See Ya Ern (P6.3)**&nbsp;and&nbsp;**Adriel Chew Asri (P6.5),**&nbsp;from the&nbsp;_KCS Master Artist Programme_**.**&nbsp;They&nbsp;are the&nbsp;**Top 50 Finalists**&nbsp;in SOTA’s Primary 6 Art Competition 2024. Their artworks will be featured in our SOTA Primary 6 Art Competition 2024 Exhibition scheduled from 22nd to 27th March 2024.
+
+As part of this competition experience, the top 50 finalists, including Jolene and Adriel, will be attending the Visual Arts Junior Academy (JA) on Saturday, 6th April 2024. This event is held in conjunction with SOTA’s Open House and serves as a valuable opportunity for artistic development. Notably, this program positions both Jolene and Adriel favorably for the Direct School Admission (DSA) into SOTA.
+
+Please enjoy their submissions below.
+
+
+
 #### **GB Awards Ceremony - Company Awards 2022 and Junior Brigader Brooch**  
   
 The Singapore Girls’ Brigade 90th Company in Kheng Cheng School has met the standard to achieve the Gold Award for the National Company Awards in 2022!  
 
 Four of our Brigaders also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. We are proud of our four recipients: Lim Shin Ying (6.3); Sii Yu Tong (6.4); Kaylyn Low Jean Xuan (6.6) and Nurul Farysha binte Abdullah (6.7). They possess good character, have demonstrated leadership and are responsible Squad Leaders.
 
-##### Click [HERE](https://heyzine.com/flip-book/c955e00db1.html) for the ceremony Photographs.
+ Click [HERE](https://heyzine.com/flip-book/c955e00db1.html) for the ceremony Photographs.
 
 ### **2022 - National School Games**  
   

@@ -53,7 +53,7 @@ In line with the schools’ mission and vision, we hope that students will be ab
 
 Together We Keep Singapore Strong
 
-![](/images/Social%20Studies/NESS__4_.jpg)
+
 
 #### International Friendship Day
 

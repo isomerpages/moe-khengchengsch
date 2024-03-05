@@ -7,8 +7,14 @@ variant: markdown
 ---
 # Students Achievements
 
+#### National Chinese Calligraphy Competition 2024 Winner
+
+On 23rd Feb, 21 of our Kheng Cheng school students participated in the National Chinese Calligraphy Competition 2024. This competition cultivates the appreciation of Chinese culture through calligraphy, promotes the art of calligraphy, and celebrates the festive season. Please join us in congratulating **Zhang Xinyu** (Primary 6.4), she is the Top 30 Finalists in Category One and has been awarded a consolation prize.
+
+<img style="width:400px;" src="/images/Achievements/xywork.jpg">
+
 #### Singapore Girls’ Brigade
-The Singapore Girls’ Brigade 90th&nbsp;Company in Kheng Cheng School has met the standard to achieve the Gold Award for the National Company Awards in 2023.&nbsp;Three of our Brigaders have also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. They are Kei Ong Kei Yi (P6.5), Ashley Low Zhi An (P6.3) and Yee Jia En Celeste (P6.3).
+The Singapore Girls’ Brigade 90th&nbsp;Company in Kheng Cheng School has met the standard to achieve the Gold Award for the National Company Awards in 2023. Three of our Brigaders have also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. They are Kei Ong Kei Yi (P6.5), Ashley Low Zhi An (P6.3) and Yee Jia En Celeste (P6.3).
 
 #### SOTA Primary 6 Art Competition 2024
 

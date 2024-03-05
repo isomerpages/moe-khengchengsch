@@ -9,7 +9,7 @@ variant: markdown
 
 #### National Chinese Calligraphy Competition 2024 Winner
 
-On 23rd Feb, 21 of our Kheng Cheng school students participated in the National Chinese Calligraphy Competition 2024. This competition cultivates the appreciation of Chinese culture through calligraphy, promotes the art of calligraphy, and celebrates the festive season. Please join us in congratulating **Zhang Xinyu** (Primary 6.4), she is the Top 30 Finalists in Category One and has been awarded a consolation prize.
+On 23rd Feb, 21 of our Kheng Cheng school students participated in the National Chinese Calligraphy Competition 2024. This competition cultivates the appreciation of Chinese culture through calligraphy, promotes the art of calligraphy, and celebrates the festive season. Please join us in congratulating Zhang Xinyu (Primary 6.4), she is the Top 30 Finalists in Category One and has been awarded a consolation prize.
 
 <img style="width:400px;" src="/images/Achievements/xywork.jpg">
 

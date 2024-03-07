@@ -16,6 +16,6 @@ variant: markdown
 | P4-4     | Mr Cheong Tuck Wai     | cheong_tuck_wai@moe.edu.sg     |
 |      | Ms Yu Mengchen     | yu_mengchen@moe.edu.sg     |
 | P4-5     | Mr Alvin Puah     | puah_beng_siong_alvin@moe.edu.sg    |
-|      | Mdm Nur Sodiqin     | nur_sodiqin_mohd_faud@moe.edu.sg     |
+|      | Mdm Nur Sodiqin     | nur_sodiqin_mohd_fuad@moe.edu.sg     |
 | P4-6     | Mrs Jacqueline Anthony     | jacqueline_anthony@moe.edu.sg     |
 |      | Ms Kalpana      | kalpana_kannadhasan@moe.edu.sg     |

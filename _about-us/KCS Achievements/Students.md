@@ -7,9 +7,15 @@ variant: markdown
 ---
 # Students Achievements
 
+
+#### Red Cross 2024
+
+**Gold Award** for the Red Cross Youth (Links) Excellent Unit Award Year Of Assessment 2023.
+
+
 #### National Chinese Calligraphy Competition 2024 Winner
 
-On 23rd Feb, 21 of our Kheng Cheng school students participated in the National Chinese Calligraphy Competition 2024. This competition cultivates the appreciation of Chinese culture through calligraphy, promotes the art of calligraphy, and celebrates the festive season. Please join us in congratulating Zhang Xinyu (Primary 6.4), she is the Top 30 Finalists in Category One and has been awarded a consolation prize!
+On 23 Feburary 2024, 21 of our Kheng Cheng school students participated in the **National Chinese Calligraphy Competition 2024**. This competition cultivates the appreciation of Chinese culture through calligraphy, promotes the art of calligraphy, and celebrates the festive season. Please join us in congratulating Zhang Xinyu (Primary 6.4), she is the Top 30 Finalists in Category One and has been awarded a consolation prize!
 
 Her beautiful calligraphy translates to:
 
@@ -21,12 +27,13 @@ Congratulations to Xinyu and all our Kheng Cheng School participants for their d
 
 <img style="width:400px;" src="/images/Achievements/xywork.jpg">
 
-#### Singapore Girls’ Brigade
-The Singapore Girls’ Brigade 90th&nbsp;Company in Kheng Cheng School has met the standard to achieve the Gold Award for the National Company Awards in 2023. Three of our Brigaders have also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. They are Kei Ong Kei Yi (P6.5), Ashley Low Zhi An (P6.3) and Yee Jia En Celeste (P6.3).
+#### Singapore Girls’ Brigade 2024
+
+The Singapore Girls’ Brigade 90th Company in Kheng Cheng School has met the standard to achieve the Gold Award for the **National Company Awards in 2023**. Three of our Brigaders have also achieved the Junior Brigader Brooch, which is the highest award a girl can achieve for the Junior Programme. They are Kei Ong Kei Yi (P6.5), Ashley Low Zhi An (P6.3) and Yee Jia En Celeste (P6.3).
 
 #### SOTA Primary 6 Art Competition 2024
 
-Please join us in congratulating our Master Artists,&nbsp;**Jolene See Ya Ern (P6.3)**&nbsp;and&nbsp;**Adriel Chew Asri (P6.5),**&nbsp;from the&nbsp;_KCS Master Artist Programme_**.**&nbsp;They&nbsp;are the&nbsp;**Top 50 Finalists**&nbsp;in SOTA’s Primary 6 Art Competition 2024. Their artworks will be featured in our SOTA Primary 6 Art Competition 2024 Exhibition scheduled from 22nd to 27th March 2024.
+Please join us in congratulating our Master Artists,&nbsp;**Jolene See Ya Ern (P6.3)**&nbsp;and&nbsp;**Adriel Chew Asri (P6.5),**&nbsp;from the&nbsp;_KCS Master Artist Programme_**.**&nbsp;They&nbsp;are the&nbsp;**Top 50 Finalists**&nbsp;in **SOTA’s Primary 6 Art Competition 2024**. Their artworks will be featured in our SOTA Primary 6 Art Competition 2024 Exhibition scheduled from 22nd to 27th March 2024.
 
 As part of this competition experience, the top 50 finalists, including Jolene and Adriel, will be attending the Visual Arts Junior Academy (JA) on Saturday, 6th April 2024. This event is held in conjunction with SOTA’s Open House and serves as a valuable opportunity for artistic development. Notably, this program positions both Jolene and Adriel favorably for the Direct School Admission (DSA) into SOTA.
 
@@ -37,6 +44,38 @@ Please enjoy their submissions below.
 The list of winners can be found on SOTA’s website: [https://sotalava.com/top-50-finalists](https://sotalava.com/top-50-finalists)
 
 
+#### **Results of 9th Ang Mo Kio CC Chess Challenge 2023**
+	
+#### Girls' Category
+
+![2023 Chess](/images/Achievements/AMK_Chess_girls_2023.png)
+
+#### Boys' Category
+
+![2023 Chess Boys](/images/Achievements/AMK_Chess_boys_2023.png)
+
+##### Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
+
+
+#### **Results of Non-CCA National School Games Competition**
+
+
+#### 2023 NSG WUSHU COMPETITION
+
+![Wushu 2023](/images/Achievements/Wushu_2023.png)
+![GA P1](/images/Achievements/Gymnastics_Award_2023_P1.png)
+![GA P2](/images/Achievements/Gymnastics_Award_2023_P2.png)
+![GA P3](/images/Achievements/Gymnastics_Award_2023_P3.png)
+![GA P4](/images/Achievements/Gymnastics_Award_2023_P4.png)
+
+##### Click [HERE](https://heyzine.com/flip-book/0ea1f1640f.html) for the event photos.
+##### Click [HERE](https://heyzine.com/flip-book/e207ebdc49.html) for more event photos.
+
+#### **The 30th Annual World Children’s Picture Contest 2022** 
+
+The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
+
+![](/images/Achievements/picturecontest.JPG)
 
 #### **GB Awards Ceremony - Company Awards 2022 and Junior Brigader Brooch**  
   
@@ -46,7 +85,7 @@ Four of our Brigaders also achieved the Junior Brigader Brooch, which is the hig
 
  Click [HERE](https://heyzine.com/flip-book/c955e00db1.html) for the ceremony Photographs.
 
-### **2022 - National School Games**  
+#### **2022 - National School Games**  
   
 #### **Junior 2 Boys**
 
@@ -118,48 +157,6 @@ Avril Liow Huiru (P5.2 this year) - 6th
 Zhang Xinyu (P5.4 this year) - 6th  
 Zhang Xinyu - 8x50m relay- 5th
 
-
-
-### **Results of 9th Ang Mo Kio CC Chess Challenge 2023**
-	
-#### Girls' Category
-
-![2023 Chess](/images/Achievements/AMK_Chess_girls_2023.png)
-
-#### Boys' Category
-
-![2023 Chess Boys](/images/Achievements/AMK_Chess_boys_2023.png)
-
-##### Click [HERE](https://heyzine.com/flip-book/2f3a470c87.html) for Photographs.
-
-
-### **Results of Non-CCA National School Games Competition**
-
-
-#### 2023 NSG WUSHU COMPETITION
-
-![Wushu 2023](/images/Achievements/Wushu_2023.png)
-![GA P1](/images/Achievements/Gymnastics_Award_2023_P1.png)
-![GA P2](/images/Achievements/Gymnastics_Award_2023_P2.png)
-![GA P3](/images/Achievements/Gymnastics_Award_2023_P3.png)
-![GA P4](/images/Achievements/Gymnastics_Award_2023_P4.png)
-
-##### Click [HERE](https://heyzine.com/flip-book/0ea1f1640f.html) for the event photos.
-##### Click [HERE](https://heyzine.com/flip-book/e207ebdc49.html) for more event photos.
-
-### **The 30th Annual World Children’s Picture Contest 2022** 
-
-The 30th edition of the Annual World Children’s Picture Contest is a drawing contest organised by the Japan Agricultural Co-operative to promote the exchange of experience and expression between children all over the world. The contest received an overwhelming response of 9313 entries from 56 countries and region. Last year, our students participated in this competition by completing an artwork on their own. We were heartened to learn that out of 210 winners, a total of 7 winners came from Singapore, of which two of them are our students. Cherish Liew Yu En from P3.1 (2022) had received Silver Prize, while Troy Yile Yang Huffines from P5.4 (2022) had received Bronze Prize for their creativity and good use of artistic techniques in their artwork. We would like to congratulate them for their achievement. 
-
-![](/images/Achievements/picturecontest.JPG)
-
-#### **Girls' Brigade Company Awards (2021) - Gold Award**
-
-The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
-
-![](/images/GB/gbgoldaward2021.JPG)
-
-
 #### **National School Games South Zone Basketball (2022)**
 
 
@@ -223,6 +220,12 @@ We are proud that&nbsp;**KCS clinched Gold for high-jump by Gan Jeng Yu (P6.4) &
 *   Our boys ( Anden Low \[P6.5\], Hadi, Thai An &amp; Loong Qi - came in 5th also for 4 X 300m and 4 X 100m events.  
     
     Overall, all our the athletes did a great job, given the 'short run-way' of preparation &amp; (face-to-face) trainings (of only 5-6 weeks), leading to the NSG in April. More importantly, our KCS athletes' unwavering &amp; 'never-say-die' attitude put into the limited trainings and the actual days of competitions in a stadium setting (at Bukit Gombak), the coaches &amp; teachers provided for them, were highly commendable - and we are all very proud of them!"
+		
+#### **Girls' Brigade Company Awards (2021) - Gold Award**
+
+The Singapore Girls' Brigade 90th Company is pleased to announce that we have met the standard to achieve the Gold Award for the National Company Awards in 2021!
+
+![](/images/GB/gbgoldaward2021.JPG)
 
 #### **The 29th Annual World Children’s Picture Contest 2021**  
 
@@ -332,4 +335,4 @@ P5.3 LAMBRIGHTS CHLOE SZE
 P5.3 JOLENE SEE YA ERN
 
 
-### Congratulations! We are proud of all of you!
+#### Congratulations! We are proud of all of you!

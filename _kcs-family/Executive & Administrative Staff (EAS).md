@@ -4,13 +4,11 @@ permalink: /eas/
 description: ""
 variant: markdown
 ---
- 
-
 <table style="border-collapse:
  collapse;width:419pt" width="558" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:8135;width:172pt" width="229"> <col style="mso-width-source:userset;mso-width-alt:11690;width:247pt" width="329"></colgroup><tbody><tr style="height:15.6pt;mso-yfti-firstrow:yes;mso-yfti-irow:0" height="21"><td style="height:15.6pt;width:172pt" width="229" class="xl65" height="21">Designation</td><td style="border-left:none;width:247pt" width="329" class="xl66">Name of staff</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
   1" height="66"><td style="height:99.9pt;
-  border-top:none;width:172pt" width="229" class="xl67" height="132" rowspan="2">Administration Manager 1</td><td style="border-top:none;border-left:none;width:247pt" width="329" class="xl67">Mr Reeve Sim</td></tr><tr style="mso-height-source:userset;height:49.95pt" height="66"><td style="height:49.95pt;border-top:none;
-  border-left:none;width:247pt" width="329" class="xl67" height="66">reeve_sim@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
+  border-top:none;width:172pt" width="229" class="xl67" height="132" rowspan="2">Administration Manager 1</td><td style="border-top:none;border-left:none;width:247pt" width="329" class="xl67">Mrs Cyndi Kang</td></tr><tr style="mso-height-source:userset;height:49.95pt" height="66"><td style="height:49.95pt;border-top:none;
+  border-left:none;width:247pt" width="329" class="xl67" height="66">cyndi_lim@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
   2" height="66"><td style="height:99.9pt;
   border-top:none;width:172pt" width="229" class="xl67" height="132" rowspan="2">Administration Manager 2</td><td style="border-top:none;border-left:none;width:247pt" width="329" class="xl67">Mr K Surindranath</td></tr><tr style="mso-height-source:userset;height:49.95pt" height="66"><td style="height:49.95pt;border-top:none;
   border-left:none;width:247pt" width="329" class="xl67" height="66">surindranath_kaseenathan@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
@@ -38,7 +36,7 @@ variant: markdown
   border-top:none;width:172pt" width="229" class="xl68" height="132" rowspan="2">Corporate Support Officer</td><td style="border-top:none;border-left:none;width:247pt" width="329" class="xl67">Mdm Dena Toh</td></tr><tr style="mso-height-source:userset;height:49.95pt" height="66"><td style="height:49.95pt;border-top:none;
   border-left:none;width:247pt" width="329" class="xl67" height="66">dena_toh@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
   10" height="66"><td style="height:49.95pt;border-top:none;
-  width:172pt" width="229" class="xl67" height="66">Operations Support Officer</td><td style="border-top:none;border-left:none;width:247pt" width="329" class="xl67">Ms May Know</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
+  width:172pt" width="229" class="xl67" height="66">Operations Support Officer</td><td style="border-top:none;border-left:none;width:247pt" width="329" class="xl67">Ms May Kow</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
   11" height="66"><td style="height:49.95pt;border-top:none;
   width:172pt" width="229" class="xl67" height="66">Operations Support Officer</td><td style="border-top:none;border-left:none;width:247pt" width="329" class="xl67">Mr Ong Boon Hoe</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
   12" height="66"><td style="height:49.95pt;border-top:none;

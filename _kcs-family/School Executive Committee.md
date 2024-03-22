@@ -78,8 +78,8 @@ variant: markdown
   border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Asst Year Head (Internal)</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Raja Nazruldin Bin Raja Kamarulzaman</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
   border-left:none;width:307pt" width="410" class="xl67" height="73">raja_nazruldin_raja_kamaru@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
   24" height="73"><td style="height:110.1pt;
-  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Administration Manager 1</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr Reeve Sim</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
-  border-left:none;width:307pt" width="410" class="xl67" height="73">reeve_sim@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
+  border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Administration Manager 1</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mrs Cyndi Kang</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
+  border-left:none;width:307pt" width="410" class="xl67" height="73">cyndi_lim@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:
   25" height="73"><td style="height:110.1pt;
   border-top:none;width:220pt" width="293" class="xl67" height="146" rowspan="2">Administration Manager 2</td><td style="border-top:none;border-left:none;width:307pt" width="410" class="xl67">Mr K Surindranath</td></tr><tr style="mso-height-source:userset;height:55.05pt" height="73"><td style="height:55.05pt;border-top:none;
   border-left:none;width:307pt" width="410" class="xl67" height="73">surindranath_kaseenathan@moe.edu.sg</td></tr><tr style="mso-height-source:userset;height:55.05pt;mso-yfti-irow:

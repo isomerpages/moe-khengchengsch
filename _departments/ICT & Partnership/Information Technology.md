@@ -5,4 +5,29 @@ description: ""
 third_nav_title: ICT & Partnership
 variant: tiptap
 ---
-<h3>Vision</h3><p>Future ready and self-directed digital learners and&nbsp;Making a Positive Difference to our students</p><h3>Mission</h3><p>ICT: To sharpen practices and deepen learning by harnessing the use of ICT.&nbsp; Communication and Partnership: Building on Trust, Partnering as one.</p><h3>Objective</h3><p>Our school harnesses the use of ICT to nurture our students in becoming self-directed and collaborative learners of the 21st century. With the resources and support provided, we hope to encourage students to become self-directed learners.</p><p>To bring about a shift in ICT practices for learning and teaching, a sustained school-wide effort is required. Instructional leadership is at all levels. The direction of the school is to ensure quality teaching and learning with ICT and create an ICT learning environment to support effective implementation of teaching and learning with technology.</p><h3>Approach</h3><p>To engage students and create responsibility for their own learning.</p><p>To train students to build knowledge collaboratively and solve real world problems creatively.</p><p>To develop lifelong passion for learning with the help of ICT.</p><p>In the event of a school closure due to unforeseen circumstances, student learning will be facilitated through home-based learning. The school also conducts home-based learning during school holidays and during PSLE marking exercise.</p><h3>Key Programmes</h3><p><strong>Baseline ICT Standards</strong></p><p>ICT lessons are conducted for P1 to P6 students. The curriculum is founded on MOE’s Baseline ICT Standards. The Baseline ICT Standards is a set of ICT skill competencies set out in four progressive key stages which represent the basic level of knowledge, skills and values that students need in order to fully benefit from a curriculum enriched with ICT, and eventually thrive in a technology-driven society. The lessons in our school are designed to be age-appropriate and focus on the key skills that students should master before progressing to a higher level. Students are given the opportunities to apply their learning in their school work with the integration of ICT skills in teaching and learning.</p><p><strong>Baseline ICT Standards Training Roadmap</strong></p><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Level</strong></p></td><td rowspan="1" colspan="1"><p><strong>Programmes</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>P1</p></td><td rowspan="1" colspan="1"><p>Touch typing and access SLS </p></td></tr><tr><td rowspan="1" colspan="1"><p>P2</p></td><td rowspan="1" colspan="1"><p>Touch typing and access SLS </p></td></tr><tr><td rowspan="1" colspan="1"><p>P3</p></td><td rowspan="1" colspan="1"><p>Accessing basic features in Google Workshop + Google Slides</p></td></tr><tr><td rowspan="1" colspan="1"><p>P4</p></td><td rowspan="1" colspan="1"><p>Accessing basic features in Google Workshop + Google Slides via SLS</p></td></tr><tr><td rowspan="1" colspan="1"><p>P5</p></td><td rowspan="1" colspan="1"><p>Accessing basic features in Google Workshop + Google Doc</p></td></tr><tr><td rowspan="1" colspan="1"><p>P6</p></td><td rowspan="1" colspan="1"><p>Basic Coding</p></td></tr></tbody></table><p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__1_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__2_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__3_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__4_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__5_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__6_.png">
+</div>
+<p></p>

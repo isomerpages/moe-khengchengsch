@@ -31,3 +31,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__6_.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__7_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/ICT_website__8_.png">
+</div>
+<p></p>

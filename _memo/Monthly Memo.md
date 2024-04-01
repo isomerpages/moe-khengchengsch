@@ -12,6 +12,8 @@ variant: markdown
 
 [March 2024](/files/Monthly%20Memo/March_Memo_2024.pdf)
 
+[April 2024](/files/Monthly%20Memo/April_memo_2024.pdf)
+
 
 
 

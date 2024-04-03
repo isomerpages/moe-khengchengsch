@@ -20,6 +20,9 @@ sections:
         - title: Newsletter & Memo
           description: ""
           url: /newsletter/
+        - title: Social Media
+          description: ""
+          url: https://www.instagram.com/kheng.cheng.official/
       background: /images/Homepage/KCS School building design_watermark for cover.jpeg
   - resources:
       subtitle: Latest Announcements

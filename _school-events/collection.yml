@@ -2,13 +2,13 @@ collections:
   school-events:
     output: true
     order:
+      - News/.keep
+      - News/Primary 5 Camp 2024.md
       - News/2024 Chinese New Year Celebration.md
       - News/64th National Inter School Chess Championship 2023.md
       - News/Music Exchange.md
-      - News/.keep
       - News/Day Out @ Esplande.md
       - "News/Instrumental Music Competition: Digital Concert Hall.md"
-      - News/Primary 5 Camp 2024.md
       - News/Upcycling Innovators.md
       - News/GB Awards Ceremony 2022.md
       - News/Annual World Children's Picture Cotest 2022.md

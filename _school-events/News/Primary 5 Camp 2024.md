@@ -12,15 +12,9 @@ Please click on link the below files to download the PowerPoint file.
 
 [P5 Camp 2024 PowerPoint](https://docs.google.com/presentation/d/1WhX0RNNLvA5xZ-mGAhaUiYpIRjL3CfWe/edit?usp=sharing&amp;ouid=111948379564833238671&amp;rtpof=true&amp;sd=true)
 
-Please make sure when you open the file, you will see the notes below each slide. 
+When you open the file, you will see the notes below each slide.
 
-
-
-
-
-
-
-
+![](/images/General%20Images/P5_camp_guide.png)
 
 
 Please enjoy the video for P5 Camp 2023. Thank you.

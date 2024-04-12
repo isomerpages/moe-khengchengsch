@@ -14,7 +14,11 @@ Please click on link the below files to download the PowerPoint file.
 
 When you open the file, you will see the notes below each slide.
 
+Microsoft PowerPoint
 ![](/images/General%20Images/P5_camp_guide.png)
+
+Google Slides
+![](/images/General%20Images/Google_slide_P5.png)
 
 
 Please enjoy the video for P5 Camp 2023. Thank you.

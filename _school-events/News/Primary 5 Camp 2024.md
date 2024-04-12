@@ -8,11 +8,15 @@ variant: markdown
 #### Dear Parents / Guardians 
 
 
-Please click on the below files for details on our Primary 5 Camp 2024. 
+Please click on link the below files to download the PowerPoint file.
 
-[Briefing to Parents 2024](/files/Parents/Briefing_to_Parents_4_April_2024.pdf)
+[P5 Camp 2024 PowerPoint](https://docs.google.com/presentation/d/1WhX0RNNLvA5xZ-mGAhaUiYpIRjL3CfWe/edit?usp=sharing&amp;ouid=111948379564833238671&amp;rtpof=true&amp;sd=true)
 
-[Camp in summary and FAQ 2024](/files/Parents/2024_Camp_in_summary___FAQs.pdf)
+Please make sure when you open the file, you will see the notes below each slide. 
+
+
+
+
 
 
 

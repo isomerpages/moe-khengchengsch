@@ -12,6 +12,8 @@ Please click on link the below files to download the PowerPoint file.
 
 [P5 Camp 2024 PowerPoint](https://docs.google.com/presentation/d/1WhX0RNNLvA5xZ-mGAhaUiYpIRjL3CfWe/edit?usp=sharing&amp;ouid=111948379564833238671&amp;rtpof=true&amp;sd=true)
 
+[Camp summary and FAQ](/files/Parents/2024_Camp_in_summary___FAQs.pdf)
+
 When you open the file, you will see the notes below each slide.
 
 Microsoft PowerPoint

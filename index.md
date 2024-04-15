@@ -24,15 +24,6 @@ sections:
           description: ""
           url: https://www.instagram.com/kheng.cheng.official/
       background: /images/Homepage/KCS School building design_watermark for cover.jpeg
-  - infopic:
-      title: KCS Open House
-      id: infopic
-      description: |
-        May 25th 2024
-      button: Click here
-      url: https://www.khengcheng.moe.edu.sg/kcs-open-house-2024/
-      image: /images/General Images/Open_Hse_2024__1_.png
-      alt: Image alt text
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

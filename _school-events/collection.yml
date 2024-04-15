@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - News/KCS Open House 2024.md
       - News/.keep
       - News/Primary 5 Camp 2024.md
       - News/2024 Chinese New Year Celebration.md

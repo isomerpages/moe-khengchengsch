@@ -26,3 +26,7 @@ in joining us for our open house on May 25th.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Open_Hse_2024__5_.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Open_House_Posters_2024.jpg">
+</div>
+<p></p>

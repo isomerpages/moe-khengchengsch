@@ -6,13 +6,21 @@ variant: markdown
 ---
 ### YEAR 2024
 
-[January 2024](/files/Monthly%20Memo/January_Memo_2024.pdf)
+[May 2024](/files/Monthly%20Memo/may_memo%202024.pdf)
 
-[February 2024](/files/Monthly%20Memo/February_Memo_2024.pdf)
+[April 2024](/files/Monthly%20Memo/April_memo_2024.pdf)
 
 [March 2024](/files/Monthly%20Memo/March_Memo_2024.pdf)
 
-[April 2024](/files/Monthly%20Memo/April_memo_2024.pdf)
+[February 2024](/files/Monthly%20Memo/February_Memo_2024.pdf)
+
+[January 2024](/files/Monthly%20Memo/January_Memo_2024.pdf)
+
+
+
+
+
+
 
 
 

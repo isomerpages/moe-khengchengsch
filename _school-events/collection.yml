@@ -2,9 +2,9 @@ collections:
   school-events:
     output: true
     order:
-      - News/2024 RCY First Aid Championships.md
-      - News/KCS Open House 2024.md
       - News/.keep
+      - News/KCS Open House 2024.md
+      - News/2024 RCY First Aid Championships.md
       - News/Primary 5 Camp 2024.md
       - News/2024 Chinese New Year Celebration.md
       - News/64th National Inter School Chess Championship 2023.md

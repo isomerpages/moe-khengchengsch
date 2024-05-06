@@ -6,6 +6,319 @@ third_nav_title: KCS Achievements
 variant: tiptap
 ---
 <h1>Students Achievements</h1>
+<h4>SYF 2024 Modern Dance</h4>
+<p>Kheng Cheng School’s Modern Dance CCA members have been awarded Distinction
+for their 2024 Singapore Youth Festival (SYF) Arts Presentation which they
+took part in on 16 April 2024.&nbsp;</p>
+<p>We would like to take this opportunity to acknowledge the hard work that
+the following girls have put in over the past 10 months to prepare for
+this competition.</p>
+<p>We also want to thank our school leaders for their guidance as well as
+all staff for your continued support towards our Modern Dance CCA members.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GABRIELLE LIM CHI YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KARA TAN SHU YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMALYN GOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMMA OH EE XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YANG WANYI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALYSSANDRA THEA KEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG KAITING CLARA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEONG JIA XI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN RUI XI JAMIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VICTORIA SEAH ZHUO YAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM SHI JUN, NATALIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANGEL LOK HOR YIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA KAI XI, ALLY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FIONA SUM WING TUNG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KIM JEHA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG YU HAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM JIA XIN, REIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIU ZHINING AMBER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN NI YING, CHLOE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEANETTE NG XIN TONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EVA KHANASHAT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FOO TWEE HONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN XI RUI SERENE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEW TIAN EN CHARLENE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYRA QALESYA BINTE MUHAMMAD KAMALRULZAMAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TING JING YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOH YANRONG VELDA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5.1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURALISYAH BINTE MOHAMAD AFIQ</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOPE EN-ZHEN TANAIR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOH ZI EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN KAI EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YE XINYU, DARIELLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAN WENXUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHARLOTTE LOW</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE YUNSHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAELYN TAN LOKE HEE</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Chinese Orchestra 2024</h4>
 <p>42 KCS students from the KCS Chinese Orchestra took part in the biennial
 SYF Arts Presentation on the 30<sup>th</sup> of April 2024 and was awarded

@@ -6,7 +6,665 @@ third_nav_title: KCS Achievements
 variant: tiptap
 ---
 <h1>Students Achievements</h1>
-<p></p>
+<h4>Chinese Orchestra 2024</h4>
+<p>42 KCS students from the KCS Chinese Orchestra took part in the biennial
+SYF Arts Presentation on the 30<sup>th</sup> of April 2024 and was awarded
+the <strong>Certificate of Accomplishment </strong>for their efforts.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA YI QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE QING ZHE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN QIAN EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHIALDIN ZAC TANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>DARRON KAI KHOO BACOMO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOUISE QUEK RUI MIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>HO LOONG HAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>KYAN ELIJAH HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG YU XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="10" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>REANNE KUAN SHIAO CHING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="11" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY JING NI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="12" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>CELESTE ONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="13" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE GABRIELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="14" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>EVIE TAN XUAN TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="15" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAVEN CHENG MENG LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="16" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>SABRINA ALEIYAH TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="17" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN EN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="18" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG JIA QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="19" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEOW SI PANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="20" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHARREN S/O VIMAL KUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="21" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>AARON KOH RU LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="22" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAN SHUTING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="23" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIAN SIYU ERIALYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="24" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG XU HENG SHAWN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="25" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUCAS WONG WEI LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="26" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUO YONGHONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="27" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>MAH RUI LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="28" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>WYATT ENLE YANG HUFFINES</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="29" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>DESIREE LENG YUNG XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="30" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>JORDAN NG YU CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="31" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>OWEN YAR ZHAN WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="32" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE YEOW XIN YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="33" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOY JUN YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="34" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE QIU YI LUCAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="35" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAINER NG CHIA HAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="36" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>WAN CHENG'EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="37" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>SLOBODYANYUK ANDREI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="38" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAN WENXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="39" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO JIA HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="40" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN ZI WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="41" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANG NICOLA G</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="42" data-tight="true" class="tight">
+<li>
+<p>&nbsp;</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>XIA ZIYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.6</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/SYF_OFFICIAL_PHOTO.jpg">
+</div>
 <h4>Choir 2024</h4>
 <p>Kheng Cheng School’s Choir CCA have been awarded <strong>Accomplishment</strong> for
 their 2024 Singapore Youth Festival (SYF) Arts Presentation which they
@@ -533,50 +1191,50 @@ Leaders.</p>
 the ceremony Photographs.</p>
 <h4><strong>2022 - National School Games</strong></h4>
 <h4><strong>Junior 2 Boys</strong></h4>
-<p><strong>120m</strong>
+<p><strong>120m</strong> 
 <br>Ashton Ng Yu Hong (P6.7 this year)- 8th
 <br>Bryan Lee Jia Jun (P6.4 this year) 4th</p>
-<p><strong>25m</strong>
+<p><strong>25m</strong> 
 <br>Cael Syafwan Bin Mohamed (P6.1A this year) - 4th</p>
-<p><strong>Long implement throw</strong>
+<p><strong>Long implement throw</strong> 
 <br>Aegen Chiang Xu Yong (P6.6 this year) - 4th</p>
-<p><strong>Scissors Jump</strong>
+<p><strong>Scissors Jump</strong> 
 <br>Caleb Tan- 1st
 <br>Jovan Teo- 5th</p>
-<p><strong>Shot Put (2kg)</strong>
+<p><strong>Shot Put (2kg)</strong> 
 <br>Tay Yew Kwang (P6.4 this year) - 2nd
 <br>Tay Yew Kwang - 8x50m Relay- 5th</p>
 <h4><strong>Junior 1 Boys</strong></h4>
-<p><strong>Long Jump</strong>
+<p><strong>Long Jump</strong> 
 <br>Zhu Tianxin - 4th</p>
-<p><strong>60m</strong>
+<p><strong>60m</strong> 
 <br>Isaac Chan Chun Wan (P5.3 this year) - 5th
 <br>Izzat- 6th</p>
-<p><strong>Medicine Ball Throw</strong>
+<p><strong>Medicine Ball Throw</strong> 
 <br>Muhammad Nur’Izzat Bin Saffudin (P5.2 this year) - 1st
 <br>Muhammad Nur’Izzat Bin Saffudin - 8x50m relay- 7th</p>
 <h4><strong>Junior 2 Girls</strong></h4>
-<p><strong>Scissors Jump</strong>
+<p><strong>Scissors Jump</strong> 
 <br>Diong Yan Ling (P6.2 this year) - 6th</p>
-<p><strong>120m</strong>
+<p><strong>120m</strong> 
 <br>Ella Tan Yu Xian (P6.2 this year) - 3rd</p>
-<p><strong>Long Implement Throw</strong>
+<p><strong>Long Implement Throw</strong> 
 <br>Tianyi Chanel Maglio (P6.2 this year) - 2nd
 <br>Nurizzati Amaliairdina (P6.2 this year) 3rd</p>
-<p><strong>Medicine Ball Throw</strong>
+<p><strong>Medicine Ball Throw</strong> 
 <br>Maegan Lee Jia Ying (P6.4 this year)- 5th</p>
-<p><strong>Shot Put</strong>
+<p><strong>Shot Put</strong> 
 <br>Sherlyn Kuah Hui Min (P6.7 this year) - 2nd
 <br>Charlene Boo-Koh Cai Ting (P6.6 this year) -4th
 <br>Charlene Boo-Koh Cai Ting - 8x50m relay- 6th</p>
 <h4><strong>Junior 1 Girls</strong></h4>
-<p><strong>40m</strong>
+<p><strong>40m</strong> 
 <br>Nurul Farhah Binte Muhd Firdaus (P5.5 this year)- 4th</p>
-<p><strong>Medicine Ball Throw</strong>
+<p><strong>Medicine Ball Throw</strong> 
 <br>Nur Qalysha Binte Abdullah (P5.2 this year)- 6th</p>
-<p><strong>60m</strong>
+<p><strong>60m</strong> 
 <br>Avril Liow Huiru (P5.2 this year) - 6th</p>
-<p><strong>Long Jump</strong>
+<p><strong>Long Jump</strong> 
 <br>Zhang Xinyu (P5.4 this year) - 6th
 <br>Zhang Xinyu - 8x50m relay- 5th</p>
 <h4><strong>National School Games South Zone Basketball (2022)</strong></h4>

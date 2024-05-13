@@ -6,6 +6,226 @@ third_nav_title: KCS Achievements
 variant: tiptap
 ---
 <h1>Students Achievements</h1>
+<p></p>
+<h4>FCSA Gold Award for KCS Scouts</h4>
+<p>Kheng Cheng School - Kestrel Cub Scouts has been awarded the Frank Cooper
+Sands Award (FCSA) Year of Assessment 2023 under the Preliminary Results
+Release. Created in 1995, FCSA is awarded annually to sectional Scout units
+for unit excellence to honour the father of Scouting in Singapore. We would
+like to take this opportunity to thank our school leaders for their guidance
+and support over the years as well as all our colleagues for your continued
+support towards our scouting activities.</p>
+<p>17 of our cubs (students) participated in the South Area Orienteering
+Competition 2024 on the 20 April 2024 held at the Singapore Botanic Garden.
+We are pleased that all the three teams achieved the “Gold” Standard in
+the competition.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alvin Tee Wen Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peng Ran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.6</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phoon Kaai Yeung Eason</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.2&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Wayne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hu Yuhao Javier&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jun Rui Shane</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Yu Le Immanuel&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Jian An Gabriel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kayden Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayden Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brendan Ng Yu Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Rui Xiang, Darius</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chang Jie Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheah Jun Wei, Dylan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.7</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jayden Lim Chu Xiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6.2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mohamed Khairy Bin Mohamed Agus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lucas Chen Yiyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5.3</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>SYF 2024 Modern Dance</h4>
 <p>Kheng Cheng School’s Modern Dance CCA members have been awarded Distinction
 for their 2024 Singapore Youth Festival (SYF) Arts Presentation which they

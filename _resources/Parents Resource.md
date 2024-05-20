@@ -28,7 +28,7 @@ For all parents' briefing, please click on this webpage : [2024 KCS Parents' Bri
 | Primary 6 | | |
 | -------- | -------- | -------- |
 |PSLE Matters     | --     |     |
-|PSLE Scoring &amp; S1 Posting|||
+|PSLE Scoring &amp; S1 Posting|[PSLE Scoring and S1 Posting 2024](/files/Parents/PSLE_Scoring_and_S1_Posting___Parent_Engagement_2024.pdf)||
 
 
 ### Administration Matters

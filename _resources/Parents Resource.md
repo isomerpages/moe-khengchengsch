@@ -11,14 +11,6 @@ Dear Parents/Guardians,
 For all parents' briefing, please click on this webpage : [2024 KCS Parents' Briefing](https://sites.google.com/moe.edu.sg/kcs-parents-briefing?usp=sharing)
 
 
-
-### Events
-
-| Events |  |  |
-| -------- | -------- | -------- |
-| Primary 5 Camp 2024     |  --    |      |
-
-
 ### Primary 1 Matters
 
 | Primary 1 |  |  |
@@ -36,7 +28,7 @@ For all parents' briefing, please click on this webpage : [2024 KCS Parents' Bri
 | Primary 6 | | |
 | -------- | -------- | -------- |
 |PSLE Matters     | --     |     |
-|PSLE Scoring &amp; S1 Posting|[PSLE scoring and Sec 1 posting](/files/Parents/PSLE_Scoring_and_S1_posting.pdf)||
+|PSLE Scoring &amp; S1 Posting|||
 
 
 ### Administration Matters
@@ -61,4 +53,3 @@ For all parents' briefing, please click on this webpage : [2024 KCS Parents' Bri
 |Parents Workshop – Inappropriate Content|--||
 |Partnership with HDB – Remaking Our Heartland|--||
 |HPB School Health and School Dental Service|--||
-

@@ -2,58 +2,86 @@
 title: School Vision, Mission, Values
 permalink: /about-us/School-Vision-Mission-Values/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## School Vision, Mission, Values
-
-
-### Our Vision
-
-A&nbsp;<b>Dynamic</b>&nbsp;Community of&nbsp;<b>Compassionate Leaders</b>&nbsp;and&nbsp;<b>Critical Thinkers</b>
-
-### Our Story
-
-
-
-
-### Our Mission
-
-<b>Empowering</b>&nbsp;Every Child to&nbsp;<b>Lead and Impact the Community</b>, and be&nbsp;<b>Ready for the Future</b>
-
-
-
-<img src="/images/Values/Kindness.png" style="width:180px;height:200px;margin-right:45px;" align="left">
-
-<b>KINDNESS&nbsp;in HEART</b>
-
-*   We are gracious in our actions.
-*   We show care and concern for others.
-*   We love our community and environment.
-
-
-<img src="/images/Values/Courage.png" style="width:180px;height:200px;margin-right:45px;" align="left">
-
-<b>COURAGE to STAND</b>
-
-*   We do the right thing.
-*   We dare to try.
-*   We finish the race strong.
-
-<img src="/images/Values/Sincerity.png" style="width:180px;height:200px;margin-right:45px;" align="left">
-
-
-<b>SINCERITY of MIGHT</b>
-
-*   We speak the truth.
-*   We show consideration to others.
-*   We learn from our mistakes.
-
-
-<img src="/images/Values/Diligence.png" style="width:180px;height:200px;margin-right:45px;" align="left">
-
-
-<b>DILIGENCE&nbsp;of HAND</b>
-
-*   We seek to learn.
-*   We plan and act on what we set out to do.
-*   We work hard and excel in what we do.
+<h2>School Vision, Mission, Values</h2>
+<h3>Our Vision</h3>
+<p>A&nbsp;<strong>Dynamic</strong>&nbsp;Community of&nbsp;<strong>Compassionate Leaders</strong>&nbsp;and&nbsp;<strong>Critical Thinkers</strong>
+</p>
+<h3>Our Story</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H-S_KlnLiGA?si=ZGKpeOPPvT0R-kdM"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TydAlu73zik?si=U9dzFZGgEO11__Fu"></iframe>
+</div>
+<h3>Our Mission</h3>
+<p><strong>Empowering</strong>&nbsp;Every Child to&nbsp;<strong>Lead and Impact the Community</strong>,
+and be&nbsp;<strong>Ready for the Future</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Kindness.png">
+</div>
+<p><strong>KINDNESS&nbsp;in HEART</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We are gracious in our actions.</p>
+</li>
+<li>
+<p>We show care and concern for others.</p>
+</li>
+<li>
+<p>We love our community and environment.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Courage.png">
+</div>
+<p><strong>COURAGE to STAND</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We do the right thing.</p>
+</li>
+<li>
+<p>We dare to try.</p>
+</li>
+<li>
+<p>We finish the race strong.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Sincerity.png">
+</div>
+<p><strong>SINCERITY of MIGHT</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We speak the truth.</p>
+</li>
+<li>
+<p>We show consideration to others.</p>
+</li>
+<li>
+<p>We learn from our mistakes.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Diligence.png">
+</div>
+<p><strong>DILIGENCE&nbsp;of HAND</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We seek to learn.</p>
+</li>
+<li>
+<p>We plan and act on what we set out to do.</p>
+</li>
+<li>
+<p>We work hard and excel in what we do.</p>
+</li>
+</ul>
+<p></p>

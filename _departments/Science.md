@@ -75,11 +75,9 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
 | Designation | Name |  |
 | -------- | -------- | -------- |
 | Head of Department / Science | Mr Melvin Chang  | |
-|Level Head Science|Ms Daphne Lee||
 |Senior Teacher / Science|Ms Teo Yee Leng||
 |Members|||
 ||Mr Alvin Puah||
-||Ms Ashley Mong||
 ||Mrs Elaine Leong||
 ||Mrs Gillian Teh||
 ||Mrs Jacqueline Anthony||

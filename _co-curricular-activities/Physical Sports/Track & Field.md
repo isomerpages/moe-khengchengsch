@@ -51,8 +51,7 @@ provided with a holistic training environment to train and compete to the
 best of their abilities in championships such as the Singapore Sports School
 Invitational Meet and the National School Games. Above all, attributes
 such as perseverance, sportsmanship and teamwork are essential qualities
-that our student-athletes will pick up through training, competitions and
-service-learning projects.</p>
+that our student-athletes will pick up through training, competitions.</p>
 <h4>Organisation Chart</h4>
 <table style="minWidth: 50px">
 <colgroup>

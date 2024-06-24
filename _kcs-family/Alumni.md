@@ -2,6 +2,7 @@
 title: Alumni
 permalink: /alumni/
 description: ""
+variant: markdown
 ---
 ##### KHENG CHENG SCHOOL ALUMNI ASSOCIATION
 
@@ -14,8 +15,9 @@ Stay connected through our KCS Alumni Facebook which you could learn about the u
 ###### [**KCS Facebook Link Page**](https://www.facebook.com/groups/khengchengschoolalumni)
 
 ###### Application for Alumni Membership
-If you want to join the KCS Alumni Association, click **[HERE](https://docs.google.com/forms/d/e/1FAIpQLSem-P8p92VJnfLz_oB_Yrkochv-zDbZ22sDj7M7fmcyt3avdA/viewform#responses)** and register your interest. You can also download the hardopy of the form here  
-[Alumni KCSA Application Form](Alumni-KCSA-Application-form.pdf)
+If you want to join the KCS Alumni Association, click **[HERE](https://docs.google.com/forms/d/e/1FAIpQLSem-P8p92VJnfLz_oB_Yrkochv-zDbZ22sDj7M7fmcyt3avdA/viewform#responses)** and register your interest. You can also download the hardcopy of the form here  
+[Application Form](/files/Alumni/Alumni-KCSA-Application-form.pdf)
+
 
 For more information, you can also contact the teachers who are in charge of the KCS Alumni Association. 
 
@@ -23,5 +25,5 @@ For more information, you can also contact the teachers who are in charge of the
 
 | Teacher Coordinator 1 | Teacher Coordinator 2 | Alumni Chairman  |
 | -------- | -------- | -------- |
-| Miss Leong Tim Tim   | Mdm Siti Amirah   | Zi Bao     |
+| Miss Leong Tim Tim   | Mdm Siti Amirah   |      |
 | leong_tim_tim@moe.edu.sg | siti_amirah@moe.edu.sg| -------- |

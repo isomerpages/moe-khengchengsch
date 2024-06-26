@@ -10,7 +10,7 @@ variant: markdown
 | P1-1     | Ms Joy Gan Ling Ling | gan_ling_ling_joy@moe.edu.sg  |
 |      | Ms Yeo Yong Yong     | yeo_yong_yong@moe.edu.sg   |
 | P1-2     | Ms Priya Tishan     | priya_tishan@moe.edu.sg   |
-|      | Mdm Joycelyn Ho    |  joycelyn_ho@moe.edu.sg   |
+|      | Ms Nurul Amirah    |  nurul_amirah_ammiruddin@moe.edu.sg   |
 | P1-3     | Ms Sivamalar Kulasegaram   | sivamalar_kulasegaram@moe.edu.sg   |
 |      | Mrs Magdaline Lien     |  chew_mei_ling_magdaline@moe.edu.sg   |
 | P1-4     | Mr Lim Ming En     | lim_ming_en@moe.edu.sg     |

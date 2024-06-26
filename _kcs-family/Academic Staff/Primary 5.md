@@ -15,7 +15,7 @@ variant: markdown
 |      | Mdm Ong Poh Leng     | ong_poh_leng@moe.edu.sg     |
 | P5-4     | Ms Tam Ya Wen     | tam_ya_wen@moe.edu.sg     |
 |      | Ms Gillian Wong     | wong_shu_yi_gillian@moe.edu.sg     |
-| P5-5     | Ms Shalini Venkiteswaran     | shalini_venkiteswaran@moe.edu.sg     |
+| P5-5     | Mr Desmond Lim     | lim_kok_wei_desmond@moe.edu.sg     |
 |      | Ms Grace Yap     | grace_yap_li_ying@moe.edu.sg     |
 | P5-6     | Ms Teo Yee Leng     | teo_yee_leng@moe.edu.sg     |
 |      | Ms Lam Guan Yu     | lam_guan_yu@moe.edu.sg     |

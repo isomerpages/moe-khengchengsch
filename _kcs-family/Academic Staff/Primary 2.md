@@ -19,6 +19,7 @@ variant: markdown
 |      | Mdm Aslinda Paujan     | aslinda_paujan@moe.edu.sg     |
 | P2-6    | Ms Tina Woo     | woo_siew_wei@moe.edu.sg     |
 |      | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg     |
+| | Miss Melati | melati_zulkarnaen@moe.edu.sg
 | P2-7     | Mdm Wu Shu Qing     | wu_shu_qing@moe.edu.sg     |
 |      | Mdm Mahalingam     | mahalingam_indra@moe.edu.sg     |
 | P2-8     | Mdm Claire Lim     | lim_hwee_eng@moe.edu.sg     |

@@ -26,7 +26,6 @@ sections:
       background: /images/Homepage/KCS School building design_watermark for cover.jpeg
   - infopic:
       title: Home Based Learning
-      subtitle: Add an image and text
       id: infopic
       description: Dear Parents/Guardians,   The link to HBL for 11 July and 12 July
         can be accessed here.

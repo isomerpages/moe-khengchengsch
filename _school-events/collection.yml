@@ -2,7 +2,6 @@ collections:
   school-events:
     output: true
     order:
-      - News/2024 National School Games.md
       - News/2024 P5 Camp.md
       - News/2024 Red Cross Day.md
       - News/.keep

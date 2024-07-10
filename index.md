@@ -33,6 +33,7 @@ sections:
       button: Click here
       url: https://go.gov.sg/kcshbl2024
       alt: Image alt text
+      image: /images/hbl 2023.JPG
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

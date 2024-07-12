@@ -62,7 +62,10 @@ User ID: First 5 letters of Name according to class register and last 4 digits o
 
 Click here: [https://youngscientist.sscglobal.com.sg/](https://youngscientist.sscglobal.com.sg/)
 
+### Pazhahu Tamil E-Learning Portal
+
+[Click Here](https://pazhahutamil.com/login/index.php)
+
 ### For Graduating Students
 
 Click here for the steps: [Graduation Guide](/files/T2%20and%20A/gradinfo.pdf)
-

@@ -103,7 +103,7 @@ variant: tiptap
 <p>Building &amp; Estate Fault Reporting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/buildingdefect" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/buildingdefect</a>
+<p><a href="https://go.gov.sg/kcsbuildingdefect" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsbuildingdefect</a>
 </p>
 </td>
 </tr>

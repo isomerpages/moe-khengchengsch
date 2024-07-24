@@ -17,6 +17,7 @@ variant: markdown
 |      | Ms Gillian Wong     | wong_shu_yi_gillian@moe.edu.sg     |
 | P5-5     | Mr Desmond Lim     | lim_kok_wei_desmond@moe.edu.sg     |
 |      | Ms Grace Yap     | grace_yap_li_ying@moe.edu.sg     |
+||Pay Hee Suan|pay_hee_suan@moe.edu.sg|
 | P5-6     | Ms Teo Yee Leng     | teo_yee_leng@moe.edu.sg     |
 |      | Ms Lam Guan Yu     | lam_guan_yu@moe.edu.sg     |
 | P5-7  | Ms Su Yen Leng     | su_yen_leng@moe.edu.sg     |

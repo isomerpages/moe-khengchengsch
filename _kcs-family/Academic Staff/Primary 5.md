@@ -8,7 +8,7 @@ variant: markdown
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
 | P5-1     | Mdm Sophia Loo     | loo_sook_fern@moe.edu.sg     |
-|      |      |      |
+|      |    Edel Chew  |  edel_chew_sijia@moe.edu.sg    |
 | P5-2     | Ms Brenda Peh    | peh_sock_ngor@moe.edu.sg     |
 |      | Ms Han Jiao     | han_jiao@moe.edu.sg     |
 | P5-3     | Mr Jeremy Teo     | teo_yong_sheng_jeremy@moe.edu.sg     |

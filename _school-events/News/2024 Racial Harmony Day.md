@@ -16,6 +16,18 @@ the colorful "bunga manggar" accompanying the groom created a festive wedding
 atmosphere for the students. The final part of the commemoration was a
 fashion parade, where teachers and school leaders, dressed in vibrant and
 glittering ethnic attire, walked the catwalk with their students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/RHD__2_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/RHD__3_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/RHD__4_.jpg">
+</div>
 <p>During recess, we held a food discovery event. Students were all smiles
 as they explored traditional delicacies and drinks from different cultures.
 The prata from Casuarina Curry was the most popular station, with students
@@ -24,3 +36,12 @@ also enjoyed "teh tarik" and Chinese tea, while the Malay station offered
 "putri salat" and "epok-epok."</p>
 <p>The students' boldness in trying new things was commendable, and their
 enthusiasm made the tasting event unforgettable.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/RHD__5_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/RHD__1_.jpg">
+</div>
+<p></p>

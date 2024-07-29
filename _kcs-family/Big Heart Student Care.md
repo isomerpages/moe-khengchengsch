@@ -2,15 +2,188 @@
 title: Big Heart Student Care
 permalink: /bhsc/
 description: ""
+variant: tiptap
 ---
-Big Heart Student Care @ KCS aims to provide quality and affordable after-school care services for students, especially for those who can benefit from a structured and supportive environment in after-school care, and particularly where parents/caregivers are both working.
-
-With its vision, Inspiring Minds • Touching Hearts, our school-based student care centre supports the holistic development of its students through its partnership with the Ministry of Education and strong support from the four Self Help Groups, parents, schools and the community. The holistic programme is designed in collaboration with schools and other organisations to cater to the development of a student’s socio-emotional, intellectual, physical, recreational and creative needs, and to reinforce learning for students who need additional support.
-
-<table style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Signika, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 645.531px; height: 305px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 24px;"><td colspan="3" style="box-sizing: border-box; padding: 5px; width: 639.531px; background-color: rgb(247, 227, 186); text-align: center; height: 24px;"><strong style="box-sizing: border-box; font-weight: bolder;">Centre Manager</strong></td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 24px;"><td colspan="3" style="box-sizing: border-box; padding: 5px; width: 639.531px; text-align: center; height: 24px;">Ms Nur Syazwana Binti Md Nor</td></tr><tr style="box-sizing: border-box; height: 24px; background-color: rgb(250, 246, 125);"><td colspan="3" style="box-sizing: border-box; padding: 5px; width: 639.531px; height: 24px; background-color: rgb(247, 227, 186); text-align: center;"><strong style="box-sizing: border-box; font-weight: bolder;">Senior Student Care Officer</strong></td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 24px;"><td colspan="3" style="box-sizing: border-box; padding: 5px; width: 639.531px; text-align: center; height: 24px;">Ms Siti Zulaikha Binte Mohamed Amin</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; background-color: rgb(247, 227, 186); height: 24px;"><strong style="box-sizing: border-box; font-weight: bolder;">Class</strong></td><td style="box-sizing: border-box; padding: 5px; width: 169px; background-color: rgb(247, 227, 186); height: 24px;"><strong style="box-sizing: border-box; font-weight: bolder;">Level</strong></td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; background-color: rgb(247, 227, 186); height: 24px;"><strong style="box-sizing: border-box; font-weight: bolder;">Student Care Officer</strong></td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Maple</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 1</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Mr Nor Ashikin Binte Mohamed Amin</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Hazle</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 1</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Ms Nadhirah Binte Alin</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Oak</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 2</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Mr Tiru Kumarran S/O M C Murugiah</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Willow</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 2</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Ms Shalini d/o Panneer Selvam</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Cedar</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 3</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Ms Tan Persis</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Olive</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 3</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Ms Erni Faizah Bte Iskandar</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Linden</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 4 &amp; Primary 6</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Ms Anggun Sulastri Binte Mohamed Yusof</td></tr><tr style="box-sizing: border-box; height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Rowan</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 4 &amp; Primary 6</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">Ms Puteri Nur Syahirah Binte Mohamed Hisham</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238); height: 24px;"><td style="box-sizing: border-box; padding: 5px; width: 144px; height: 24px;">KC Pine</td><td style="box-sizing: border-box; padding: 5px; width: 169px; height: 24px;">Primary 5</td><td style="box-sizing: border-box; padding: 5px; width: 326.531px; height: 24px;">&nbsp;Mr Ang Kok Seng Colin</td></tr></tbody></table>
-
-<b>SCC CLOSURE DATES</b>
-
-<table style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Signika, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 735px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; background-color: rgb(110, 195, 245);"><td style="box-sizing: border-box; padding: 5px; width: 62px;"></td><td style="box-sizing: border-box; padding: 5px; width: 100px;"><strong style="box-sizing: border-box; font-weight: bolder;">Date</strong></td><td style="box-sizing: border-box; padding: 5px; width: 102px;"><strong style="box-sizing: border-box; font-weight: bolder;">Day</strong></td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;"><strong style="box-sizing: border-box; font-weight: bolder;">Event</strong></td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;"><strong style="box-sizing: border-box; font-weight: bolder;">No. of Days</strong></td><td style="box-sizing: border-box; padding: 5px; width: 164px;"><strong style="box-sizing: border-box; font-weight: bolder;">Remark</strong></td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td rowspan="3" style="box-sizing: border-box; padding: 5px; background-color: rgb(185, 209, 240); width: 62px;"><strong style="box-sizing: border-box; font-weight: bolder;">Term 1</strong></td><td style="box-sizing: border-box; padding: 5px; width: 100px;">2-Jan-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Monday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">New Year Day(in lieu)</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; width: 100px;">23-Jan-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Monday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Chinese New Year</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; width: 100px;">24-Jan-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Tuesday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Chinese New Year (in lieu)</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box;"><td rowspan="5" style="box-sizing: border-box; padding: 5px; background-color: rgb(185, 209, 240); width: 62px;"><strong style="box-sizing: border-box; font-weight: bolder;">Term 2</strong></td><td style="box-sizing: border-box; padding: 5px; width: 100px;">7-Apr-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Friday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Good Friday</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; width: 100px;">24-Apr-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Monday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Hari Raya Puasa (DOIL)</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Centre Closure</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; width: 100px;">1-May-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Monday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Labour Day</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; width: 100px;">1 Jun-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Thursday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">SCC Staff Training Day</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Centre Closure</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; width: 100px;">2-Jun-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Friday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Vesak Day</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td rowspan="6" style="box-sizing: border-box; padding: 5px; background-color: rgb(185, 209, 240); width: 62px;"><strong style="box-sizing: border-box; font-weight: bolder;">Term 3</strong></td><td style="box-sizing: border-box; padding: 5px; width: 100px;">29-Jun-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Thursday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Hari Raya Haji</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; width: 100px;">8-Aug-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Tuesday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">National Day Eve</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1/2 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Centre Closure at 1.30pm</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; width: 100px;">9-Aug-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Wednesday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">National Day</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; width: 100px;">1-Sep-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Friday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Big Heart Staff Day</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Centre Closure</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; width: 100px;">TBC</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">TBC</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">PSLE LC</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Centre Closure</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; width: 100px;">6-Oct-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Friday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">SCC Staff Training</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Centre Closure</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td rowspan="3" style="box-sizing: border-box; padding: 5px; background-color: rgb(185, 209, 240); width: 62px;"><strong style="box-sizing: border-box; font-weight: bolder;">Term 4</strong></td><td style="box-sizing: border-box; padding: 5px; width: 100px;">13-Nov-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Monday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Deepavali (in lieu)</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 5px; width: 100px;">15-Dec-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Friday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">SCC Admin Day</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Centre Closure</td></tr><tr style="box-sizing: border-box; background: rgb(238, 238, 238);"><td style="box-sizing: border-box; padding: 5px; width: 100px;">25-Dec-23</td><td style="box-sizing: border-box; padding: 5px; width: 102px;">Monday</td><td style="box-sizing: border-box; padding: 5px; width: 198.302px;">Christmas Day</td><td style="box-sizing: border-box; padding: 5px; width: 64.6979px;">1 Day</td><td style="box-sizing: border-box; padding: 5px; width: 164px;">Public Holiday</td></tr></tbody></table>
-
-[Centre Closure](/files/Centre-Closure.pdf)
+<p>Big Heart Student Care @ KCS aims to provide quality and affordable after-school
+care services for students, especially for those who can benefit from a
+structured and supportive environment in after-school care, and particularly
+where parents/caregivers are both working.</p>
+<p>With its vision, Inspiring Minds • Touching Hearts, our school-based student
+care centre supports the holistic development of its students through its
+partnership with the Ministry of Education and strong support from the
+four Self Help Groups, parents, schools and the community. The holistic
+programme is designed in collaboration with schools and other organisations
+to cater to the development of a student’s socio-emotional, intellectual,
+physical, recreational and creative needs, and to reinforce learning for
+students who need additional support.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/Big_Heart_Student_Care_Programmes__KC_.png">
+</div>
+<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>Centre Manager</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Ms Siti Zulaikha Binte Mohamed Amin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Senior Student Care Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Ms Nadhirah Binte Alin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Nur Amira Binte Idris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Care Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Maple</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pauline Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Hazel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Hashfinah Bte Mohd Hashri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Aspen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sheril Haziqah Binte Khairil</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Oak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Arinah Binte Hanif</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Willow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurul Humairah Binte Zaini</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Cedar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nor Ashikin Binte Mohamed Amin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Olive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Zheng Hong (Bryan)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Pine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Irdarwisyah Binte Muhammad Nahar Irzaimi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Rowan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Nur Azleena Binte Razali</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KC Linden &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 &amp; 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Amira&nbsp;Binte&nbsp;Idris</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+<p><strong>SCC CLOSURE DATES</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/2024_Centre_Closure_Dates___KC_V3_conv_1.jpg">
+</div>
+<p></p>

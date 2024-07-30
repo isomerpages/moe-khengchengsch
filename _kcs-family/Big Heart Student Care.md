@@ -122,3 +122,7 @@ students who need additional support.</p>
 <p><strong>Kindly scan our QR code to place your interest with us. You can browse through our e-brochure and watch our cooperate video for more details.</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/BH_QR.png">
+</div>
+<p></p>

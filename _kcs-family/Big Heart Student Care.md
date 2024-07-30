@@ -21,169 +21,108 @@ students who need additional support.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/Big_Heart_Student_Care_Programmes__KC_.png">
 </div>
 <p>&nbsp;</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>Centre Manager</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p>Yasmine Bte Abdul Talib</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Siti Zulaikha Binte Mohamed Amin</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>Senior Student Care Officer</p>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Student Care Officer</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p>Ms Nadhirah Binte Alin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>Nur Amira Binte Idris</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Care Officer</p>
+<p><strong>Student Care Officer</strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>KC Maple</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Pauline Chan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KC Hazel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nur Hashfinah Bte Mohd Hashri</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>KC Aspen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 1</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Sheril Haziqah Binte Khairil</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KC Oak</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nur Arinah Binte Hanif</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>KC Willow</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 2</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Nurul Humairah Binte Zaini</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KC Cedar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nor Ashikin Binte Mohamed Amin</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>KC Olive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 3</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Boon Zheng Hong (Bryan)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KC Pine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 4</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nur Irdarwisyah Binte Muhammad Nahar Irzaimi</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>KC Rowan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 5</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Siti Nur Azleena Binte Razali</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KC Linden &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Primary 5 &amp; 6</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Nur Amira&nbsp;Binte&nbsp;Idris</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>SCC CLOSURE DATES</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/2024_Centre_Closure_Dates___KC_V3_conv_1.jpg">
+</div>
+<h4></h4>
+<p><strong>Kindly scan our QR code to place your interest with us. You can browse through our e-brochure and watch our cooperate video for more details.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/BH_QR.png">
 </div>
 <p></p>

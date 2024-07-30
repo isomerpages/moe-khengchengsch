@@ -118,7 +118,7 @@ students who need additional support.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/2024_Centre_Closure_Dates___KC_V3_conv_1.jpg">
 </div>
-<h4><strong>To register please scan the QR code below:</strong></h4>
+<h4></h4>
 <p><strong>Kindly scan our QR code to place your interest with us. You can browse through our e-brochure and watch our cooperate video for more details.</strong>
 </p>
 <p></p>

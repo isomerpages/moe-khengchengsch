@@ -98,7 +98,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Administration Executive</p>
+<p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hwee Hwee Alice</p>

@@ -1,6 +1,6 @@
 ---
-title: July 2024 Memo
-date: 2024-04-30
+title: August 2024 Memo
+date: 2024-07-30
 layout: link
 description: ""
 image: ""

@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### YEAR 2024
 
-[August 2024](/files/August_2024.pdf)
+[August 2024](/files/Monthly%20Memo/August_Memo_2024.pdf)
 
 [July 2024](/files/Monthly%20Memo/July_Memo_2024.pdf)
 

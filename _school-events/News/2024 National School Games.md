@@ -5,9 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: News
 ---
-<h4><strong>KHENG CHENG SCHOOL</strong></h4>
-<p><strong>PE-CCA DEAPRTMENT</strong>
-</p>
+<h4><strong>PE-CCA DEAPRTMENT</strong></h4>
 <p></p>
 <p><strong>RESULTS OF NON-CCA NATIONAL SCHOOL GAMES COMPETITION</strong>
 </p>
@@ -48,7 +46,7 @@ third_nav_title: News
 <p>1.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Duan Chang Quan</p>
+<p>3 Duan ChangQuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>31st (Achievement Pin)</p>
@@ -64,9 +62,9 @@ third_nav_title: News
 <p>3.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 Duan Chang Quan</p>
-<p>1st Inter Broadsword</p>
-<p>1st Inter cudgel</p>
+<p>5 duan chang quan</p>
+<p>1st inter broadsword</p>
+<p>1st inter cudgel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>17<sup>th</sup>
@@ -84,7 +82,7 @@ third_nav_title: News
 <p>4.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-Duan Chang Quan</p>
+<p>3-Duan changquan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>53rd</p>
@@ -112,9 +110,7 @@ third_nav_title: News
 <p>4.6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5-Duan Chang Quan
-<br>
-</p>
+<p>5-Duan Changquan</p>
 <p>4-Duan Sword</p>
 <p>4-Duan Spear</p>
 </td>
@@ -132,13 +128,9 @@ third_nav_title: News
 <p>5.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Inter Chang Quan
-<br>
-</p>
-<p>1st Inter Sword
-<br>
-</p>
-<p>4 Duan Spear</p>
+<p>1st inter changquan
+<br>1st inter sword
+<br>4 duan spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5<sup>th </sup>(Medal)</p>
@@ -186,15 +178,11 @@ third_nav_title: News
 <p>4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Development Level 2
-<br>
-</p>
-<p>Ball</p>
+<p>Development Level 2 Ball</p>
 <p>Rope</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9<sup>th</sup> Overall</p>
-<p></p>
+<p>9<sup>th</sup> overall</p>
 <p>9<sup>th </sup>(Achievement Pin)</p>
 <p>24<sup>th</sup> (Achievement Pin)</p>
 </td>
@@ -256,14 +244,16 @@ third_nav_title: News
 </td>
 <td rowspan="1" colspan="1">
 <p>Junior 2</p>
-<p>50m Freestyle
+<p>50m freestyle
 <br>
 </p>
 <p>50m Breaststroke</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p>29th</p>
+<p>29<sup>th</sup>
+</p>
+<p></p>
 <p>19th</p>
 </td>
 </tr>
@@ -433,10 +423,6 @@ third_nav_title: News
 </p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>NSG BADMINTON</strong>
 </p>
 <table style="minWidth: 100px">
@@ -467,16 +453,16 @@ third_nav_title: News
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Duan ZiQian</p>
+<p>Duan Ziqian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Junior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>East Tiered 2 Group 7 - 1<sup>st</sup> (Medal)</p>
 </td>
 </tr>
 <tr>
@@ -487,10 +473,10 @@ third_nav_title: News
 <p>4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Junior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>East Tiered 4 Group 1 - 1<sup>st</sup> (Medal)</p>
 </td>
 </tr>
 <tr>
@@ -501,10 +487,10 @@ third_nav_title: News
 <p>4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Junior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>East Tiered 1 Group 8 - 1<sup>st</sup> (Medal)</p>
 </td>
 </tr>
 <tr>
@@ -515,10 +501,10 @@ third_nav_title: News
 <p>5.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Junior Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>East Tiered 1 Group 2 – 4th</p>
 </td>
 </tr>
 </tbody>
@@ -561,12 +547,16 @@ third_nav_title: News
 <p>3.1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Junior</p>
+<p>Junior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Tier 3 Group 3 - 1st</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>

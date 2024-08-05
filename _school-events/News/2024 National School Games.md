@@ -129,8 +129,12 @@ third_nav_title: News
 </td>
 <td rowspan="1" colspan="1">
 <p>1st inter changquan
-<br>1st inter sword
-<br>4 duan spear</p>
+<br>
+</p>
+<p>1st inter sword
+<br>
+</p>
+<p>4 duan spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5<sup>th </sup>(Medal)</p>

@@ -111,7 +111,9 @@ third_nav_title: News
 </td>
 <td rowspan="1" colspan="1">
 <p>5-Duan Changquan</p>
+<p></p>
 <p>4-Duan Sword</p>
+<p></p>
 <p>4-Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,12 +131,18 @@ third_nav_title: News
 </td>
 <td rowspan="1" colspan="1">
 <p>1st inter changquan
-<br>1st inter sword
-<br>4 duan spear</p>
+<br>
+</p>
+<p>1st inter sword
+<br>
+</p>
+<p>4 duan spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5<sup>th </sup>(Medal)</p>
+<p></p>
 <p>4<sup>th </sup>(Medal)</p>
+<p></p>
 <p>7<sup>th</sup> (Medal)</p>
 </td>
 </tr>
@@ -178,7 +186,8 @@ third_nav_title: News
 <p>4.3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Development Level 2 Ball</p>
+<p>Development Level</p>
+<p>2 Ball</p>
 <p>Rope</p>
 </td>
 <td rowspan="1" colspan="1">

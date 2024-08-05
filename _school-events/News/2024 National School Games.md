@@ -559,7 +559,7 @@ third_nav_title: News
 <p>Junior Boys</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tier 3 Group 3 - 1st</p>
+<p>Tier 3 Group 3 - 1st (Medal)</p>
 </td>
 </tr>
 </tbody>

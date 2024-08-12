@@ -139,7 +139,7 @@ variant: tiptap
 <p>KCS SEN Resource</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/kcssenresource" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcssenresource</a>
+<p><a href="https://sites.google.com/moe.edu.sg/kcs-sen-guide/home" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcssenresource</a>
 </p>
 </td>
 </tr>

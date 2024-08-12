@@ -193,7 +193,7 @@ variant: tiptap
 <p>iEXAMS2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://iexams.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://iexams.seab.gov.sg/</a>
+<p><a href="https://iexams.seab.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://iexams.seab.gov.sg/</a>
 </p>
 </td>
 </tr>

@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: School events
           description: ""
-          url: /chess
+          url: /2024-racial-harmony-day/
         - title: Resources
           description: ""
           url: /parentsresource/

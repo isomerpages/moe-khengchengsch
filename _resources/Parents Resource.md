@@ -9,6 +9,8 @@ variant: tiptap
 <p>For all parents' briefing, please click on this webpage : <a href="https://sites.google.com/moe.edu.sg/kcs-parents-briefing?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 KCS Parents' Briefing</a>
 </p>
 <h3>Special Educational Needs (SEN)</h3>
+<p>For more information regarding our school's SEN, please click the link
+below:</p>
 <p><a href="https://sites.google.com/moe.edu.sg/kcs-sen-guide/home" rel="noopener noreferrer nofollow" target="_blank">SEN Resources</a>
 </p>
 <h3>Primary 1 Matters</h3>

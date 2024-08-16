@@ -2,24 +2,104 @@
 title: School Management Committee
 permalink: /kcs-family/smc/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Management Committee
-
-    
-
-<table style="border-collapse:
- collapse;width:487pt" width="650" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:8391;width:177pt" width="236"> <col style="mso-width-source:userset;mso-width-alt:14705;width:310pt" width="414"></colgroup><tbody><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-firstrow:
-  yes;mso-yfti-irow:0" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl65" height="66">Designation</td><td style="width:310pt" width="414" class="xl66">Name</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  1" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Honorary Chairman</td><td style="width:310pt" width="414" class="xl68">Mr Ng Sen Yoon</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  2" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Chairman</td><td style="width:310pt" width="414" class="xl68">Mr Goh Peng Tong, BBM</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  3" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Vice Chairman</td><td style="width:310pt" width="414" class="xl68">Ms Soh Kee Hoon, Jessica</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  4" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Honorary Secretary</td><td style="width:310pt" width="414" class="xl68">Prof Dr Wilson Lim, PBM</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  5" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Honorary Deputy Secretary</td><td style="width:310pt" width="414" class="xl68">Mr Kuik Kiah Kiang, Alan</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  6" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Honorary Treasurer</td><td style="width:310pt" width="414" class="xl68">Mr Low Tech Kah</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  7" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Internal Auditor</td><td style="width:310pt" width="414" class="xl68">Mr Han Teng Juan, PBM</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  8" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Public Relations Officer</td><td style="width:310pt" width="414" class="xl68">Mr Cham Tau Soon</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  9" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Member</td><td style="width:310pt" width="414" class="xl68">Mr Loy Jit Meng</td></tr><tr style="mso-height-source:userset;height:49.95pt;mso-yfti-irow:
-  10;mso-yfti-lastrow:yes" height="66"><td style="height:49.95pt;width:177pt" width="236" class="xl67" height="66">Member</td><td style="width:310pt" width="414" class="xl68">Mr Lee Peng Koon</td></tr></tbody></table>
-
-#### Office Bearer 2024 – 2025
+<h3>School Management Committee</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Designation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Sen Yoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Peng Tong, BBM(L)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Kee Hoon, Jessica</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Dr Wilson Lim, PBM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Deputy Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kuik Kiah Kiang, Alan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Tech Kah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Internal Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Han Teng Juan, PBM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Public Relations Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cham Tau Soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loy Jit Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Peng Koon</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Office Bearer 2024 – 2025</h4>
+<p></p>

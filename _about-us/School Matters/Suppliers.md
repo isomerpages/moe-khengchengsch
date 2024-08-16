@@ -62,14 +62,14 @@ Website: [https://www.pacificbookstores.com](https://www.pacificbookstores.com/
 ### Dental Clinic@KCS
 
 **Contact Number: 87648106**  
-  
-Operating Hours  
+
+**Dental clinic opens on alternate weeks** (subject to change)
+
+Operating Hours 
 
 *   8.00 a.m. to 5.00 p.m. (Mondays, Wednesdays and Fridays)
 *   8.00 a.m. to 5.30 p.m. (Tuesdays and Thursdays)
 *   12.30 p.m. to 1.30 p.m. (Lunchtime - Mondays to Fridays)
-
-**Operates on every alternate week**
 
 For more information, do visit the Health Promotion Board website, [http://www.hpb.gov.sg](http://www.hpb.gov.sg/)  
 

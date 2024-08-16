@@ -65,9 +65,9 @@ Website: [https://www.pacificbookstores.com](https://www.pacificbookstores.com/
   
 Operating Hours  
 
-*   8.00 a.m. to 5.30 p.m. (Mondays to Thursdays)
-*   10.30 a.m. to 12.00 p.m. (Fridays)
-*   2.00 p.m. to 4.00 p.m. (Lunchtime - Mondays to Fridays)
+*   8.00 a.m. to 5.00 p.m. (Mondays, Wednesdays and Fridays)
+*   8.00 a.m. to 5.30 p.m. (Tuesdays and Thursdays)
+*   12.30 p.m. to 1.30 p.m. (Lunchtime - Mondays to Fridays)
 
 **Operates on every alternate week**
 

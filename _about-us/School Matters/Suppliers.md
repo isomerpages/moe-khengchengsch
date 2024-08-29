@@ -5,16 +5,6 @@ description: ""
 third_nav_title: School Matters
 variant: markdown
 ---
-#### School Bookshop:
-
-Please also note that the bookshop will operate between **9 am to 3 pm (Mon-Fri) and 9 am to 12 pm (Sat)** 
-
-#### Uniform Vendor:
-
-Please be informed that our uniform vendor will be operating from the Transit Room in our school, between **9 am to 3 pm** 
-
-
-
 ### Pacific Bookstores Pte Ltd
 
 Contact Person: Ms Lucy & Ms Jasmine  

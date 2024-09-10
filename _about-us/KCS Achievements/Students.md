@@ -7,6 +7,116 @@ variant: tiptap
 ---
 <h1>Students Achievements</h1>
 <p></p>
+<p></p>
+<p></p>
+<h4>Dr Low Guat Tin&nbsp;Challenge 2024</h4>
+<p>The 90<sup>th</sup> GB coy took part in the Dr Low Guat Tin&nbsp;Challenge
+2024. Themed "Better Together, for a Better Tomorrow", this year's competition
+encourages GB Girls to create multimedia entries to raise awareness about
+marginalised groups in our society. We are pleased to announce that we
+have achieved a Gold Award for the Challenge this year.&nbsp; These are
+the girls who took part.&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Jiani, Abha Parolkar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>I Will Never Forget You (Action)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Guat Ju</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Help the Elderly (Illustrate)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Yu En, Cherice Saw, Charlotte Kong, Guo Jiayi, Sharmaine Heng, Jamie
+Boh, Lim Xin Lei, Rhea Ang Samant, Charmaine Yap, Clara Chiaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Happy Colouring Book (Invent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lim Sze Yun, Kaylor Su, Miko Tai, Tan Qian Ting, Janelle Ho, Fisha Firdiana,
+Shamaine Seah, Eilis Tan, Nur Alya Raisha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grandpa, Grandma and Me - A Book of Ideas (Invent)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Wen Rui Alyssa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>My Brother (Write)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ashley Low, Cheong Jia Rong, Phiby Kuah, Soh Zerrin, Guinevere Seah, Janelle
+Tan, Tay Lin Xuan, Micole Chan, Zoey Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aiden's Story - A Boy's Journey With Tourette Syndrome (Write)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cathleen Zang, Elva Lin, Joie Lee, Lim Yu Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fading Lights - Poems of Dementia (Write)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Catelyn Chi, Jaymie Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Holding On (Write)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;We would like to thank everyone for your support for the GB girls.</p>
 <h4>FCSA Gold Award for KCS Scouts</h4>
 <p>Kheng Cheng School - Kestrel Cub Scouts has been awarded the Frank Cooper
 Sands Award (FCSA) Year of Assessment 2023 under the Preliminary Results

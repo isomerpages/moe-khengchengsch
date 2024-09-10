@@ -513,7 +513,7 @@ third_nav_title: News
 <p>Junior Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>East Tiered 1 Group 2 – 4th</p>
+<p>East Tiered 1 Group 2 – 4th (Achievement Pin)</p>
 </td>
 </tr>
 </tbody>

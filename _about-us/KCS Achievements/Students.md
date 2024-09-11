@@ -7,8 +7,6 @@ variant: tiptap
 ---
 <h1>Students Achievements</h1>
 <p></p>
-<p></p>
-<p></p>
 <h4>Dr Low Guat Tin&nbsp;Challenge 2024</h4>
 <p>The 90<sup>th</sup> GB coy took part in the Dr Low Guat Tin&nbsp;Challenge
 2024. Themed "Better Together, for a Better Tomorrow", this year's competition

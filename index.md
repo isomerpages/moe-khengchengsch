@@ -28,4 +28,12 @@ sections:
       subtitle: Latest Announcements
       button: More Announcements
       title: Announcements
+  - infopic:
+      title: HBL
+      subtitle: Add an image and text
+      id: infopic
+      button: click here
+      url: https://khengcheng.moe.edu.sg/hblaug/
+      image: /images/hbl 2023.JPG
+      alt: Image alt text
 ---

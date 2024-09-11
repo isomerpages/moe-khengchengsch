@@ -30,7 +30,6 @@ sections:
       title: Announcements
   - infopic:
       title: HBL
-      subtitle: Add an image and text
       id: infopic
       button: click here
       url: https://khengcheng.moe.edu.sg/hblaug/

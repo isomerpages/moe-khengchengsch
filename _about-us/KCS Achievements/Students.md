@@ -7,6 +7,15 @@ variant: tiptap
 ---
 <h1>Students Achievements</h1>
 <p></p>
+<h4>The SYF Youth Station Project<strong>&nbsp;</strong></h4>
+<p>This is a platform dedicated to showcasing students’ original songs since
+2016. Through this platform, aspiring songwriters are provided with opportunities
+to further develop their interest and skills in songwriting, music arranging,
+production and performing.</p>
+<p>One of our students’ song entry, <em>Either Now or Never</em>, has been
+featured on the SYF Youth Station Select YouTube channel, along with nine
+other entries from various primary schools.</p>
+<p></p>
 <h4>Dr Low Guat Tin&nbsp;Challenge 2024</h4>
 <p>The 90<sup>th</sup> GB coy took part in the Dr Low Guat Tin&nbsp;Challenge
 2024. Themed "Better Together, for a Better Tomorrow", this year's competition

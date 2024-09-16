@@ -7,6 +7,8 @@ variant: tiptap
 <h1>School Rules</h1>
 <h3>Appearance</h3>
 <h4><strong>School Uniform</strong></h4>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is not allowed.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2024 - Plain white/black shoes and white school socks that are clearly

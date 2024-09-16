@@ -12,11 +12,11 @@ the uniform is not allowed.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>2024 - Plain white/black shoes and white school socks that are clearly
-visible above the ankle to be worn</p>
+visible above the ankle to be worn.</p>
 </li>
 <li>
-<p>2025 - Plain black shoes (possible to bold the words plain black?) and
-white school socks that are clearly visible above the ankle to be worn)</p>
+<p>2025 - <strong>Plain black</strong> shoes and white school socks that are
+clearly visible above the ankle to be worn.</p>
 </li>
 <li>
 <p>Fingernails must be short, clean and unpainted.</p>

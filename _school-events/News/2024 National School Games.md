@@ -395,7 +395,7 @@ third_nav_title: News
 <p>Junior White 9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11th</p>
+<p>7<sup>th</sup> (Medal)</p>
 </td>
 </tr>
 <tr>

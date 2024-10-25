@@ -153,7 +153,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms May Kow</p>
+<p>Ms Anjali d/o Govindasamy</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Kiew Teck</p>
+<p>Mr Lawrence Pung</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ variant: tiptap
 <p>Desktop Engineer 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Umairah</p>
+<p>Ms Thina</p>
 </td>
 </tr>
 <tr>

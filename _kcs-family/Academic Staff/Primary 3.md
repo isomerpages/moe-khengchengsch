@@ -20,4 +20,3 @@ variant: markdown
 |      | Ms Ayesha Yasmin     | ayesha_jagaber_yasmin@moe.edu.sg   |
 | P3-6     | Mdm Toh Xiao Ying     | toh_xiao_ying@moe.edu.sg  |
 |      | Mdm Ariel Loh     | loh_lee_miang@moe.edu.sg     |
-|      | Ms Wirna Asyura     | wirna_asyura_ali_a@moe.edu.sg  |

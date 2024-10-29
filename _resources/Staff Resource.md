@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://schools.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://schools.gov.sg/</a>
+<p><a href="https://outlook.office365.com/owa/schools.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://schools.gov.sg/</a>
 </p>
 </td>
 </tr>
@@ -94,8 +94,7 @@ variant: tiptap
 <p>Accident Report</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://bit.ly/KCSAccidentReport" rel="noopener noreferrer nofollow" target="_blank">http://bit.ly/KCSAccidentReport</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -104,15 +103,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/kcsbuildingdefect" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsbuildingdefect</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Fault Reporting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/view/kcs-ict-dept/ict-support/ict-fault-reporting" rel="noopener noreferrer nofollow" target="_blank">Fault Reporting Form</a>
 </p>
 </td>
 </tr>

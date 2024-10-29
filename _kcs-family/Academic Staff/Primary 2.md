@@ -17,8 +17,7 @@ variant: markdown
 |      | Ms Devi Krishnan     | devi_krishnan@moe.edu.sg     |
 | P2-5     | Mdm Seah Sin Peng     | seah_sin_peng@moe.edu.sg     |
 |      | Mdm Aslinda Paujan     | aslinda_paujan@moe.edu.sg     |
-| P2-6    | Ms Tina Woo     | woo_siew_wei@moe.edu.sg     |
-|      | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg     |
+| P2-6 | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg     |
 | | Miss Melati | melati_zulkarnaen@moe.edu.sg
 | P2-7     | Mdm Wu Shu Qing     | wu_shu_qing@moe.edu.sg     |
 |      | Mdm Mahalingam     | mahalingam_indra@moe.edu.sg     |

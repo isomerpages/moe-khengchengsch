@@ -7,6 +7,23 @@ variant: tiptap
 ---
 <h1>Students Achievements</h1>
 <p></p>
+<h4>Playground Partnership Award</h4>
+<p>Kheng Cheng School started our collaboration with Housing &amp; Development
+Board (HDB) in 2020 by being part of the participatory design efforts and
+validation engagements for the Build-A-Playground Initiative. As a continuation
+of the collaboration efforts, the Primary 3 and Primary 4 Art &amp; Craft
+Club members participated in the Playground Flooring Design Competition
+that was organised this year.</p>
+<p>We are pleased to announce that the top three winning designs for the
+N3 Signature Playground Rubber Flooring have been awarded to students of
+Kheng Cheng School. The design that came in first will be adapted for actual
+rubber flooring. Prizes will be presented to our prize winners on the Community
+Build Day event organised by HDB. This is an event where the community
+will be invited to participate in the final installation of parts of the
+playground, amongst other activities, to complete the playground and park
+spaces, which is estimated to happen in the First Quarter 2025. Our heartiest
+congratulations to the following students!</p>
+<p></p>
 <h4>10th National Primary School Picture Book Creation Competition</h4>
 <p>Our Primary 5 Chinese Language teams proudly clinched the Merit Award
 at the 10th National Primary School Picture Book Creation Competition.

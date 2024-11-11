@@ -7,6 +7,47 @@ variant: tiptap
 ---
 <h1>Students Achievements</h1>
 <p></p>
+<h4>Playground Partnership Award</h4>
+<p>Kheng Cheng School started our collaboration with Housing &amp; Development
+Board (HDB) in 2020 by being part of the participatory design efforts and
+validation engagements for the Build-A-Playground Initiative. As a continuation
+of the collaboration efforts, the Primary 3 and Primary 4 Art &amp; Craft
+Club members participated in the Playground Flooring Design Competition
+that was organised this year.</p>
+<p>We are pleased to announce that the top three winning designs for the
+N3 Signature Playground Rubber Flooring have been awarded to students of
+Kheng Cheng School. The design that came in first will be adapted for actual
+rubber flooring. Prizes will be presented to our prize winners on the Community
+Build Day event organised by HDB. This is an event where the community
+will be invited to participate in the final installation of parts of the
+playground, amongst other activities, to complete the playground and park
+spaces, which is estimated to happen in the First Quarter 2025. Our heartiest
+congratulations to the following students!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/P3_and_4_hdb_playground.png">
+</div>
+<h4>10th National Primary School Picture Book Creation Competition</h4>
+<p>Our Primary 5 Chinese Language teams proudly clinched the Merit Award
+at the 10th National Primary School Picture Book Creation Competition.
+By integrating Chinese Language, Art and Technology, they crafted innovative
+and captivating picture books. Competing against 114 schools in the challenging
+“Silent” category, our students demonstrated remarkable creativity and
+teamwork. Visit our school website or follow us on social media to discover
+their outstanding creations!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/P5_book_win.png">
+</div>
+<h4>65th Inter-School Team Chess Championships</h4>
+<p>Our Chess Club sent a total of seven teams, comprising both girls' and
+boys' teams, to compete in the 26th Inter-School Team Chess Championships
+held on 2 and 3 September. We are thrilled to announce that all our girls'
+teams performed exceptionally well, earning prestigious zonal awards! Their
+hard work, strategic thinking and teamwork truly shone. The boys' teams
+also demonstrated remarkable determination, putting up a strong fight against
+tough opponents. We are proud of their dedication, effort and exemplary
+sportsmanship throughout the competition.</p>
 <h4>The SYF Youth Station Project<strong>&nbsp;</strong></h4>
 <p>This is a platform dedicated to showcasing students’ original songs since
 2016. Through this platform, aspiring songwriters are provided with opportunities
@@ -1779,7 +1820,31 @@ Direct School Admission (DSA) into SOTA.</p>
 </div>
 <p>The list of winners can be found on SOTA’s website: <a href="https://sotalava.com/top-50-finalists" rel="noopener noreferrer nofollow" target="_blank">https://sotalava.com/top-50-finalists</a>
 </p>
-<h4><strong>Results of 9th Ang Mo Kio CC Chess Challenge 2023</strong></h4>
+<h4>National Chinese Calligraphy Competition 2023</h4>
+<p>Zhang Xinyu of P 5.4 and Jolene See Ya Ern of P5.3 have won a Merit Award
+and a Consolation Award respectively in the National Chinese Calligraphy
+Competition 2023.</p>
+<p>The Competition was organized by Hong Wen School in Term One. A total
+of 67 schools of 488 students participated. Hence, Zhang Xinyu and Jolene
+See have made Kheng Cheng proud by winning the prestigious awards!</p>
+<h4>SYF Youth Station Project (Song Writing)</h4>
+<div class="isomer-image-wrapper">
+<img style="width:400px;" height="auto" width="100%" src="/images/Achievements/SYF_Song_2022.png">
+</div>
+<h4>64th National Inter-School Chess Championship 2023</h4>
+<p>Our chess players took part in this team competition. 2 teams were awarded
+the runner-up positions in the South Zone:</p>
+<h4>Girls Under 8</h4>
+<p>P2.3 LEONG FANG CHEN
+<br>P2.1 HANNAH CHAN YEE JIA
+<br>P2.5 HENG TZE TING, SHARMAINE
+<br>P1.5 BU QIANYU</p>
+<h4>Girls Open</h4>
+<p>P4.2 LAM YU XIN ZOE
+<br>P4.3 JONG RUI EN REGINA
+<br>P5.3 LAMBRIGHTS CHLOE SZE
+<br>P5.3 JOLENE SEE YA ERN</p>
+<h4>Results of 9th Ang Mo Kio CC Chess Challenge 2023</h4>
 <h4>Girls' Category</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2023 Chess" src="/images/Achievements/AMK_Chess_girls_2023.png">
@@ -1789,7 +1854,7 @@ Direct School Admission (DSA) into SOTA.</p>
 <img style="width: 100%" height="auto" width="100%" alt="2023 Chess Boys" src="/images/Achievements/AMK_Chess_boys_2023.png">
 </div>
 <h5>Click <a href="https://heyzine.com/flip-book/2f3a470c87.html" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for Photographs.</h5>
-<h4><strong>Results of Non-CCA National School Games Competition</strong></h4>
+<h4>Results of Non-CCA National School Games Competition</h4>
 <h4>2023 NSG WUSHU COMPETITION</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Wushu 2023" src="/images/Achievements/Wushu_2023.png">
@@ -1810,9 +1875,8 @@ Direct School Admission (DSA) into SOTA.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GA P4" src="/images/Achievements/Gymnastics_Award_2023_P4.png">
 </div>
-<h5>Click <a href="https://heyzine.com/flip-book/0ea1f1640f.html" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for the event photos.</h5>
-<h5>Click <a href="https://heyzine.com/flip-book/e207ebdc49.html" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for more event photos.</h5>
-<h4><strong>The 30th Annual World Children’s Picture Contest 2022</strong></h4>
+<p></p>
+<h4>The 30th Annual World Children’s Picture Contest 2022</h4>
 <p>The 30th edition of the Annual World Children’s Picture Contest is a drawing
 contest organised by the Japan Agricultural Co-operative to promote the
 exchange of experience and expression between children all over the world.
@@ -1827,7 +1891,7 @@ their artwork. We would like to congratulate them for their achievement.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/picturecontest.JPG">
 </div>
-<h4><strong>GB Awards Ceremony - Company Awards 2022 and Junior Brigader Brooch</strong></h4>
+<h4>GB Awards Ceremony - Company Awards 2022 and Junior Brigader Brooch</h4>
 <p>The Singapore Girls’ Brigade 90th Company in Kheng Cheng School has met
 the standard to achieve the Gold Award for the National Company Awards
 in 2022!</p>
@@ -1839,7 +1903,7 @@ good character, have demonstrated leadership and are responsible Squad
 Leaders.</p>
 <p>Click <a href="https://heyzine.com/flip-book/c955e00db1.html" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for
 the ceremony Photographs.</p>
-<h4><strong>2022 - National School Games</strong></h4>
+<h4>2022 - National School Games</h4>
 <h4><strong>Junior 2 Boys</strong></h4>
 <p><strong>120m</strong> 
 <br>Ashton Ng Yu Hong (P6.7 this year)- 8th
@@ -1887,7 +1951,7 @@ the ceremony Photographs.</p>
 <p><strong>Long Jump</strong> 
 <br>Zhang Xinyu (P5.4 this year) - 6th
 <br>Zhang Xinyu - 8x50m relay- 5th</p>
-<h4><strong>National School Games South Zone Basketball (2022)</strong></h4>
+<h4>National School Games South Zone Basketball (2022)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -2184,7 +2248,7 @@ have out-performed our expectations.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>National School Games (NSG)</strong></h4>
+<h4>National School Games (NSG)</h4>
 <p>The National School Games (NSG) resumed on 19 April for Primary school
 athletes - the Senior Division (Primary 6) students competed (over a span
 of two weeks from 19 to 28 April) and the Junior Division (Primary 4 &amp;
@@ -2223,14 +2287,14 @@ days of competitions in a stadium setting (at Bukit Gombak), the coaches
 all very proud of them!"</p>
 </li>
 </ul>
-<h4><strong>Girls' Brigade Company Awards (2021) - Gold Award</strong></h4>
+<h4>Girls' Brigade Company Awards (2021) - Gold Award</h4>
 <p>The Singapore Girls' Brigade 90th Company is pleased to announce that
 we have met the standard to achieve the Gold Award for the National Company
 Awards in 2021!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GB/gbgoldaward2021.JPG">
 </div>
-<h4><strong>The 29th Annual World Children’s Picture Contest 2021</strong></h4>
+<h4>The 29th Annual World Children’s Picture Contest 2021</h4>
 <p>The 29th edition of the Annual World Children’s Picture Contest is a drawing
 contest organised by the Japan Agricultural Co-operative to promote the
 exchange of experience and expression between children all over the world.
@@ -2242,14 +2306,14 @@ techniques in his artwork. We would like to congratulate Zheng Xian for
 his achievement, and also encourage our students to take part in the upcoming
 30th edition of the Annual World Children Picture Contest. Students may
 find out more from their respective art teacher.</p>
-<h4><strong>Achievement of Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021</strong></h4>
+<h4>Achievement of Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021</h4>
 <p>We are pleased to inform you that our Red Cross Links has once again achieved
 the Gold Award for the Excellent Unit Award (EUA) Year of Assessment 2021.
 Numerous red-cross related activities and enrichment activities were carried
 out to encourage our links to achieve the highest possible level of proficiency
 in training. These inlude first aid knowledge and bandaging skills ensuring
 emergency readiness and preparedness.</p>
-<h4><strong>SYF Youth Station Project songwriting event</strong></h4>
+<h4>SYF Youth Station Project songwriting event</h4>
 <p>The Music Department is delighted to share that two of our students’ song-writing
 entries made it into the Top 10 (Isabelle Adefuin Balangue, P6.5) and Honorary
 Mention (Cheong Ming Yue, P6.4) categories of the SYF Youth Station Project
@@ -2257,7 +2321,7 @@ songwriting event this year.</p>
 <p>The links to their respective songs are as follows:</p>
 <h5>Isabelle: <a href="https://youtu.be/NomGSKgKvFo" rel="noopener noreferrer nofollow" target="_blank">Start of This Journey</a></h5>
 <h5>Ming Yue: <a href="https://youtu.be/ziSCPVDzFcU" rel="noopener noreferrer nofollow" target="_blank">I've Got Your Back</a></h5>
-<h4><strong>The 28th Annual World Children’s Picture Contest 2020</strong></h4>
+<h4>The 28th Annual World Children’s Picture Contest 2020</h4>
 <p>The 28th edition of the Annual World Children’s Picture Contest is a drawing
 contest organised by the Japan Agricultural Co-operative to promote the
 exchange of experience and expression between children all over the world.
@@ -2271,7 +2335,7 @@ from the organisers of the Annual World Children’s Picture Contest.</p>
 <div class="isomer-image-wrapper">
 <img style="width:400px;" height="auto" width="100%" src="/images/Achievements/World_Children_2021.png">
 </div>
-<h4><strong>KCS Art Display at Mediacorp Campus</strong>&nbsp;</h4>
+<h4>KCS Art Display at Mediacorp Campus&nbsp;</h4>
 <p>As part of our Art department’s belief to provide students with opportunities
 to display their talent in art at public platforms, 12 of our student’s
 photographs are on display at Mediacorp Campus – a collaboration with The
@@ -2287,7 +2351,7 @@ display below:</p>
 <div class="isomer-image-wrapper">
 <img style="width:400px;" height="auto" width="100%" src="/images/Art/artaction4.jpg">
 </div>
-<h4><strong>KCS Art Display at Mediacorp Campus</strong>&nbsp;</h4>
+<h4>KCS Art Display at Mediacorp Campus&nbsp;</h4>
 <p>As part of our Art department’s belief to provide students with opportunities
 to display their talent in art at public platforms, 12 of our student’s
 photographs are on display at Mediacorp Campus – a collaboration with The
@@ -2303,7 +2367,7 @@ display below:</p>
 <div class="isomer-image-wrapper">
 <img style="width:400px;" height="auto" width="100%" src="/images/Art/Artdisplay2.png">
 </div>
-<h4><strong>National School Games (NSG) 2022</strong></h4>
+<h4>National School Games (NSG) 2022</h4>
 <p>We are pleased to announce that our Track &amp; Field CCA performed exceptionally
 well in the SPSSC NSG Track &amp; Field Meet which was held from 19 April
 to 27 April.</p>
@@ -2311,12 +2375,6 @@ to 27 April.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NSG 1" src="/images/Achievements/NGS_2022_P1.png">
 </div>
-<h4><strong>National School Games</strong></h4>
-<p>The National School Games (NSG) is Singapore’s largest and most extensive
-annual youth sports event with more than 250 divisional competitions for
-student-athletes across primary and secondary schools, junior colleges
-and centralised institutions. The main aim of the NSG is to encourage character
-development among student-athletes as they pursue sporting excellence.</p>
 <h4>KCS Track &amp; Field</h4>
 <p>At Kheng Cheng School, co-curricular pursuits have played a fundamental
 role in developing well-rounded students. Our Track &amp; Field CCA provides
@@ -2353,7 +2411,7 @@ undergo rigorous training and selection trials to represent the school
 in inter-school and national sporting events. With the resumption of NSG
 this year, we are proud to share the achievements of our students who have
 worked hard to take home victories.</p>
-<h4><strong>2022 National School Games Track and Field Championships</strong></h4>
+<h4>2022 National School Games Track and Field Championships</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NGS 2" src="/images/Achievements/NGS_Track_2022_P2.png">
 </div>
@@ -2365,29 +2423,6 @@ worked hard to take home victories.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NGS P4" src="/images/Achievements/NGS_2022_P4.png">
 </div>
-<h4><strong>National Chinese Calligraphy Competition 2023</strong></h4>
-<p>Zhang Xinyu of P 5.4 and Jolene See Ya Ern of P5.3 have won a Merit Award
-and a Consolation Award respectively in the National Chinese Calligraphy
-Competition 2023.</p>
-<p>The Competition was organized by Hong Wen School in Term One. A total
-of 67 schools of 488 students participated. Hence, Zhang Xinyu and Jolene
-See have made Kheng Cheng proud by winning the prestigious awards!</p>
-<h4><strong>SYF Youth Station Project (Song Writing)</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:400px;" height="auto" width="100%" src="/images/Achievements/SYF_Song_2022.png">
-</div>
-<h4>64th National Inter-School Chess Championship 2023</h4>
-<p>Our chess players took part in this team competition. 2 teams were awarded
-the runner-up positions in the South Zone:</p>
-<h4>Girls Under 8</h4>
-<p>P2.3 LEONG FANG CHEN
-<br>P2.1 HANNAH CHAN YEE JIA
-<br>P2.5 HENG TZE TING, SHARMAINE
-<br>P1.5 BU QIANYU</p>
-<h4>Girls Open</h4>
-<p>P4.2 LAM YU XIN ZOE
-<br>P4.3 JONG RUI EN REGINA
-<br>P5.3 LAMBRIGHTS CHLOE SZE
-<br>P5.3 JOLENE SEE YA ERN</p>
+<h4></h4>
 <h4>Congratulations! We are proud of all of you!</h4>
 <p></p>

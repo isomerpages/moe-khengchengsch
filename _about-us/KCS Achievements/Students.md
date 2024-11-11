@@ -24,6 +24,9 @@ playground, amongst other activities, to complete the playground and park
 spaces, which is estimated to happen in the First Quarter 2025. Our heartiest
 congratulations to the following students!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/P3_and_4_hdb_playground.png">
+</div>
 <h4>10th National Primary School Picture Book Creation Competition</h4>
 <p>Our Primary 5 Chinese Language teams proudly clinched the Merit Award
 at the 10th National Primary School Picture Book Creation Competition.

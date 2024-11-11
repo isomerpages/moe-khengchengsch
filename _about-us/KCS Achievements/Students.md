@@ -6,7 +6,15 @@ third_nav_title: KCS Achievements
 variant: tiptap
 ---
 <h1>Students Achievements</h1>
-<p></p>
+<h4>65th Inter-School Team Chess Championships</h4>
+<p>Our Chess Club sent a total of seven teams, comprising both girls' and
+boys' teams, to compete in the 26th Inter-School Team Chess Championships
+held on 2 and 3 September. We are thrilled to announce that all our girls'
+teams performed exceptionally well, earning prestigious zonal awards! Their
+hard work, strategic thinking and teamwork truly shone. The boys' teams
+also demonstrated remarkable determination, putting up a strong fight against
+tough opponents. We are proud of their dedication, effort and exemplary
+sportsmanship throughout the competition.</p>
 <h4>The SYF Youth Station Project<strong>&nbsp;</strong></h4>
 <p>This is a platform dedicated to showcasing students’ original songs since
 2016. Through this platform, aspiring songwriters are provided with opportunities

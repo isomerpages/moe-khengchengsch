@@ -6,6 +6,19 @@ third_nav_title: KCS Achievements
 variant: tiptap
 ---
 <h1>Students Achievements</h1>
+<p></p>
+<h4>10th National Primary School Picture Book Creation Competition </h4>
+<p>Our Primary 5 Chinese Language teams proudly clinched the Merit Award
+at the 10th National Primary School Picture Book Creation Competition.
+By integrating Chinese Language, Art and Technology, they crafted innovative
+and captivating picture books. Competing against 114 schools in the challenging
+“Silent” category, our students demonstrated remarkable creativity and
+teamwork. Visit our school website or follow us on social media to discover
+their outstanding creations!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/P5_book_win.png">
+</div>
 <h4>65th Inter-School Team Chess Championships</h4>
 <p>Our Chess Club sent a total of seven teams, comprising both girls' and
 boys' teams, to compete in the 26th Inter-School Team Chess Championships

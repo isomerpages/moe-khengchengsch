@@ -6,7 +6,17 @@ third_nav_title: KCS Achievements
 variant: tiptap
 ---
 <h1>Students Achievements</h1>
+<h4>Sony Creative Science Award (SCSA) - WhizKid Category</h4>
+<p><strong>Our school's entry has clinched the first prize</strong>, <strong>triumphing over more than 4,000 competing entries! </strong>This
+remarkable feat highlights the creativity, scientific acumen, and hard
+work of our students and teachers.&nbsp;</p>
+<p>Ms Gan Siow Huang, Minister of State for Education and Manpower, specifically
+highlighted our students' project in her opening speech, further emphasising
+the significance of our achievement.&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/2024_Whizkid__1_.jpg">
+</div>
 <h4>Playground Partnership Award</h4>
 <p>Kheng Cheng School started our collaboration with Housing &amp; Development
 Board (HDB) in 2020 by being part of the participatory design efforts and

@@ -4,10 +4,6 @@ permalink: /parentsresource/
 description: ""
 variant: tiptap
 ---
-<h3>Parents Briefing</h3>
-<p>Dear Parents/Guardians,</p>
-<p>For all parents' briefing, please click on this webpage : <a href="https://sites.google.com/moe.edu.sg/kcs-parents-briefing?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 KCS Parents' Briefing</a>
-</p>
 <h3>Primary 1 Matters</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -254,17 +250,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Standing Together</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sexuality Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,17 +274,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Partnership with HDB – Remaking Our Heartland</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HPB School Health and School Dental Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>--</p>

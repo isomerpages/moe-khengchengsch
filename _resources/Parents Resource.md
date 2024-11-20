@@ -40,7 +40,8 @@ variant: tiptap
 <p>P1 Orientation Briefing and Sharing Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents/P1_Orientation_Slides_2025_conv_2.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Slides</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

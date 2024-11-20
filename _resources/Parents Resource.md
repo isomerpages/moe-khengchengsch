@@ -71,6 +71,18 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Youth Preventive Dental Service</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/schdentalservices" rel="noopener nofollow" target="_blank">Dental Services</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Primary 6 Matters</h3>

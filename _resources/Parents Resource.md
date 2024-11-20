@@ -51,7 +51,8 @@ variant: tiptap
 <p>Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents/P1_Information_Booklet.pdf" rel="noopener nofollow" target="_blank">P1 Information Booklet</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,7 +63,8 @@ variant: tiptap
 <p>P1 Orientation Consolidated FAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents/P1_Orientation_Consolidated_FAQs_2025.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Consolidated FAQs</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

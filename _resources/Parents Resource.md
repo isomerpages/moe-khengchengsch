@@ -44,8 +44,7 @@ variant: tiptap
 <p>P1 Orientation Briefing and Sharing Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_orientation_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Slides</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,8 +55,7 @@ variant: tiptap
 <p>Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_INFORMATION_BOOKLET__FOR_COHORT_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Information Booklet</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -68,8 +66,7 @@ variant: tiptap
 <p>P1 Orientation Consolidated FAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_Orientation_FAQs__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Consolidated FAQs</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

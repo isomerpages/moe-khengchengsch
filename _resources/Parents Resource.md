@@ -4,10 +4,6 @@ permalink: /parentsresource/
 description: ""
 variant: tiptap
 ---
-<h3>Parents Briefing</h3>
-<p>Dear Parents/Guardians,</p>
-<p>For all parents' briefing, please click on this webpage : <a href="https://sites.google.com/moe.edu.sg/kcs-parents-briefing?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">2024 KCS Parents' Briefing</a>
-</p>
 <h3>Primary 1 Matters</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -44,8 +40,7 @@ variant: tiptap
 <p>P1 Orientation Briefing and Sharing Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_orientation_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Slides</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,8 +51,7 @@ variant: tiptap
 <p>Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_INFORMATION_BOOKLET__FOR_COHORT_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Information Booklet</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -68,8 +62,7 @@ variant: tiptap
 <p>P1 Orientation Consolidated FAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_Orientation_FAQs__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Orientation Consolidated FAQs</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -222,17 +215,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Learning Platform &amp; Resources</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Learning Space</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -250,17 +232,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE Website</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Standing Together</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -292,17 +263,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Partnership with HDB – Remaking Our Heartland</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HPB School Health and School Dental Service</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>--</p>

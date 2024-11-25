@@ -17,7 +17,7 @@ variant: markdown
 |     | Ms Kalpana     | kalpana_kannadhasan@moe.edu.sg     |
 | P6-5     | Mr Desmond Lim     | lim_kok_wei_desmond@moe.edu.sg     |
 |      | Ms Grace Yap     | grace_yap_li_ying@moe.edu.sg     |
-| P6-6     | Ms Alisa Chua     | alisa_chua_nyap_lih@moe.edu.sg     |
-|     | Mrs Toh Cheng Hwan     | loh_cheng_hwan@moe.edu.sg     |
-| P6-7     | Ms Ang Su-Juin     | ang_su-juin@moe.edu.sg     |
-|      | Mrs Caryn Ong     | foo_mei_chi_caryn@moe.edu.sg     |
+| P6-6     | Mrs Caryn Ong     | foo_mei_chi_caryn@moe.edu.sg     |
+|     | Mrs Sharon Wong     | chia_seok_kiang_sharon@moe.edu.sg     |
+| P6-7     | Ms Su Yen Leng     | su_yen_leng@moe.edu.sg     |
+|      | Mr Hakim     | abdul_hakim_mohd_udori@moe.edu.sg     |

@@ -18,8 +18,8 @@ variant: markdown
 |      | Ms Yee Kit Yin     | yee_kit_yin@moe.edu.sg     |
 | P2-5     | Mr Nazrul     | raja_nazruldin_raja_kamaru@moe.edu.sg     |
 |      | Mdm Rebecca Chew     | chew_hoi_ang@moe.edu.sg     |
-| P2-6 | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg     |
-| | Miss Melati | melati_zulkarnaen@moe.edu.sg
+| P2-6 | Ms Wong Wan Sian     | wong_wan_sian@moe.edu.sg     |
+| | Ms Chew Jiaying | chew_jia_ying@moe.edu.sg
 | P2-7     | Mdm Wu Shu Qing     | wu_shu_qing@moe.edu.sg     |
 |      | Mdm Mahalingam     | mahalingam_indra@moe.edu.sg     |
 | P2-8     | Mdm Claire Lim     | lim_hwee_eng@moe.edu.sg     |

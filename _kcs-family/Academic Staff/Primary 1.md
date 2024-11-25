@@ -7,19 +7,19 @@ variant: markdown
 ---
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| P1-1     | Ms Joy Gan Ling Ling | gan_ling_ling_joy@moe.edu.sg  |
-|      | Ms Yeo Yong Yong     | yeo_yong_yong@moe.edu.sg   |
-| P1-2     | Ms Priya Tishan     | priya_tishan@moe.edu.sg   |
-|      | Ms Nurul Amirah    |  nurul_amirah_ammiruddin@moe.edu.sg   |
-| P1-3     | Ms Sivamalar Kulasegaram   | sivamalar_kulasegaram@moe.edu.sg   |
-|      | Mrs Magdaline Lien     |  chew_mei_ling_magdaline@moe.edu.sg   |
-| P1-4     | Mr Lim Ming En     | lim_ming_en@moe.edu.sg     |
-|      | Mdm Yee Kit Yin    | yee_kit_yin@moe.edu.sg     |
-| P1-5     | Mr Nazruldin     | raja_nazruldin_raja_kamaru@moe.edu.sg     |
-|     | Mdm Rebecca Chew     | chew_hoi_ang@moe.edu.sg     |
-| P1-6     | Mdm Wong Wan Sian     | wong_wan_sian@moe.edu.sg     |
-|      | Ms Nadiah    | nadiah_mohd_yusof@moe.edu.sg     |
-| P1-7     | Mrs Vince Ho    | lai_shao_fong@moe.edu.sg     |
-|      | Ms Su Ting Ting     |   su_ting_ting@moe.edu.sg    |
-| P1-8     | Mdm Mardiana     | mardiana_ismail@moe.edu.sg     |
-|      | Mr Lee Qin Yi     | lee_qin_yi@moe.edu.sg     |
+| P1-1     | Ms Geraldine Tiew | geraldine_tiew_shuying@moe.edu.sg  |
+|      | Mdm Fong Lik Kuan     | fong_lik_khuan@moe.edu.sg   |
+| P1-2     | Mdm Mahalingam Indra   | mahalingam_indra@moe.edu.sg   |
+|      | Mr Cheng Xijie     |  cheng_xijie@moe.edu.sg   |
+| P1-3     | Ms Choo Wei Ting     | choo_wei_ting@moe.edu.sg   |
+|      | Mdm Aslinda    |  aslinda_paujan@moe.edu.sg   |
+| P1-4     | Mrs Winnie Chan     | winnie_leong_wan_ying@moe.edu.sg     |
+|      | Mdm Wu Shu Qing    | wu_shu_qing@moe.edu.sg     |
+| P1-5     | Mrs Janice Low     | janice_low@moe.edu.sg     |
+|     | Ms Leong Tim Tim     | leong_tim_tim@moe.edu.sg     |
+| P1-6     | Mdm Ariel Loh    | loh_lee_miang@moe.edu.sg   |
+|      | Ms Cui Min    | cui_min@moe.edu.sg    |
+| P1-7     | Ms Nadiah    | nadiah_mohd_yusof@moe.edu.sg     |
+|      | Ms Lim Chiang Mui     |       |
+| P1-8     | Mdm Seah Sin Peng     | seah_sin_peng@moe.edu.sg     |
+|      | Mr Jason Teo     |      |

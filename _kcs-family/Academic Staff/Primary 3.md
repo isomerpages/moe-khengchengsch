@@ -16,8 +16,8 @@ variant: markdown
 |      | Mr Alan Tai     |      |
 |      | Mdm Nurul Amirah     | nurul_amirah_amiruddin@moe.edu.sg     |
 | P3-4     | Mrs Jacqueline Anthony     | jacqueline_anthony@moe.edu.sg     |
-|      | Ms Devi Krishnan     | devi\_krishnan@moe.edu.sg |
-| P3-5     | Ms Nilam Khamis     | nilam_shafia_khamis@moe.edu.sg   |
-|      | Ms Ayesha Yasmin     | ayesha_jagaber_yasmin@moe.edu.sg   |
-| P3-6     | Mdm Toh Xiao Ying     | toh_xiao_ying@moe.edu.sg  |
-|      | Mdm Ariel Loh     | loh_lee_miang@moe.edu.sg     |
+|      | Ms Devi Krishnan     | devi_krishnan@moe.edu.sg |
+| P3-5     | Ms Jocelyn Tay     | tay_puay_san@moe.edu.sg   |
+|      | Ms Yu Mengchen     | yu_mengchen@moe.edu.sg   |
+| P3-6     | Mrs Mano Zuraidah     | zuraidah_buang@moe.edu.sg  |
+|      | Miss Sim En Qi     | sim_en_qi_c@moe.edu.sg     |

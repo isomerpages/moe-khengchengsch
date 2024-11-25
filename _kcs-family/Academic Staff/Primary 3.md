@@ -14,9 +14,9 @@ variant: markdown
 |      | Mr Cheong Tuck Wai     | cheong_tuck_wai@moe.edu.sg     |
 | P3-3     | Mdm Nur Sodiqin     | nur_sodiqin_mohd_fuad@moe.edu.sg     |
 |      | Mr Alan Tai     |      |
-|      | Mdm Neo Beng Hoon     | neo_beng_hoon@moe.edu.sg     |
-| P3-4     | Ms Fong Lik Khuan     | fong_lik_khuan@moe.edu.sg     |
-|      | Mr Lite Tan     | tan_yong_siong@moe.edu.sg  |
+|      | Mdm Nurul Amirah     | nurul_amirah_amiruddin@moe.edu.sg     |
+| P3-4     | Mrs Jacqueline Anthony     | jacqueline_anthony@moe.edu.sg     |
+|      | Ms Devi Krishnan     | devi\_krishnan@moe.edu.sg |
 | P3-5     | Ms Nilam Khamis     | nilam_shafia_khamis@moe.edu.sg   |
 |      | Ms Ayesha Yasmin     | ayesha_jagaber_yasmin@moe.edu.sg   |
 | P3-6     | Mdm Toh Xiao Ying     | toh_xiao_ying@moe.edu.sg  |

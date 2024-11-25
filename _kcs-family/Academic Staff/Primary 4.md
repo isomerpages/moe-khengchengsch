@@ -13,10 +13,9 @@ variant: markdown
 |      | Mr Stanley Yeo     |      |
 | P4-3     | Ms Grace Foong     | foong_sou_wan_grace@moe.edu.sg    |
 |      | Ms Lam Guan Yu     | lam_guan_yu@moe.edu.sg     |
-| P4-4     | Mr Cheong Tuck Wai     | cheong_tuck_wai@moe.edu.sg     |
-|      | Ms Yu Mengchen     | yu_mengchen@moe.edu.sg     |
-||Miss Sim En Qi|sim_en_qi_c@moe.edu.sg|
-| P4-5     | Mr Alvin Puah     | puah_beng_siong_alvin@moe.edu.sg    |
-|      | Mdm Nur Sodiqin     | nur_sodiqin_mohd_fuad@moe.edu.sg     |
-| P4-6     | Mrs Jacqueline Anthony     | jacqueline_anthony@moe.edu.sg     |
-|      | Ms Kalpana      | kalpana_kannadhasan@moe.edu.sg     |
+| P4-4     | Mr Lite Tan     | tan_yong_siong@moe.edu.sg     |
+|      | Ms Ang Su-Juin     | ang_su-juin@moe.edu.sg     |
+| P4-5     | Ms Nilam Khamis     | nilam_shafia_khamis@moe.edu.sg    |
+|      | Ms Ayesha Yasmin     | ayesha_jagaber_yasmin@moe.edu.sg     |
+| P4-6     | Mdm Toh Xiao Ying     | toh_xiao_ying@moe.edu.sg     |
+|      | Ms Gillian Wong      | wong_shu_yi_gillian@moe.edu.sg     |

@@ -7,10 +7,10 @@ variant: markdown
 ---
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| P1-1     | Ms Joy Gan Ling Ling | gan_ling_ling_joy@moe.edu.sg  |
-|      | Ms Yeo Yong Yong     | yeo_yong_yong@moe.edu.sg   |
-| P1-2     | Ms Priya Tishan     | priya_tishan@moe.edu.sg   |
-|      | Ms Nurul Amirah    |  nurul_amirah_ammiruddin@moe.edu.sg   |
+| P1-1     | Ms Geraldine Tiew | geraldine_tiew_shuying@moe.edu.sg  |
+|      | Mdm Fong Lik Kuan     | fong_lik_khuan@moe.edu.sg   |
+| P1-2     | Ms Choo Wei Ting     | choo_wei_ting@moe.edu.sg   |
+|      | Mdm Aslinda    |  aslinda_paujan@moe.edu.sg   |
 | P1-3     | Ms Sivamalar Kulasegaram   | sivamalar_kulasegaram@moe.edu.sg   |
 |      | Mrs Magdaline Lien     |  chew_mei_ling_magdaline@moe.edu.sg   |
 | P1-4     | Mr Lim Ming En     | lim_ming_en@moe.edu.sg     |

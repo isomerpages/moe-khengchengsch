@@ -7,10 +7,11 @@ variant: markdown
 ---
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| P2-1     | Mrs Janice Low     | janice_low@moe.edu.sg     |
-|      | Mr Cheng Xijie     | cheng_xijie@moe.edu.sg     |
-| P2-2     | Ms Choo Wei Ting     | choo_wei_ting@moe.edu.sg     |
-|      | Mdm Zhang Li     | zhang_li_cecely@moe.edu.sg     |
+| P2-1     | Ms Joy Gan Ling Ling     | gan_ling_ling_joy@moe.edu.sg     |
+|      | Ms Yeo Yong Yong     | yeo_yong_yong@moe.edu.sg     |
+|     |Lim Mei Xuan|    |
+| P2-2     | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg    |
+|      | Mdm Janet Chiam     |      |
 | P2-3     | Ms Geraldine Tiew     | geraldine_tiew_shuying@moe.edu.sg     |
 |      | Ms Cui Min     | cui_min@moe.edu.sg     |
 | P2-4     | Mrs Winnie Chan     | winnie_leong_wan_ying@moe.edu.sg     |

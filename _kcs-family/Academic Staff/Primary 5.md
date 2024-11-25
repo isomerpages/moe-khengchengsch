@@ -7,17 +7,15 @@ variant: markdown
 ---
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
-| P5-1     | Ms Santi Lin     |santi_lin_supramaniam@moe.edu.sg   |
+| P5-2     | Ms Santi Lin     |santi_lin_supramaniam@moe.edu.sg   |
 |      |    Ms Yeo Li Ching  |  yeo_li_ching@moe.edu.sg   |
-| P5-2     | Ms Brenda Peh    | peh_sock_ngor@moe.edu.sg     |
-|      | Ms Yu Meng Chen     | yu_mengchen@moe.edu.sg     |
-| P5-3     | Mr Jeremy Teo     | teo_yong_sheng_jeremy@moe.edu.sg     |
-|      | Mdm Ong Poh Leng     | ong_poh_leng@moe.edu.sg     |
-| P5-4     | Ms Tam Ya Wen     | tam_ya_wen@moe.edu.sg     |
-|      | Ms Gillian Wong     | wong_shu_yi_gillian@moe.edu.sg     |
-| P5-5     | Mr Desmond Lim     | lim_kok_wei_desmond@moe.edu.sg     |
-|      | Ms Grace Yap     | grace_yap_li_ying@moe.edu.sg     |
-| P5-6     | Ms Teo Yee Leng     | teo_yee_leng@moe.edu.sg     |
-|      | Ms Lam Guan Yu     | lam_guan_yu@moe.edu.sg     |
-| P5-7  | Ms Su Yen Leng     | su_yen_leng@moe.edu.sg     |
-|      | Mr Hakim     | abdul_hakim_mohd_udori@moe.edu.sg     |
+| P5-3     | Ms Koh Yuan Ting    | koh_yuan_ting@moe.edu.sg     |
+|      | Mr Wu HeKun     |      |
+| P5-4     | Mrs Elaine Leong     | ng_ziyi_elaine@moe.edu.sg     |
+|      | Mdm Zhang Li     | zhang_li_cecely@moe.edu.sg     |
+| P5-5     | Mr Alvin Puah     | puah_beng_siong_alvin@moe.edu.sg     |
+|      | Mdm Neo Beng Hoon     | neo_beng_hoon@moe.edu.sg     |
+| P5-6     | Ms Mandy Chia     | mandy_chia_puay_neo@moe.edu.sg     |
+|      | Mr Jeremy Teo    | teo_yong_sheng_jeremy@moe.edu.sg     |
+| P5-7     | Ms Tan Hwee Min     |      |
+|      | Ms Koh Meng Hoe     | koh_meng_hoe@moe.edu.sg     |

@@ -9,15 +9,15 @@ variant: markdown
 | -------- | -------- | -------- |
 | P2-1     | Ms Joy Gan Ling Ling     | gan_ling_ling_joy@moe.edu.sg     |
 |      | Ms Yeo Yong Yong     | yeo_yong_yong@moe.edu.sg     |
-|     |Lim Mei Xuan|    |
+|     | Ms Lim Mei Xuan|    |
 | P2-2     | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg    |
 |      | Mdm Janet Chiam     |      |
-| P2-3     | Ms Geraldine Tiew     | geraldine_tiew_shuying@moe.edu.sg     |
-|      | Ms Cui Min     | cui_min@moe.edu.sg     |
-| P2-4     | Mrs Winnie Chan     | winnie_leong_wan_ying@moe.edu.sg     |
-|      | Ms Devi Krishnan     | devi_krishnan@moe.edu.sg     |
-| P2-5     | Mdm Seah Sin Peng     | seah_sin_peng@moe.edu.sg     |
-|      | Mdm Aslinda Paujan     | aslinda_paujan@moe.edu.sg     |
+| P2-3     | Ms Magdaline Chew     | chew_mei_ling_magdaline@moe.edu.sg     |
+|      | Ms Sivamalar Kulasegaram     | sivamalar_kulasegaram@moe.edu.sg     |
+| P2-4     | Mr Lim Ming En     | lim_ming_en@moe.edu.sg     |
+|      | Ms Yee Kit Yin     | yee_kit_yin@moe.edu.sg     |
+| P2-5     | Mr Nazrul     | raja_nazruldin_raja_kamaru@moe.edu.sg     |
+|      | Mdm Rebecca Chew     | chew_hoi_ang@moe.edu.sg     |
 | P2-6 | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg     |
 | | Miss Melati | melati_zulkarnaen@moe.edu.sg
 | P2-7     | Mdm Wu Shu Qing     | wu_shu_qing@moe.edu.sg     |

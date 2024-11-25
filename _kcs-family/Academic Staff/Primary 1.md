@@ -19,7 +19,7 @@ variant: markdown
 |     | Ms Leong Tim Tim     | leong_tim_tim@moe.edu.sg     |
 | P1-6     | Mdm Ariel Loh    | loh_lee_miang@moe.edu.sg   |
 |      | Ms Cui Min    | cui_min@moe.edu.sg    |
-| P1-7     | Mrs Vince Ho    | lai_shao_fong@moe.edu.sg     |
-|      | Ms Su Ting Ting     |   su_ting_ting@moe.edu.sg    |
-| P1-8     | Mdm Mardiana     | mardiana_ismail@moe.edu.sg     |
-|      | Mr Lee Qin Yi     | lee_qin_yi@moe.edu.sg     |
+| P1-7     | Ms Nadiah    | nadiah_mohd_yusof@moe.edu.sg     |
+|      | Ms Lim Chiang Mui     |       |
+| P1-8     | Mdm Seah Sin Peng     | seah_sin_peng@moe.edu.sg     |
+|      | Mr Jason Teo     |      |

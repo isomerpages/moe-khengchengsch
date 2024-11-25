@@ -10,10 +10,10 @@ variant: markdown
 | P3-1     | Ms Lee Yen Hong Daphne     | lee_yen_hong@moe.edu.sg     |
 |      | Miss Melati     | melati_zulkarnaen@moe.edu.sg     |
 ||Heng Peck Hoon||
-| P3-2     | Mr Melvin Chang     | chang_jian_wei_melvin@moe.edu.sg     |
-|      | Ms Jane Chua     | chua_zheng_yi_jane@moe.edu.sg     |
-| P3-3     | Ms Grace Foong     | foong_sou_wan_grace@moe.edu.sg     |
-|      | Mr Alex Tan     | tan_ze_yi@moe.edu.sg     |
+| P3-2     | Ms Claire Lim     | lim_hwee_eng@moe.edu.sg     |
+|      | Mr Cheong Tuck Wai     | cheong_tuck_wai@moe.edu.sg     |
+| P3-3     | Mdm Nur Sodiqin     | nur_sodiqin_mohd_fuad@moe.edu.sg     |
+|      | Mr Alan Tai     |      |
 |      | Mdm Neo Beng Hoon     | neo_beng_hoon@moe.edu.sg     |
 | P3-4     | Ms Fong Lik Khuan     | fong_lik_khuan@moe.edu.sg     |
 |      | Mr Lite Tan     | tan_yong_siong@moe.edu.sg  |

@@ -7,6 +7,7 @@ variant: markdown
 ---
 | Class | Form Teacher | Email Address |
 | -------- | -------- | -------- |
+| P5-1     | Mdm Sophia Loo     | loo_sook_fern@moe.edu.sg   |
 | P5-2     | Ms Santi Lin     |santi_lin_supramaniam@moe.edu.sg   |
 |      |    Ms Yeo Li Ching  |  yeo_li_ching@moe.edu.sg   |
 | P5-3     | Ms Koh Yuan Ting    | koh_yuan_ting@moe.edu.sg     |

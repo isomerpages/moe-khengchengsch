@@ -5,9 +5,130 @@ date: 2023-09-13
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
-<span style="font-size:18.0pt;font-family:Arial;color:black">Students from Kheng Cheng School (KCS), Lighthouse School (LHS), and National Junior College (NJC) came together on the 21 July 2023 for our inaugural Music Exchange Programme. <br>
-
-<span style="font-size:18.0pt;font-family:Arial;color:black">This event is not merely a showcase of talents; it holds a deeper purpose - to promote better understanding and appreciation of the Arts. Throughout the day, our students engaged in performance exchanges, exploring various art forms and immersing themselves in the world of music. Additionally, they will have the rare opportunity to get hands-on experiences with musical instruments, further igniting their passion for the Arts. Beyond the melodies and harmonies, this Music Exchange Programme provides a platform for our students to demonstrate Values in Action (VIA). They learned the essence of empathy, respect, and collaboration as they teach and learn from one another, nurturing a culture of camaraderie and understanding. <br>
-
-<span style="font-size:18.0pt;font-family:Arial;color:black">Please click on this link here to watch the combined performance: <a style="box-sizing: border-box; background-color: transparent; cursor: pointer; transition: all 0.25s ease-in-out 0s; color: rgb(128, 56, 61);" rel="noopener noreferrer" target="_blank" href="https://youtu.be/BNeLGlBkQZ8">https://youtu.be/BNeLGlBkQZ8</a></span></span></span>
+<p><strong>Purchase of School Uniforms and Textbooks</strong>
+</p>
+<p>The&nbsp;<strong>school bookshop</strong>&nbsp;will be operating during
+the school holidays on the following dates.</p>
+<p>The opening hours are from&nbsp;<strong>9.00 a.m. to 3.00 p.m.</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 to 29 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-Collection for Online Purchase;</p>
+<p>Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 to 5 December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAS Collection, Self-Collection for Online Purchase;</p>
+<p>Walk-In Purchase for FAS only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-Collection for Online Purchase;</p>
+<p>Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11 to 13 December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-Collection for Online Purchase;</p>
+<p>Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 to 20 December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-Collection for Online Purchase;</p>
+<p>Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 to 27 December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Self-Collection for Online Purchase;</p>
+<p>Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The&nbsp;<strong>school uniform vendor</strong>&nbsp;will be operating
+on the following dates.</p>
+<p>The opening hours are from&nbsp;<strong>9.00 a.m. to 3.00 p.m.</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 to 29 November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 to 5 December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAS Collection, Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Walk-In Purchase for All Levels</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

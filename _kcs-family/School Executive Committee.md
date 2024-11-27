@@ -63,12 +63,12 @@ variant: tiptap
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Goh Ming Sze</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>goh_ming_sze@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,12 +89,12 @@ variant: tiptap
 <p>HOD Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melvin Chang Jian Wei</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>chang_jian_wei_melvin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -232,12 +232,12 @@ variant: tiptap
 <p>SH Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Woo Siew Wei Tina</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>woo_siew_wei@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>

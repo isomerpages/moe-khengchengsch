@@ -1,6 +1,6 @@
 ---
 title: Purchase of School Uniforms and Textbooks
-permalink: /suppliers/
+permalink: /announcements/announcements/permalink/
 date: 2024-11-26
 layout: post
 description: ""

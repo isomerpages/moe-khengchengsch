@@ -13,7 +13,7 @@ variant: markdown
 | P3-2     | Ms Claire Lim     | lim_hwee_eng@moe.edu.sg     |
 |      | Mr Cheong Tuck Wai     | cheong_tuck_wai@moe.edu.sg     |
 | P3-3     | Mdm Nur Sodiqin     | nur_sodiqin_mohd_fuad@moe.edu.sg     |
-|      | Mr Alan Tai     |      |
+|      | Mdm Alan Tai     |      |
 |      | Mdm Nurul Amirah     | nurul_amirah_amiruddin@moe.edu.sg     |
 | P3-4     | Mrs Jacqueline Anthony     | jacqueline_anthony@moe.edu.sg     |
 |      | Ms Devi Krishnan     | devi_krishnan@moe.edu.sg |

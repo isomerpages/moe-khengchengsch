@@ -64,15 +64,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Addition of Event / Activity in KCS Calendar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/kcs-calendar" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcs-calendar</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>KCS Design Request Form</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,14 +78,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">https://rbs.avero-tech.com/</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Accident Report</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>

@@ -17,9 +17,9 @@ variant: markdown
 |      | Mdm Wu Shu Qing    | wu_shu_qing@moe.edu.sg     |
 | Respect     | Mrs Janice Low     | janice_low@moe.edu.sg     |
 |     | Ms Leong Tim Tim     | leong_tim_tim@moe.edu.sg     |
-| Resilience     | Mdm Ariel Loh    | loh_lee_miang@moe.edu.sg   |
+| Resilience     | Mrs Ariel Loh    | loh_lee_miang@moe.edu.sg   |
 |      | Ms Cui Min    | cui_min@moe.edu.sg    |
 | Integrity     | Ms Nadiah    | nadiah_mohd_yusof@moe.edu.sg     |
-|      | Ms Lim Chiang Mui     |   mei_lim_chiang_mui@moe.edu.sg    |
-| Care     | Mdm Seah Sin Peng     | seah_sin_peng@moe.edu.sg     |
+|      | Mdm Lim Chiang Mui     |   mei_lim_chiang_mui@moe.edu.sg    |
+| Care     | Ms Seah Sin Peng     | seah_sin_peng@moe.edu.sg     |
 |      | Mr Jason Teo     |   teo_jason@moe.edu.sg   |

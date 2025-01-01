@@ -10,7 +10,7 @@ variant: markdown
 | P4-1     | Ms Yu Mingxia     | yu_mingxia@moe.edu.sg     |
 |      | Mr Lim Zonghan     | lim_zonghan@moe.edu.sg     |
 | P4-2     | Ms Jane Chua     | chua_zheng_yi_jane@moe.edu.sg     |
-|      | Mr Stanley Yeo     |      |
+|      | Mr Stanley Yeo     |   yeo_hwee_meng_stanley@moe.edu.sg   |
 | P4-3     | Ms Grace Foong     | foong_sou_wan_grace@moe.edu.sg    |
 |      | Ms Lam Guan Yu     | lam_guan_yu@moe.edu.sg     |
 | P4-4     | Mr Lite Tan     | tan_yong_siong@moe.edu.sg     |

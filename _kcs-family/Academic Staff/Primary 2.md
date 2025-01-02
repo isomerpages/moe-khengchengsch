@@ -11,7 +11,7 @@ variant: markdown
 |      | Ms Yeo Yong Yong     | yeo_yong_yong@moe.edu.sg     |
 |     | Ms Lim Mei Xuan| lim_mei_xuan@moe.edu.sg   |
 | P2-2     | Ms Eunice Leow     | leow_min_ru_eunice@moe.edu.sg    |
-|      | Mdm Janet Chiam     |   chiam_pick_ling_janet@moe.edu.sg   |
+|      | Mrs Janet Ng     |   chiam_pick_ling_janet@moe.edu.sg   |
 | P2-3     | Ms Magdaline Chew     | chew_mei_ling_magdaline@moe.edu.sg     |
 |      | Ms Sivamalar Kulasegaram     | sivamalar_kulasegaram@moe.edu.sg     |
 | P2-4     | Mr Lim Ming En     | lim_ming_en@moe.edu.sg     |

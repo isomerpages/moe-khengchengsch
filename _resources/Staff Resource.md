@@ -121,7 +121,7 @@ variant: tiptap
 <p>KCS Memo (Tracking Number)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/kcs-2024-memo" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcs-2024-memo</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1CleYs1cdi9KptwN_uXQaY5Hr6fTcx1qSm5JUe0ZYU9w/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">Outgoing Memo </a>
 </p>
 </td>
 </tr>

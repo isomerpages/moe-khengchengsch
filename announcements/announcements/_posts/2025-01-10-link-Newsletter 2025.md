@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://kcs.aflip.in/cf70dbbe74.html
+external: https://kcs.aflip.in/cf70dbbe74.html
 ---

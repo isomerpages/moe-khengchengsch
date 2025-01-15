@@ -186,10 +186,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Bill FAQ</p>
+<p>Travelling Overseas Link</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--</p>
+<p><a href="https://go.gov.sg/applicationtotraveloverseas" rel="noopener nofollow" target="_blank">TOL Form</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -121,7 +121,7 @@ variant: tiptap
 <p>KCS Memo (Tracking Number)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://docs.google.com/spreadsheets/d/1CleYs1cdi9KptwN_uXQaY5Hr6fTcx1qSm5JUe0ZYU9w/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">Outgoing Memo </a>
+<p><a href="https://docs.google.com/spreadsheets/d/1CleYs1cdi9KptwN_uXQaY5Hr6fTcx1qSm5JUe0ZYU9w/edit?gid=0#gid=0" rel="noopener nofollow" target="_blank">Outgoing Memo</a>
 </p>
 </td>
 </tr>
@@ -204,6 +204,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Accident Report</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/kcsaccident" rel="noopener nofollow" target="_blank">https://go.gov.sg/kcsaccident</a>
 </p>
 </td>
 </tr>

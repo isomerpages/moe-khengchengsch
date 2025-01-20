@@ -11,5 +11,5 @@ variant: markdown
 ![](/images/Canteen/Canteen_Pricing_for_2025_conv_5.jpg)
 ![](/images/Canteen/Canteen_Pricing_for_2025_conv_6.jpg)
 ![](/images/Canteen/Canteen_Pricing_for_2025_conv_7.jpg)
-![](/images/Canteen/Canteen_Pricing_for_2025_conv_8.jpg)
+![]()
 ![](/images/Canteen/Canteen_Pricing_for_2025_conv_9.jpg)

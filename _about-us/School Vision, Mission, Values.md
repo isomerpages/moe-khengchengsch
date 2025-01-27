@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>School Vision, Mission, Values</h2>
 <h3>Our Vision</h3>
-<p>A&nbsp;<strong>Dynamic</strong>&nbsp;Community of&nbsp;<strong>Compassionate Leaders</strong>&nbsp;and&nbsp;<strong>Critical Thinkers</strong>
+<p>A&nbsp;Community of&nbsp;<strong>Compassionate Leaders</strong>&nbsp;and&nbsp;<strong>Innovators</strong>
 </p>
 <h3>Our Story</h3>
 <div class="iframe-wrapper">
@@ -17,9 +17,8 @@ variant: tiptap
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TydAlu73zik?si=U9dzFZGgEO11__Fu"></iframe>
 </div>
 <h3>Our Mission</h3>
-<p><strong>Empowering</strong>&nbsp;Every Child to&nbsp;<strong>Lead and Impact the Community</strong>,
-and be&nbsp;<strong>Ready for the Future</strong>
-</p>
+<p>To Nurture a Culture of Learning and Empower Every Child to&nbsp;Lead
+and Impact the Community.</p>
 <div class="isomer-image-wrapper">
 <img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Kindness.png">
 </div>

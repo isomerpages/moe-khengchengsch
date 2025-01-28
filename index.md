@@ -2,7 +2,7 @@
 layout: homepage
 title: KHENG CHENG SCHOOL
 description: A Dynamic Community of Compassionate Leaders and Critical Thinkers.
-image: /images/KhengChengSchoolLogo.png
+image: /images/Homepage/KCS_Updated.jpg
 permalink: /
 notification: WELCOME TO KHENG CHENG SCHOOL!
 sections:

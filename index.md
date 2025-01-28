@@ -23,7 +23,7 @@ sections:
         - title: Social Media
           description: ""
           url: https://www.instagram.com/kheng.cheng.official/
-      background: /images/Homepage/General_Office___Design_cut.png
+      background: /images/Homepage/General_Office___Design_cut_3.png
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

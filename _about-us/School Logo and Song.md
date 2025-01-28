@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## <center> School Logo and Song </center>
 
-<img src="/images/Kheng-Cheng-School-Logo.jpg" style="width:20%">
+![](/images/Homepage/KCS_Updated.jpg)
 
 
 <b>Blue&nbsp; &nbsp;:</b>&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;Perpetuation of Values  

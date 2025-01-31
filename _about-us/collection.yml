@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Vision, Mission, Values.md
+      - School Vision, Mission, Values and Motto.md
       - School Logo and Song.md
       - Heritage.md
       - School Rules.md
@@ -16,6 +16,5 @@ collections:
       - Visitor Management.md
       - KCS Achievements/.keep
       - KCS Achievements/Achievements.md
-      - KCS Achievements/Staff.md
       - KCS Achievements/Students.md
       - Contact Us.md

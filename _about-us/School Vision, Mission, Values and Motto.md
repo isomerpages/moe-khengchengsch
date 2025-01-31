@@ -1,6 +1,6 @@
 ---
-title: School Vision, Mission, Values
-permalink: /about-us/School-Vision-Mission-Values/
+title: School Vision, Mission, Values and Motto
+permalink: /about-us/school-vision-mission-values/
 description: ""
 variant: tiptap
 ---
@@ -83,4 +83,8 @@ and Impact the Community.</p>
 <p>We work hard and excel in what we do.</p>
 </li>
 </ul>
+<h3>Motto</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Uplift and Uphold" src="/images/Homepage/KCS_Updated.jpg">
+</div>
 <p></p>

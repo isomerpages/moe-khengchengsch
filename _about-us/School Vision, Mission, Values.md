@@ -83,4 +83,4 @@ and Impact the Community.</p>
 <p>We work hard and excel in what we do.</p>
 </li>
 </ul>
-<p></p>
+<p>Motto</p>

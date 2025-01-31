@@ -69,6 +69,27 @@ healthy and rewarding relationships with others, including those with members
 of the opposite sex. Students are also guided to make wise, informed and
 responsible decisions to keep themselves safe from sexuality-related risks.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Sed_2025_P5.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Sed_2025_P5_2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Sed_2025_P6.png">
+</div>
+<p><strong>Information for Parents</strong>
+</p>
+<p><strong>8.&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt
+their children out of Sexuality Education lessons, and/or supplementary
+Sexuality Education programmes by MOE-approved external providers.</p>
+<p><strong>9.</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish
+to opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. The completed opt-out form is to be submitted by 28/02/2025.</p>
+<p><strong>10.</strong>&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+at Mrs Anthony at <a rel="noopener noreferrer nofollow" target="_blank">jacqueline_anthony@moe.edu.sg</a> for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p></p>

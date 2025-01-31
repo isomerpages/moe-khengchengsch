@@ -4,7 +4,10 @@ permalink: /parentsresource/
 description: ""
 variant: tiptap
 ---
-<h3>Primary 1 Matters</h3>
+<h4>Primary 5 and 6 Briefing</h4>
+<p>Dear Parents, please click on this file to download the briefing slides.</p>
+<p></p>
+<h4>Primary 1 Matters</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -85,7 +88,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Primary 6 Matters</h3>
+<h4>Primary 6 Matters</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -129,7 +132,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Administration Matters</h3>
+<h4>Administration Matters</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -198,7 +201,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>General Matters</h3>
+<h4>General Matters</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

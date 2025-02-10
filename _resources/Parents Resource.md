@@ -10,7 +10,7 @@ slides.</p>
 <p><a href="/files/Parents/2025_Parents_Briefing_Hall_Segment_P5_6.pdf" rel="noopener nofollow" target="_blank">Briefing Slides 2025</a>
 </p>
 <p></p>
-<h4>Subject Briefing </h4>
+<h4>Subject Briefing</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -192,6 +192,59 @@ slides.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Parents/Parents__Briefing___Primary_6_Science.pdf" rel="noopener nofollow" target="_blank">P6 SC slides</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing_P2_MT.pdf" rel="noopener nofollow" target="_blank">P2 MT slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing_P3_MT.pdf" rel="noopener nofollow" target="_blank">P3 MT slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing_P4_MT.pdf" rel="noopener nofollow" target="_blank">P4 MT slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing_P5_MT.pdf" rel="noopener nofollow" target="_blank">P5 MT slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing_P6_MT.pdf" rel="noopener nofollow" target="_blank">P6 MT slides</a>
 </p>
 </td>
 </tr>

@@ -270,28 +270,6 @@ slides.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parents Workshop – Inappropriate Content</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Partnership with HDB – Remaking Our Heartland</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

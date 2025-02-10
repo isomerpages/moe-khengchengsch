@@ -9,6 +9,194 @@ variant: tiptap
 slides.</p>
 <p><a href="/files/Parents/2025_Parents_Briefing_Hall_Segment_P5_6.pdf" rel="noopener nofollow" target="_blank">Briefing Slides 2025</a>
 </p>
+<p></p>
+<h4>Subject Briefing </h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___P2_EL_Slides.pdf" rel="noopener nofollow" target="_blank">P2 EL slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___P3_EL_Slides.pdf" rel="noopener nofollow" target="_blank">P3 EL slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___P4_EL_Slides.pdf" rel="noopener nofollow" target="_blank">P4 EL slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___P5_EL_Slides.pdf" rel="noopener nofollow" target="_blank">P5 EL slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Foundation English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___P5_FEL_Slides.pdf" rel="noopener nofollow" target="_blank">P5 FEL slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___P6_EL_Slides.pdf" rel="noopener nofollow" target="_blank">P6 EL slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Foundation English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___P6_FEL_Slides.pdf" rel="noopener nofollow" target="_blank">P6 FEL slides</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing___P2_MA_Slides.pdf" rel="noopener nofollow" target="_blank">P2 MA slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing___P3_MA_Slides.pdf" rel="noopener nofollow" target="_blank">P3 MA slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing___P4_MA_Slides.pdf" rel="noopener nofollow" target="_blank">P4 MA slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing___P5_SMA_Slides.pdf" rel="noopener nofollow" target="_blank">P5 SMA slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Foundation Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing___P5_FMA_Slides.pdf" rel="noopener nofollow" target="_blank">P5 FMA slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing___P6_SMA_Slides.pdf" rel="noopener nofollow" target="_blank">P6 SMA slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Foundation Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/2025_Parents__Briefing___P6_FMA_Slides.pdf" rel="noopener nofollow" target="_blank">P6 FMA slides</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___Primary_3_Science.pdf" rel="noopener nofollow" target="_blank">P3 SC slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4 Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___Primary_4_Science.pdf" rel="noopener nofollow" target="_blank">P4 SC slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___Primary_5_Science.pdf" rel="noopener nofollow" target="_blank">P5 SC slides</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Parents__Briefing___Primary_6_Science.pdf" rel="noopener nofollow" target="_blank">P6 SC slides</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Primary 1 Matters</h4>
 <table style="minWidth: 75px">
 <colgroup>

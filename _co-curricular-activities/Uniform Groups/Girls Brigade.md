@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Uniform Groups
 variant: tiptap
 ---
+<h3>Awards</h3>
+<p>We are glad to share some good news with you. The Singapore Girls’ Brigade
+90<sup>th</sup> Company in Kheng Cheng School has met the standard to achieve
+the Gold Award for the National Company Awards in 2024. We would like to
+thank our school leaders for their guidance and support over the years,
+as well as to all of you for your continued support towards our GB girls.</p>
 <h4>Objectives</h4>
 <p>Through the weekly programme, we seek to develop each girl to her fullest
 potential by equipping her with the necessary skills, empowering her to

@@ -60,19 +60,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>HOD Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>HOD English</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,19 +69,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>kalpana_kannadhasan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>HOD Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -125,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>HOD ICT &amp; Partnership</p>
+<p>HOD/EdTech &amp; Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nilam Shafia</p>
@@ -229,33 +203,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>SH Aesthetics</p>
+<p>Year Head Upper Block &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Tan Hwee Min</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>SH SEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Neo Beng Hoon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>neo_beng_hoon@moe.edu.sg</p>
+<p>tan_hwee_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Year Head Upper Block</p>
+<p>Year Head Middle Block</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Caryn Ong</p>
@@ -303,6 +264,19 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>raja_nazruldin_raja_kamaru@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Asst Year Head (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Sodiqin Binte Mohd Fuad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>nur_sodiqin_mohd_fuad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>

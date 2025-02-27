@@ -4,20 +4,20 @@ permalink: /science/
 description: ""
 variant: markdown
 ---
-### Vision
+#### Vision
 
-A dynamic community of learners inspired by Science, that inquire like scientists and innovate using Science, for life and society.
+An innovative community of learners who embody curiosity and creativity through the application of scientific knowledge.
 
-### Mission
+#### Mission
 
 Empowering every child to be future-ready through the Practices of Science and the Values, Ethics and Attitudes in Science.
 
-### Objectives
+#### Objectives
 
 * Enthuse and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives.
 * Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-### Approach
+#### Approach
 
 Students are given the opportunity to excel and enjoy learning Science through multi-faceted activities at different levels to infuse the spirit of scientific inquiry. The active learning process in Science Education takes place within and beyond the confines of the classrooms and textbooks. These platforms aim to captures students’ interests to be inspired Science learners. Students engage in inquiry-based learning using the 5E Inquiry model (5E Inquiry model), which has scientific inquiry at its core, to facilitate the construction and consolidation of Science concepts. Ultimately, students will be able to innovate and propose models and solutions for real world problems.
 
@@ -25,7 +25,7 @@ Students are given the opportunity to excel and enjoy learning Science through m
 <img style="width:300px;" src="/images/Science/Picture3.png">
 
 
-### Key Programmes
+#### Key Programmes
 
 **Young Explorers @ the Zoo! (YEZ!)**
 
@@ -70,11 +70,11 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
 
 ![](/images/Science/IMG_3391-1536x1024.jpg)
 
-### Science Committee
+#### Science Committee
 
 | Designation | Name |  |
 | -------- | -------- | -------- |
-| Head of Department / Science | Mr Melvin Chang  | |
+| Head of Department / Science | Ms Nilam Shafia  | |
 |Senior Teacher / Science|Ms Teo Yee Leng||
 |Members|||
 ||Mr Alvin Puah||
@@ -82,5 +82,4 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
 ||Mrs Gillian Teh||
 ||Mrs Jacqueline Anthony||
 ||Ms Jocelyn Tay||
-||Ms Nilam Shafia||
 ||Mrs Sharon Wong||

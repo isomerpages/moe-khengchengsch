@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h3>Vision</h3>
-<p>A critical thinker who is an informed, concerned and participative citizen.</p>
+<p>A community of engaged, discerning and empathetic citizens who interact
+thoughtfully with issues impacting their communities and beyond.</p>
 <h3>Objectives</h3>
 <p>National Education is anchored on the following citizenship dispositions,
 which enable our students to realise their part in the flourishing of their

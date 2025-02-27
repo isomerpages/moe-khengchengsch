@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Mathematics
 variant: markdown
 ---
+#### Vision
+
+A community of competent mathematical problem solvers.
+
+
 ![](/images/Mathematics/Maths__1_.JPG)
 ![](/images/Mathematics/Maths__2_.JPG)
 ![](/images/Mathematics/Maths__3_.JPG)
@@ -21,5 +26,3 @@ variant: markdown
 ![](/images/Mathematics/Maths__14_.JPG)
 ![](/images/Mathematics/Maths__15_.JPG)
 ![](/images/Mathematics/Maths__16_.JPG)
-
- 

@@ -244,8 +244,7 @@ slides.</p>
 <p>P6 Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/2025_Parents__Briefing_P6_MT.pdf" rel="noopener nofollow" target="_blank">P6 MT slides</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

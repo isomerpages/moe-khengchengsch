@@ -4,15 +4,15 @@ permalink: /pehm/
 description: ""
 variant: markdown
 ---
-### Vision
+#### Vision
 
 A community of sportsmen, embracing innovation in learning and cultivating values of sportsmanship.
 
-### Mission	
+#### Mission	
 
 To give all students opportunities and experiences to transform, leading to the achievement of total wellness resulting in healthier lifestyles.
 	
-### Objectives
+#### Objectives
 
 *   Understand the importance and benefits of physical activity.
 *   Enjoy and actively participate in a variety of physical activities.
@@ -20,7 +20,7 @@ To give all students opportunities and experiences to transform, leading to the 
 *   Develop and maintain both health-related fitness: cardio-respiratory endurance, muscular strength, muscular endurance, flexibility and body composition; and performance-related fitness: agility, co-ordination and balance.
 *   Play safely with respect to self and others.
 
-### Approach
+#### Approach
 
 MOE has introduced a new PE syllabus with effect from 2014. The lower primary level (P1-P3) focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in students’ performance. The upper primary level extends on the mastery of discrete skills to focus on more complex combinations and sequences of movements, and skills application in more recognisable forms of activity and games.
 
@@ -46,11 +46,11 @@ There are seven learning areas that facilitate the organisation of learning expe
 |Goal 6|Enjoy and value the benefits of living a physically active and healthy life||
 
 
-### Key Programmes
+#### Key Programmes
 
 ![](/images/PE/PE_01.png)
 
-### Health Management
+#### Health Management
 
 With effect from 2016, Health Education (Physical Health) programmes are subsumed under the PE&amp;HE Department. The programmes are listed as follows:  
   
@@ -75,7 +75,7 @@ The eye care week on myopia takes place in Term 2 Weeks 1 &amp; 2. An exhibition
 
 Preventive Drug Education empowers our upper primary students with the knowledge of commonly abused drugs and prevents them from falling prey to drug abuse. This programme takes place in term 3 when the Anti-drug bus visits the school.
 
-### Physical Education Committee
+#### Physical Education Committee
 
 
 

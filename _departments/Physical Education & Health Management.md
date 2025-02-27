@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Vision
 
-Better PE, Better Sports &amp; Better Lives.
+A community of sportsmen, embracing innovation in learning and cultivating values of sportsmanship.
 
 ### Mission	
 
@@ -86,5 +86,5 @@ Preventive Drug Education empowers our upper primary students with the knowledge
 |Members|Mr Lee Qin Yi||
 ||Ms Grace Yap||
 ||Miss Yeo Li Ching||
-||Mr Raymond Khoo||
-||Mr Yung Keng Sing||
+||Mr Jeremy||
+||Ms Tam Ya Wen||

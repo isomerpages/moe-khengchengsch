@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Character & Citizenship (CCE)
 variant: markdown
 ---
-## Vision
+#### Vision
 
-A critical thinker &amp; compassionate leader with a heart to serve the nation.
+Cultivate compassionate, resilient, and responsible citizens who&nbsp;positively contribute to their communities and the world.
 
 ##### We aim to develop in our students:
 * Good character
@@ -21,7 +21,7 @@ A critical thinker &amp; compassionate leader with a heart to serve the nation.
 * Engaging students through varied modes of delivery.
 * Parents as key partners.
 
-### Approach
+#### Approach
 
 “Education has had two great goals: to help young people become smart and to help them become good.” ~ Thomas Lickona.
 
@@ -45,7 +45,7 @@ The goal of CCE is to inculcate values and build competencies in our students to
 ![](/images/CCE/CCE/Slide9.jpg)
 ![](/images/CCE/CCE/Slide10.jpg)
 	
-### 	Key Programmes
+#### 	Key Programmes
 
 #### CCE (MTL)
 

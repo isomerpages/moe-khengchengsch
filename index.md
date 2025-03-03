@@ -25,11 +25,11 @@ sections:
           url: https://www.instagram.com/kheng.cheng.official/
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
+  - infopic:
+      id: infopic
+      image: /images/General Images/KCS_98.jpg
   - resources:
       subtitle: Latest Announcements
       button: More Announcements
       title: Announcements
-  - infopic:
-      id: infopic
-      image: /images/General Images/KCS_98.jpg
 ---

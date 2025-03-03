@@ -29,4 +29,7 @@ sections:
       subtitle: Latest Announcements
       button: More Announcements
       title: Announcements
+  - infopic:
+      id: infopic
+      image: /images/General Images/KCS_98.jpg
 ---

@@ -29,6 +29,7 @@ sections:
       id: infopic
       image: /images/General Images/KCS_98.jpg
       alt: KCS 98
+      subtitle: "98"
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

@@ -29,7 +29,9 @@ sections:
       id: infopic
       image: /images/General Images/KCS_98.jpg
       alt: KCS 98
-      subtitle: kcs 98th founder's day
+      title: KHENG CHENG SCHOOL TURNS 98!
+      description: Let’s continue to celebrate our growth and achievements as we
+        uplift ourselves and others, and uphold our values.
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

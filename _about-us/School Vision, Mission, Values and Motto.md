@@ -87,4 +87,13 @@ and Impact the Community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Uplift and Uphold" src="/images/Homepage/KCS_Updated.jpg">
 </div>
-<p></p>
+<p><strong>Uplift and Uphold</strong>—these words embody the heart of Kheng
+Cheng School’s mission and heritage. Inspired by our founder’s vision of <strong>"uplifting the youths"</strong>,
+our name itself reflects our commitment to nurturing every student’s potential.
+We believe that education is not just about acquiring knowledge but about
+empowering students to rise above challenges, embrace learning with confidence,
+and strive for excellence in all they do.</p>
+<p><strong>To uplift</strong> is to grow, inspire, and support others, while <strong>to uphold </strong>is
+to honor the virtues of <strong>kindness, sincerity, courage, and diligence</strong> in
+all that we do. Through this, we nurture compassionate leaders and innovators
+who make a meaningful impact on their community and beyond.</p>

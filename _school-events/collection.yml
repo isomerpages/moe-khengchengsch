@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - News/P5 Camp 2025.md
       - News/Founder's Day 2025.md
       - News/Open House 2025.md
       - News/Chinese New Year 2025.md

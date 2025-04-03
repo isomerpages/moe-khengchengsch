@@ -331,7 +331,7 @@ variant: tiptap
 <p>SSOE 2 (Staff MIMS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://portal.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://portal.mims.moe.gov.sg/</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app" rel="noopener noreferrer nofollow" target="_blank">https://portal.mims.moe.gov.sg/</a>
 </p>
 </td>
 </tr>

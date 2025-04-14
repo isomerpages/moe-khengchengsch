@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Staff
 variant: markdown
 ---
-| Class | Form Teacher | Email Address |
+| Class | Form Teacher |  |
 | -------- | -------- | -------- |
 | P5-1     | Mdm Sophia Loo     |    |
 | P5-2     | Ms Santi Lin     |   |

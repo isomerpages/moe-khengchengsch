@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Staff
 variant: markdown
 ---
-| Class | Form Teacher | Email Address |
+| Class | Form Teacher |  |
 | -------- | -------- | -------- |
 | P4-1     | Ms Yu Mingxia     |     |
 |      | Mr Lim Zonghan     |      |

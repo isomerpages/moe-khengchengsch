@@ -19,7 +19,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Administration Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -28,11 +28,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>lim_yi_ling_cyndi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Administration Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,11 +36,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>surindranath_kaseenathan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Operations Manager 1</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,11 +44,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>karuppiah_ravindran@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Operations Manager 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,11 +52,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>lim_teng_poh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,11 +60,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ng_chi_hung_adrian@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,11 +68,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>koh_siew_huang@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Admin Executive</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,11 +76,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>tan_hwee_hwee_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,11 +84,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>goh_pei_ling@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,20 +92,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>yip_chai_qun_eunice@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Dena Toh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>dena_toh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +143,7 @@ variant: tiptap
 <p>Desktop Engineer 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Rosli</p>
+<p>Mr Ikmal</p>
 </td>
 </tr>
 </tbody>

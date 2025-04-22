@@ -2,16 +2,16 @@ collections:
   school-events:
     output: true
     order:
+      - News/.keep
+      - News/Open House 2025.md
       - News/National Chinese Challenge 2025.md
       - News/P5 Camp 2025.md
       - News/Founder's Day 2025.md
-      - News/Open House 2025.md
       - News/Chinese New Year 2025.md
       - News/2024 Racial Harmony Day.md
       - News/2024 Scout Club Akela Award.md
       - News/2024 National School Games.md
       - News/2024 Red Cross Day.md
-      - News/.keep
       - News/2024 RCY First Aid Championships.md
       - News/64th National Inter School Chess Championship 2023.md
       - News/Music Exchange.md

@@ -18,7 +18,7 @@ variant: markdown
 |      | Ms Yee Kit Yin     |      |
 | P2-5     | Mr Nazrul     |      |
 |      | Mdm Rebecca Chew     |      |
-| P2-6 | Ms Wong Wan Sian     |      |
+| P2-6 |  Heng Peck Hoon    |      |
 | | Ms Chew Jiaying | 
 | P2-7     | Ms Vince Ho     |     |
 |      | Ms Su Ting Ting     |     |

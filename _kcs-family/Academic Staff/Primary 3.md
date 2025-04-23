@@ -9,7 +9,6 @@ variant: markdown
 | -------- | -------- | -------- |
 | P3-1     | Ms Lee Yen Hong Daphne     |    |
 |      | Miss Melati     |      |
-||Heng Peck Hoon||
 | P3-2     | Ms Claire Lim     |      |
 |      | Mr Cheong Tuck Wai     |      |
 | P3-3     | Mdm Nur Sodiqin     |     |

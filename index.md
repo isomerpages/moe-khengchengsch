@@ -26,12 +26,12 @@ sections:
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
   - infopic:
-      title: National Chinese Challenge 2025
+      title: Open House 2025
       id: infopic
-      description: Our Students Reach the Finals!
-      button: Click here
-      url: https://www.khengcheng.moe.edu.sg/national-chinese-challenge-2025/
-      image: /images/General Images/LianHe_paper.jpg
+      description: 31 May 2025, Saturday 9.30 am to 12 pm
+      button: To register please click here
+      url: https://go.gov.sg/kcsopenhouse2025
+      image: /images/General Images/FLyer_and_Poster_PNG.png
       alt: Image alt text
   - infopic:
       id: infopic
@@ -40,16 +40,16 @@ sections:
       title: KHENG CHENG SCHOOL TURNS 98!
       description: Let’s continue to celebrate our growth and achievements as we
         uplift ourselves and others, and uphold our values.
+  - infopic:
+      title: National Chinese Challenge 2025
+      id: infopic
+      description: Our Students Reach the Finals!
+      button: Click here
+      url: https://www.khengcheng.moe.edu.sg/national-chinese-challenge-2025/
+      image: /images/General Images/LianHe_paper.jpg
+      alt: Image alt text
   - resources:
       subtitle: Latest Announcements
       button: More Announcements
       title: Announcements
-  - infopic:
-      title: Open House 2025
-      id: infopic
-      description: 31 May 2025, Saturday 9.30 am to 12 pm
-      button: To register please click here
-      url: https://go.gov.sg/kcsopenhouse2025
-      image: /images/General Images/FLyer_and_Poster_PNG.png
-      alt: Image alt text
 ---

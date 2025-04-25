@@ -20,7 +20,7 @@ variant: markdown
 |      | Mdm Rebecca Chew     |      |
 | P2-6 |  Heng Peck Hoon    |      |
 | | Ms Chew Jiaying | 
-| P2-7     | Ms Vince Ho     |     |
+| P2-7     | Mdm Cassie Ngian     |     |
 |      | Ms Su Ting Ting     |     |
 | P2-8     | Mr Lee Qin Yi     |      |
 |      | Mdm Mardiana     |  |

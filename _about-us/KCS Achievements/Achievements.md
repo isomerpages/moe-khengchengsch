@@ -7,7 +7,7 @@ variant: markdown
 ---
 # Achievements
 
-### [Staff Achievements](https://www.khengcheng.moe.edu.sg/staffachievements)
+### [Staff Achievements](https://www.khengcheng.moe.edu.sg/staff-achievements)
 
 
 ### [Students Achievements](https://www.khengcheng.moe.edu.sg/studentsachievements/)

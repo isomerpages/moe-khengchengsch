@@ -8,7 +8,7 @@ third_nav_title: News
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/FLyer_and_Poster_PNG.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/KCS_OH_2025.jpg">
 </div>
 <p>Dear Parents/Guardians,</p>
 <p>Please click on this link to register for our Open House visit:</p>

@@ -18,4 +18,4 @@ variant: markdown
 | P4-5     | Ms Nilam Khamis     |     |
 |      | Ms Ayesha Yasmin     |      |
 | P4-6     | Mdm Toh Xiao Ying     |      |
-|      | Ms Gillian Wong      |      |
+|      | Mr Abdul Rauf      |      |

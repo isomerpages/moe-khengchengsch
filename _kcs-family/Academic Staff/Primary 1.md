@@ -8,7 +8,7 @@ variant: markdown
 | Class | Form Teacher |  |
 | -------- | -------- | -------- |
 | P1-1     | Ms Geraldine Tiew |   |
-|      | Mdm Fong Lik Kuan     |   |
+|      | Mr Vimal    |   |
 | P1-2     | Mdm Mahalingam Indra   |    |
 |      | Mr Cheng Xijie     |    |
 | P1-3     | Ms Choo Wei Ting     |   |

@@ -20,7 +20,7 @@ variant: tiptap
 <p>To Nurture a Culture of Learning and Empower Every Child to&nbsp;Lead
 and Impact the Community.</p>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Kindness.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Values/KCS_values_2025__4_.jpg">
 </div>
 <p><strong>KINDNESS&nbsp;in HEART</strong>
 </p>
@@ -33,11 +33,12 @@ and Impact the Community.</p>
 </li>
 <li>
 <p>We love our community and environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Values/KCS_values_2025__3_.jpg">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Courage.png">
-</div>
 <p><strong>COURAGE to STAND</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -49,11 +50,11 @@ and Impact the Community.</p>
 </li>
 <li>
 <p>We finish the race strong.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Values/KCS_values_2025__1_.jpg">
+</div>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Sincerity.png">
-</div>
 <p><strong>SINCERITY of MIGHT</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -68,7 +69,7 @@ and Impact the Community.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width:180px;height:200px;margin-right:45px;" height="auto" width="100%" src="/images/Values/Diligence.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Values/KCS_values_2025__2_.jpg">
 </div>
 <p><strong>DILIGENCE&nbsp;of HAND</strong>
 </p>

@@ -2,7 +2,7 @@
 title: Information Technology
 permalink: /ict/
 description: ""
-third_nav_title: ICT & Partnership
+third_nav_title: ICT EdTech
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

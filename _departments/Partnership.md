@@ -3,7 +3,6 @@ title: Partnership
 permalink: /partnership/
 variant: tiptap
 description: ""
-third_nav_title: ICT & Partnership
 ---
 <p></p>
 <div class="isomer-image-wrapper">

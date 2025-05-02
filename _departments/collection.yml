@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Partnership.md
       - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
@@ -11,6 +10,7 @@ collections:
       - Mother Tongue.md
       - ICT EdTech/.keep
       - ICT EdTech/Information Technology.md
+      - Partnership.md
       - Physical Education & Health Management.md
       - National Education & Social Studies (NESS).md
       - "Aesthetics: Art.md"

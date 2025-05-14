@@ -34,7 +34,7 @@ The Mother Tongue Department Implements holistic assessment for the students.&nb
 
 | Designation | Name | |
 | -------- | -------- | -------- |
-| Head of Department (HOD) Mother Tongue |  Ms Fong Lik Khuan    |     |
+| Head of Department (HOD) Mother Tongue |    |     |
 |Subject Head Chinese Language|Mr Lim Ming En||
 |Senior Teacher (ST) Chinese Language|Mdm Wu Shu Qing||
 |Malay Language Coordinator|Mdm Aslinda Bte Paujan||

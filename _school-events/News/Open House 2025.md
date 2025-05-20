@@ -15,4 +15,4 @@ third_nav_title: News
 <p><a href="https://go.gov.sg/kcsopenhouse2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsopenhouse2025</a>
 </p>
 <p></p>
-<p></p>
+<p>Click here</p>

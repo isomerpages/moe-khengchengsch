@@ -27,6 +27,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>KCS Staff Handbook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://go.gov.sg/kcs-staffhandbook" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/kcs-staffhandbook</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Staff Email (iCON)</p>
 </td>
 <td rowspan="1" colspan="1">

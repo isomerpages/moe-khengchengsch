@@ -36,10 +36,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Staff Email (iCON)</p>
+<p>Morning Announcement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdz18nWKUxu-ITmrPvSLzzaMz5cFLLANW-IrtMeHzeEu-G-iA/viewform" rel="noopener noreferrer nofollow" target="_blank">http://docs.google.com/forms/d/e</a>
 </p>
 </td>
 </tr>

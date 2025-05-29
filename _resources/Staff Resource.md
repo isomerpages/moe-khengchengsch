@@ -27,6 +27,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Staff Icon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>KCS Staff Handbook</p>
 </td>
 <td rowspan="1" colspan="1">

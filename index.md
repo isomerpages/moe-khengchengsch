@@ -29,8 +29,8 @@ sections:
       title: Open House 2025
       id: infopic
       description: 31 May 2025, Saturday 9.30 am to 12 pm
-      button: To register please click here
-      url: https://go.gov.sg/kcsopenhouse2025
+      button: Click here
+      url: https://www.khengcheng.moe.edu.sg/open-house-2025/
       image: /images/General Images/KCS_OH_2025.jpg
       alt: Image alt text
   - infopic:

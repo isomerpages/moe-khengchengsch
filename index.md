@@ -26,15 +26,6 @@ sections:
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
   - infopic:
-      title: Open House 2025
-      id: infopic
-      description: 31 May 2025, Saturday 9.30 am to 12 pm. Registration are closed. We
-        welcome walk-in.
-      button: Click here
-      url: https://www.khengcheng.moe.edu.sg/open-house-2025/
-      image: /images/General Images/KCS_OH_2025.jpg
-      alt: Image alt text
-  - infopic:
       id: infopic
       image: /images/General Images/KCS_98.jpg
       alt: KCS 98

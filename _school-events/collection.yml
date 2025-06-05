@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - News/.keep
-      - News/Open House 2025.md
       - News/National Chinese Challenge 2025.md
       - News/P5 Camp 2025.md
       - News/Founder's Day 2025.md

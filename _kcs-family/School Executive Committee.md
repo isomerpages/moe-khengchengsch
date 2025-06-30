@@ -71,7 +71,7 @@ variant: tiptap
 <p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fong Lik Khuan</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -120,6 +120,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Yen Hong Daphne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Desmond Lim</p>
 </td>
 </tr>
 <tr>

@@ -16,6 +16,8 @@ variant: markdown
 
 [May 2025](/files/Monthly%20Memo/May_2025_Memo.pdf)
 
+[July 2025](/files/Monthly%20Memo/July_Memo_2025.pdf)
+
 ### YEAR 2024
 
 [November 2024](/files/Monthly%20Memo/2024_Nov_Memo.pdf)

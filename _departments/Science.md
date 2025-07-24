@@ -83,3 +83,6 @@ A yearly affair, the fiesta continues to be the top favourite and highlight of e
 ||Mrs Jacqueline Anthony||
 ||Ms Jocelyn Tay||
 ||Mrs Sharon Wong||
+|| Tan Bee Kheng Sally||
+|| Opheania Chen ||
+|| Tieo Ya Ying ||

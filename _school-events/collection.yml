@@ -2,7 +2,7 @@ collections:
   school-events:
     output: true
     order:
-      - News/National Sport Games 2025.md
+      - News/2025 National Sport Games.md
       - News/.keep
       - News/National Chinese Challenge 2025.md
       - News/P5 Camp 2025.md

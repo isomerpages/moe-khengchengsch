@@ -26,6 +26,13 @@ sections:
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       id: infopic
       image: /images/General Images/KCS_98.jpg
       alt: KCS 98

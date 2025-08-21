@@ -34,7 +34,7 @@ sections:
       button: click here to submit
       alt: Image alt text
       image: /images/General Images/CFA01.png
-      url: https://www.khengcheng.moe.edu.sg/open-house-2025/
+      url: https://www.khengcheng.moe.edu.sg/call-for-artefacts-stories/
   - infopic:
       id: infopic
       image: /images/General Images/KCS_98.jpg

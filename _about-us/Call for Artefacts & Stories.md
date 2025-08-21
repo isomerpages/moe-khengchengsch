@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/CFA01.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/General Images/CFA01.png">
 </div>
 <p>Dear Stakeholders,</p>
 <p>Kheng Cheng School is celebrating her 100th anniversary in 2027 and we
@@ -25,6 +25,6 @@ graduation gifts, objects.. ..etc)</p>
 <p>That you are willing to donate to the gallery, please fill in this type
 form!</p>
 <p>Your contributions are deeply appreciated. If you have any questions,
-please contact Allison from My Community at 9793 6095. Thank you!”</p>
+please contact Allison from My Community at 9793 6095. Thank you!</p>
 <p>Submission link: <a href="https://kfvwfc7bjay.typeform.com/to/EU9FCkyl" rel="noopener noreferrer nofollow" target="_blank">https://kfvwfc7bjay.typeform.com/to/EU9FCkyl</a>
 </p>

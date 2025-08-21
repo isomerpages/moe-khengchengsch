@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Call for Artefacts & Stories.md
       - Principal's Message.md
       - School Vision, Mission, Values and Motto.md
       - School Logo and Song.md
@@ -19,4 +18,5 @@ collections:
       - KCS Achievements/Achievements.md
       - KCS Achievements/Staff Achievements.md
       - KCS Achievements/Students.md
+      - Call for Artefacts & Stories.md
       - Contact Us.md

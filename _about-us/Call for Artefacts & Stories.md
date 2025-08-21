@@ -4,6 +4,10 @@ permalink: /call-for-artefacts-stories/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/CFA01.png">
+</div>
 <p>Dear Stakeholders,</p>
 <p>Kheng Cheng School is celebrating her 100th anniversary in 2027 and we
 are working with My Community to co-design and co-curate the school’s Heritage

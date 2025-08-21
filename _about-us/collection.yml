@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Call for Artefacts & Stories.md
       - Principal's Message.md
       - School Vision, Mission, Values and Motto.md
       - School Logo and Song.md

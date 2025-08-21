@@ -26,12 +26,12 @@ sections:
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Call for Artefacts & Stories
       id: infopic
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/General Images/CFA01.png
   - infopic:
       id: infopic
       image: /images/General Images/KCS_98.jpg

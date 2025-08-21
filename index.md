@@ -28,10 +28,13 @@ sections:
   - infopic:
       title: Call for Artefacts & Stories
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: KCS is celebrating her 100th anniversary in 2027 and we are working
+        with My Community to co-design and co-curate the school’s Heritage
+        Gallery with you!
+      button: click here to submit
       alt: Image alt text
       image: /images/General Images/CFA01.png
+      url: https://www.khengcheng.moe.edu.sg/call-for-artefacts-stories/
   - infopic:
       id: infopic
       image: /images/General Images/KCS_98.jpg

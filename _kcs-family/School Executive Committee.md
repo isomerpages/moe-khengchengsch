@@ -220,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager (Safety and Discipline)</p>
+<p>Operations Manager (Safety, Security and Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Karuppiah Ravindran</p>

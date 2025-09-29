@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager 1</p>
+<p>Administration Manager (Finance and HR)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cyndi Kang</p>
@@ -28,7 +28,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager 2</p>
+<p>Administration Manager (Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr K Surindranath</p>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager 1</p>
+<p>Operations Manager (Safety, Security and Discipline)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Karuppiah Ravindran</p>
@@ -44,7 +44,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager 2</p>
+<p>Operations Manager (Facilities and Estate)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Teng Poh Joey&nbsp;</p>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>Desktop Engineer 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ikmal</p>
+<p>Mr Mus</p>
 </td>
 </tr>
 </tbody>

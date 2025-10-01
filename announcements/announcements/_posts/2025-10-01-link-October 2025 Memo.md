@@ -1,6 +1,6 @@
 ---
-title: July 2025 Memo
-date: 2025-07-01
+title: October 2025 Memo
+date: 2025-10-01
 layout: link
 description: ""
 image: ""

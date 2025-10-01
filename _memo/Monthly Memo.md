@@ -19,3 +19,5 @@ variant: markdown
 [July 2025](/files/Monthly%20Memo/July_Memo_2025.pdf)
 
 [August 2025](/files/Monthly%20Memo/August_2025_Memo_.pdf)
+
+[October 2025](/files/Monthly%20Memo/October_2025_Memo.pdf)

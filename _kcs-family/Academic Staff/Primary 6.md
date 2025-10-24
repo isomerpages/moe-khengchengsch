@@ -18,6 +18,6 @@ variant: markdown
 | P6-5     | Mr Desmond Lim     |      |
 |      | Ms Grace Yap     |      |
 | P6-6     | Mrs Caryn Ong     |      |
-|     | Mrs Teo Yee Leng     |     |
+|     | Ms Teo Yee Leng     |     |
 | P6-7     | Ms Su Yen Leng     |      |
 |      | Mr Hakim     |      |

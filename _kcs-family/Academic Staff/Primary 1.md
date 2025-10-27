@@ -17,7 +17,7 @@ variant: markdown
 |      | Mdm Wu Shu Qing    |      |
 | P1-5     | Mrs Janice Low     |      |
 |     | Ms Leong Tim Tim     |      |
-| P1-6     | Mrs Ariel Loh    |    |
+| P1-6     | Mrs Ariel Tan    |    |
 |      | Ms Cui Min    |     |
 | P1-7     | Ms Nadiah    |      |
 |      | Mdm Lim Chiang Mui     |      |

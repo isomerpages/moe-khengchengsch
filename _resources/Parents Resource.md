@@ -271,23 +271,10 @@ slides.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parents Gateway (A digital platform for parents)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Parents/Annex_A___Instructions_on_Onboarding_Parents_Gateway.pdf" rel="noopener noreferrer nofollow" target="_blank">Instructions on Onboarding Parents Gateway</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>P1 Orientation Briefing and Sharing Slides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_Orientation_Slides_2025_conv_2.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Slides</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -298,8 +285,7 @@ slides.</p>
 <p>Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_Information_Booklet.pdf" rel="noopener nofollow" target="_blank">P1 Information Booklet</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -310,8 +296,7 @@ slides.</p>
 <p>P1 Orientation Consolidated FAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/P1_Orientation_Consolidated_FAQs_2025.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Consolidated FAQs</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -79,7 +79,7 @@ variant: tiptap
 <p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Wei Li</p>
 </td>
 </tr>
 <tr>
@@ -120,6 +120,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Alisa Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/SSP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chiang Cher Siang</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +183,7 @@ variant: tiptap
 <p>Year Head Middle Block</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Lim Mei Leng</p>
 </td>
 </tr>
 <tr>

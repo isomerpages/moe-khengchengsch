@@ -46,6 +46,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lincoln Shen Pinhong</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p>Vice-Principal (Admin)</p>
 </td>
@@ -71,7 +79,7 @@ variant: tiptap
 <p>HOD Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Wei Li</p>
 </td>
 </tr>
 <tr>
@@ -108,6 +116,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Alisa Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/SSP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chiang Cher Siang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SSD</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -132,18 +156,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Alisa Chua</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Ming En</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -167,7 +183,7 @@ variant: tiptap
 <p>Year Head Middle Block</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Caryn Ong</p>
+<p>Mrs Lim Mei Leng</p>
 </td>
 </tr>
 <tr>

@@ -50,7 +50,7 @@ variant: tiptap
 <p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lincoln Shen</p>
+<p>Mr Lincoln Shen Pinhong</p>
 </td>
 </tr>
 <tr>

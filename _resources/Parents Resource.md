@@ -285,7 +285,8 @@ slides.</p>
 <p>Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents/P1_INFORMATION_BOOKLET__FOR_COHORT_2026_.pdf" rel="noopener nofollow" target="_blank">P1 Information Booklet 2026</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -296,7 +297,8 @@ slides.</p>
 <p>P1 Orientation Consolidated FAQs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Parents/P1_Orientation_Consolidated_FAQs.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Consolidated FAQ 2026</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -278,6 +278,8 @@ slides.</p>
 </p>
 <p></p>
 <p><a href="/files/Parents/P1_Orientation_Parents__Engagement__AYH_s_Sharing_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation AYH Sharing</a>
+<br>
+<br><a href="https://www.khengcheng.moe.edu.sg/psg/" rel="noopener nofollow" target="_blank">Parents Support Group</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

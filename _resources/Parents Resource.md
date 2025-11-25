@@ -274,7 +274,11 @@ slides.</p>
 <p>P1 Orientation Briefing and Sharing Slides</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Parents/P1_Orientation_Parents__Engagement__Principal_s_Sharing_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Principal Sharing</a>
+</p>
 <p></p>
+<p><a href="/files/Parents/P1_Orientation_Parents__Engagement__AYH_s_Sharing_.pdf" rel="noopener nofollow" target="_blank">P1 Orientation AYH Sharing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

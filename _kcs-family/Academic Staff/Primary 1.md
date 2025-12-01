@@ -7,19 +7,19 @@ variant: markdown
 ---
 | Class | Form Teacher |  |
 | -------- | -------- | -------- |
-| P1-1     | Ms Geraldine Tiew |   |
-|      | Mr Vimal    |   |
-| P1-2     | Mdm Mahalingam Indra   |    |
-|      | Mr Cheng Xijie     |    |
-| P1-3     | Ms Choo Wei Ting     |   |
-|      | Mdm Aslinda    |     |
-| P1-4     | Mrs Winnie Chan     |      |
-|      | Mdm Wu Shu Qing    |      |
-| P1-5     | Mrs Janice Low     |      |
-|     | Ms Leong Tim Tim     |      |
-| P1-6     | Mrs Ariel Tan    |    |
-|      | Ms Cui Min    |     |
-| P1-7     | Ms Nadiah    |      |
-|      | Mdm Lim Chiang Mui     |      |
-| P1-8     | Ms Seah Sin Peng     |     |
-|      | Mr Jason Teo     |     |
+| P1-1     | Ching Hong Ying |   |
+|      | Ang Su-Juin    |   |
+| P1-2     | Magdaline Chew   |    |
+|      | Shu Xiaomei     |    |
+| P1-3     | Tai Alan     |   |
+|      | Yeo Yong Yong    |     |
+| P1-4     | Yee Kit Yin     |      |
+|      | Chen Qianhui    |      |
+| P1-5     | Rebecca Chew     |      |
+|     | Lim Chiang Mui     |      |
+| P1-6     | Mardiana    |    |
+|      | Chen Chen   |     |
+| P1-7     | Jessalyn Lee    |      |
+|      | Chen Xijie     |      |
+| P1-8     | Cheryl Ho    |     |
+|      | Lam Guan Yu   |     |

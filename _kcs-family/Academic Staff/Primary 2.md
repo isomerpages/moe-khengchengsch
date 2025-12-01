@@ -7,20 +7,20 @@ variant: markdown
 ---
 | Class | Form Teacher |  |
 | -------- | -------- | -------- |
-| P2-1     | Ms Joy Gan Ling Ling     |     |
-|      | Ms Yeo Yong Yong     |      |
+| P2-1     | Geraldine Tiew     |     |
+|      | Zhang Li     |      |
 |     | Ms Lim Mei Xuan|   |
-| P2-2     | Ms Eunice Leow     |    |
-|      | Mrs Janet Ng     |     |
-| P2-3     | Ms Magdaline Chew     |     |
-|      | Ms Sivamalar Kulasegaram     |     |
-| P2-4     | Mr Lim Ming En     |    |
-|      | Ms Yee Kit Yin     |      |
-| P2-5     | Mr Nazrul     |      |
-|      | Mdm Rebecca Chew     |      |
-| P2-6 |  Heng Peck Hoon    |      |
-| | Ms Chew Jiaying | 
-| P2-7     | Mdm Cassie Ngian     |     |
-|      | Ms Su Ting Ting     |     |
-| P2-8     | Mr Lee Qin Yi     |      |
-|      | Mdm Mardiana     |  |
+| P2-2     | Janet Chiam     |    |
+|      | Yu Mingxia     |     |
+| P2-3     | Choo Weiting     |     |
+|      | V. Vimal     |     |
+| P2-4     | Winnie Chan     |    |
+|      | Sim En Qi     |      |
+| P2-5     | Janice Low     |      |
+|      | Leong Tim Tim    |      |
+| P2-6 |  Ariel Loh    |      |
+| | Sivamalar | 
+| P2-7     | Vince Ho     |     |
+|      | Verina     |     |
+| P2-8     | Seah Sin Peng    |      |
+|      |Jason Teo     |  |

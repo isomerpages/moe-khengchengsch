@@ -7,17 +7,17 @@ variant: markdown
 ---
 | Class | Form Teacher |  |
 | -------- | -------- | -------- |
-| P6-1     | Mrs Cheryl Ho     |      |
-|      | Mr Alex Tan     |      |
-| P6-2     | Ms Brenda Peh     |    |
-|      | Ms Shalini     |      |
-| P6-3     | Mdm Ong Poh Leng     |      |
-|      | Ms Alisa Chua     |      |
-| P6-4     | Ms Tam Ya Wen     |      |
-|     | Ms Kalpana     |     |
-| P6-5     | Mr Desmond Lim     |      |
-|      | Ms Grace Yap     |      |
-| P6-6     | Mrs Caryn Ong     |      |
-|     | Ms Teo Yee Leng     |     |
-| P6-7     | Ms Su Yen Leng     |      |
-|      | Mr Hakim     |      |
+| P6-1     | Sophia Loo     |      |
+|      |Abdul Hakim     |      |
+| P6-2     | Santi Lin     |    |
+|      | Alisa Chua     |      |
+| P6-3     | Koh Yuan Ting    |      |
+|      | Yeo Li Ching     |      |
+| P6-4     | Elaine Leong     |      |
+|     | Shalini     |     |
+| P6-5     | Lee Qin Yi     |      |
+|      | Neo Beng Hoon     |      |
+| P6-6     | Mandy Chia     |      |
+|     | Jeremy Teo     |     |
+| P6-7     | Koh Meng Hoe     |      |
+|      | Abdul Rauf    |      |

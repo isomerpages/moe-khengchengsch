@@ -7,16 +7,17 @@ variant: markdown
 ---
 | Class | Form Teacher |  |
 | -------- | -------- | -------- |
-| P5-1     | Mdm Sophia Loo     |    |
-| P5-2     | Ms Santi Lin     |   |
-|      |    Ms Yeo Li Ching  |     |
-| P5-3     | Ms Koh Yuan Ting    |      |
-|      | Mr Wu HeKun     |      |
-| P5-4     | Mrs Elaine Leong     |      |
-|      | Mdm Zhang Li     |     |
-| P5-5     | Mr Alvin Puah     |      |
-|      | Mdm Neo Beng Hoon     |     |
-| P5-6     | Ms Mandy Chia     |     |
-|      | Mr Jeremy Teo    |      |
-| P5-7     | Ms Tan Hwee Min     |     |
-|      | Ms Koh Meng Hoe     |      |
+| P5-1     | Siti Amirah     |     |
+|      | Su Ting Ting     |      |
+| P5-2     | Sharon Wong    |    |
+||Yang Xiao Ting||
+| P5-3     | Desmond Lim  |   |
+|      |    Sew Pui Huang  |     |
+| P5-4     | Chiang Cher Siang    |      |
+|      | Heng Peck Hoon     |      |
+| P5-5     | Gillian Teh     |      |
+|      | Shirlee Moo     |     |
+| P5-6     | Teo Yee Leng     |      |
+|      | Grace Yap     |     |
+| P5-7     | Nilam Shafia    |     |
+|      | Alex Tan   |      |

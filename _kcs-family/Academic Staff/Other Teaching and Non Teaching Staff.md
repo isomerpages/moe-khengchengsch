@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Susanna Chan Mui Sim</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Yeng Chian</p>
+<p></p>
 </td>
 </tr>
 <tr>

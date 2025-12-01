@@ -7,15 +7,16 @@ variant: markdown
 ---
 | Class | Form Teacher |  |
 | -------- | -------- | -------- |
-| P4-1     | Ms Yu Mingxia     |     |
-|      | Mr Lim Zonghan     |      |
-| P4-2     | Ms Jane Chua     |      |
-|      | Mr Stanley Yeo     |      |
-| P4-3     | Ms Grace Foong     |     |
-|      | Ms Lam Guan Yu     |      |
-| P4-4     | Mr Lite Tan     |      |
-|      | Ms Ang Su-Juin     |      |
-| P4-5     | Ms Nilam Khamis     |     |
-|      | Ms Ayesha Yasmin     |      |
-| P4-6     | Mdm Toh Xiao Ying     |      |
-|      | Mr Abdul Rauf      |      |
+| P4-1     | Lee Yen Hong     |     |
+|      | Koh Jerd Hau     |      |
+| P4-2     | Claire Lim     |      |
+|      | Cheong Tuck Wai     |      |
+| P4-3     | Joy Gan     |     |
+|      | Alvin Puah     |      |
+| P4-4     | Jacqueling Anthony     |      |
+|      | Renuka Simon     |      |
+||Chen Ying||
+| P4-5     | Jocelyn Tay    |     |
+|      | Ayesha Yasmin     |      |
+| P4-6     | Zuraidah Mano     |      |
+|      | Tan Wei Li      |      |

@@ -17,7 +17,7 @@ variant: markdown
 |      | Chen Qianhui    |      |
 | P1-5     | Rebecca Chew     |      |
 |     | Lim Chiang Mui     |      |
-| P1-6     | Mardiana    |    |
+| P1-6     | Mardiana Binte Ismail    |    |
 |      | Chen Chen   |     |
 | P1-7     | Jessalyn Lee    |      |
 |      | Chen Xijie     |      |

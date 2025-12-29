@@ -9,7 +9,6 @@ variant: markdown
 | -------- | -------- | -------- |
 | P2-1     | Geraldine Tiew     |     |
 |      | Zhang Li     |      |
-|     | Ms Lim Mei Xuan|   |
 | P2-2     | Janet Chiam     |    |
 |      | Yu Mingxia     |     |
 | P2-3     | Choo Weiting     |     |
@@ -19,8 +18,8 @@ variant: markdown
 | P2-5     | Janice Low     |      |
 |      | Leong Tim Tim    |      |
 | P2-6 |  Ariel Loh    |      |
-| | Sivamalar | 
+| | Sivamalar Kulasegaram | 
 | P2-7     | Vince Ho     |     |
-|      | Verina     |     |
+|      | Verina Margaretha    |     |
 | P2-8     | Seah Sin Peng    |      |
 |      |Jason Teo     |  |

@@ -30,23 +30,3 @@ The Mother Tongue Department Implements holistic assessment for the students.&nb
 *   Structure Reading Programme
 
 	
-#### Mother Tongue Committee
-
-| Designation | Name | |
-| -------- | -------- | -------- |
-| Head of Department (HOD) Mother Tongue |    |     |
-|Subject Head Chinese Language|Mr Lim Ming En||
-|Senior Teacher (ST) Chinese Language|Mdm Wu Shu Qing||
-|Malay Language Coordinator|Mdm Aslinda Bte Paujan||
-|Members|Ms Ang Su-Juin||
-||Mdm Toh Xiao Ying||
-||Mdm Neo Beng Hoon||
-||Ms Leong Tim Tim||
-||Mdm Zhang Li (HCL)||
-||Ms Chew Jiaying Vivian||
-||Mdm Nur Sodiqin||
-||Mr Cheng Xijie||
-||Miss Yu Mingxia||
-||Ms Cui Min||
-||Mdm Su Ting Ting||
-||Ms Devi d/o Krishnan||

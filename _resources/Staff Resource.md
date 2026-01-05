@@ -295,15 +295,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KCS Padlet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://kcs.padlet.org/" rel="noopener noreferrer nofollow" target="_blank">https://kcs.padlet.org/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Moo-O</p>
 </td>
 <td rowspan="1" colspan="1">

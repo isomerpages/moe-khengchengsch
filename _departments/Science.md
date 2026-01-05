@@ -31,7 +31,7 @@ Students are given the opportunity to excel and enjoy learning Science through m
 
 YEZ! takes our students out of the classroom and into the Singapore Zoo. This outdoor learning experience gives our students the opportunity to observe animals and plants at close range to find out more about them. In addition, students will hone their collaborative skills as they work with their friends to complete a series of questions in a trail using hand-held tablets. Do look out for our students holding these devices at the Singapore Zoo!
 
-<img style="width:400px;" src="/images/Science/YEZ.jpg">
+
 
 
 
@@ -43,19 +43,7 @@ YEZ! takes our students out of the classroom and into the Singapore Zoo. This ou
 
 A yearly affair, the fiesta continues to be the top favourite and highlight of every student. Birth from the voices of the students followed by the DiSciVery fair, this fiesta provides students with the hands-on opportunity to observe, experience and immerse in the world of Science and Mathematics.
 
-![](/images/Science/IMG_3325-1536x1024.jpg)
 
-![](/images/Science/IMG_3337-1536x1024.jpg)
-
-![](/images/Science/IMG_3345-1536x1024.jpg)
-
-![](/images/Science/IMG_3359-1536x1024.jpg)
-
-![](/images/Science/IMG_3380-1536x1024.jpg)
-
-![](/images/Science/IMG_3387-1536x1024.jpg)
-
-![](/images/Science/IMG_3391-1536x1024.jpg)
 
 #### Department Members
 

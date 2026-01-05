@@ -31,10 +31,11 @@ Students are given the opportunity to excel and enjoy learning Science through m
 
 YEZ! takes our students out of the classroom and into the Singapore Zoo. This outdoor learning experience gives our students the opportunity to observe animals and plants at close range to find out more about them. In addition, students will hone their collaborative skills as they work with their friends to complete a series of questions in a trail using hand-held tablets. Do look out for our students holding these devices at the Singapore Zoo!
 
-
-
-
-
+![](/images/Science/Sci__1_.jpg)
+![](/images/Science/Sci__2_.jpg)
+![](/images/Science/Sci__3_.jpg)
+![](/images/Science/Sci__4_.jpg)
+![](/images/Science/Sci__5_.jpg)
 
 
 

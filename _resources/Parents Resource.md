@@ -359,8 +359,7 @@ slides.</p>
 <p>PSLE Scoring &amp; S1 Posting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Parents/PSLE_Scoring_and_S1_Posting___Parent_Engagement_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Scoring and S1 Posting 2024</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

@@ -61,7 +61,6 @@ modern workplace.</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Cyber Wellness</strong>
@@ -78,6 +77,9 @@ in the programs.</p>
 to implement a holistic CW education.</p>
 <p>It involves the <strong>Sense-Think-Act</strong> process, explained as follows:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ICT/Edtech_1.jpg">
+</div>
 <p><strong>Sense</strong>: Identify the possible risks of harmful behaviors
 online and learn how to protect oneself.</p>
 <p><strong>Think</strong>: Analyse, evaluate and reflect on the online situation
@@ -88,7 +90,9 @@ and have a positive presence online.</p>
 <p>*<em>extracted from MOE Cyber Wellness site @ <a href="https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness</a></em>
 </p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT/Edtech_2.png">
+</div>
 <p>The three major anchors to KCS CW education are the assembly talks, CCE
 lessons and CW Week which are conducted by the CW team, CW ambassadors
 and teachers.&nbsp; In addition, the school also uses awareness posters
@@ -100,8 +104,7 @@ positive digital footprints and smart online choices, these trained Kheng
 Chengian leaders help their peers navigate the complexities of the internet.
 Their mission is simple: to ensure that as we innovate and learn online,
 we do so with responsibility, kindness, and a watchful eye for our fellow
-students.</p>
-<p>&nbsp;</p>
+students.&nbsp;</p>
 <p><strong>&nbsp;</strong>
 </p>
 <ol start="4" data-tight="true" class="tight">
@@ -113,4 +116,129 @@ students.</p>
 <p>To equip all P4 students with transferable digital competencies through
 the mastery of Microsoft PowerPoint, enabling them to leverage technological
 affordances to enhance learning across all subject disciplines.</p>
+<p></p>
+<p><strong>Our members for edtech and data management:</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Key Areas</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>EdTech Integration &amp; Implementation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Members</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adrian Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alex Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Grace Foong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koh Yuan Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jason Teo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alan Tai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Su Ting Ting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sim En Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Qianhui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ching Hong Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Data Management</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheong Tuck Wai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Janice Low</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

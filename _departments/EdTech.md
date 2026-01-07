@@ -140,7 +140,7 @@ affordances to enhance learning across all subject disciplines.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nilam Shafia Khamis</p>
+<p>Nilam Shafia Khamis (HOD)</p>
 </td>
 </tr>
 <tr>

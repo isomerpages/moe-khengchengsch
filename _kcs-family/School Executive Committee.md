@@ -84,7 +84,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD PE &amp; CCA</p>
+<p>HOD PE, Aesthetics &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Sivamalar Kulasegaram</p>
@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/SSP</p>
+<p>HOD/School Signature Programmes</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chiang Cher Siang</p>
@@ -220,6 +220,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Data Management Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yu Mingxia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jane Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Administration Manager (Finance and HR)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,6 +264,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Teng Poh Joey&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Adrian Ng</p>
 </td>
 </tr>
 </tbody>

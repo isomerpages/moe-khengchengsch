@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>School Uniform and PE Attire</strong></h4>
-<h4>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</h4>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plain black&nbsp;shoes and white
-school socks that are clearly visible above the ankle to be worn. PE T-shirt
-must be tucked in neatly.</p>
+<p>Students are to wear the prescribed school uniform and modification to
+the uniform is not allowed.</p>
+<p>Plain black&nbsp;shoes and white school socks that are clearly visible
+above the ankle to be worn. PE T-shirt must be tucked in neatly.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Fingernails must be short, clean and unpainted.</p>
@@ -61,6 +61,9 @@ and recording purposes are not allowed in school.</p>
 <p>Playing/ Trading cards, toys and items that are considered dangerous or
 inappropriate in school are not allowed in school.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Rules_1.jpg">
+</div>
 <h4><strong>Attendance</strong></h4>
 <p><strong>All students must:</strong>
 </p>

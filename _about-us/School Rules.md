@@ -61,6 +61,9 @@ and recording purposes are not allowed in school.</p>
 <p>Playing/ Trading cards, toys and items that are considered dangerous or
 inappropriate in school are not allowed in school.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Rules_1.jpg">
+</div>
 <h4><strong>Attendance</strong></h4>
 <p><strong>All students must:</strong>
 </p>

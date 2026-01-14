@@ -87,14 +87,6 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Eunice Yip</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Dena Toh</p>
 </td>
 </tr>
@@ -120,14 +112,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lawrence Pung</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Woo Ah Yoke</p>
 </td>
 </tr>
 <tr>

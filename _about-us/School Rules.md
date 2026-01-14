@@ -4,59 +4,51 @@ permalink: /about-us/School-Rules/
 description: ""
 variant: tiptap
 ---
-<h1>School Rules</h1>
-<h3>Appearance</h3>
-<h4><strong>School Uniform</strong></h4>
-<p>Students are to wear the prescribed school uniform and modification to
-the uniform is not allowed.</p>
+<h4><strong>School Uniform and PE Attire</strong></h4>
+<h4>Students are to wear the prescribed school uniform and modification to the uniform is not allowed.</h4>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plain black&nbsp;shoes and white
+school socks that are clearly visible above the ankle to be worn. PE T-shirt
+must be tucked in neatly.</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>2024 - Plain white/black shoes and white school socks that are clearly
-visible above the ankle to be worn.</p>
-</li>
-<li>
-<p>2025 - <strong>Plain black</strong> shoes and white school socks that are
-clearly visible above the ankle to be worn.</p>
-</li>
 <li>
 <p>Fingernails must be short, clean and unpainted.</p>
 </li>
 <li>
-<p>Name tags should be sewn onto uniforms as shown below.</p>
+<p>Name tags should be sewn onto uniform and PE attire as shown below.</p>
 </li>
 <li>
 <p>Sports shoes cannot be worn during curriculum hours if the activity is
 conducted after school hours.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Uniform/uniform1.png">
-</div>
 <h4><strong>Hair</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Hair must be neat and hair/fringe must not touch the eyebrows or the collar.</p>
+<p>Hair must be neat and tidy. Hair/Fringe must not touch the eyebrows or
+the collar.</p>
 </li>
 <li>
 <p>Girls with shoulder-length or long hair hanging below the blouse collar
 must be tied up.</p>
 </li>
 <li>
-<p>Long fringe must be clipped. Only white, blue or black hair accessories
-are allowed.</p>
+<p>Long fringe must be clipped. Only plain and simple white, blue or black
+hair accessories are allowed.</p>
 </li>
 <li>
 <p>Boys must be neat in appearance, clean-shaven and no facial hair is allowed.
 Punk or outlandish hairstyle is not allowed.</p>
 </li>
 <li>
-<p>Tinting and/or highlighting of hair is not allowed</p>
+<p>Tinting and/or highlighting of hair is not allowed.</p>
 </li>
 </ul>
 <h4><strong>Accessories</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only small ear studs are allowed for girls.</p>
+<p>Only one pair of simple, gold/silver/black round ear studs/transparent
+ear sticks for
+<br>girls are allowed.</p>
 </li>
 <li>
 <p>No ornaments or jewellery is allowed to be worn in school.</p>
@@ -65,13 +57,16 @@ Punk or outlandish hairstyle is not allowed.</p>
 <p>Mobile phones and electronic gadgets that can be used for communication
 and recording purposes are not allowed in school.</p>
 </li>
-<li>
+</ul>
 <p>Playing/ Trading cards, toys and items that are considered dangerous or
 inappropriate in school are not allowed in school.</p>
-</li>
-</ul>
-<h2>Attendance</h2>
-<h4><strong>All students must:</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Picture2.png">
+</div>
+<h4><strong>Attendance</strong></h4>
+<p><strong>All students must:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>attend school regularly and be punctual for all school.</p>
@@ -88,7 +83,9 @@ Teacher upon his/her return to school to explain absence.</p>
 of illness or unexpected circumstances.</p>
 </li>
 </ul>
-<h3>Singing of National Anthem &amp; Recitation of National Pledge</h3>
+<p></p>
+<p><strong>Singing of National Anthem &amp; Recitation of National Pledge</strong>
+</p>
 <p><strong>All students:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -110,8 +107,10 @@ being sung and the pledge recited.</p>
 <p>must observe the ceremony with solemnity and respect.</p>
 </li>
 </ul>
-<h2>General Behaviour</h2>
-<h4><strong>All students:</strong></h4>
+<p></p>
+<h4><strong>General Behaviour</strong></h4>
+<p><strong>All students:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>must uphold the good name of the school and exercise self-discipline both
@@ -145,80 +144,12 @@ by a teacher.</p>
 <p>must be responsible for their personal possessions in school and are advised
 not to bring excessive cash or expensive branded items to school.</p>
 </li>
-<li>
-<p>are not allowed to have in their possession any weapon-like item which
-is used or intended to be used to cause harm to others.</p>
-</li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Offences</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Consequences</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tinted Hair / Long Hair / Inappropriate Hairstyle</p>
-</td>
-<td rowspan="6" colspan="1">
-<p>For non-compliance of school rule(s), one or more of the following actions
-will be taken. In-school counselling will be offered to errant student(s).
-<br>
-<br>
-<br>• Home Involvement
-<br>• Corrective Work Order
-<br>• Detention
-<br>• Contract of Good Behaviour
-<br>• Verbal and Written Warning
-<br>• Ineligibility for Awards
-<br>• Entry into School Offences Module (SOM) Records
-<br>• Restitution
-<br>• Suspension
-<br>• Corporal Punishment
-<br>• Police Report</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Skipping Lessons / Playing Truant/ Wilful Absenteeism</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Use or Possession of Cigarettes / e-Cigarettes / Prohibited Tobacco Products</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Theft in School / Shoplifting</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Other Serious Offences:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gambling / Vandalism / Substance Abuse/ Fighting / Bullying / Cheating
-during Tests or Exams / Forging or Doctoring Documents
-<br>
-<br>/ Possession of Pornographic Materials / Possession of Weapons or Weapon-like
-items / Defiance/ Disrespectful towards School Staff / Vulgarism
-<br>/ Inappropriate Behaviour or Offensive Language Online / Others</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Discipline is an educative process to guide students to develop self- management and good character. Disciplinary measures help students learn the consequences of their inappropriate actions and poor choices, and take responsibility not to repeat their mistakes.</h5>
+<p>are not allowed to have in their possession any weapon or weapon-like
+item which is used or intended to be used to cause harm to others.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Picture1.png">
+</div>
+<p></p>
 <p></p>

@@ -61,6 +61,9 @@ and recording purposes are not allowed in school.</p>
 <p>Playing/ Trading cards, toys and items that are considered dangerous or
 inappropriate in school are not allowed in school.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Picture2.png">
+</div>
 <h4><strong>Attendance</strong></h4>
 <p><strong>All students must:</strong>
 </p>
@@ -144,5 +147,9 @@ not to bring excessive cash or expensive branded items to school.</p>
 </ul>
 <p>are not allowed to have in their possession any weapon or weapon-like
 item which is used or intended to be used to cause harm to others.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Picture1.png">
+</div>
 <p></p>
 <p></p>

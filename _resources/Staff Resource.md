@@ -54,12 +54,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>KCS Culture of Innovation Bank</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/kcsinnovationbank" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsinnovationbank</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Staff Email (CES) – Web version <em>(SSOE Laptop only)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://outlook.office365.com/owa/schools.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://schools.gov.sg/</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

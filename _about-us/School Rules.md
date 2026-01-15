@@ -7,9 +7,11 @@ variant: tiptap
 <h4><strong>School Uniform and PE Attire</strong></h4>
 <p>Students are to wear the prescribed school uniform and modification to
 the uniform is not allowed.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Plain black&nbsp;shoes and white school socks that are clearly visible
 above the ankle to be worn. PE T-shirt must be tucked in neatly.</p>
-<ul data-tight="true" class="tight">
+</li>
 <li>
 <p>Fingernails must be short, clean and unpainted.</p>
 </li>
@@ -57,12 +59,14 @@ ear sticks for
 <p>Mobile phones and electronic gadgets that can be used for communication
 and recording purposes are not allowed in school.</p>
 </li>
-</ul>
+<li>
 <p>Playing/ Trading cards, toys and items that are considered dangerous or
 inappropriate in school are not allowed in school.</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Rules_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Uniform/Rules_1.jpg">
 </div>
 <h4><strong>Attendance</strong></h4>
 <p><strong>All students must:</strong>
@@ -144,9 +148,11 @@ by a teacher.</p>
 <p>must be responsible for their personal possessions in school and are advised
 not to bring excessive cash or expensive branded items to school.</p>
 </li>
-</ul>
+<li>
 <p>are not allowed to have in their possession any weapon or weapon-like
 item which is used or intended to be used to cause harm to others.</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Uniform/Picture1.png">

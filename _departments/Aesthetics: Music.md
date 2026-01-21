@@ -162,6 +162,9 @@ contributing meaningfully to the school and community.</p>
 </ul>
 <p>(MOE Music Syllabus strands: Performing, Understanding Music in Context)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Aesthetics/Art/Music001.png">
+</div>
 <p><strong>Character &amp; Values Through Music</strong>
 </p>
 <ul data-tight="true" class="tight">

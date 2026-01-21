@@ -422,18 +422,6 @@ slides.</p>
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Travelling Overseas Link</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/applicationtotraveloverseas" rel="noopener nofollow" target="_blank">TOL Form</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>General Matters</h4>

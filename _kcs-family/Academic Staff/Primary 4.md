@@ -18,5 +18,5 @@ variant: markdown
 ||Chen Ying||
 | P4-5     | Jocelyn Tay    |     |
 |      | Ayesha Yasmin     |      |
-| P4-6     | Zuraidah Mano     |      |
+| P4-6     | Mano- Zuraidah Buang     |      |
 |      | Tan Wei Li      |      |

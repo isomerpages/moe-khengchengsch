@@ -10,7 +10,7 @@ variant: markdown
 | P5-1     | Siti Amirah     |     |
 |      | Su Ting Ting     |      |
 | P5-2     | Sharon Wong    |    |
-||Yang Xiao Ting||
+||Jane Chua||
 | P5-3     | Desmond Lim  |   |
 |      |    Sew Pui Huang  |     |
 | P5-4     | Chiang Cher Siang    |      |

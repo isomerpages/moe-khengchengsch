@@ -15,7 +15,6 @@ variant: markdown
 |      | Alvin Puah     |      |
 | P4-4     | Jacqueling Anthony     |      |
 |      | Renuka Simon     |      |
-||Chen Ying||
 | P4-5     | Jocelyn Tay    |     |
 |      | Ayesha Yasmin     |      |
 | P4-6     | Mano- Zuraidah Buang     |      |

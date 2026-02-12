@@ -16,7 +16,7 @@ variant: markdown
 | P5-4     | Chiang Cher Siang    |      |
 |      | Heng Peck Hoon     |      |
 | P5-5     | Gillian Teh     |      |
-|      | Shirlee Moo     |     |
+|      | Abdul Hakim     |     |
 | P5-6     | Teo Yee Leng     |      |
 |      | Grace Yap     |     |
 | P5-7     | Nilam Shafia    |     |

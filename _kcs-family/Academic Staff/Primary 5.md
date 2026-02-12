@@ -10,13 +10,13 @@ variant: markdown
 | P5-1     | Siti Amirah     |     |
 |      | Su Ting Ting     |      |
 | P5-2     | Sharon Wong    |    |
-||Yang Xiao Ting||
+||Jane Chua||
 | P5-3     | Desmond Lim  |   |
 |      |    Sew Pui Huang  |     |
 | P5-4     | Chiang Cher Siang    |      |
 |      | Heng Peck Hoon     |      |
 | P5-5     | Gillian Teh     |      |
-|      | Shirlee Moo     |     |
+|      | Abdul Hakim     |     |
 | P5-6     | Teo Yee Leng     |      |
 |      | Grace Yap     |     |
 | P5-7     | Nilam Shafia    |     |

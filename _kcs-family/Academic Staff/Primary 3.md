@@ -13,10 +13,9 @@ variant: markdown
 | P3-2     | Lim Mei Xuan     |      |
 |      | Chng Hui Peng    |      |
 | P3-3     | Lim Zonghan     |     |
-|      | Tam Ya Wen     |      |
 ||Opheania Chen||
-| P3-4     | Aslinda Binte Paujan    |     |
-|      |Jane Chua     | |
+| P3-4     | Chen Ying    |     |
+|      | Tam Ya Wen     | |
 | P3-5     | Sarvina Kishor     |    |
 |      | Wu Hekun     |   |
 | P3-6     | Eunice Leow     |   |

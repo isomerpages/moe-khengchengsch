@@ -21,71 +21,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honorary Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Sen Yoon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Peng Tong, BBM(L)</p>
+<p>Mr Goh Peng Tong BBM(L)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Chairman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Soh Kee Hoon, Jessica</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Honorary Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prof Dr Wilson Lim, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Honorary Deputy Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kuik Kiah Kiang, Alan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Honorary Treasurer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Low Tech Kah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Internal Auditor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Han Teng Juan, PBM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Public Relations Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Cham Tau Soon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loy Jit Meng</p>
@@ -93,10 +37,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Honorary Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prof Dr Wilson Lim Yen Kia PBM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hon. Deputy Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Teck Kah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hon. Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cham Tau Soon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Public Relations Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Peng Koon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Internal Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Han Teng Juan PBM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jessica Soh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alan Kuik</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

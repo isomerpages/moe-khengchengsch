@@ -247,7 +247,7 @@ variant: tiptap
 <p>Accident Report</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/kcsaccidentreporting" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsaccidentreporting</a>
+<p><a href="https://go.gov.sg/kcsincidentreport" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsaccidentreporting</a>
 </p>
 </td>
 </tr>

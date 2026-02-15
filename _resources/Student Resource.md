@@ -41,16 +41,10 @@ variant: tiptap
 <p>Change your password to: Kcs@ddmmyyyy</p>
 <p>Click here: <a href="https://schoolibrary.moe.edu.sg/khengcheng" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/khengcheng</a>
 </p>
-<h3>WaWaYaYa</h3>
-<p>User ID: First 5 letters of Name according to class register and last
-4 digits of BC and last letter of BC.</p>
 <h3>Young Scientist Badge Scheme (YSBS)</h3>
 <p>User ID: First 5 letters of Name according to class register and last
 4 digits of BC and last letter of BC (all lowercase).</p>
 <p>Click here: <a href="https://youngscientist.sscglobal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://youngscientist.sscglobal.com.sg/</a>
-</p>
-<h3>Pazhahu Tamil E-Learning Portal</h3>
-<p><a href="https://pazhahutamil.com/login/index.php" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <h3>For Graduating Students</h3>
 <p>Click here for the steps: <a href="/files/T2%20and%20A/gradinfo.pdf" rel="noopener noreferrer nofollow" target="_blank">Graduation Guide</a>

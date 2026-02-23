@@ -4,10 +4,10 @@ permalink: /parentsresource/
 description: ""
 variant: tiptap
 ---
-<h4>Primary 5 and 6 Briefing</h4>
+<h4>Principal Parents Briefing 2026</h4>
 <p>Dear Parents, please click on the link below to download the briefing
 slides.</p>
-<p><a href="/files/Parents/2025_Parents_Briefing_Hall_Segment_P5_6.pdf" rel="noopener nofollow" target="_blank">Briefing Slides 2025</a>
+<p><a href="/files/Parents/Parents_Briefing_2026___Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Parents Briefing 2026</a>
 </p>
 <p></p>
 <h4>Subject Briefing</h4>

@@ -285,15 +285,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MC EduHub (MC Online)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.mconline.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mconline.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Koobits</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -316,15 +307,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.plus.moo-o.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.plus.moo-o.com</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Newsmaker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://newsmaker.tv/" rel="noopener noreferrer nofollow" target="_blank">https://newsmaker.tv</a>
 </p>
 </td>
 </tr>

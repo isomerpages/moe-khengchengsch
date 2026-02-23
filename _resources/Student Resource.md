@@ -23,11 +23,6 @@ variant: tiptap
 4 digits of BC and last letter of BC.</p>
 <p>Click here: <a href="https://plus.moo-o.com/software/download" rel="noopener noreferrer nofollow" target="_blank">https://plus.moo-o.com/software/download</a>
 </p>
-<h3>NewsMaker</h3>
-<p>User ID: First 5 letters of Name according to class register and last
-4 digits of BC and last letter of BC.</p>
-<p>Click here: <a href="https://www.newsmaker.tv/" rel="noopener noreferrer nofollow" target="_blank">https://www.newsmaker.tv/</a>
-</p>
 <h3>KooBits</h3>
 <p>User ID: First 5 letters of Name according to class register and last
 4 digits of BC and last letter of BC.</p>
@@ -46,6 +41,5 @@ variant: tiptap
 4 digits of BC and last letter of BC (all lowercase).</p>
 <p>Click here: <a href="https://youngscientist.sscglobal.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://youngscientist.sscglobal.com.sg/</a>
 </p>
-<h3>For Graduating Students</h3>
-<p>Click here for the steps: <a href="/files/T2%20and%20A/gradinfo.pdf" rel="noopener noreferrer nofollow" target="_blank">Graduation Guide</a>
-</p>
+<h3></h3>
+<p></p>

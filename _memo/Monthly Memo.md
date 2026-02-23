@@ -29,3 +29,25 @@ variant: tiptap
 </p>
 <p><a href="/files/Monthly%20Memo/November_2025_Memo.pdf" rel="noopener noreferrer nofollow" target="_blank">November 2025</a>
 </p>
+<p></p>
+<h3>YEAR 2024</h3>
+<p><a href="/files/Monthly Memo/January_Memo_2024.pdf" rel="noopener nofollow" target="_blank">January 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/February_Memo_2024.pdf" rel="noopener nofollow" target="_blank">February 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/March_Memo_2024.pdf" rel="noopener nofollow" target="_blank">March 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/April_memo_2024.pdf" rel="noopener nofollow" target="_blank">April 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/may_memo 2024.pdf" rel="noopener nofollow" target="_blank">May 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/July_Memo_2024.pdf" rel="noopener nofollow" target="_blank">July 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/August_Memo_2024.pdf" rel="noopener nofollow" target="_blank">August 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/2024_September_Memo_v1.pdf" rel="noopener nofollow" target="_blank">September 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/2024_October_Memo.pdf" rel="noopener nofollow" target="_blank">October 2024</a>
+</p>
+<p><a href="/files/Monthly Memo/2024_Nov_Memo.pdf" rel="noopener nofollow" target="_blank">November 2024</a>
+</p>

@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3>YEAR 2026</h3>
-<p><a href="/files/Monthly Memo/KCS_February_2026_Memo.pdf" rel="noopener nofollow" target="_blank">February 2026 </a>
+<p><a href="/files/Monthly Memo/January_2026_Memo.pdf" rel="noopener nofollow" target="_blank">January 2026</a>
+</p>
+<p><a href="/files/Monthly Memo/KCS_February_2026_Memo.pdf" rel="noopener nofollow" target="_blank">February 2026</a>
 </p>
 <p></p>
 <h3>YEAR 2025</h3>

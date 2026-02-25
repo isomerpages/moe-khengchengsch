@@ -24,7 +24,8 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Peng Tong BBM(L)</p>
+<p>Mr Goh Peng Tong <sup>BBM(L)</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +41,8 @@ variant: tiptap
 <p>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Dr Wilson Lim Yen Kia PBM</p>
+<p>Prof Dr Wilson Lim Yen Kia <sup>PBM</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +74,8 @@ variant: tiptap
 <p>Internal Auditor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Han Teng Juan PBM</p>
+<p>Mr Han Teng Juan <sup>PBM</sup>
+</p>
 </td>
 </tr>
 <tr>

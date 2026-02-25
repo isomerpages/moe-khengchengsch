@@ -244,10 +244,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Accident Report</p>
+<p>Incident Report</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/kcsincidentreport" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsaccidentreporting</a>
+<p><a href="https://go.gov.sg/kcsincidentreport" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcsincidentreport</a>
 </p>
 </td>
 </tr>

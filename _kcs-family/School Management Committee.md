@@ -24,7 +24,8 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Peng Tong BBM(L)</p>
+<p>Mr Goh Peng Tong <sup>BBM(L)</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +41,8 @@ variant: tiptap
 <p>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Prof Dr Wilson Lim Yen Kia PBM</p>
+<p>Prof Dr Wilson Lim Yen Kia <sup>PBM</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +74,8 @@ variant: tiptap
 <p>Internal Auditor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Han Teng Juan PBM</p>
+<p>Mr Han Teng Juan <sup>PBM</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -113,9 +116,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Goh_Peng_Tong_BBM.jpg">
 </div>
@@ -126,14 +126,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Loy_Jit_Meng.jpg">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Dr_Lim_Yen_Kia_Wilson_PBM.jpg">
 </div>
-</td>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -146,14 +146,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Low_Teck_Kah.jpg">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Han_Teng_Juan_PBM.jpg">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -166,19 +166,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Ms_Jessica_Soh_Kee_Hoon.jpg">
 </div>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Alan_Kuik_Kiah_Kang.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

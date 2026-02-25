@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Office Bearer 2024 – 2025</h4>
+<h4>Office Bearer 2026 – 2027</h4>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -113,9 +113,6 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Ng Sen Yoon" src="/images/General Images/Mr_Ng_Sen_Yoon.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -126,7 +123,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Ms_Jessica_Soh_Kee_Hoon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Loy_Jit_Meng.jpg">
 </div>
 </th>
 </tr>
@@ -140,7 +137,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Alan_Kuik_Kiah_Kang.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Lee_Peng_Koon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +163,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Loy_Jit_Meng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Ms_Jessica_Soh_Kee_Hoon.jpg">
 </div>
 </td>
 </tr>
@@ -174,7 +171,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Lee_Peng_Koon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Mr_Alan_Kuik_Kiah_Kang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

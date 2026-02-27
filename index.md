@@ -37,11 +37,11 @@ sections:
       url: https://www.khengcheng.moe.edu.sg/call-for-artefacts-stories/
   - infopic:
       id: infopic
-      image: /images/General Images/KCS_98.jpg
-      alt: KCS 98
-      title: KHENG CHENG SCHOOL TURNS 98!
-      description: Let’s continue to celebrate our growth and achievements as we
-        uplift ourselves and others, and uphold our values.
+      image: /images/General Images/99_Founders_Day_Poster.jpg
+      alt: KCS 99
+      title: KHENG CHENG SCHOOL TURNS 99!
+      description: Celebrating 99 years of heritage and heart, we uplift and uphold
+        one another as we journey with pride towards 100 years strong.
   - infopic:
       title: National Chinese Challenge 2025
       id: infopic

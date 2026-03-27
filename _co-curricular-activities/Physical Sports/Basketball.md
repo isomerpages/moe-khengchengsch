@@ -74,14 +74,14 @@ courage, and growth mindset</p>
 <p>Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Tan Ze Yi
+<p>Mr Alex Tan Ze Yi (IC)
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheng Xijie
+<p>Mr Cheng Xijie (2IC)
 <br>
 </p>
 </td>
@@ -91,42 +91,42 @@ courage, and growth mindset</p>
 <p>Members</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Grace Yap
+<p>Yee Kit Yin
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahalingam Indra
+<p>Koh Jerd Hau
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Gillian Teh
+<p>Grace Yap
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Su Ting Ting
+<p>Jeremy Teo
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Sodiqin
+<p>Indra Mahalingam
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Phua Wee Koon
+<p>Lai Kai Yi
 <br>
 </p>
 </td>

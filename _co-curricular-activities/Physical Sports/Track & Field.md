@@ -71,8 +71,7 @@ that our student-athletes will pick up through training, competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Cheong Tuck Wai - Teacher 1st IC
-<br>cheong_tuck_wai@moe.edu.sg</p>
+<p>Tam Ya Wen</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Tuesdays, Thursday
@@ -81,26 +80,30 @@ that our student-athletes will pick up through training, competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nadiah -Teacher 2nd IC
-<br>Nadiah_mohd_yusof@moe.edu.sg</p>
+<p>Cheong Tuck Wai</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Li Ching – P3 Level Teacher IC</p>
-<p>yeo_li_cheng@moe.edu.sg</p>
+<p>Opheania Chen (P3 Level)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Michaela – P4 Level Teacher IC</p>
-<p>tam_ya_wen@moe.edu.sg</p>
+<p>Janet Chiam (P4 Level)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Meng Hoe - P5 Level Teacher IC
-<br>koh_meng_hoe@moe.edu.sg</p>
+<p>Tai Alan (P5 Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Abdul Rauf (P6 Level)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -71,7 +71,7 @@ that our student-athletes will pick up through training, competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tam Ya Wen</p>
+<p>Tam Ya Wen (IC)</p>
 </td>
 <td rowspan="5" colspan="1">
 <p>Tuesdays, Thursday
@@ -80,7 +80,7 @@ that our student-athletes will pick up through training, competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cheong Tuck Wai</p>
+<p>Cheong Tuck Wai (2IC)</p>
 </td>
 </tr>
 <tr>

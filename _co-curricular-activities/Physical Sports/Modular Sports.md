@@ -31,7 +31,9 @@ core values of kindness, courage, sincerity and diligence.</p>
 </p>
 <p>Mr Lee Qin Yi</p>
 <p>Mdm Yu Mingxia</p>
-<p>Members</p>
+<p></p>
+<p><strong>Members</strong>
+</p>
 <p>Ms Chen Chen</p>
 <p>Ms Heng Peck Hoon</p>
 <p>Mdm Shu Xiaomei</p>

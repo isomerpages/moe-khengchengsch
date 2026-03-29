@@ -55,8 +55,7 @@ the year of our school’s 90th Anniversary!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Gan&nbsp; Ling Ling Joy
-<br>gan_ling_ling_joy@moe.edu.sg</p>
+<p>Ms Gan&nbsp; Ling Ling Joy (IC)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Friday
@@ -68,31 +67,55 @@ the year of our school’s 90th Anniversary!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Jane Chua Zheng Yi
-<br>chua_zheng_yi_jane@moe.edu.sg</p>
+<p>Santi Lin (2IC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Wong
-<br>chia_seok_kiang_sharon@moe.edu.sg</p>
+<p>Sharon Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Santi Lin Supramaniam
-<br>santi_lin_supramaniam@moe.edu.sg</p>
+<p>Lim Chiang Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Koh Meng Hoe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim En Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jessalyn Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Renuka Simon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

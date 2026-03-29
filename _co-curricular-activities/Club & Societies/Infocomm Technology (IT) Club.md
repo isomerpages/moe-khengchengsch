@@ -3,89 +3,159 @@ title: Infocomm Technology (IT) Club
 permalink: /itclub/
 description: ""
 third_nav_title: Club & Societies
-variant: markdown
+variant: tiptap
 ---
-### Mission
-To harness students to be equipped with the 21st CC ICT skillset and to be future ready.
-
-### Objectives
-
-The IT Club aims to cultivate interest and awareness in the use of Information Technology, such as coding and photography in our students. Members of the club will be imparted with basic Information Technology knowledge on coding and photography skills. Members are able to transfer their learning as they embark on the hands-on experiences in creating apps and taking photographs. The club also provides a platform for the members to employ creativity and adopt alternative perspectives as they make progress in their learning.
-
-In the recent years, the club has taken part in various inter-school competitions for greater exposure and learning for its members. These enriching experiential learning opportunities will continue to sustain the interest in students’ learning as they progress beyond the classrooms.
-	
-### Key Programmes
-**Primary 3:**  
-
-*   Public Announcement (PA) System
-*   Apple APps by IMDA
-*   Photography
-
-**Primary 4 &amp; Primary 5:**
-
-*   Video Editing
-*   Artificial Intelligence by IMDA
-*   Makey-Makey
-
-**Primary 6:**
-
-*   Scratch - Audio EBook
-*   Video Editing
-
-### Achievements
-**Achievements since 2015:**
-
-**2015 – Hackathon**
-*   KCS Team 1: Judges Award
-*   KCS Team 2: Third Prize
-
-**2016 – National Photography Festival for Primary Schools**
-*   Special Mention Award
-
-**2017 – 6th&nbsp;National Young Shutterbugs**
-*   KCS Team 1: Special Mention Award for Essence Snapshots
-*   KCS Team 2: First Prize for Arrangement Snapshots
-
-**2018- The 4th National Coding Competition (2018)**
-*   KCS Team: Silver Award
-
-# Teachers-in-Charge
-<table style="width:444.75pt;background:white;border-collapse:collapse;border:none;
- mso-border-alt:solid windowtext 1.5pt;mso-yfti-tbllook:1184;mso-border-insideh:
- 1.5pt solid windowtext;mso-border-insidev:1.5pt solid windowtext" width="593" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:9.5pt"><td style="width:187.15pt;border:solid windowtext 1.5pt;
-  background:#F7CAAC;mso-background-themecolor:accent2;mso-background-themetint:
-  102;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:9.5pt" valign="top" width="250"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Teachers-in-Charge</span></b></p></td><td style="width:127.1pt;border:solid windowtext 1.5pt;
-  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
-  mso-background-themecolor:accent2;mso-background-themetint:102;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.5pt" valign="top" width="169"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Training Day &amp; Time</span></b></p></td><td style="width:130.5pt;border:solid windowtext 1.5pt;
-  border-left:none;mso-border-left-alt:solid windowtext 1.5pt;background:#F7CAAC;
-  mso-background-themecolor:accent2;mso-background-themetint:102;padding:.75pt .75pt .75pt .75pt;
-  height:9.5pt" valign="top" width="174"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><b><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Venue</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:19.2pt"><td style="width:187.15pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;background:#EEEEEE;padding:
-  3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Cui Min (i/c)</span></p></td><td style="width:127.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:3.75pt 3.75pt 3.75pt 3.75pt;height:19.2pt" rowspan="4" width="169"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Friday<br>1.00 p.m. – 3.00 p.m.</span></p></td><td style="width:130.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.5pt;border-right:solid windowtext 1.5pt;
-  mso-border-top-alt:solid windowtext 1.5pt;mso-border-left-alt:solid windowtext 1.5pt;
-  background:#EEEEEE;padding:.75pt .75pt .75pt .75pt;height:19.2pt" rowspan="4" width="174"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">Computer Lab 1, 2 &amp; 3</span></p></td></tr><tr style="mso-yfti-irow:2;height:9.2pt"><td style="width:187.15pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Miss Chew Jia Ying Vivian</span></p></td></tr><tr style="mso-yfti-irow:3;height:9.2pt"><td style="width:187.15pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Ms Koh Yuan Ting</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:9.2pt"><td style="width:187.15pt;border:solid windowtext 1.5pt;border-top:
-  none;mso-border-top-alt:solid windowtext 1.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt;
-  height:9.2pt" width="250"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:black">Mdm Zhang Li</span></p></td></tr></tbody></table>
+<h3>Mission</h3>
+<p>To harness students to be equipped with the 21st CC ICT skillset and to
+be future ready.</p>
+<h3>Objectives</h3>
+<p>The IT Club aims to cultivate interest and awareness in the use of Information
+Technology, such as coding and photography in our students. Members of
+the club will be imparted with basic Information Technology knowledge on
+coding and photography skills. Members are able to transfer their learning
+as they embark on the hands-on experiences in creating apps and taking
+photographs. The club also provides a platform for the members to employ
+creativity and adopt alternative perspectives as they make progress in
+their learning.</p>
+<p>In the recent years, the club has taken part in various inter-school competitions
+for greater exposure and learning for its members. These enriching experiential
+learning opportunities will continue to sustain the interest in students’
+learning as they progress beyond the classrooms.</p>
+<h3>Key Programmes</h3>
+<p><strong>Primary 3:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Announcement (PA) System</p>
+</li>
+<li>
+<p>Apple APps by IMDA</p>
+</li>
+<li>
+<p>Photography</p>
+</li>
+</ul>
+<p><strong>Primary 4 &amp; Primary 5:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Video Editing</p>
+</li>
+<li>
+<p>Artificial Intelligence by IMDA</p>
+</li>
+<li>
+<p>Makey-Makey</p>
+</li>
+</ul>
+<p><strong>Primary 6:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scratch - Audio EBook</p>
+</li>
+<li>
+<p>Video Editing</p>
+</li>
+</ul>
+<h3>Achievements</h3>
+<p><strong>Achievements since 2015:</strong>
+</p>
+<p><strong>2015 – Hackathon</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>KCS Team 1: Judges Award</p>
+</li>
+<li>
+<p>KCS Team 2: Third Prize</p>
+</li>
+</ul>
+<p><strong>2016 – National Photography Festival for Primary Schools</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Special Mention Award</p>
+</li>
+</ul>
+<p><strong>2017 – 6th&nbsp;National Young Shutterbugs</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>KCS Team 1: Special Mention Award for Essence Snapshots</p>
+</li>
+<li>
+<p>KCS Team 2: First Prize for Arrangement Snapshots</p>
+</li>
+</ul>
+<p><strong>2018- The 4th National Coding Competition (2018)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>KCS Team: Silver Award</p>
+</li>
+</ul>
+<h1>Teachers-in-Charge</h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Training Day &amp; Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Magdeline Lien (IC)</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Friday
+<br>1.00 p.m. – 3.00 p.m.</p>
+</td>
+<td rowspan="2" colspan="1">
+<p>Computer Lab 1, 2 &amp; 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Zhang Li (2IC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nadiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Stanley Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

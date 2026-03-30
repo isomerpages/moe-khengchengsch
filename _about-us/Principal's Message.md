@@ -2,16 +2,33 @@
 title: Principal's Message
 permalink: /about-us/PrincipalMessage/
 description: ""
+variant: tiptap
 ---
-# Principal's Message
-
-With many years of rich history, it is an honour to be able to serve as a Principal in Kheng Cheng School. From the moment I stepped in to the school, warmth and care filled the air. As I got to know the students, staff, parents, SMC, alumni and other stakeholders better, it became clear that the reason for this feeling was a common belief we all share: Every child wants to learn and can learn when given the right environment.
-
-It is our duty as educators to work alongside parents and other stakeholders to maximise the potential of every child and embrace the diversity that they bring to the classroom. Our goal is to create an inclusive learning environment where each child can bring forth the best versions of themselves daily.  
-
-In recent years, change has become a constant. We have been adaptable and nimble in embracing the ever-changing landscape, both in education and globally. One thing that has remained over the years is our school’s vision – A Dynamic Community of Compassionate Leaders and Critical Thinkers._ To prepare our students in KCS to be future-ready, we must imbue in our students timeless values that will carry them through uncertainties as they ride the waves of change. Together, we will inculcate _kindness in heart_, _courage to stand_, _sincerity of might_ and _diligence of hand_.
-
-As we build a community around each child, the staff at KCS strives to provide a nurturing and stimulating environment to ignite the joy of learning. Through a plethora of school-based activities to allow our students the time and space to explore their passion and interests, we hope to _empower them_ with knowledge, skills and values _to lead and impact the community, and be ready for the future_.
-
-Mdm Cheryl Tan  
-Principal
+<h3>About Us</h3>
+<p><strong><u>Principal’s Message</u></strong> 
+</p>
+<p>It is a deep honour to serve as Principal of Kheng Cheng School, a school
+with a rich heritage and a strong sense of community. From the moment I
+joined KCS, I experienced a culture of warmth and care, grounded in our
+shared belief that every child wants to learn and can learn when nurtured
+in the right environment.</p>
+<p>Guided by our mission to nurture a culture of learning and empower every
+child to lead and impact the community, we work in partnership with parents
+and stakeholders to bring out the best in every child. We are committed
+to creating an inclusive and supportive environment where each student
+can grow, discover their strengths, and become the best version of themselves.</p>
+<p>In a rapidly changing world, our refreshed vision, A Community of Compassionate
+Leaders and Innovators, anchors our efforts to develop students who think
+deeply, act with empathy, and create meaningful change. Anchored by our
+values of kindness in heart, courage to stand, sincerity of might, and
+diligence of hand, together with our motto, <strong>Uplift and Uphold</strong>,
+guide us in shaping both character and competence.</p>
+<p>At KCS, we strive to ignite the joy of learning through meaningful experiences
+and diverse opportunities, equipping our students with the knowledge, skills,
+and dispositions to lead and serve.</p>
+<p>As we celebrate 99 years of uplifting lives this year, we look forward
+with anticipation to our 100th anniversary—honouring our journey and stepping
+boldly into the future together.</p>
+<p></p>
+<p>Mdm Cheryl Tan
+<br>Principal</p>

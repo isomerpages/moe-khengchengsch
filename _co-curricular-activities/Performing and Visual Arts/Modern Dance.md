@@ -116,7 +116,7 @@ workshop</p>
 <td rowspan="1" colspan="1">
 <p>Miss Choo Wei Ting (IC)</p>
 </td>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p>
 <br>
 <br>
@@ -134,7 +134,7 @@ workshop</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Mano
+<p>Mrs Mano Zuraidah
 <br>
 </p>
 </td>
@@ -146,7 +146,10 @@ workshop</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vince Ho</p>
+<p>Renuka Simon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

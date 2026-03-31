@@ -4,7 +4,6 @@ permalink: /about-us/our-kcs-story/
 description: ""
 variant: tiptap
 ---
-<h2><u>Our KCS Story</u></h2>
 <h3>Our Story</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H-S_KlnLiGA?si=ZGKpeOPPvT0R-kdM"></iframe>

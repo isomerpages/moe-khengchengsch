@@ -19,6 +19,7 @@ variant: tiptap
 <h3>Our Mission</h3>
 <p>To Nurture a Culture of Learning and Empower Every Child to&nbsp;Lead
 and Impact the Community.</p>
+<h3>Our Values</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Values/KCS_values_2025__4_.jpg">
 </div>
@@ -138,11 +139,9 @@ who make a meaningful impact on their community and beyond.</p>
 <p>Cooperate, share and care for others</p>
 </li>
 <li>
-<p>Communicate empathetically and collaborate effectively to achieve shared</p>
+<p>Communicate empathetically and collaborate effectively to achieve shared
+goals</p>
 </li>
-</ul>
-<p>goals</p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Think creatively and critically to create constructive solutions</p>
 </li>

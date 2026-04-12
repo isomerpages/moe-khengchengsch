@@ -43,12 +43,9 @@ sections:
       description: Celebrating 99 years of heritage and heart, we uplift and uphold
         one another as we journey with pride towards 100 years strong.
   - infopic:
-      title: National Chinese Challenge 2025
+      title: We welcome our new Kheng Cheng School family member, Carey!
       id: infopic
-      description: Our Students Reach the Finals!
-      button: Click here
-      url: https://www.khengcheng.moe.edu.sg/national-chinese-challenge-2025/
-      image: /images/General Images/LianHe_paper.jpg
+      image: /images/General Images/KHENG_CHENG_SCHOOL_Carey_2.jpg
       alt: Image alt text
   - resources:
       subtitle: Latest Announcements

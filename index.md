@@ -26,6 +26,18 @@ sections:
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
   - infopic:
+      title: We welcome our new Kheng Cheng School family member, Carey!
+      id: infopic
+      image: /images/General Images/KHENG_CHENG_SCHOOL_Carey_2.jpg
+      alt: Image alt text
+  - infopic:
+      id: infopic
+      image: /images/General Images/99_Founders_Day_Poster.jpg
+      alt: KCS 99
+      title: KHENG CHENG SCHOOL TURNS 99!
+      description: Celebrating 99 years of heritage and heart, we uplift and uphold
+        one another as we journey with pride towards 100 years strong.
+  - infopic:
       title: Call for Artefacts & Stories
       id: infopic
       description: KCS is celebrating her 100th anniversary in 2027 and we are working
@@ -35,18 +47,6 @@ sections:
       alt: Image alt text
       image: /images/General Images/CFA01.png
       url: https://www.khengcheng.moe.edu.sg/call-for-artefacts-stories/
-  - infopic:
-      id: infopic
-      image: /images/General Images/99_Founders_Day_Poster.jpg
-      alt: KCS 99
-      title: KHENG CHENG SCHOOL TURNS 99!
-      description: Celebrating 99 years of heritage and heart, we uplift and uphold
-        one another as we journey with pride towards 100 years strong.
-  - infopic:
-      title: We welcome our new Kheng Cheng School family member, Carey!
-      id: infopic
-      image: /images/General Images/KHENG_CHENG_SCHOOL_Carey_2.jpg
-      alt: Image alt text
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

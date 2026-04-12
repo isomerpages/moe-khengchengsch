@@ -164,6 +164,9 @@ goals</p>
 <p>Be civic-minded and care for the environment</p>
 </li>
 </ul>
+<h3>Our Mascot</h3>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/General Images/KHENG_CHENG_SCHOOL_png.png">
+</div>
 <p></p>

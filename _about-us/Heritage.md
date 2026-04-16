@@ -45,3 +45,7 @@ name continues to inspire us till today.</p>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/General Images/KCS_website_building.jpg">
+</div>
+<p></p>

@@ -2,9 +2,10 @@ collections:
   school-events:
     output: true
     order:
-      - News/Open House 2026.md
-      - News/2025 National Sport Games.md
       - News/.keep
+      - News/Open House 2026.md
+      - News/2026 Kestrel Club Scouts FCSA.md
+      - News/2025 National Sport Games.md
       - News/National Chinese Challenge 2025.md
       - News/P5 Camp 2025.md
       - News/Founder's Day 2025.md
@@ -20,7 +21,3 @@ collections:
       - "News/Instrumental Music Competition: Digital Concert Hall.md"
       - News/Upcycling Innovators.md
       - News/Art and Crafts Club's Tour to Dragon Kiln.md
-      - News/Total Defence  Day (TDD) Commemoration.md
-      - News/Our Art Space.md
-      - News/Opening Ceremony of Art Gallery 3 Our Art Space.md
-      - News/P4 Art Museum based Learning Family Education 2023.md

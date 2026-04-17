@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Uniform Groups
 variant: tiptap
 ---
-<h1>Vision</h1>
+<h3>Vision</h3>
 <p>Better Scouting for more young People</p>
-<h1>Mission</h1>
+<h3>Mission</h3>
 <p>To contribute to the education of young people, through a value system
 based on the Scout Promise and Law and to help build a better world where
 people are self-fulfilled as individuals and play a constructive role in
 society.</p>
-<h1>Objectives</h1>
+<h3>Objectives</h3>
 <p>KCS officially started the Kheng Cheng Kestrel Cub Scout Unit in January
 2016, marking a new chapter in the history of KCS.
 <br>
@@ -26,7 +26,7 @@ a myriad of activities which are fruitful, productive and meaningful. We
 aim to equip every Cub Scout to face the challenges of the future through
 fun and action, Scouts are given many opportunities to lead, work in a
 team and serve others.</p>
-<h1>Approach</h1>
+<h3>Approach</h3>
 <p>The objective of the Cub Scout program is to provide a group environment
 which is intellectually stimulating, physically vital and directed towards
 satisfying the child’s basic need to face and overcome challenges.
@@ -60,7 +60,7 @@ the following terms:</p>
 <br>A Scout makes friends, establishes and maintains harmonious relations
 <br>A Scout is disciplined and considerate
 <br>A Scout has courage in all difficulties</p>
-<h1>Key Programmes</h1>
+<h3>Key Programmes</h3>
 <p>Our Key Activities include:</p>
 <ul>
 <li>
@@ -85,7 +85,7 @@ the following terms:</p>
 <p>The Cub Scouts will also aim to earn a series of badges, which give them
 a knowledge of basic Scouting skills and mark achievements in areas such
 as campcraft, air and water activities, citizenship and improving the environment.</p>
-<h1>Organisation Chart</h1>
+<h3>Organisation Chart</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,6 +151,6 @@ as campcraft, air and water activities, citizenship and improving the environmen
 </table>
 </li>
 </ul>
-<h1>Photo Gallery</h1>
+<h3>Photo Gallery</h3>
 <p><a href="https://drive.google.com/drive/folders/1bMddWve_o_pTtk2nXKhylmBeXBxr5OeL?usp=sharing" rel="noopener noreferrer" target="_blank">Click Here to view Photo Gallery</a>
 </p>

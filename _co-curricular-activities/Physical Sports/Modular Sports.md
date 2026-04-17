@@ -16,7 +16,7 @@ of a specific sport.</p>
 <h4>Approach</h4>
 <p>Through different sports activities and students will inculcate KCS’s
 core values of kindness, courage, sincerity and diligence.</p>
-<h3>Key Programmes</h3>
+<h4>Key Programmes</h4>
 <p>Sports modules include:</p>
 <p>Tennis</p>
 <p>Soccer</p>

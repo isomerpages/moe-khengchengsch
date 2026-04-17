@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - News/2026 Kestrel Club Scouts FCSA.md
       - News/Open House 2026.md
       - News/2025 National Sport Games.md
       - News/.keep

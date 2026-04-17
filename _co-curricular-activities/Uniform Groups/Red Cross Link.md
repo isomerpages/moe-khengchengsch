@@ -5,18 +5,18 @@ description: ""
 third_nav_title: Uniform Groups
 variant: tiptap
 ---
-<h1>Vision</h1>
+<h3>Vision</h3>
 <p>To realise Singapore Red Cross as a leading and distinctive humanitarian
 organisation that brings people and institutions together in aid of the
 vulnerable.</p>
-<h1>Mission</h1>
+<h3>Mission</h3>
 <p>Singapore Red Cross is dedicated to relieving human suffering, protecting
 human lives and dignity and responding to emergencies.</p>
-<h1>Objectives</h1>
+<h3>Objectives</h3>
 <p>As part of the Singapore Red Cross Youth, we seek to promote and encourage
 participation of our members in the work of Red Cross and to instil in
 them a sense of social responsibility towards the less fortunate.</p>
-<h1>Approach</h1>
+<h3>Approach</h3>
 <p>Besides the teaching of core modules such as Basic First Aid, Basic Red
 Cross knowledge and Red Cross Service, the other activities carried out
 during our CCA meetings include basic foot drills, life skills, health
@@ -29,7 +29,7 @@ One Another’.
 <br>The first aid skills imparted progress according to the readiness of the
 members. Members showcase basic first-aid and bandaging skills during special
 occasions such as Total Defence Day.</p>
-<h1>Key Programmes</h1>
+<h3>Key Programmes</h3>
 <ul>
 <li>
 <p>Linkamania</p>

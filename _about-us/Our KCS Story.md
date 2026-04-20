@@ -115,7 +115,7 @@ who make a meaningful impact on their community and beyond.</p>
 <p>Maintain a positive outlook and approach setbacks with resilience</p>
 </li>
 </ul>
-<p><strong>Adapter Learner</strong>
+<p><strong>Adaptable Learner</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

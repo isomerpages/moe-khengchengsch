@@ -5,64 +5,53 @@ description: ""
 third_nav_title: Uniform Groups
 variant: tiptap
 ---
-<h3>Vision</h3>
+<h4>Vision</h4>
 <p>Better Scouting for more young People</p>
-<h3>Mission</h3>
+<h4>Mission</h4>
 <p>To contribute to the education of young people, through a value system
 based on the Scout Promise and Law and to help build a better world where
 people are self-fulfilled as individuals and play a constructive role in
 society.</p>
-<h3>Objectives</h3>
-<p>KCS officially started the Kheng Cheng Kestrel Cub Scout Unit in January
-2016, marking a new chapter in the history of KCS.
-<br>
-<br>Scouting inculcates sound values and life skills that will develop a person
-holistically. In Scouting, there is great emphasis to duty and service.
-We encourage our young Cub Scouts to do a good turn each day and through
-service, keeping in mind the Scout Promise and Law.
-<br>
-<br>We believe in providing our Cub Scouts with a quality programme through
-a myriad of activities which are fruitful, productive and meaningful. We
-aim to equip every Cub Scout to face the challenges of the future through
-fun and action, Scouts are given many opportunities to lead, work in a
-team and serve others.</p>
-<h3>Approach</h3>
-<p>The objective of the Cub Scout program is to provide a group environment
-which is intellectually stimulating, physically vital and directed towards
-satisfying the child’s basic need to face and overcome challenges.
-<br>
-<br>The Cub Scout Program is undergrided by the Scouting Method. The Scouting
-Method encourages the holistic physical, mental, spiritual and social development
-with a strong emphasis on duty to country and helping other people. It
-is based on a value system grounded on spiritual, social and personal principles
-as expressed in the Promise and Law.
-<br>
-<br>All members of the Scout Movement are required to adhere to a Scout Promise
-and a Law reflecting, in language appropriate to the culture and civilization
-of each National Scout Organization and approved by the World Organization,
-the principles of Duty to God, Duty to others and Duty to self, and inspired
-by the Promise and Law conceived by the Founder of the Scout Movement in
-the following terms:</p>
-<p><strong>THE SCOUT PROMISE</strong>
-<br>On my Honour, I promise that I will do my best
-<br>
-<br>To do my duty to God and to the Republic of Singapore
-<br>
-<br>To help other people and
-<br>
-<br>To keep the Scout Law
-<br>
-<br>
-</p>
-<p><strong>THE SCOUT LAW</strong>
-<br>A Scout is to be trusted
-<br>A Scout is loyal
-<br>A Scout makes friends, establishes and maintains harmonious relations
-<br>A Scout is disciplined and considerate
-<br>A Scout has courage in all difficulties</p>
-<h3>Key Programmes</h3>
+<h4>Objectives</h4>
+<p>Established in January 2016, the Kheng Cheng Kestrel Cub Scout Unit reflects
+Kheng Cheng School’s commitment to nurturing confident, values-driven young
+individuals. Through Scouting, our Cub Scouts develop strong character,
+a sense of responsibility, and a heart for service. Guided by the Scout
+Promise and Law, they learn to practise kindness daily and make meaningful
+contributions to others.</p>
+<p>Our thoughtfully designed programme offers a rich variety of engaging
+and purposeful activities that build resilience, leadership, and teamwork.
+In a fun and supportive environment, every Cub Scout is empowered to grow,
+lead, and thrive—ready to meet the challenges of the future with confidence
+and integrity.</p>
+<h4>Approach</h4>
+<p>Guided by the Scouting Method, our Cub Scout programme brings our objectives
+to life through engaging, hands-on experiences that nurture each child’s
+physical, mental, social, and moral development.</p>
+<p>In a supportive and structured environment, Cub Scouts are encouraged
+to explore, take on challenges, and grow in confidence and resilience.
+Central to this journey, the Scout Movement, is a strong values framework
+anchored in the Scout Promise and Law, which shapes character, responsibility,
+and a commitment to serving others.</p>
+<h4>The Scout Promise</h4>
+<p>On my Honour, I promise that I will do my best</p>
+<p>To do my duty to God and to the Republic of Singapore</p>
+<p>To help other people and</p>
+<p>To keep the Scout Law</p>
+<h4>The Scout Law</h4>
+<p>A Scout is to be trusted</p>
+<p>A Scout is loyal</p>
+<p>A Scout makes friends, establishes and maintains harmonious relations</p>
+<p>A Scout is disciplined and considerate</p>
+<p>A Scout has courage in all difficulties</p>
+<p>Through this purposeful approach, our Cub Scouts develop integrity, leadership,
+and a</p>
+<p>lifelong spirit of service—growing into confident individuals ready to
+contribute</p>
+<p>meaningfully to society.</p>
+<h4>Key Programmes</h4>
 <p>Our Key Activities include:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Outdoor Campfire, Hiking and Cooking</p>
 </li>
@@ -73,84 +62,38 @@ the following terms:</p>
 <p>Outdoor Learning Journeys</p>
 </li>
 <li>
-<p>Jobweek</p>
+<p>Job Week</p>
 </li>
 <li>
 <p>Progress badges</p>
 </li>
 <li>
-<p>Celebration of the World Scout Day
-<br>
-</p>
-<p>The Cub Scouts will also aim to earn a series of badges, which give them
-a knowledge of basic Scouting skills and mark achievements in areas such
-as campcraft, air and water activities, citizenship and improving the environment.</p>
-<h3>Organisation Chart</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Teachers-in-Charge</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Training Day &amp; Time</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yeo Li Ching (IC)</p>
-</td>
-<td rowspan="5" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>Fridays
-<br>1pm – 3pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Yong Siong Lite (2IC)
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Alvin Puah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sarvian Kishore</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liu Diqin
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jeremy Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>Celebration of the World Scout Day</p>
 </li>
 </ul>
-<h3>Photo Gallery</h3>
-<p><a href="https://drive.google.com/drive/folders/1bMddWve_o_pTtk2nXKhylmBeXBxr5OeL?usp=sharing" rel="noopener noreferrer" target="_blank">Click Here to view Photo Gallery</a>
-</p>
+<p>Cub Scouts work towards earning a range of badges that build both confidence
+and capability. Through these achievements, they develop essential Scouting
+skills while exploring areas such as campcraft, air and water activities,
+citizenship, and environmental stewardship. Each badge represents meaningful
+progress, encouraging personal growth, teamwork, and a strong sense of
+responsibility—qualities valued by both families and the wider community.</p>
+<h4>Awards</h4>
+<p>We would like to share a piece of good news with all of you. Kheng Cheng
+School - Kestrel Cub Scouts has been awarded the Frank Cooper Sands Award
+(FCSA) Year of Assessment 2025 under the Preliminary Results Release. Created
+in 1995, FCSA is awarded annually to sectional Scout units for unit excellence
+to honour the father of Scouting in Singapore. We would like to take this
+opportunity to thank our school leaders for their guidance and support
+over the years as well as all of you for your continued support towards
+our scouting activities and cub scouts.</p>
+<p>We are pleased to share that the Kheng Cheng School – Kestrel Cub Scouts
+has been awarded the Frank Cooper Sands Award (FCSA) for the Year of Assessment
+2025</p>
+<p>(Preliminary Results). Established in 1995, the FCSA is presented annually
+to recognize outstanding unit excellence and to honor the father of Scouting
+in Singapore.</p>
+<p>We extend our sincere appreciation to our school leaders and teachers
+for their steadfast guidance and support, and to parents for your continued
+encouragement of our Cub Scouts programme.</p>
+<p></p>
+<p></p>

@@ -45,10 +45,8 @@ and a commitment to serving others.</p>
 <p>A Scout is disciplined and considerate</p>
 <p>A Scout has courage in all difficulties</p>
 <p>Through this purposeful approach, our Cub Scouts develop integrity, leadership,
-and a</p>
-<p>lifelong spirit of service—growing into confident individuals ready to
-contribute</p>
-<p>meaningfully to society.</p>
+and a lifelong spirit of service—growing into confident individuals ready
+to contribute meaningfully to society.</p>
 <h4>Key Programmes</h4>
 <p>Our Key Activities include:</p>
 <ul data-tight="true" class="tight">
@@ -71,12 +69,26 @@ contribute</p>
 <p>Celebration of the World Scout Day</p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/T2 and A/Kestral_Club_7.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/T2 and A/Kestral_Club_6.jpg">
+</div>
 <p>Cub Scouts work towards earning a range of badges that build both confidence
 and capability. Through these achievements, they develop essential Scouting
 skills while exploring areas such as campcraft, air and water activities,
 citizenship, and environmental stewardship. Each badge represents meaningful
 progress, encouraging personal growth, teamwork, and a strong sense of
 responsibility—qualities valued by both families and the wider community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/T2 and A/Kestral_Club_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/T2 and A/Kestral_Club_2.jpg">
+</div>
 <h4>Awards</h4>
 <p>We would like to share a piece of good news with all of you. Kheng Cheng
 School - Kestrel Cub Scouts has been awarded the Frank Cooper Sands Award

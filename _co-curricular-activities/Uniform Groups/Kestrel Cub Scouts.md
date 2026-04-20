@@ -96,4 +96,78 @@ in Singapore.</p>
 for their steadfast guidance and support, and to parents for your continued
 encouragement of our Cub Scouts programme.</p>
 <p></p>
+<h4>Organisation Chart</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Training Day &amp; Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yeo Li Ching (IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yong Siong Lite (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fridays</p>
+<p>1pm – 3pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Alvin Puah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sarvian Kishore</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Liu Diqin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jeremy Teo (Semester 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

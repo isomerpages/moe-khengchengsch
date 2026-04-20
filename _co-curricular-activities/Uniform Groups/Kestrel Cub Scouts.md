@@ -90,14 +90,6 @@ responsibility—qualities valued by both families and the wider community.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/T2 and A/Kestral_Club_2.jpg">
 </div>
 <h4>Awards</h4>
-<p>We would like to share a piece of good news with all of you. Kheng Cheng
-School - Kestrel Cub Scouts has been awarded the Frank Cooper Sands Award
-(FCSA) Year of Assessment 2025 under the Preliminary Results Release. Created
-in 1995, FCSA is awarded annually to sectional Scout units for unit excellence
-to honour the father of Scouting in Singapore. We would like to take this
-opportunity to thank our school leaders for their guidance and support
-over the years as well as all of you for your continued support towards
-our scouting activities and cub scouts.</p>
 <p>We are pleased to share that the Kheng Cheng School – Kestrel Cub Scouts
 has been awarded the Frank Cooper Sands Award (FCSA) for the Year of Assessment
 2025</p>
@@ -130,55 +122,37 @@ encouragement of our Cub Scouts programme.</p>
 <td rowspan="1" colspan="1">
 <p>Yeo Li Ching (IC)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Yong Siong Lite (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="7" colspan="1">
 <p>Fridays</p>
 <p>1pm – 3pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alvin Puah</p>
+<p>Tan Yong Siong Lite (2IC)</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Alvin Puah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sarvian Kishore</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Liu Diqin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jeremy Teo (Semester 2)</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>

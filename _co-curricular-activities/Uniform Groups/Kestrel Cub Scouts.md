@@ -108,6 +108,9 @@ in Singapore.</p>
 for their steadfast guidance and support, and to parents for your continued
 encouragement of our Cub Scouts programme.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/T2 and A/Screenshot_2026_04_20_132823.png">
+</div>
 <h4>Organisation Chart</h4>
 <table style="minWidth: 50px">
 <colgroup>

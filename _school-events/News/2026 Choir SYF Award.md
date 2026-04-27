@@ -25,3 +25,7 @@ of their well-deserved accomplishment.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Choir/KCS_Choir__3_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Choir/KCS_Choir__2_.jpg">
+</div>
+<p></p>

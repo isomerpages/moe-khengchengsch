@@ -2,6 +2,7 @@ collections:
   school-events:
     output: true
     order:
+      - News/2026 Choir SYF Award.md
       - News/.keep
       - News/Open House 2026.md
       - News/2026 Kestrel Club Scouts FCSA.md
@@ -15,7 +16,6 @@ collections:
       - News/2024 National School Games.md
       - News/2024 Red Cross Day.md
       - News/2024 RCY First Aid Championships.md
-      - News/64th National Inter School Chess Championship 2023.md
       - News/Music Exchange.md
       - News/Day Out @ Esplande.md
       - "News/Instrumental Music Competition: Digital Concert Hall.md"

@@ -13,6 +13,10 @@ perseverance of our dancers, who have committed themselves wholeheartedly
 over the past 10 months in preparation for this performance. We would like
 to commend the following students for their hard work and resilience throughout
 this journey.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/Modern_Dance_CCA_SYF_Photo.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

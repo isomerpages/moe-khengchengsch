@@ -5,4 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: News
 ---
-<p>Under construction</p>
+<p>To register please click here: <a href="https://tinyurl.com/kcsopen26" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/kcsopen26</a>
+</p>
+<p></p>

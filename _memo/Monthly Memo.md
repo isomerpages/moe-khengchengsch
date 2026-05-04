@@ -13,6 +13,8 @@ variant: tiptap
 </p>
 <p><a href="/files/Monthly Memo/April_2026_Memo.pdf" rel="noopener nofollow" target="_blank">April 2026</a>
 </p>
+<p><a href="/files/Monthly Memo/May_2026_Memo.pdf" rel="noopener nofollow" target="_blank">May 2026</a>
+</p>
 <h3>YEAR 2025</h3>
 <p><a href="/files/Monthly%20Memo/January_2025_Memo.pdf" rel="noopener noreferrer nofollow" target="_blank">January 2025</a>
 </p>

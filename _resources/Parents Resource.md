@@ -4,6 +4,15 @@ permalink: /parentsresource/
 description: ""
 variant: tiptap
 ---
+<h4>Refreshed Approach to Support Primary Students with Academic Strengths and Talents</h4>
+<p>Dear Parents,&nbsp;</p>
+<p>Thank you for joining us at the briefing on 25 May 2026, 12.10–12.40 p.m.,
+on the Refreshed Approach to Support Primary Students with Academic Strengths
+and Talents, for the 2026 P3 and future cohorts.&nbsp;</p>
+<p><u>Below are the slides for your reference.</u>
+</p>
+<p><a href="/files/The_Refreshed_Approach_Parent_Engagement_2026_for_sharing.pdf" rel="noopener nofollow" target="_blank">Briefing slides</a>
+</p>
 <h4>Principal Parents Briefing 2026</h4>
 <p>Dear Parents, please click on the link below to download the briefing
 slides.</p>

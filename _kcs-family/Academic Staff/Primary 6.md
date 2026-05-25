@@ -8,7 +8,7 @@ variant: markdown
 | Class | Form Teacher |  |
 | -------- | -------- | -------- |
 | P6-1     | Sophia Loo     |      |
-|      |Abdul Hakim     |      |
+|      |Mdm Aslinda     |      |
 | P6-2     | Santi Lin     |    |
 |      | Alisa Chua     |      |
 | P6-3     | Koh Yuan Ting    |      |

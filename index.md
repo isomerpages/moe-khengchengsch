@@ -25,6 +25,12 @@ sections:
           url: https://www.instagram.com/kheng.cheng.official/
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
+  - infobar:
+      title: Refreshed Support (Academic Strengths & Talents)
+      id: infobar
+      description: Click below to access the briefing slides
+      button: Briefing Slides
+      url: https://www.khengcheng.moe.edu.sg/parentsresource/
   - infopic:
       title: We welcome our new Kheng Cheng School family member, Carey!
       id: infopic

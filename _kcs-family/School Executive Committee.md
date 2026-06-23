@@ -92,10 +92,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/EdTech &amp; Science (Covering)</p>
+<p>HOD/EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nilam Shafia</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jennifer Pang</p>
 </td>
 </tr>
 <tr>

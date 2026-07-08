@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <h3>2026</h3>
 <p></p>
-<h4><a href="https://kcs.aflip.in/4643b3f402.html" rel="noopener nofollow" target="_blank">Newsletter 2026 Issue 2</a></h4>
-<h4><a href="https://kcs.aflip.in/bffe74bfc2.html" rel="noopener nofollow" target="_blank">Newsletter 2026 Issue 1</a></h4>
+<h4><a href="https://kcs.aflip.in/4643b3f402.html" rel="noopener nofollow" target="_blank">Newsletter 2026 Issue 1</a></h4>
 <p></p>
 <p></p>
 <h3>2025</h3>

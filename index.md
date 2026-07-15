@@ -25,6 +25,14 @@ sections:
           url: https://www.instagram.com/kheng.cheng.official/
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
+  - infopic:
+      title: HBL Resources
+      id: infopic
+      description: Home based learning
+      button: Click here
+      url: https://sites.google.com/moe.edu.sg/kcsfhbl/home
+      image: /images/hbl.png
+      alt: Image alt text
   - infobar:
       title: Refreshed Support (Academic Strengths & Talents)
       id: infobar
@@ -43,16 +51,6 @@ sections:
       title: KHENG CHENG SCHOOL TURNS 99!
       description: Celebrating 99 years of heritage and heart, we uplift and uphold
         one another as we journey with pride towards 100 years strong.
-  - infopic:
-      title: Call for Artefacts & Stories
-      id: infopic
-      description: KCS is celebrating her 100th anniversary in 2027 and we are working
-        with My Community to co-design and co-curate the school’s Heritage
-        Gallery with you!
-      button: click here to submit
-      alt: Image alt text
-      image: /images/General Images/CFA01.png
-      url: https://www.khengcheng.moe.edu.sg/call-for-artefacts-stories/
   - resources:
       subtitle: Latest Announcements
       button: More Announcements

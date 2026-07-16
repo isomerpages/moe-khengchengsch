@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Performing and Visual Arts
 variant: tiptap
 ---
-<h2>Vision</h2>
+<h3>Vision</h3>
 <p>An Active Appreciator and Innovator of the Arts.</p>
-<h2>Mission</h2>
+<h3>Mission</h3>
 <p>Empowering every child with the skills and knowledge to explore and experiment
 in Music.</p>
-<h2>Objectives &amp; Approach</h2>
+<h3>Objectives &amp; Approach</h3>
 <p>The KCS Chinese Orchestra aims to nurture the love of music in its members.
 Through regular combine and sectional practice sessions, members are given
 the opportunity to work and learn with each other to gain important life
@@ -41,15 +41,9 @@ skills such as perseverance, responsibility, and teamwork.</p>
 <br>
 </p>
 </td>
-<td rowspan="6" colspan="1">
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>Friday
-<br>1pm – 3pm</p>
+<td rowspan="7" colspan="1">
+<p>Tuesday: 2-5pm</p>
+<p>Friday: 1-3pm</p>
 </td>
 </tr>
 <tr>
@@ -83,25 +77,18 @@ skills such as perseverance, responsibility, and teamwork.</p>
 <td rowspan="1" colspan="1">
 <p>Lim Meixuan</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
 <h3>Achievements</h3>
+<p>2026 - Distinction (Full Orchestra)</p>
+<p>- Accomplishment (Sectional Ensemble)</p>
+<p>2024 - Accomplishment</p>
+<p>2022 - Participation (Non-competitive grade awarded to all schools to
+ease back into performing after COVID-19)</p>
+<p>2018 - Distinction</p>
+<p>2016 - Distinction</p>
+<p>2014 - Distinction</p>
+<p>2012 - Gold</p>
+<p>2010 - Gold</p>
 <p></p>
-<p>The KCS Chinese Orchestra is delighted to share that we have achieved
-a <em>Distinction</em> for the Full Orchestra segment and an <em>Accomplishment</em> for
-the Percussion Ensemble segment at the SYF Arts Presentation 2026.&nbsp;</p>
-<p>We would like to thank everyone for your patience over the past few months
-- especially for bearing with the increased “soundtrack” from the Band
-Room during the mornings and recesses, as our students put in the extra
-hours of practice. Your kindness and support created the space they needed
-to grow and give their best. We are deeply grateful to the KCS family for
-your unwavering support, encouragement, and the many accommodations extended
-to us throughout this journey. Your understanding has meant a great deal
-to both our students and team.&nbsp;</p>
-<p>Thank you once again for journeying alongside us and for being such an
-integral part of our students’ growth. We are truly grateful to celebrate
-this achievement together with all of you.</p>

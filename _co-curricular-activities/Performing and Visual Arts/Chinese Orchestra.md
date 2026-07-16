@@ -16,8 +16,8 @@ Through regular combine and sectional practice sessions, members are given
 the opportunity to work and learn with each other to gain important life
 skills such as perseverance, responsibility, and teamwork.</p>
 <h3>Training Day and Time</h3>
-<p>Some Tuesdays: 2.oopm - 4.00pm
-<br>Fridays: 1.00pm - 4.30pm</p>
+<p>Some Tuesdays: 2pm - 5pm
+<br>Fridays: 1pm - 3pm</p>
 <h3>Organisation Chart</h3>
 <table style="minWidth: 50px">
 <colgroup>

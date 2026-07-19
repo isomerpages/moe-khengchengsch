@@ -25,14 +25,6 @@ sections:
           url: https://www.instagram.com/kheng.cheng.official/
       background: /images/Homepage/General_Office___Design_cut_3.png
       variant: center
-  - infopic:
-      title: HBL Resources
-      id: infopic
-      description: Home based learning
-      button: Click here
-      url: https://sites.google.com/moe.edu.sg/kcsfhbl/home
-      image: /images/hbl.png
-      alt: Image alt text
   - infobar:
       title: Refreshed Support (Academic Strengths & Talents)
       id: infobar

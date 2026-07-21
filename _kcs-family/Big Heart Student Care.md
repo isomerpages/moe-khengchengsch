@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/Big_Heart_Student_Care_Programmes__KC_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Kheng_Cheng_Info_BHKC.png">
 </div>
 <p><em>Our holistic programmes integrate Values &amp; Virtues, Love2Read, STEM It Up!, Health &amp; Fitness, ImagineArt and Global Citizen experiences, providing children with a well-rounded learning journey that nurtures character, curiosity, creativity and confidence in a caring and supportive environment.</em>&nbsp;</p>
 <p><strong>Operating Hours</strong>
@@ -35,10 +36,8 @@ Closure dates.</p>
 </ul>
 <p></p>
 <h4><strong>SCC CLOSURE DATES</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/KC__Centre_Closure_Dates_2025_conv_1.jpg">
-</div>
+<p><a href="/files/Centre_closure_2026.pdf" rel="noopener nofollow" target="_blank">Centre Closure 2026</a>
+</p>
 <h4></h4>
 <p><strong>Kindly scan our QR code to place your interest with us. You can browse through our e-brochure and watch our cooperate video for more details.</strong>
 </p>

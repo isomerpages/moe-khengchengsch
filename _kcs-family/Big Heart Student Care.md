@@ -4,48 +4,40 @@ permalink: /bhsc/
 description: ""
 variant: tiptap
 ---
-<p>Big Heart Student Care @ KCS aims to provide quality and affordable after-school
-care services for students, especially for those who can benefit from a
-structured and supportive environment in after-school care, and particularly
-where parents/caregivers are both working.</p>
-<p>With its vision, Inspiring Minds • Touching Hearts, our school-based student
-care centre supports the holistic development of its students through its
-partnership with the Ministry of Education and strong support from the
-four Self Help Groups, parents, schools and the community. The holistic
-programme is designed in collaboration with schools and other organisations
-to cater to the development of a student’s socio-emotional, intellectual,
-physical, recreational and creative needs, and to reinforce learning for
-students who need additional support.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/Big_Heart_Student_Care_Programmes__KC_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/General Images/Kheng_Cheng_Info_BHKC.png">
 </div>
-<p>&nbsp;</p>
-<p><strong><u>Centre Managers:</u></strong>
+<p><em>Our holistic programmes integrate Values &amp; Virtues, Love2Read, STEM It Up!, Health &amp; Fitness, ImagineArt and Global Citizen experiences, providing children with a well-rounded learning journey that nurtures character, curiosity, creativity and confidence in a caring and supportive environment.</em>&nbsp;</p>
+<p><strong>Operating Hours</strong>
 </p>
-<p>Noor Edleen Binte Rosli</p>
-<p>Siti Zulaikha Binte Mohamed Amin</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Term&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; School dismissal to 7pm</p>
+</li>
+<li>
+<p>School Holidays &nbsp; 7.30am to 7pm</p>
+</li>
+</ul>
+<p>Our Centre is closed on Saturdays, Sundays, Public holidays and Centre
+Closure dates.</p>
 <p>&nbsp;</p>
-<p><strong><u>Senior Student Care Officers:</u></strong>
+<p><strong>Contact</strong>
 </p>
-<p>Nur Amira Binte Idris</p>
-<p>Nor Ashikin Binte Mohamed Amin</p>
-<p>&nbsp;</p>
-<p><strong><u>Student Care Officers:</u></strong>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tel: 8522 5774 (Operating Hours)</p>
+</li>
+<li>
+<p>Email: <a href="mailto:khengcheng@shgstudentcare.com.sg" rel="noopener noreferrer nofollow" target="_blank">khengcheng@shgstudentcare.com.sg</a>
 </p>
-<p>Boon Zheng Hong (Bryan)</p>
-<p>Mas Ernie Binte Ani</p>
-<p>Nur Hidayu Binte Sharif</p>
-<p>Nur Irdarwiyah Binte Muhammad Nahar Irzaimi</p>
-<p>Nur Humairah Binte Abdullah</p>
-<p>Siti Nur Azleena Binte Razali</p>
-<p>Nur Arinah Bte Hanif</p>
+</li>
+</ul>
 <p></p>
 <h4><strong>SCC CLOSURE DATES</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Big Heart Student Care/KC__Centre_Closure_Dates_2025_conv_1.jpg">
-</div>
+<p><a href="/files/Centre_closure_2026.pdf" rel="noopener nofollow" target="_blank">Centre Closure 2026</a>
+</p>
 <h4></h4>
 <p><strong>Kindly scan our QR code to place your interest with us. You can browse through our e-brochure and watch our cooperate video for more details.</strong>
 </p>
